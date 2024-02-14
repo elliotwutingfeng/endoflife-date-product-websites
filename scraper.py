@@ -51,8 +51,6 @@ def extract_urls() -> set[str]:
     Returns:
         set[str]: Unique product URLs.
     """
-    url_column_names: list[str] = ["TE%sN528" % str(i + 1).zfill(2) for i in range(10)]
-
     try:
         res: requests.Response = requests.get(
             "https://endoflife.date/api/all.json", timeout=30
