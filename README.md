@@ -5,7 +5,7 @@
 
 [![LICENSE](https://img.shields.io/badge/LICENSE-BSD--3--CLAUSE-GREEN?style=for-the-badge)](LICENSE)
 [![scraper](https://img.shields.io/github/actions/workflow/status/elliotwutingfeng/endoflife-date-product-websites/scraper.yml?branch=main&label=SCRAPER&style=for-the-badge)](https://github.com/elliotwutingfeng/endoflife-date-product-websites/actions/workflows/scraper.yml)
-![Total Allowlist URLs](https://tokei-rs.onrender.com/b1/github/elliotwutingfeng/endoflife-date-product-websites?label=Total%20Allowlist%20URLS&style=for-the-badge)
+![Total Allowlist FQDNs](https://tokei-rs.onrender.com/b1/github/elliotwutingfeng/endoflife-date-product-websites?label=Total%20Allowlist%20FQDNs&style=for-the-badge)
 
 Machine-readable `.txt` allowlist of websites belonging to products listed by the [endoflife.date](https://endoflife.date) website, updated once a day.
 

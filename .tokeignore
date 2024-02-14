@@ -5,4 +5,4 @@ CODE_OF_CONDUCT.md
 renovate.json
 requirements.txt
 scraper.py
-urls-pihole.txt
+urls.txt
