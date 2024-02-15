@@ -1356,6 +1356,7 @@ https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/
 https://www.raspberrypi.com/products/raspberry-pi-3-model-b/
 https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
 https://www.raspberrypi.com/products/raspberry-pi-400-unit/
+https://www.raspberrypi.com/products/raspberry-pi-5/
 https://www.raspberrypi.com/products/raspberry-pi-pico/
 https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/
 https://www.raspberrypi.com/products/raspberry-pi-zero-w/
