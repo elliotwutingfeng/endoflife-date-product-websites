@@ -650,6 +650,11 @@ https://docs.oracle.com/en/database/oracle/oracle-database/18/whats-new.html
 https://docs.oracle.com/en/database/oracle/oracle-database/19/whats-new.html
 https://docs.oracle.com/en/database/oracle/oracle-database/21/whats-new.html
 https://docs.oracle.com/en/database/oracle/oracle-database/23/whats-new.html
+https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/eol/pan-os-60-release-notes.pdf
+https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/eol/pan-os-61-release-notes.pdf
+https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/eol/pan-os-70-release-notes.pdf
+https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/pan-os/7-1/pan-os-release-notes/pan-os-release-notes.pdf
+https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/pan-os/8-0/pan-os-release-notes/pan-os-release-notes.pdf
 https://docs.paloaltonetworks.com/globalprotect/5-1/globalprotect-app-release-notes
 https://docs.paloaltonetworks.com/globalprotect/5-2/globalprotect-app-release-notes/globalprotect-known-and-addressed-issues/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/6-0/globalprotect-app-release-notes
