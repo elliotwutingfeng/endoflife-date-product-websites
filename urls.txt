@@ -534,6 +534,9 @@ https://doc.samsungmobile.com/SM-S908E/VAU/doc.html
 https://doc.samsungmobile.com/SM-S911B/EUX/doc.html
 https://doc.samsungmobile.com/SM-S916B/EUX/doc.html
 https://doc.samsungmobile.com/SM-S918B/EUX/doc.html
+https://doc.samsungmobile.com/SM-S921U1/XAA/doc.html
+https://doc.samsungmobile.com/SM-S926U1/XAA/doc.html
+https://doc.samsungmobile.com/SM-S928U1/XAA/doc.html
 https://doc.samsungmobile.com/SM-T220/CHN/doc.html
 https://doc.samsungmobile.com/SM-T280/KOO/doc.html
 https://doc.samsungmobile.com/SM-T290/008916190830/mlt.html
@@ -1190,6 +1193,17 @@ https://web.archive.org/web/20230711113909/https://wiki.centos.org/Manuals/Relea
 https://web.archive.org/web/20230711113909/https://wiki.centos.org/Manuals/ReleaseNotes/CentOS7.2009
 https://web.archive.org/web/20230711113909/https://wiki.centos.org/Manuals/ReleaseNotes/CentOS8.2111
 https://wiki.mageia.org/en/Mageia___RELEASE_CYCLE___Release_Notes
+https://wikipedia.org/wiki/Nexus_10
+https://wikipedia.org/wiki/Nexus_4
+https://wikipedia.org/wiki/Nexus_5X
+https://wikipedia.org/wiki/Nexus_6
+https://wikipedia.org/wiki/Nexus_6P
+https://wikipedia.org/wiki/Nexus_7_(2012)
+https://wikipedia.org/wiki/Nexus_7_(2013)
+https://wikipedia.org/wiki/Nexus_9
+https://wikipedia.org/wiki/Nexus_One
+https://wikipedia.org/wiki/Nexus_Player
+https://wikipedia.org/wiki/Nexus_S
 https://www.amazon.com/Kindle10Notes
 https://www.amazon.com/Kindle11Notes
 https://www.amazon.com/Kindle8Notes

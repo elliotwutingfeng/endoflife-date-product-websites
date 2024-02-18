@@ -81,6 +81,7 @@ umbraco.com
 vmware.github.io
 web.archive.org
 wiki.mageia.org
+wikipedia.org
 www.amazon.com
 www.atlassian.com
 www.betaarchive.com
