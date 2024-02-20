@@ -279,6 +279,7 @@ https://confluence.atlassian.com/jirasoftware/jira-software-9-10-x-release-notes
 https://confluence.atlassian.com/jirasoftware/jira-software-9-11-x-release-notes-1272283668.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-12-x-release-notes-1319575972.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-13-x-release-notes-1319569020.html
+https://confluence.atlassian.com/jirasoftware/jira-software-9-14-x-release-notes-1346052575.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-2-x-release-notes-1163763245.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-3-x-release-notes-1168850570.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-4-x-release-notes-1178869757.html
@@ -621,7 +622,9 @@ https://docs.azul.com/core/release/july-2023/release-notes/release-notes
 https://docs.azul.com/core/release/october-2023/release-notes/release-notes
 https://docs.bell-sw.com/liberica-jdk/12.0.2b10/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/15.0.2b8/general/release-notes/
+https://docs.bell-sw.com/liberica-jdk/17.0.10b13/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/18.0.2b10/general/release-notes/
+https://docs.bell-sw.com/liberica-jdk/21.0.2b14/general/release-notes/
 https://docs.cfengine.com/docs/__RELEASE_CYCLE__/guide-latest-release-whatsnew-changelog-core.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-8.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2203-ltsr/whats-new/cumulative-update-3.html
