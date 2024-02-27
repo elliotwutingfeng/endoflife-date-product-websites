@@ -670,7 +670,7 @@ https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-11-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-12-known-and-addressed-issues/pan-os-10-1-12-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-8-known-and-addressed-issues/pan-os-10-2-8-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-3-known-and-addressed-issues/pan-os-11-0-3-h3-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-3-known-and-addressed-issues/pan-os-11-0-3-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-1-known-and-addressed-issues/pan-os-11-1-1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/8-1/pan-os-release-notes/pan-os-8-1-addressed-issues/pan-os-8-1-24-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-release-notes/pan-os-9-0-addressed-issues/pan-os-9-0-16-h3-addressed-issues
@@ -895,11 +895,11 @@ https://hop.apache.org/blog/2023/12/hop-2.7.0/
 https://laravel.com/docs/5.5/releases
 https://laravel.com/docs/5.8/releases
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019#azure-devops-server-201901-patch-16-release-date-november-14-2023
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019u1#azure-devops-server-2019-update-12-patch-6-release-date-november-14-2023
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019u1#azure-devops-server-2019-update-12-patch-7-release-date-february-13-2024
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020#azure-devops-server-2020-update-02-patch-6-release-date-november-14-2023
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-10-release-date-november-14-2023
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-12-release-date-february-13-2024
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022#azure-devops-server-2022-update-01-patch-5-release-date-november-14-2023
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-release-date-november-28-2023
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-2-release-date-february-13-2024
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1507-cb-cbb-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1511-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1607-end-of-servicing
