@@ -58,6 +58,7 @@ help.claris.com
 help.sonatype.com
 help.zerto.com
 hop.apache.org
+kde.org
 laravel.com
 learn.microsoft.com
 lineageos.org
