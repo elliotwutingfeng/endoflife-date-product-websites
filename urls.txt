@@ -704,9 +704,6 @@ https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-esxi-70u3o-release-note
 https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3p-release-notes/index.html
 https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-esxi-802-release-notes/index.html
 https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-vcenter-server-80u2a-release-notes/index.html
-https://docs.vmware.com/en/vCenter-Site-Recovery-Manager/5.5/rn/srm-releasenotes-5-5-1.html
-https://docs.vmware.com/en/vCenter-Site-Recovery-Manager/5.8/rn/srm-releasenotes-5-8-1.html
-https://docs.vmware.com/en/vCenter-Site-Recovery-Manager/6.0/rn/srm-releasenotes-6-0-0.html
 https://downloads.apache.org/httpd/Announcement2.4.html
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11166
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11167
@@ -1179,6 +1176,9 @@ https://web.archive.org/web/20150402080108/http://antix.mepis.org/index.php?titl
 https://web.archive.org/web/20160105095436/http://antix.mepis.org/index.php?title=Main_Page
 https://web.archive.org/web/20210415073632/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.3/
 https://web.archive.org/web/20210920170406/https://docs.vmware.com/en/Site-Recovery-Manager/8.2/rn/srm-releasenotes-8-2-1-2.html
+https://web.archive.org/web/20210924031516/https://docs.vmware.com/en/vCenter-Site-Recovery-Manager/6.0/rn/srm-releasenotes-6-0-0.html
+https://web.archive.org/web/20210925064144/https://docs.vmware.com/en/vCenter-Site-Recovery-Manager/5.5/rn/srm-releasenotes-5-5-1.html
+https://web.archive.org/web/20210925124006/https://docs.vmware.com/en/vCenter-Site-Recovery-Manager/5.8/rn/srm-releasenotes-5-8-1.html
 https://web.archive.org/web/20210926135719/https://docs.vmware.com/en/Site-Recovery-Manager/6.1/rn/srm-releasenotes-6-1-2.html
 https://web.archive.org/web/20211005130439/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.1/
 https://web.archive.org/web/20211005130439/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.2/
