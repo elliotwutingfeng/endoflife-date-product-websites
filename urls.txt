@@ -1358,7 +1358,8 @@ https://www.postfix.org/announcements/postfix-3.4.9.html
 https://www.postfix.org/announcements/postfix-3.5.10.html
 https://www.postfix.org/announcements/postfix-3.6.5.html
 https://www.postfix.org/announcements/postfix-3.7.5.html
-https://www.postfix.org/announcements/postfix-3.8.2.html
+https://www.postfix.org/announcements/postfix-3.8.6.html
+https://www.postfix.org/announcements/postfix-3.9.0.html
 https://www.puppet.com/docs/puppet/5.5/release_notes.html
 https://www.puppet.com/docs/puppet/6/release_notes_puppet.html#release_notes_puppet
 https://www.puppet.com/docs/puppet/7/release_notes_puppet.html#release_notes_puppet_x-7-25-0
