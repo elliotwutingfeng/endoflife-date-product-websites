@@ -618,9 +618,10 @@ https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI_DSS_Summary_of_
 https://docs.aws.amazon.com/glue/latest/dg/glue-version-support-policy.html
 https://docs.azul.com/core/release/august-2022-11.58-17.36-18.32/release-notes/release-notes
 https://docs.azul.com/core/release/january-2023/release-notes/release-notes
+https://docs.azul.com/core/release/january-2024/release-notes/release-notes
 https://docs.azul.com/core/release/july-2021/release-notes/release-notes
+https://docs.azul.com/core/release/july-2022/release-notes/release-notes
 https://docs.azul.com/core/release/july-2023/release-notes/release-notes
-https://docs.azul.com/core/release/october-2023/release-notes/release-notes
 https://docs.bell-sw.com/liberica-jdk/12.0.2b10/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/15.0.2b8/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/17.0.10b13/general/release-notes/
