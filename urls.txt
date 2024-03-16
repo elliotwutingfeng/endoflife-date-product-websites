@@ -949,7 +949,7 @@ https://learn.microsoft.com/previous-versions/dotnet/netframework-4.0/ms171868(v
 https://learn.microsoft.com/previous-versions/mt752379(v=vs.140)
 https://learn.microsoft.com/troubleshoot/developer/visualstudio/installation/visual-studio-2012-update-4
 https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2019/cumulativeupdate25
-https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate11
+https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate12
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2015-update4-vs#details-of-whats-new-in-team-foundation-server-2015-update-42-patch-8
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2017-update3#details-of-whats-new-in-team-foundation-server-2017-update-31-patch-15
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2018-update3#team-foundation-server-2018-update-32-patch-19
@@ -1116,9 +1116,9 @@ https://support.microsoft.com/en-us/topic/list-of-changes-and-fixed-issues-in-th
 https://support.microsoft.com/help/2716427
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002541
-https://support.microsoft.com/help/5002558
-https://support.microsoft.com/help/5002560
+https://support.microsoft.com/help/5002559
+https://support.microsoft.com/help/5002562
+https://support.microsoft.com/help/5002564
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
 https://support.microsoft.com/help/5021123
@@ -1126,8 +1126,8 @@ https://support.microsoft.com/help/5024296
 https://support.microsoft.com/help/5029185
 https://support.microsoft.com/help/5029186
 https://support.microsoft.com/help/5029376
-https://support.microsoft.com/help/5032147
-https://support.microsoft.com/help/5035606
+https://support.microsoft.com/help/5036386
+https://support.microsoft.com/help/5036401
 https://support.microsoft.com/help/941203
 https://support.microsoft.com/help/983811
 https://support.microsoft.com/surface/surface-2-specifications-7a5aaf4f-9641-2c69-3747-ea4e2a161aae
