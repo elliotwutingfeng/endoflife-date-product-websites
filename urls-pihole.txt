@@ -6,6 +6,7 @@ antixlinux.com
 apex.oracle.com
 archive.apache.org
 archive.docs.mulesoft.com
+archives-docs.centreon.com
 ark.intel.com
 aws.amazon.com
 azure.microsoft.com
@@ -28,10 +29,12 @@ developer.apple.com
 doc.opensuse.org
 doc.samsungmobile.com
 docs-cortex.paloaltonetworks.com
+docs-older.centreon.com
 docs-prv.pcisecuritystandards.org
 docs.aws.amazon.com
 docs.azul.com
 docs.bell-sw.com
+docs.centreon.com
 docs.cfengine.com
 docs.citrix.com
 docs.mulesoft.com

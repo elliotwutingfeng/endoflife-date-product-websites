@@ -14,6 +14,7 @@ https://activemq.apache.org/activemq-5012002-release
 https://activemq.apache.org/activemq-5013004-release
 https://activemq.apache.org/activemq-{{'__LATEST__'|replace:'.','0'}}-release
 https://activemq.apache.org/activemq-{{'__LATEST__'|replace:'.','00'}}-release
+https://activemq.apache.org/components/classic/download/classic-06-01-00
 https://almalinux.org/blog/2023-11-13-announcing-93-stable/
 https://almalinux.org/blog/2023-11-21-announcing-89-stable/
 https://alpinelinux.org/posts/Alpine-3.10.9-3.11.11-3.12.7-released.html
@@ -44,6 +45,10 @@ https://archive.apache.org/dist/kafka/__LATEST__/RELEASE_NOTES.html
 https://archive.apache.org/dist/kafka/old_releases/kafka-0.7.2-incubating/RELEASE-NOTES.html
 https://archive.docs.mulesoft.com/release-notes/mule-runtime/mule-3.8.7-release-notes
 https://archive.docs.mulesoft.com/release-notes/mule-runtime/mule-4.1.6-release-notes
+https://archives-docs.centreon.com/20.04/docs/releases/centreon-core/#200420
+https://archives-docs.centreon.com/20.10/docs/releases/centreon-core/#201018
+https://archives-docs.centreon.com/21.04/docs/releases/centreon-core/#210420
+https://archives-docs.centreon.com/21.10/docs/releases/centreon-core/#211017
 https://ark.intel.com/content/www/us/en/ark/products/codename/128823/products-formerly-jasper-lake.html
 https://ark.intel.com/content/www/us/en/ark/products/codename/128825/products-formerly-elkhart-lake.html
 https://ark.intel.com/content/www/us/en/ark/products/codename/147470/products-formerly-alder-lake.html
@@ -614,6 +619,9 @@ https://doc.samsungmobile.com/sm-t866n/koo/doc.html
 https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR/5.0/Traps-Agent-Release-Notes/Traps-Agent-Release-Information
 https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR/7.5ce/Cortex-XDR-Agent-Release-Notes/Cortex-XDR-Agent-7.5-CE-Release-Information
 https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR/7.9ce/Cortex-XDR-Agent-Release-Notes/Cortex-XDR-Agent-7.9-CE-Release-Information
+https://docs-older.centreon.com/docs/centreon/en/latest/release_notes/centreon-18.10.html
+https://docs-older.centreon.com/docs/centreon/en/latest/release_notes/centreon-19.04.html
+https://docs-older.centreon.com/docs/centreon/en/latest/release_notes/centreon-19.10.html
 https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI_DSS_Summary_of_Changes_3-2-1.pdf
 https://docs.aws.amazon.com/glue/latest/dg/glue-version-support-policy.html
 https://docs.azul.com/core/release/august-2022-11.58-17.36-18.32/release-notes/release-notes
@@ -627,6 +635,7 @@ https://docs.bell-sw.com/liberica-jdk/15.0.2b8/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/17.0.10b13/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/18.0.2b10/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/21.0.2b14/general/release-notes/
+https://docs.centreon.com/docs/__RELEASE_CYCLE__/releases/centreon-core/#{{'__LATEST__'|replace:'.',''}}
 https://docs.cfengine.com/docs/__RELEASE_CYCLE__/guide-latest-release-whatsnew-changelog-core.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-8.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2203-ltsr/whats-new/cumulative-update-3.html
