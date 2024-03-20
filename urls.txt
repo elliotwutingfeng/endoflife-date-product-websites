@@ -905,11 +905,11 @@ https://kde.org/announcements/plasma/5/__LATEST__/
 https://laravel.com/docs/5.5/releases
 https://laravel.com/docs/5.8/releases
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019#azure-devops-server-201901-patch-16-release-date-november-14-2023
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019u1#azure-devops-server-2019-update-12-patch-7-release-date-february-13-2024
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019u1#azure-devops-server-2019-update-12-patch-8-release-date-march-12-2024
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020#azure-devops-server-2020-update-02-patch-6-release-date-november-14-2023
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-12-release-date-february-13-2024
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-13-release-date-march-12-2024
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022#azure-devops-server-2022-update-01-patch-5-release-date-november-14-2023
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-2-release-date-february-13-2024
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-3-release-date-march-12-2024
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1507-cb-cbb-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1511-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1607-end-of-servicing
