@@ -624,6 +624,7 @@ https://docs-older.centreon.com/docs/centreon/en/latest/release_notes/centreon-1
 https://docs-older.centreon.com/docs/centreon/en/latest/release_notes/centreon-19.10.html
 https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI_DSS_Summary_of_Changes_3-2-1.pdf
 https://docs.aws.amazon.com/glue/latest/dg/glue-version-support-policy.html
+https://docs.azul.com/core/release/22-ga/release-notes/release-notes
 https://docs.azul.com/core/release/august-2022-11.58-17.36-18.32/release-notes/release-notes
 https://docs.azul.com/core/release/january-2023/release-notes/release-notes
 https://docs.azul.com/core/release/january-2024/release-notes/release-notes
