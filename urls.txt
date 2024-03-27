@@ -989,6 +989,7 @@ https://lineageos.org/Changelog-24/
 https://lineageos.org/Changelog-25/
 https://lineageos.org/Changelog-26/
 https://lineageos.org/Changelog-27/
+https://lineageos.org/Changelog-28/
 https://listman.redhat.com/archives/rhsa-announce/2010-April/000713.html
 https://logging.apache.org/log4j/1.2/changes-report.html#a1.2.17
 https://maven.apache.org/archives/maven-1.x/start/release-notes-LATEST.html
