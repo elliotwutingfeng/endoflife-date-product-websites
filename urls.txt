@@ -286,6 +286,7 @@ https://confluence.atlassian.com/jirasoftware/jira-software-9-11-x-release-notes
 https://confluence.atlassian.com/jirasoftware/jira-software-9-12-x-release-notes-1319575972.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-13-x-release-notes-1319569020.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-14-x-release-notes-1346052575.html
+https://confluence.atlassian.com/jirasoftware/jira-software-9-15-x-release-notes-1385105791.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-2-x-release-notes-1163763245.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-3-x-release-notes-1168850570.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-4-x-release-notes-1178869757.html
