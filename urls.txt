@@ -88,6 +88,7 @@ https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-aws-glue-4-0/
 https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-linux-2023/
 https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-support-java-21/
 https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-support-python-3-12/
+https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-ruby-3-3/
 https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/
 https://aws.amazon.com/amazon-linux-ami/2018.03-release-notes/
 https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/
@@ -685,7 +686,7 @@ https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-13-known-and-addressed-issues/pan-os-10-1-13-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-9-known-and-addressed-issues/pan-os-10-2-9-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-3-known-and-addressed-issues/pan-os-11-0-3-h5-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-4-known-and-addressed-issues/pan-os-11-0-4-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-2-known-and-addressed-issues/pan-os-11-1-2-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/8-1/pan-os-release-notes/pan-os-8-1-addressed-issues/pan-os-8-1-24-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-release-notes/pan-os-9-0-addressed-issues/pan-os-9-0-17-h5-addressed-issues
