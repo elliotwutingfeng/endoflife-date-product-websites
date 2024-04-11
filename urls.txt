@@ -1011,6 +1011,12 @@ https://mxlinux.org/blog/mx-23-libretto-now-available/
 https://nginx.org/en/CHANGES
 https://nixos.org/manual/nix/stable/release-notes/rl-1.11
 https://openjdk.org/projects/jdk9/
+https://postmarketos.org/blog/2021/07/04/v21.06-release/
+https://postmarketos.org/blog/2021/12/29/v21.12-release/
+https://postmarketos.org/blog/2022/06/12/v22.06-release/
+https://postmarketos.org/blog/2022/12/18/v22.12-release/
+https://postmarketos.org/blog/2023/06/07/v23.06-release/
+https://postmarketos.org/blog/2023/12/18/v23.12-release/
 https://struts.apache.org/struts1eol-announcement.html
 https://support.apple.com/HT207979
 https://support.apple.com/HT208000
@@ -1134,9 +1140,9 @@ https://support.microsoft.com/en-us/topic/list-of-changes-and-fixed-issues-in-th
 https://support.microsoft.com/help/2716427
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002559
-https://support.microsoft.com/help/5002562
-https://support.microsoft.com/help/5002564
+https://support.microsoft.com/help/5002580
+https://support.microsoft.com/help/5002581
+https://support.microsoft.com/help/5002583
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
 https://support.microsoft.com/help/5021123

@@ -73,6 +73,7 @@ mxlinux.org
 nginx.org
 nixos.org
 openjdk.org
+postmarketos.org
 struts.apache.org
 support.apple.com
 support.claris.com
