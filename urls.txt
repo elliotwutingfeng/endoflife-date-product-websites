@@ -965,7 +965,7 @@ https://learn.microsoft.com/lifecycle/products/windows-xp
 https://learn.microsoft.com/previous-versions/dotnet/netframework-4.0/ms171868(v=vs.100)
 https://learn.microsoft.com/previous-versions/mt752379(v=vs.140)
 https://learn.microsoft.com/troubleshoot/developer/visualstudio/installation/visual-studio-2012-update-4
-https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2019/cumulativeupdate25
+https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2019/cumulativeupdate26
 https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate12
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2015-update4-vs#details-of-whats-new-in-team-foundation-server-2015-update-42-patch-8
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2017-update3#details-of-whats-new-in-team-foundation-server-2017-update-31-patch-15
