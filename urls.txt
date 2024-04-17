@@ -642,7 +642,7 @@ https://docs.bell-sw.com/liberica-jdk/21.0.2b14/general/release-notes/
 https://docs.centreon.com/docs/__RELEASE_CYCLE__/releases/centreon-core/#{{'__LATEST__'|replace:'.',''}}
 https://docs.cfengine.com/docs/__RELEASE_CYCLE__/guide-latest-release-whatsnew-changelog-core.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-8.html
-https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2203-ltsr/whats-new/cumulative-update-3.html
+https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2203-ltsr/whats-new/cumulative-update-4.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/whats-new.html
 https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/whats-new/cumulative-update-9.html
 https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.5.0-release-notes
@@ -685,9 +685,9 @@ https://docs.paloaltonetworks.com/globalprotect/6-1/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-13-known-and-addressed-issues/pan-os-10-1-13-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-9-known-and-addressed-issues/pan-os-10-2-9-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-4-known-and-addressed-issues/pan-os-11-0-4-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-2-known-and-addressed-issues/pan-os-11-1-2-h1-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-9-known-and-addressed-issues/pan-os-10-2-9-h1-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-4-known-and-addressed-issues/pan-os-11-0-4-h1-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-2-known-and-addressed-issues/pan-os-11-1-2-h3-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/8-1/pan-os-release-notes/pan-os-8-1-addressed-issues/pan-os-8-1-24-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-release-notes/pan-os-9-0-addressed-issues/pan-os-9-0-17-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-release-notes/pan-os-9-1-addressed-issues/pan-os-9-1-18-addressed-issues
