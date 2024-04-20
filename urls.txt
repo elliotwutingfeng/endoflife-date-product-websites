@@ -868,6 +868,7 @@ https://github.com/quarkusio/quarkus/releases/tag/__LATEST__
 https://github.com/quarkusio/quarkus/releases/tag/__LATEST__.Final
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v{{'__LATEST__'|replace:'.','_'}}
 https://github.com/scala/scala/releases/tag/v__LATEST__
+https://github.com/shopware5/shopware/releases/tag/v__LATEST__
 https://github.com/spring-projects/spring-boot/releases/tag/v__LATEST__.RELEASE
 https://github.com/spring-projects/spring-framework/releases/tag/v__LATEST__.RELEASE
 https://github.com/unrealircd/unrealircd/blob/unreal42/doc/RELEASE-NOTES
