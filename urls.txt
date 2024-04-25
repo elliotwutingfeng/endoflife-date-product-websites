@@ -133,6 +133,7 @@ https://aws.amazon.com/blogs/compute/ruby-3-2-runtime-now-available-in-aws-lambd
 https://aws.amazon.com/blogs/developer/aws-lambda-net-core-2-0-support-released/
 https://aws.amazon.com/blogs/developer/aws-lambda-net-core-2-1-support-released/
 https://aws.amazon.com/blogs/developer/net-5-aws-lambda-support-with-container-images/
+https://azure.microsoft.com/en-us/updates/generally-available-kubernetes-129-support-in-aks/
 https://azure.microsoft.com/updates/ga-kubernetes-128-support-in-azure-kubernetes-service-aks/
 https://azure.microsoft.com/updates/general-availability-aks-support-for-kubernetes-121-2/
 https://azure.microsoft.com/updates/generally-available-kubernetes-124-support/
@@ -1151,8 +1152,7 @@ https://support.microsoft.com/help/5024296
 https://support.microsoft.com/help/5029185
 https://support.microsoft.com/help/5029186
 https://support.microsoft.com/help/5029376
-https://support.microsoft.com/help/5036386
-https://support.microsoft.com/help/5036401
+https://support.microsoft.com/help/5037224
 https://support.microsoft.com/help/941203
 https://support.microsoft.com/help/983811
 https://support.microsoft.com/surface/surface-2-specifications-7a5aaf4f-9641-2c69-3747-ea4e2a161aae
