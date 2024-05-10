@@ -642,7 +642,7 @@ https://docs.bell-sw.com/liberica-jdk/18.0.2b10/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/21.0.2b14/general/release-notes/
 https://docs.centreon.com/docs/__RELEASE_CYCLE__/releases/centreon-core/#{{'__LATEST__'|replace:'.',''}}
 https://docs.cfengine.com/docs/__RELEASE_CYCLE__/guide-latest-release-whatsnew-changelog-core.html
-https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-8.html
+https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-9.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2203-ltsr/whats-new/cumulative-update-4.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/whats-new.html
 https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/whats-new/cumulative-update-9.html
