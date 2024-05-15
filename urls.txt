@@ -804,6 +804,7 @@ https://en.wikipedia.org/wiki/Pixel_6a
 https://en.wikipedia.org/wiki/Pixel_7
 https://en.wikipedia.org/wiki/Pixel_7a
 https://en.wikipedia.org/wiki/Pixel_8
+https://en.wikipedia.org/wiki/Pixel_8a
 https://en.wikipedia.org/wiki/Pixel_Fold
 https://en.wikipedia.org/wiki/Pixel_Tablet
 https://forums.unrealircd.org/viewtopic.php?f=1&t=8588
