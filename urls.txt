@@ -681,14 +681,14 @@ https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/pan-os/7-1/pan-
 https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/pan-os/8-0/pan-os-release-notes/pan-os-release-notes.pdf
 https://docs.paloaltonetworks.com/globalprotect/5-1/globalprotect-app-release-notes
 https://docs.paloaltonetworks.com/globalprotect/5-2/globalprotect-app-release-notes/globalprotect-known-and-addressed-issues/globalprotect-addressed-issues
-https://docs.paloaltonetworks.com/globalprotect/6-0/globalprotect-app-release-notes
+https://docs.paloaltonetworks.com/globalprotect/6-0/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/6-1/globalprotect-app-release-notes//globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-13-known-and-addressed-issues/pan-os-10-1-13-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-9-known-and-addressed-issues/pan-os-10-2-9-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-4-known-and-addressed-issues/pan-os-11-0-4-h1-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-2-known-and-addressed-issues/pan-os-11-1-2-h4-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-3-known-and-addressed-issues/pan-os-11-1-3-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/8-1/pan-os-release-notes/pan-os-8-1-addressed-issues/pan-os-8-1-24-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-release-notes/pan-os-9-0-addressed-issues/pan-os-9-0-17-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-release-notes/pan-os-9-1-addressed-issues/pan-os-9-1-18-addressed-issues
