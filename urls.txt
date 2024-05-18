@@ -969,7 +969,7 @@ https://learn.microsoft.com/previous-versions/dotnet/netframework-4.0/ms171868(v
 https://learn.microsoft.com/previous-versions/mt752379(v=vs.140)
 https://learn.microsoft.com/troubleshoot/developer/visualstudio/installation/visual-studio-2012-update-4
 https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2019/cumulativeupdate26
-https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate12
+https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate13
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2015-update4-vs#details-of-whats-new-in-team-foundation-server-2015-update-42-patch-8
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2017-update3#details-of-whats-new-in-team-foundation-server-2017-update-31-patch-15
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2018-update3#team-foundation-server-2018-update-32-patch-19
@@ -1268,8 +1268,8 @@ https://www.debian.org/News/2016/2016060402
 https://www.debian.org/News/2018/20180623
 https://www.debian.org/News/2020/20200718
 https://www.debian.org/News/2022/20220910
-https://www.debian.org/News/2023/20230429
-https://www.debian.org/News/2023/20230610
+https://www.debian.org/News/2024/20240210
+https://www.debian.org/News/2024/2024021002
 https://www.devuan.org/os/announce/ascii-point-release-announce-112119
 https://www.devuan.org/os/announce/beowulf-point-release-announce-021421
 https://www.devuan.org/os/announce/chimaera-release-announce-2021-10-14
