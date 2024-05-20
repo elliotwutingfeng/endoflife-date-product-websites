@@ -1143,9 +1143,9 @@ https://support.microsoft.com/en-us/topic/list-of-changes-and-fixed-issues-in-th
 https://support.microsoft.com/help/2716427
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002580
-https://support.microsoft.com/help/5002581
-https://support.microsoft.com/help/5002583
+https://support.microsoft.com/help/5002596
+https://support.microsoft.com/help/5002598
+https://support.microsoft.com/help/5002599
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
 https://support.microsoft.com/help/5021123
