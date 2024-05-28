@@ -46,6 +46,7 @@ https://archive.apache.org/dist/kafka/__LATEST__/RELEASE_NOTES.html
 https://archive.apache.org/dist/kafka/old_releases/kafka-0.7.2-incubating/RELEASE-NOTES.html
 https://archive.docs.mulesoft.com/release-notes/mule-runtime/mule-3.8.7-release-notes
 https://archive.docs.mulesoft.com/release-notes/mule-runtime/mule-4.1.6-release-notes
+https://archive.docs.mulesoft.com/release-notes/mule-runtime/mule-4.2.2-release-notes
 https://archives-docs.centreon.com/20.04/docs/releases/centreon-core/#200420
 https://archives-docs.centreon.com/20.10/docs/releases/centreon-core/#201018
 https://archives-docs.centreon.com/21.04/docs/releases/centreon-core/#210420
@@ -90,6 +91,7 @@ https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-linux-2023/
 https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-support-java-21/
 https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-support-python-3-12/
 https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-ruby-3-3/
+https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eks-distro-kubernetes-version-1-30/
 https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/
 https://aws.amazon.com/amazon-linux-ami/2018.03-release-notes/
 https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/
@@ -291,6 +293,7 @@ https://confluence.atlassian.com/jirasoftware/jira-software-9-12-x-release-notes
 https://confluence.atlassian.com/jirasoftware/jira-software-9-13-x-release-notes-1319569020.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-14-x-release-notes-1346052575.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-15-x-release-notes-1385105791.html
+https://confluence.atlassian.com/jirasoftware/jira-software-9-16-x-release-notes-1402409058.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-2-x-release-notes-1163763245.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-3-x-release-notes-1168850570.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-4-x-release-notes-1178869757.html
@@ -722,9 +725,9 @@ https://docs.vmware.com/en/VMware-vSphere/6.5/rn/esxi650-202210001.html
 https://docs.vmware.com/en/VMware-vSphere/6.5/rn/vsphere-vcenter-server-65u3u-release-notes.html
 https://docs.vmware.com/en/VMware-vSphere/6.7/rn/esxi670-202210001.html
 https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-vcenter-server-67u3s-release-notes.html
-https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-esxi-70u3o-release-notes/index.html
+https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-esxi-70u3q-release-notes/index.html
 https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3q-release-notes/index.html
-https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-esxi-802-release-notes/index.html
+https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-esxi-80u2c-release-notes/index.html
 https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-vcenter-server-80u2c-release-notes/index.html
 https://downloads.apache.org/httpd/Announcement2.4.html
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11166
@@ -856,6 +859,7 @@ https://github.com/angular/protractor/blob/release-5.4/CHANGELOG.md#544
 https://github.com/angular/protractor/blob/release-7.0/CHANGELOG.md#700
 https://github.com/ansible/ansible/blob/stable-2.9/changelogs/CHANGELOG-v2.9.rst
 https://github.com/apache/hbase/blob/rel/__LATEST__/CHANGES.txt
+https://github.com/apache/hop/releases/tag/2.9.0-rc1
 https://github.com/apache/logging-log4j2/blob/rel/__LATEST__/RELEASE-NOTES.md
 https://github.com/apache/logging-log4j2/blob/rel/__LATEST__/RELEASE-NOTES.txt
 https://github.com/corretto/corretto-jdk/blob/216fca10a21d6a26ca2846d4ca2861ea644a7a1e/CHANGELOG.md#january-2021-critical-patch-update-corretto-version-150271
@@ -912,6 +916,16 @@ https://help.zerto.com/bundle/RN.HTML.10.0_U2/page/what_s_new_in_zerto_10_0_upda
 https://help.zerto.com/bundle/RN.HTML.97/page/9.7_Whats_New.htm
 https://help.zerto.com/bundle/Zerto_v8.5_Release_Notes/resource/Zerto_v8.5_Release_Notes.pdf
 https://help.zerto.com/bundle/Zerto_v9.0_Release_Notes/resource/Zerto_v9.0_Release_Notes.pdf
+https://hop.apache.org/blog/2021/10/hop-1.0.0/
+https://hop.apache.org/blog/2022/01/hop-1.1.0/
+https://hop.apache.org/blog/2022/03/hop-1.2.0/
+https://hop.apache.org/blog/2022/06/hop-2.0.0/
+https://hop.apache.org/blog/2022/10/hop-2.1.0/
+https://hop.apache.org/blog/2022/12/hop-2.2.0/
+https://hop.apache.org/blog/2023/01/hop-2.3.0/
+https://hop.apache.org/blog/2023/03/hop-2.4.0/
+https://hop.apache.org/blog/2023/06/hop-2.5.0/
+https://hop.apache.org/blog/2023/09/hop-2.6.0/
 https://hop.apache.org/blog/2023/12/hop-2.7.0/
 https://hop.apache.org/blog/2024/03/hop-2.8.0/
 https://kde.org/announcements/plasma/5/__LATEST__/
