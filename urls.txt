@@ -936,7 +936,7 @@ https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019u1#
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020#azure-devops-server-2020-update-02-patch-6-release-date-november-14-2023
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-13-release-date-march-12-2024
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022#azure-devops-server-2022-update-01-patch-5-release-date-november-14-2023
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-3-release-date-march-12-2024
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-4-release-date-june-11-2024
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1507-cb-cbb-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1511-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1607-end-of-servicing
@@ -1017,6 +1017,9 @@ https://lineageos.org/Changelog-26/
 https://lineageos.org/Changelog-27/
 https://lineageos.org/Changelog-28/
 https://listman.redhat.com/archives/rhsa-announce/2010-April/000713.html
+https://lists.debian.org/debian-announce/1996/msg00021.html
+https://lists.debian.org/debian-announce/1996/msg00026.html
+https://lists.debian.org/debian-announce/1999/msg00001.html
 https://logging.apache.org/log4j/1.2/changes-report.html#a1.2.17
 https://maven.apache.org/archives/maven-1.x/start/release-notes-LATEST.html
 https://mirrors.slackware.com/slackware/slackware-8.0/ANNOUNCE.TXT
@@ -1159,9 +1162,9 @@ https://support.microsoft.com/en-us/topic/list-of-changes-and-fixed-issues-in-th
 https://support.microsoft.com/help/2716427
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002596
-https://support.microsoft.com/help/5002598
-https://support.microsoft.com/help/5002599
+https://support.microsoft.com/help/5002602
+https://support.microsoft.com/help/5002603
+https://support.microsoft.com/help/5002604
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
 https://support.microsoft.com/help/5021123
@@ -1279,6 +1282,13 @@ https://www.atlassian.com/blog/archives/jira_253_releas$
 https://www.atlassian.com/blog/archives/jira_261_releas$
 https://www.betaarchive.com/wiki/index.php?title=Microsoft_KB_Archive/152616
 https://www.betaarchive.com/wiki/index.php?title=Microsoft_KB_Archive/238621
+https://www.debian.org/News/1998/19980203c
+https://www.debian.org/News/2000/20000216
+https://www.debian.org/News/2002/20020713
+https://www.debian.org/News/2005/20050602
+https://www.debian.org/News/2008/20080413
+https://www.debian.org/News/2010/20100522
+https://www.debian.org/News/2012/20120310
 https://www.debian.org/News/2014/20140719
 https://www.debian.org/News/2016/2016060402
 https://www.debian.org/News/2018/20180623
