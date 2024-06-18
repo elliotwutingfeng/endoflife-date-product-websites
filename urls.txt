@@ -1039,6 +1039,7 @@ https://postmarketos.org/blog/2022/06/12/v22.06-release/
 https://postmarketos.org/blog/2022/12/18/v22.12-release/
 https://postmarketos.org/blog/2023/06/07/v23.06-release/
 https://postmarketos.org/blog/2023/12/18/v23.12-release/
+https://postmarketos.org/blog/2024/06/16/v24.06-release/
 https://struts.apache.org/struts1eol-announcement.html
 https://support.apple.com/HT207979
 https://support.apple.com/HT208000
