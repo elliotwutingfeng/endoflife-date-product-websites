@@ -32,16 +32,6 @@ https://antixlinux.com/antix-19-5-point-release-update/
 https://antixlinux.com/antix-22-released/
 https://antixlinux.com/antix-23-released/
 https://antixlinux.com/forum-archive/antix-15-released-t5697.html
-https://apex.oracle.com/en/platform/features/whats-new-191/
-https://apex.oracle.com/en/platform/features/whats-new-192/
-https://apex.oracle.com/en/platform/features/whats-new-201/
-https://apex.oracle.com/en/platform/features/whats-new-202/
-https://apex.oracle.com/en/platform/features/whats-new-211/
-https://apex.oracle.com/en/platform/features/whats-new-212/
-https://apex.oracle.com/en/platform/features/whats-new-221/
-https://apex.oracle.com/en/platform/features/whats-new-222/
-https://apex.oracle.com/en/platform/features/whats-new-231/
-https://apex.oracle.com/en/platform/features/whats-new-232/
 https://archive.apache.org/dist/kafka/__LATEST__/RELEASE_NOTES.html
 https://archive.apache.org/dist/kafka/old_releases/kafka-0.7.2-incubating/RELEASE-NOTES.html
 https://archive.docs.mulesoft.com/release-notes/mule-runtime/mule-3.8.7-release-notes

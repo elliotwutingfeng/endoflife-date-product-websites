@@ -3,7 +3,6 @@ activemq.apache.org
 almalinux.org
 alpinelinux.org
 antixlinux.com
-apex.oracle.com
 archive.apache.org
 archive.docs.mulesoft.com
 archives-docs.centreon.com
