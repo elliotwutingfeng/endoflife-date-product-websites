@@ -80,6 +80,7 @@ support.claris.com
 support.fairphone.com
 support.microsoft.com
 supportline.microfocus.com
+svn.apache.org
 symfony.com
 techcommunity.microsoft.com
 umbraco.com

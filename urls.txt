@@ -293,6 +293,7 @@ https://confluence.atlassian.com/jirasoftware/jira-software-9-7-x-release-notes-
 https://confluence.atlassian.com/jirasoftware/jira-software-9-8-x-release-notes-1224776099.html
 https://confluence.atlassian.com/jirasoftware/jira-software-9-9-x-release-notes-1236934945.html
 https://cwiki.apache.org/confluence/display/WW/Release+Notes+__LATEST__
+https://cwiki.apache.org/confluence/display/solr/ReleaseNote362
 https://devblogs.microsoft.com/bharry/tfs-2005-sql-server-2005-sp2/
 https://devblogs.microsoft.com/bharry/vstfs-2010-sp1-and-tfs-project-server-integration-feature-pack-have-released/
 https://devdocs.magento.com/guides/v2.3/release-notes/open-source-2-3-7.html
@@ -1205,6 +1206,7 @@ https://supportline.microfocus.com/prodavail.aspx?Prod=Visual%20COBOL%20for%20Vi
 https://supportline.microfocus.com/prodavail.aspx?Prod=Visual%20COBOL%20for%20Visual%20Studio&Ver=4.0&Rel=
 https://supportline.microfocus.com/prodavail.aspx?Prod=Visual%20COBOL%20for%20Visual%20Studio&Ver=5.0&Rel=
 https://supportline.microfocus.com/prodavail.aspx?Prod=Visual%20COBOL%20for%20Visual%20Studio&Ver=6.0&Rel=
+https://svn.apache.org/repos/asf/lucene/solr/tags/release-1.4.1/CHANGES.txt
 https://symfony.com/blog/symfony-2-7-51-released
 https://symfony.com/blog/symfony-4-1-12-released
 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/end-of-service-reminders-for-windows-10-versions-1703-and-1803/ba-p/903715
@@ -1223,6 +1225,8 @@ https://web.archive.org/web/20210925124006/https://docs.vmware.com/en/vCenter-Si
 https://web.archive.org/web/20210926135719/https://docs.vmware.com/en/Site-Recovery-Manager/6.1/rn/srm-releasenotes-6-1-2.html
 https://web.archive.org/web/20211005130439/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.1/
 https://web.archive.org/web/20211005130439/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.2/
+https://web.archive.org/web/20220210183008/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.1/
+https://web.archive.org/web/20220210191659/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.0/
 https://web.archive.org/web/20220628122239/https://blogs.vmware.com/cloudnative/2016/06/16/vmwares-photon-os-1-0-now-available/
 https://web.archive.org/web/20220707010454/https://www.sonarqube.org/sonarqube-7-9-lts/
 https://web.archive.org/web/20220729084223/https://devdocs.magento.com/guides/v2.2/release-notes/release-notes-2-2-11-open-source.html
@@ -1234,6 +1238,8 @@ https://web.archive.org/web/20230423021044/https://docs.vmware.com/en/Site-Recov
 https://web.archive.org/web/20230423021051/https://docs.vmware.com/en/Site-Recovery-Manager/6.5/rn/srm-releasenotes-6-5-1.html
 https://web.archive.org/web/20230519160357/https://docs.couchbase.com/server/6.5/release-notes/relnotes.html
 https://web.archive.org/web/20230519162206/https://docs.couchbase.com/server/6.0/release-notes/relnotes.html
+https://web.archive.org/web/20230521063245/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.3/
+https://web.archive.org/web/20230529015218/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.2/
 https://web.archive.org/web/20230711113909/https://wiki.centos.org/Manuals/ReleaseNotes/CentOS5.11
 https://web.archive.org/web/20230711113909/https://wiki.centos.org/Manuals/ReleaseNotes/CentOS6.10
 https://web.archive.org/web/20230711113909/https://wiki.centos.org/Manuals/ReleaseNotes/CentOS7.2009
