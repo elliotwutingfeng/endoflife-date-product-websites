@@ -906,6 +906,8 @@ https://help.zerto.com/bundle/RN.95.HTML/page/9.5_Whats_New.htm
 https://help.zerto.com/bundle/RN.HTML.10.0/page/10.0_Whats_New.htm
 https://help.zerto.com/bundle/RN.HTML.10.0_U1/page/what_s_new_in_zerto_10_0_update_1.html
 https://help.zerto.com/bundle/RN.HTML.10.0_U2/page/what_s_new_in_zerto_10_0_update_2.html
+https://help.zerto.com/bundle/RN.HTML.10.0_U3/page/what_s_new_in_zerto_10_0_update_3.html
+https://help.zerto.com/bundle/RN.HTML.10.0_U4/page/release_notes_for_zerto_10_0_update_4.html
 https://help.zerto.com/bundle/RN.HTML.97/page/9.7_Whats_New.htm
 https://help.zerto.com/bundle/Zerto_v8.5_Release_Notes/resource/Zerto_v8.5_Release_Notes.pdf
 https://help.zerto.com/bundle/Zerto_v9.0_Release_Notes/resource/Zerto_v9.0_Release_Notes.pdf
