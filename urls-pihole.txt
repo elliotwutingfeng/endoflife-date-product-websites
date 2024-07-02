@@ -36,6 +36,7 @@ docs.bell-sw.com
 docs.centreon.com
 docs.cfengine.com
 docs.citrix.com
+docs.daocloud.io
 docs.mulesoft.com
 docs.nvidia.com
 docs.oracle.com
