@@ -878,8 +878,6 @@ https://github.com/spring-projects/spring-framework/releases/tag/v__LATEST__.REL
 https://github.com/unrealircd/unrealircd/blob/unreal42/doc/RELEASE-NOTES
 https://github.com/unrealircd/unrealircd/blob/unreal52/doc/RELEASE-NOTES.md#unrealircd-{{'__LATEST__'|replace:'.',''}}
 https://github.com/unrealircd/unrealircd/blob/unreal60_dev/doc/RELEASE-NOTES.md#unrealircd-{{'__LATEST__'|replace:'.',''}}
-https://github.com/vuejs/core/blob/main/CHANGELOG.md
-https://github.com/vuejs/vue/blob/main/CHANGELOG.md
 https://github.com/vuejs/vue/releases/tag/v__LATEST__
 https://github.com/yarnpkg/yarn/releases/tag/v__LATEST__
 https://go2docs.graylog.org/4-0/changelogs/changelog.html#Graylog3317
