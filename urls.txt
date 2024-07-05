@@ -154,6 +154,7 @@ https://blog.linuxmint.com/?p=4454
 https://blog.linuxmint.com/?p=4543
 https://blog.linuxmint.com/?p=4570
 https://blog.linuxmint.com/?p=4624
+https://blog.pcisecuritystandards.org/just-published-pci-dss-v4-0-1
 https://blog.pcisecuritystandards.org/pci-dss-v4-0-resource-hub
 https://blog.system76.com/post/popos-2104-a-release-of-cosmic-proportions
 https://blog.system76.com/post/popos-2110-has-landed
