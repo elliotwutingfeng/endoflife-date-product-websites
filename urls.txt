@@ -934,6 +934,7 @@ https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020#az
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-13-release-date-march-12-2024
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022#azure-devops-server-2022-update-01-patch-5-release-date-november-14-2023
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-4-release-date-june-11-2024
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-20222-rtw-release-date-july-9-2024
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1507-cb-cbb-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1511-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1607-end-of-servicing
