@@ -75,6 +75,7 @@ nginx.org
 nixos.org
 openjdk.org
 postmarketos.org
+service.oneplus.com
 struts.apache.org
 support.apple.com
 support.claris.com
@@ -101,6 +102,8 @@ www.microfocus.com
 www.mongodb.com
 www.nokia.com
 www.nvidia.com
+www.oneplus.com
+www.oneplus.in
 www.openssl.org
 www.oracle.com
 www.phpbb.com

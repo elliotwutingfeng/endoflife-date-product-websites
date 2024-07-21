@@ -14,7 +14,7 @@ https://activemq.apache.org/activemq-5012002-release
 https://activemq.apache.org/activemq-5013004-release
 https://activemq.apache.org/activemq-{{'__LATEST__'|replace:'.','0'}}-release
 https://activemq.apache.org/activemq-{{'__LATEST__'|replace:'.','00'}}-release
-https://activemq.apache.org/components/classic/download/classic-06-01-00
+https://activemq.apache.org/components/classic/download/classic-06-01-02
 https://almalinux.org/blog/2024-05-06-announcing-94-stable/
 https://almalinux.org/blog/2024-05-28-announcing-810-stable/
 https://alpinelinux.org/posts/Alpine-3.10.9-3.11.11-3.12.7-released.html
@@ -1038,6 +1038,7 @@ https://postmarketos.org/blog/2022/12/18/v22.12-release/
 https://postmarketos.org/blog/2023/06/07/v23.06-release/
 https://postmarketos.org/blog/2023/12/18/v23.12-release/
 https://postmarketos.org/blog/2024/06/16/v24.06-release/
+https://service.oneplus.com/us/search/search-detail?id=2123192&articleIndex=2
 https://struts.apache.org/struts1eol-announcement.html
 https://support.apple.com/HT207979
 https://support.apple.com/HT208000
@@ -1402,6 +1403,9 @@ https://www.nvidia.com/download/driverResults.aspx/194569/
 https://www.nvidia.com/download/driverResults.aspx/197675/
 https://www.nvidia.com/download/driverResults.aspx/202059/
 https://www.nvidia.com/download/driverResults.aspx/216530/
+https://www.oneplus.com/fr/oneplus-12
+https://www.oneplus.com/fr/oneplus-12r
+https://www.oneplus.in/11r
 https://www.openssl.org/news/changelog.txt
 https://www.oracle.com/database/technologies/database10g-doc.html
 https://www.oracle.com/database/technologies/oracle9i.html
