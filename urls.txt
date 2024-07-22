@@ -313,11 +313,6 @@ https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14
 https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15-release-notes
 https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17-release-notes
 https://developer.apple.com/documentation/ios-ipados-release-notes/ipados-16-release-notes
-https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.1/
-https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.2/
-https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.3/
-https://doc.opensuse.org/release-notes/x86_64/openSUSE/13.1/
-https://doc.opensuse.org/release-notes/x86_64/openSUSE/13.2/
 https://doc.samsungmobile.com/SM-A013F/SEK/doc.html
 https://doc.samsungmobile.com/SM-A015F/THL/doc.html
 https://doc.samsungmobile.com/SM-A022F/XID/doc.html
@@ -1253,6 +1248,11 @@ https://web.archive.org/web/20230711113909/https://wiki.centos.org/Manuals/Relea
 https://web.archive.org/web/20230711113909/https://wiki.centos.org/Manuals/ReleaseNotes/CentOS6.10
 https://web.archive.org/web/20230711113909/https://wiki.centos.org/Manuals/ReleaseNotes/CentOS7.2009
 https://web.archive.org/web/20230711113909/https://wiki.centos.org/Manuals/ReleaseNotes/CentOS8.2111
+https://web.archive.org/web/20230716101428/https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.3/
+https://web.archive.org/web/20231128204444/https://doc.opensuse.org/release-notes/x86_64/openSUSE/13.2/
+https://web.archive.org/web/20240229083418/https://doc.opensuse.org/release-notes/x86_64/openSUSE/13.1/
+https://web.archive.org/web/20240519012550/https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.1/
+https://web.archive.org/web/20240519013538/https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.2/
 https://wiki.mageia.org/en/Mageia___RELEASE_CYCLE___Release_Notes
 https://wikipedia.org/wiki/Nexus_10
 https://wikipedia.org/wiki/Nexus_4
