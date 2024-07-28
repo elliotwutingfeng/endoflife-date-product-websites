@@ -574,9 +574,13 @@ https://doc.samsungmobile.com/SM-T860/XAR/doc.html
 https://doc.samsungmobile.com/SM-T875/DBT/doc.html
 https://doc.samsungmobile.com/SM-T970/XAR/doc.html
 https://doc.samsungmobile.com/SM-X205/INS/doc.html
+https://doc.samsungmobile.com/SM-X510/ZTO/doc.html
+https://doc.samsungmobile.com/SM-X610/ZTO/doc.html
 https://doc.samsungmobile.com/SM-X706B/SER/doc.html
 https://doc.samsungmobile.com/SM-X806B/XXV/doc.html
+https://doc.samsungmobile.com/SM-X816B/INS/doc.html
 https://doc.samsungmobile.com/SM-X906B/XXV/doc.html
+https://doc.samsungmobile.com/SM-X910/XJP/doc.html
 https://doc.samsungmobile.com/sm-a215u/usc/doc.html
 https://doc.samsungmobile.com/sm-a325f/ins/doc.html
 https://doc.samsungmobile.com/sm-a326u/tmb/doc.html
@@ -615,6 +619,7 @@ https://doc.samsungmobile.com/sm-r825f/dbt/doc.html
 https://doc.samsungmobile.com/sm-r850/btu/doc.html
 https://doc.samsungmobile.com/sm-t307u/glw/doc.html
 https://doc.samsungmobile.com/sm-t866n/koo/doc.html
+https://doc.samsungmobile.com/sm-x710/eux/doc.html
 https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR/5.0/Traps-Agent-Release-Notes/Traps-Agent-Release-Information
 https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR/7.5ce/Cortex-XDR-Agent-Release-Notes/Cortex-XDR-Agent-7.5-CE-Release-Information
 https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR/7.9ce/Cortex-XDR-Agent-Release-Notes/Cortex-XDR-Agent-7.9-CE-Release-Information
