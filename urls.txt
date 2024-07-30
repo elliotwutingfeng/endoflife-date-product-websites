@@ -1020,6 +1020,7 @@ https://listman.redhat.com/archives/rhsa-announce/2010-April/000713.html
 https://lists.debian.org/debian-announce/1996/msg00021.html
 https://lists.debian.org/debian-announce/1996/msg00026.html
 https://lists.debian.org/debian-announce/1999/msg00001.html
+https://lists.debian.org/debian-release/2024/06/msg00700.html
 https://logging.apache.org/log4j/1.2/changes-report.html#a1.2.17
 https://maven.apache.org/archives/maven-1.x/start/release-notes-LATEST.html
 https://mirrors.slackware.com/slackware/slackware-8.0/ANNOUNCE.TXT
@@ -1310,7 +1311,6 @@ https://www.debian.org/News/2018/20180623
 https://www.debian.org/News/2020/20200718
 https://www.debian.org/News/2022/20220910
 https://www.debian.org/News/2024/20240629
-https://www.debian.org/News/2024/2024062902
 https://www.devuan.org/os/announce/ascii-point-release-announce-112119
 https://www.devuan.org/os/announce/beowulf-point-release-announce-021421
 https://www.devuan.org/os/announce/chimaera-release-announce-2021-10-14
