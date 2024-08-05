@@ -694,7 +694,7 @@ https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-1
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-10-known-and-addressed-issues/pan-os-10-2-10-h3-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-5-known-and-addressed-issues/pan-os-11-0-5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-4-known-and-addressed-issues/pan-os-11-1-4-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-2-known-and-addressed-issues/pan-os-11-2-2-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-2-known-and-addressed-issues/pan-os-11-2-2-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/8-1/pan-os-release-notes/pan-os-8-1-addressed-issues/pan-os-8-1-24-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-release-notes/pan-os-9-0-addressed-issues/pan-os-9-0-17-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-release-notes/pan-os-9-1-addressed-issues/pan-os-9-1-19-addressed-issues
@@ -1035,6 +1035,9 @@ https://mxlinux.org/blog/mx-23-libretto-now-available/
 https://nginx.org/en/CHANGES
 https://nixos.org/manual/nix/stable/release-notes/rl-1.11
 https://openjdk.org/projects/jdk9/
+https://openssl-library.org/news/vulnerabilities-1.0.2/
+https://openssl-library.org/news/vulnerabilities-1.1.0/
+https://openssl-library.org/news/vulnerabilities-1.1.1/
 https://postmarketos.org/blog/2021/07/04/v21.06-release/
 https://postmarketos.org/blog/2021/12/29/v21.12-release/
 https://postmarketos.org/blog/2022/06/12/v22.06-release/
@@ -1230,6 +1233,8 @@ https://web.archive.org/web/20070714051039/http://www.apple.com/iphone/specs.htm
 https://web.archive.org/web/20080410071627/http://java.sun.com/products/archive/eol.policy.html
 https://web.archive.org/web/20150402080108/http://antix.mepis.org/index.php?title=Main_Page
 https://web.archive.org/web/20160105095436/http://antix.mepis.org/index.php?title=Main_Page
+https://web.archive.org/web/20190719183026/https://access.redhat.com/documentation/en-us/red_hat_satellite/6.0/html/release_notes/index
+https://web.archive.org/web/20190719230423/https://access.redhat.com/documentation/en-us/red_hat_satellite/6.1/html/release_notes/index
 https://web.archive.org/web/20210415073632/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.3/
 https://web.archive.org/web/20210920170406/https://docs.vmware.com/en/Site-Recovery-Manager/8.2/rn/srm-releasenotes-8-2-1-2.html
 https://web.archive.org/web/20210924031516/https://docs.vmware.com/en/vCenter-Site-Recovery-Manager/6.0/rn/srm-releasenotes-6-0-0.html
@@ -1417,7 +1422,6 @@ https://www.nvidia.com/download/driverResults.aspx/228179/
 https://www.oneplus.com/fr/oneplus-12
 https://www.oneplus.com/fr/oneplus-12r
 https://www.oneplus.in/11r
-https://www.openssl.org/news/changelog.txt
 https://www.oracle.com/database/technologies/database10g-doc.html
 https://www.oracle.com/java/technologies/javase/6u211-relnotes.html
 https://www.oracle.com/java/technologies/javase/7-support-relnotes.html#R170_361

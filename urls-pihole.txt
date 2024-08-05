@@ -73,6 +73,7 @@ mxlinux.org
 nginx.org
 nixos.org
 openjdk.org
+openssl-library.org
 postmarketos.org
 service.oneplus.com
 struts.apache.org
@@ -103,7 +104,6 @@ www.nokia.com
 www.nvidia.com
 www.oneplus.com
 www.oneplus.in
-www.openssl.org
 www.oracle.com
 www.phpbb.com
 www.phpmyadmin.net
