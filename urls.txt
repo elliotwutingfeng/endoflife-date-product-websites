@@ -629,13 +629,12 @@ https://docs-older.centreon.com/docs/centreon/en/latest/release_notes/centreon-1
 https://docs-older.centreon.com/docs/centreon/en/latest/release_notes/centreon-19.10.html
 https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI_DSS_Summary_of_Changes_3-2-1.pdf
 https://docs.aws.amazon.com/glue/latest/dg/glue-version-support-policy.html
-https://docs.azul.com/core/release/22-ga/release-notes/release-notes
 https://docs.azul.com/core/release/august-2022-11.58-17.36-18.32/release-notes/release-notes
 https://docs.azul.com/core/release/january-2023/release-notes/release-notes
-https://docs.azul.com/core/release/january-2024/release-notes/release-notes
 https://docs.azul.com/core/release/july-2021/release-notes/release-notes
 https://docs.azul.com/core/release/july-2022/release-notes/release-notes
 https://docs.azul.com/core/release/july-2023/release-notes/release-notes
+https://docs.azul.com/core/release/july-2024/release-notes/release-notes
 https://docs.bell-sw.com/liberica-jdk/12.0.2b10/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/15.0.2b8/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/17.0.10b13/general/release-notes/
@@ -647,7 +646,7 @@ https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/c
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2203-ltsr/whats-new/cumulative-update-5.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/whats-new.html
 https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/whats-new/cumulative-update-9.html
-https://docs.daocloud.io/en/dce/dce-rn/20240530.html
+https://docs.daocloud.io/en/dce/dce-rn/20240730.html
 https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.5.0-release-notes
 https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.6.0-release-notes
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-418-19702/
@@ -691,7 +690,7 @@ https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/globalprotect/6-3/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h2-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-10-known-and-addressed-issues/pan-os-10-2-10-h3-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-11-known-and-addressed-issues/pan-os-10-2-11-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-5-known-and-addressed-issues/pan-os-11-0-5-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-4-known-and-addressed-issues/pan-os-11-1-4-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-2-known-and-addressed-issues/pan-os-11-2-2-h1-addressed-issues
@@ -912,6 +911,7 @@ https://help.zerto.com/bundle/RN.HTML.10.0_U1/page/what_s_new_in_zerto_10_0_upda
 https://help.zerto.com/bundle/RN.HTML.10.0_U2/page/what_s_new_in_zerto_10_0_update_2.html
 https://help.zerto.com/bundle/RN.HTML.10.0_U3/page/what_s_new_in_zerto_10_0_update_3.html
 https://help.zerto.com/bundle/RN.HTML.10.0_U4/page/release_notes_for_zerto_10_0_update_4.html
+https://help.zerto.com/bundle/RN.HTML.10.0_U5/page/release_notes_for_zerto_10_0_update_5.html
 https://help.zerto.com/bundle/RN.HTML.97/page/9.7_Whats_New.htm
 https://help.zerto.com/bundle/Zerto_v8.5_Release_Notes/resource/Zerto_v8.5_Release_Notes.pdf
 https://help.zerto.com/bundle/Zerto_v9.0_Release_Notes/resource/Zerto_v9.0_Release_Notes.pdf
