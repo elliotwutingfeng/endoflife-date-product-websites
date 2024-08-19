@@ -640,6 +640,10 @@ https://docs.bell-sw.com/liberica-jdk/15.0.2b8/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/17.0.10b13/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/18.0.2b10/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/21.0.2b14/general/release-notes/
+https://docs.bmc.com/docs/controlm/9018/control-m-version-9-0-18-200-release-notes-830144784.html
+https://docs.bmc.com/docs/controlm/9019/control-m-version-9-0-19-200-release-notes-862843904.html
+https://docs.bmc.com/docs/controlm/9020/control-m-version-9-0-20-200-release-notes-1007971086.html
+https://docs.bmc.com/docs/controlm/90201/control-m-9-0-21-200-release-notes-1238266316.html
 https://docs.centreon.com/docs/__RELEASE_CYCLE__/releases/centreon-core/#{{'__LATEST__'|replace:'.',''}}
 https://docs.cfengine.com/docs/__RELEASE_CYCLE__/guide-latest-release-whatsnew-changelog-core.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-9.html
@@ -729,6 +733,7 @@ https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-esxi-70u3q-release-note
 https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3r-release-notes/index.html
 https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-esxi-803-release-notes/index.html
 https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-vcenter-server-80u3a-release-notes/index.html
+https://documents.bmc.com/supportu/952/78/79/477879/477879.pdf
 https://downloads.apache.org/httpd/Announcement2.4.html
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11166
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11167

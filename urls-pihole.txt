@@ -32,6 +32,7 @@ docs-prv.pcisecuritystandards.org
 docs.aws.amazon.com
 docs.azul.com
 docs.bell-sw.com
+docs.bmc.com
 docs.centreon.com
 docs.cfengine.com
 docs.citrix.com
@@ -45,6 +46,7 @@ docs.ros.org
 docs.saltproject.io
 docs.splunk.com
 docs.vmware.com
+documents.bmc.com
 downloads.apache.org
 en-us.support.motorola.com
 en.opensuse.org
