@@ -132,7 +132,6 @@ https://azure.microsoft.com/updates/general-availability-aks-support-for-kuberne
 https://azure.microsoft.com/updates/generally-available-kubernetes-124-support/
 https://azure.microsoft.com/updates/generally-available-kubernetes-125-support-in-aks/
 https://azure.microsoft.com/updates/generally-available-kubernetes-126-support-in-aks/
-https://azure.microsoft.com/updates/generally-available-kubernetes-127-support-in-aks/
 https://bakery.cakephp.org/2012/02/06/CakePHP-2-0-6-released.html
 https://bakery.cakephp.org/2012/07/14/Security-Release-CakePHP-2-1-5-2-2-1.html
 https://blog.centos.org/2021/12/introducing-centos-stream-9/
@@ -942,6 +941,7 @@ https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022#azure-devops-server-2022-update-01-patch-5-release-date-november-14-2023
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-4-release-date-june-11-2024
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-20222-rtw-release-date-july-9-2024
+https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions?tabs=azure-cli#aks-kubernetes-release-calendar
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1507-cb-cbb-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1511-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1607-end-of-servicing
@@ -1176,9 +1176,9 @@ https://support.microsoft.com/en-us/topic/list-of-changes-and-fixed-issues-in-th
 https://support.microsoft.com/help/2716427
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002606
-https://support.microsoft.com/help/5002615
 https://support.microsoft.com/help/5002618
+https://support.microsoft.com/help/5002629
+https://support.microsoft.com/help/5002630
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
 https://support.microsoft.com/help/5021123
