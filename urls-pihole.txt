@@ -12,6 +12,7 @@ azure.microsoft.com
 bakery.cakephp.org
 blog.centos.org
 blog.jquery.com
+blog.jqueryui.com
 blog.linuxmint.com
 blog.pcisecuritystandards.org
 blog.system76.com
