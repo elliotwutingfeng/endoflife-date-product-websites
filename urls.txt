@@ -1437,6 +1437,8 @@ https://www.nvidia.com/Download/driverResults.aspx/200481/
 https://www.nvidia.com/Download/driverResults.aspx/204772/
 https://www.nvidia.com/Download/driverResults.aspx/216365/
 https://www.nvidia.com/Download/driverResults.aspx/228410/
+https://www.nvidia.com/Download/driverResults.aspx/230555/
+https://www.nvidia.com/Download/driverResults.aspx/230918/
 https://www.nvidia.com/download/driverResults.aspx/181267/
 https://www.nvidia.com/download/driverResults.aspx/193764/
 https://www.nvidia.com/download/driverResults.aspx/194569/
