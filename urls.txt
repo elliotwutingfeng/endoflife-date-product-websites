@@ -959,6 +959,7 @@ https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022#az
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-4-release-date-june-11-2024
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-20222-rtw-release-date-july-9-2024
 https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions?tabs=azure-cli#aks-kubernetes-release-calendar
+https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-core
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1507-cb-cbb-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1511-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1607-end-of-servicing
