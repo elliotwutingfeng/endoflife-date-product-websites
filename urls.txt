@@ -680,7 +680,6 @@ https://docs.oracle.com/cd/E19683-01/index.html
 https://docs.oracle.com/cd/E23824_01/index.html
 https://docs.oracle.com/cd/E26502_01/index.html
 https://docs.oracle.com/cd/E36784_01/index.html
-https://docs.oracle.com/cd/E37838_01/index.html
 https://docs.oracle.com/cd/E53394_01/index.html
 https://docs.oracle.com/cd/F24622_01/index.html
 https://docs.oracle.com/database/121/index.htm
@@ -690,6 +689,7 @@ https://docs.oracle.com/en/database/oracle/oracle-database/18/whats-new.html
 https://docs.oracle.com/en/database/oracle/oracle-database/19/whats-new.html
 https://docs.oracle.com/en/database/oracle/oracle-database/21/whats-new.html
 https://docs.oracle.com/en/database/oracle/oracle-database/23/whats-new.html
+https://docs.oracle.com/en/operating-systems/solaris/oracle-solaris/
 https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/eol/pan-os-60-release-notes.pdf
 https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/eol/pan-os-61-release-notes.pdf
 https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/eol/pan-os-70-release-notes.pdf
