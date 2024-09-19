@@ -738,13 +738,13 @@ https://docs.vmware.com/en/VMware-Horizon/8-2006/rn/vmware-horizon-8-2006-releas
 https://docs.vmware.com/en/VMware-vSphere/5.5/rn/vsphere-esxi-55u3k-release-notes.html
 https://docs.vmware.com/en/VMware-vSphere/6.0/rn/esxi600-202002001.html
 https://docs.vmware.com/en/VMware-vSphere/6.0/rn/vsphere-vcenter-server-60u3j-release-notes.html
-https://docs.vmware.com/en/VMware-vSphere/6.5/rn/esxi650-202210001.html
+https://docs.vmware.com/en/VMware-vSphere/6.5/rn/esxi650-202403001.html
 https://docs.vmware.com/en/VMware-vSphere/6.5/rn/vsphere-vcenter-server-65u3u-release-notes.html
-https://docs.vmware.com/en/VMware-vSphere/6.7/rn/esxi670-202210001.html
+https://docs.vmware.com/en/VMware-vSphere/6.7/rn/esxi670-202403001.html
 https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-vcenter-server-67u3s-release-notes.html
 https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-esxi-70u3q-release-notes/index.html
 https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3r-release-notes/index.html
-https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-esxi-803-release-notes/index.html
+https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-esxi-80u3b-release-notes/index.html
 https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-vcenter-server-80u3a-release-notes/index.html
 https://documents.bmc.com/supportu/952/78/79/477879/477879.pdf
 https://downloads.apache.org/httpd/Announcement2.4.html
