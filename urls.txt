@@ -893,6 +893,7 @@ https://github.com/dotnet/core/blob/main/release-notes/2.0/2.0.9.md
 https://github.com/dragonwell-project/dragonwell8/wiki/Alibaba-Dragonwell8-Standard-Edition-Release-Notes
 https://github.com/fluxcd/flux/releases/tag/1.25.4
 https://github.com/gorilla#gorilla-toolkit
+https://github.com/graalvm/mandrel/releases/tag/mandrel-__LATEST__.Final
 https://github.com/influxdata/telegraf/releases/tag/__LATEST__
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_IOJS.md#__LATEST__
 https://github.com/puppetlabs/docs-archive/blob/main/puppet/3.8/release_notes.markdown
