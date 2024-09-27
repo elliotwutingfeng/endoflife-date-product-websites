@@ -1466,6 +1466,7 @@ https://www.oneplus.com/fr/oneplus-12
 https://www.oneplus.com/fr/oneplus-12r
 https://www.oneplus.in/11r
 https://www.oracle.com/database/technologies/database10g-doc.html
+https://www.oracle.com/java/technologies/javase/23all-relnotes.html
 https://www.oracle.com/java/technologies/javase/6u211-relnotes.html
 https://www.oracle.com/java/technologies/javase/7-support-relnotes.html#R170_361
 https://www.oracle.com/java/technologies/javase/advanced-v142-support-relnotes.html
