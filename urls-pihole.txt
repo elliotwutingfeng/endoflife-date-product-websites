@@ -74,6 +74,7 @@ logging.apache.org
 maven.apache.org
 mirrors.slackware.com
 mxlinux.org
+neo4j.com
 nginx.org
 nixos.org
 openjdk.org

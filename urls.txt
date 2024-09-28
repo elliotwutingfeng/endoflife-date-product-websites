@@ -82,6 +82,7 @@ https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-support-java-21/
 https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-support-python-3-12/
 https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-ruby-3-3/
 https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eks-distro-kubernetes-version-1-30/
+https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eks-distro-kubernetes-version-1-31/
 https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/
 https://aws.amazon.com/amazon-linux-ami/2018.03-release-notes/
 https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/
@@ -745,7 +746,7 @@ https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-vcenter-server-67u3s-re
 https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-esxi-70u3q-release-notes/index.html
 https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3r-release-notes/index.html
 https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-esxi-80u3b-release-notes/index.html
-https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-vcenter-server-80u3a-release-notes/index.html
+https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-vcenter-server-80u3b-release-notes/index.html
 https://documents.bmc.com/supportu/952/78/79/477879/477879.pdf
 https://downloads.apache.org/httpd/Announcement2.4.html
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11166
@@ -1059,6 +1060,7 @@ https://mxlinux.org/blog/mx-18-3-refreshed-isos-now-available/
 https://mxlinux.org/blog/mx-19-4-now-available/
 https://mxlinux.org/blog/mx-21-3-wildflower-released/
 https://mxlinux.org/blog/mx-23-libretto-now-available/
+https://neo4j.com/release-notes/database/neo4j-5/
 https://nginx.org/en/CHANGES
 https://nixos.org/manual/nix/stable/release-notes/rl-1.11
 https://openjdk.org/projects/jdk9/
@@ -1370,6 +1372,7 @@ https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-75
 https://www.joomla.org/announcements/release-news/5900-joomla-5-0-and-joomla-4-4-are-here
 https://www.lineageoslog.com/13.0
 https://www.lineageoslog.com/14.1
+https://www.microfocus.com/documentation/visual-cobol/vc100/DevHub/index.html
 https://www.microfocus.com/documentation/visual-cobol/vc70/VS2019/GUID-7ECA1D86-EC87-454D-B666-1047527FD9BF.html
 https://www.mongodb.com/docs/v4.0/release-notes/1.2/
 https://www.mongodb.com/docs/v4.0/release-notes/1.4/
