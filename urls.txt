@@ -887,7 +887,6 @@ https://github.com/angular/protractor/blob/release-5.4/CHANGELOG.md#544
 https://github.com/angular/protractor/blob/release-7.0/CHANGELOG.md#700
 https://github.com/ansible/ansible/blob/stable-2.9/changelogs/CHANGELOG-v2.9.rst
 https://github.com/apache/hbase/blob/rel/__LATEST__/CHANGES.txt
-https://github.com/apache/hop/releases/tag/2.9.0-rc1
 https://github.com/apache/logging-log4j2/blob/rel/__LATEST__/RELEASE-NOTES.md
 https://github.com/apache/logging-log4j2/blob/rel/__LATEST__/RELEASE-NOTES.txt
 https://github.com/corretto/corretto-jdk/blob/216fca10a21d6a26ca2846d4ca2861ea644a7a1e/CHANGELOG.md#january-2021-critical-patch-update-corretto-version-150271
@@ -956,6 +955,8 @@ https://hop.apache.org/blog/2023/06/hop-2.5.0/
 https://hop.apache.org/blog/2023/09/hop-2.6.0/
 https://hop.apache.org/blog/2023/12/hop-2.7.0/
 https://hop.apache.org/blog/2024/03/hop-2.8.0/
+https://hop.apache.org/blog/2024/05/hop-2.9.0/
+https://hop.apache.org/blog/2024/10/hop-2.10.0/
 https://kde.org/announcements/plasma/5/__LATEST__/
 https://laravel.com/docs/5.5/releases
 https://laravel.com/docs/5.8/releases
