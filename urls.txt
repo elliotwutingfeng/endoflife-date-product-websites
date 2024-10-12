@@ -283,6 +283,7 @@ https://confluence.atlassian.com/jirasoftware/issues-resolved-in-8-7-1-994312443
 https://confluence.atlassian.com/jirasoftware/issues-resolved-in-8-8-1-1003521744.html
 https://confluence.atlassian.com/jirasoftware/issues-resolved-in-8-9-1-1005349334.html
 https://confluence.atlassian.com/jirasoftware/jira-software-10-0-x-release-notes-1416825224.html
+https://confluence.atlassian.com/jirasoftware/jira-software-10-1-x-release-notes-1431966268.html
 https://confluence.atlassian.com/jirasoftware/jira-software-7-13-x-release-notes-957981568.html
 https://confluence.atlassian.com/jirasoftware/jira-software-8-13-x-release-notes-1018783360.html
 https://confluence.atlassian.com/jirasoftware/jira-software-8-20-x-release-notes-1086411771.html
@@ -744,11 +745,14 @@ https://docs.vmware.com/en/VMware-vSphere/6.0/rn/vsphere-vcenter-server-60u3j-re
 https://docs.vmware.com/en/VMware-vSphere/6.5/rn/esxi650-202403001.html
 https://docs.vmware.com/en/VMware-vSphere/6.5/rn/vsphere-vcenter-server-65u3u-release-notes.html
 https://docs.vmware.com/en/VMware-vSphere/6.7/rn/esxi670-202403001.html
-https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-vcenter-server-67u3s-release-notes.html
+https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-vcenter-server-67u3v-release-notes.html
 https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-esxi-70u3q-release-notes/index.html
-https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3r-release-notes/index.html
-https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-esxi-80u3b-release-notes/index.html
-https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-vcenter-server-80u3b-release-notes/index.html
+https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3s-release-notes/index.html
+https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-esxi-80d-release-notes/index.html
+https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-vcenter-server-80u3c-release-notes/index.html
+https://docs.xcp-ng.org/releases/release-8-1/
+https://docs.xcp-ng.org/releases/release-8-2/
+https://docs.xcp-ng.org/releases/release-8-3/
 https://documents.bmc.com/supportu/952/78/79/477879/477879.pdf
 https://downloads.apache.org/httpd/Announcement2.4.html
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11166
@@ -1367,12 +1371,6 @@ https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14
 https://www.devuan.org/os/announce/stable-jessie-announce-052517.html
 https://www.ibm.com/docs/aix/6.1?topic=aix-older-versions
 https://www.ibm.com/docs/aix/7.3?topic=notes-aix-73-release
-https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-61
-https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-71
-https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-72
-https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-73
-https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-74
-https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-75
 https://www.joomla.org/announcements/release-news/5900-joomla-5-0-and-joomla-4-4-are-here
 https://www.lineageoslog.com/13.0
 https://www.lineageoslog.com/14.1
@@ -1546,5 +1544,3 @@ https://www.veeam.com/kb4420
 https://www.verizon.com/support/samsung-galaxy-s20-5g-uw-update/
 https://www.zerto.com/press-releases/zerto-announces-general-availability-of-zerto-7-5-raising-the-bar-for-continuous-data-protection/
 https://www.zerto.com/wp-content/uploads/2020/03/whats-new-in-zerto-8-0_DS.pdf
-https://xcp-ng.org/docs/release-8-1.html
-https://xcp-ng.org/docs/release-8-2.html
