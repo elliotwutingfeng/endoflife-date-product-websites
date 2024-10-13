@@ -1371,6 +1371,12 @@ https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14
 https://www.devuan.org/os/announce/stable-jessie-announce-052517.html
 https://www.ibm.com/docs/aix/6.1?topic=aix-older-versions
 https://www.ibm.com/docs/aix/7.3?topic=notes-aix-73-release
+https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-61
+https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-71
+https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-72
+https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-73
+https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-74
+https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-75
 https://www.joomla.org/announcements/release-news/5900-joomla-5-0-and-joomla-4-4-are-here
 https://www.lineageoslog.com/13.0
 https://www.lineageoslog.com/14.1
