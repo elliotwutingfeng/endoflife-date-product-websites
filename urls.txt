@@ -364,7 +364,7 @@ https://doc.samsungmobile.com/SM-A310F/BTU/doc.html
 https://doc.samsungmobile.com/SM-A315F/MID/doc.html
 https://doc.samsungmobile.com/SM-A320FL/ITV/doc.html
 https://doc.samsungmobile.com/SM-A346E/INS/doc.html
-https://doc.samsungmobile.com/SM-A356E/029619240319/eng.html
+https://doc.samsungmobile.com/SM-A356U/TMB/doc.html
 https://doc.samsungmobile.com/SM-A405FN/XEH/doc.html
 https://doc.samsungmobile.com/SM-A415F/TMH/doc.html
 https://doc.samsungmobile.com/SM-A426B/XEF/doc.html
@@ -631,6 +631,7 @@ https://doc.samsungmobile.com/sm-p205/xtc/doc.html
 https://doc.samsungmobile.com/sm-r500/xar/doc.html
 https://doc.samsungmobile.com/sm-r825f/dbt/doc.html
 https://doc.samsungmobile.com/sm-r850/btu/doc.html
+https://doc.samsungmobile.com/sm-s721u/tmb/doc.html
 https://doc.samsungmobile.com/sm-t307u/glw/doc.html
 https://doc.samsungmobile.com/sm-t866n/koo/doc.html
 https://doc.samsungmobile.com/sm-x710/eux/doc.html
