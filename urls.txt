@@ -744,13 +744,10 @@ https://docs.vmware.com/en/VMware-vSphere/5.5/rn/vsphere-esxi-55u3k-release-note
 https://docs.vmware.com/en/VMware-vSphere/6.0/rn/esxi600-202002001.html
 https://docs.vmware.com/en/VMware-vSphere/6.0/rn/vsphere-vcenter-server-60u3j-release-notes.html
 https://docs.vmware.com/en/VMware-vSphere/6.5/rn/esxi650-202403001.html
-https://docs.vmware.com/en/VMware-vSphere/6.5/rn/vsphere-vcenter-server-65u3u-release-notes.html
+https://docs.vmware.com/en/VMware-vSphere/6.5/rn/vsphere-vcenter-server-65u3w-release-notes.html
 https://docs.vmware.com/en/VMware-vSphere/6.7/rn/esxi670-202403001.html
-https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-vcenter-server-67u3v-release-notes.html
 https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-esxi-70u3q-release-notes/index.html
-https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3s-release-notes/index.html
 https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-esxi-80d-release-notes/index.html
-https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-vcenter-server-80u3c-release-notes/index.html
 https://docs.xcp-ng.org/releases/release-8-1/
 https://docs.xcp-ng.org/releases/release-8-2/
 https://docs.xcp-ng.org/releases/release-8-3/
@@ -918,6 +915,7 @@ https://github.com/unrealircd/unrealircd/blob/unreal60_dev/doc/RELEASE-NOTES.md#
 https://github.com/vuejs/vue/releases/tag/v__LATEST__
 https://github.com/yarnpkg/yarn/releases/tag/v__LATEST__
 https://go2docs.graylog.org/4-0/changelogs/changelog.html#Graylog3317
+https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog{{'__LATEST__'|replace:'.',''}}
 https://godotengine.org/article/godot-engine-reaches-1-0/
 https://godotengine.org/article/maintenance-release-godot-2-0-4
 https://graylog.org/post/announcing-graylog-2-1-3/
@@ -963,6 +961,9 @@ https://hop.apache.org/blog/2024/03/hop-2.8.0/
 https://hop.apache.org/blog/2024/05/hop-2.9.0/
 https://hop.apache.org/blog/2024/10/hop-2.10.0/
 https://kde.org/announcements/plasma/5/__LATEST__/
+https://knowledge.broadcom.com/external/article/380036
+https://knowledge.broadcom.com/external/article/380063
+https://knowledge.broadcom.com/external/article/380603
 https://laravel.com/docs/5.5/releases
 https://laravel.com/docs/5.8/releases
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019#azure-devops-server-201901-patch-16-release-date-november-14-2023
