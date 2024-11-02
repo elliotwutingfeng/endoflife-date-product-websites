@@ -974,6 +974,7 @@ https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022#az
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-4-release-date-june-11-2024
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-20222-rtw-release-date-july-9-2024
 https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions?tabs=azure-cli#aks-kubernetes-release-calendar
+https://learn.microsoft.com/en-us/lifecycle/products/office-ltsc-2024
 https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-core
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1507-cb-cbb-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1511-end-of-servicing
@@ -1001,6 +1002,7 @@ https://learn.microsoft.com/lifecycle/products/microsoft-office-2016
 https://learn.microsoft.com/lifecycle/products/microsoft-office-2019
 https://learn.microsoft.com/lifecycle/products/microsoft-office-for-mac-2011
 https://learn.microsoft.com/lifecycle/products/office-2021
+https://learn.microsoft.com/lifecycle/products/office-2024
 https://learn.microsoft.com/lifecycle/products/windows-10-enterprise-and-education
 https://learn.microsoft.com/lifecycle/products/windows-7
 https://learn.microsoft.com/lifecycle/products/windows-8
