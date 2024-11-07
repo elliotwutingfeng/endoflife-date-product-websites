@@ -364,7 +364,7 @@ https://doc.samsungmobile.com/SM-A310F/BTU/doc.html
 https://doc.samsungmobile.com/SM-A315F/MID/doc.html
 https://doc.samsungmobile.com/SM-A320FL/ITV/doc.html
 https://doc.samsungmobile.com/SM-A346E/INS/doc.html
-https://doc.samsungmobile.com/SM-A356U/TMB/doc.html
+https://doc.samsungmobile.com/SM-A356E/NPB/doc.html
 https://doc.samsungmobile.com/SM-A405FN/XEH/doc.html
 https://doc.samsungmobile.com/SM-A415F/TMH/doc.html
 https://doc.samsungmobile.com/SM-A426B/XEF/doc.html
@@ -426,7 +426,7 @@ https://doc.samsungmobile.com/SM-G160N/KOO/doc.html
 https://doc.samsungmobile.com/SM-G389F/ATO/doc.html
 https://doc.samsungmobile.com/SM-G390F/ATO/doc.html
 https://doc.samsungmobile.com/SM-G398FN/ATO/doc.html
-https://doc.samsungmobile.com/SM-G525N/KOO/doc.html
+https://doc.samsungmobile.com/SM-G525F/XNZ/doc.html
 https://doc.samsungmobile.com/SM-G570F/SER/doc.html
 https://doc.samsungmobile.com/SM-G600S/SKC/doc.html
 https://doc.samsungmobile.com/SM-G6100/TGY/doc.html
@@ -659,6 +659,7 @@ https://docs.bmc.com/docs/controlm/9019/control-m-version-9-0-19-200-release-not
 https://docs.bmc.com/docs/controlm/9020/control-m-version-9-0-20-200-release-notes-1007971086.html
 https://docs.bmc.com/docs/controlm/90201/control-m-9-0-21-200-release-notes-1238266316.html
 https://docs.centreon.com/docs/__RELEASE_CYCLE__/releases/centreon-core/#{{'__LATEST__'|replace:'.',''}}
+https://docs.centreon.com/docs/releases/centreon-os/
 https://docs.cfengine.com/docs/__RELEASE_CYCLE__/guide-latest-release-whatsnew-changelog-core.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-9.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2203-ltsr/whats-new/cumulative-update-5.html
@@ -715,7 +716,7 @@ https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-1
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-12-known-and-addressed-issues/pan-os-10-2-12-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-5-known-and-addressed-issues/pan-os-11-1-5-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-3-known-and-addressed-issues/pan-os-11-2-3-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-4-known-and-addressed-issues/pan-os-11-2-4-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/8-1/pan-os-release-notes/pan-os-8-1-addressed-issues/pan-os-8-1-24-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-release-notes/pan-os-9-0-addressed-issues/pan-os-9-0-17-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-release-notes/pan-os-9-1-addressed-issues/pan-os-9-1-19-addressed-issues
