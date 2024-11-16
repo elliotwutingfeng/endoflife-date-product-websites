@@ -977,6 +977,7 @@ https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#
 https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions?tabs=azure-cli#aks-kubernetes-release-calendar
 https://learn.microsoft.com/en-us/lifecycle/products/office-ltsc-2024
 https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-core
+https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate16
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1507-cb-cbb-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1511-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1607-end-of-servicing
@@ -1118,6 +1119,7 @@ https://support.apple.com/en-us/121032
 https://support.apple.com/en-us/121161
 https://support.apple.com/en-us/121163
 https://support.apple.com/en-us/121164
+https://support.apple.com/en-us/121202
 https://support.apple.com/kb/DL1894
 https://support.apple.com/kb/SP495
 https://support.apple.com/kb/SP565
@@ -1231,9 +1233,8 @@ https://support.microsoft.com/help/5021123
 https://support.microsoft.com/help/5024296
 https://support.microsoft.com/help/5029185
 https://support.microsoft.com/help/5037224
-https://support.microsoft.com/help/5046059
-https://support.microsoft.com/help/5046061
-https://support.microsoft.com/help/5046063
+https://support.microsoft.com/help/5046855
+https://support.microsoft.com/help/5046858
 https://support.microsoft.com/help/941203
 https://support.microsoft.com/help/983811
 https://support.microsoft.com/surface/surface-2-specifications-7a5aaf4f-9641-2c69-3747-ea4e2a161aae
