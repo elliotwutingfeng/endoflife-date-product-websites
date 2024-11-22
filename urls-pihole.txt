@@ -95,6 +95,7 @@ techcommunity.microsoft.com
 umbraco.com
 vmware.github.io
 web.archive.org
+wiki.centos.org
 wiki.mageia.org
 wikipedia.org
 www.amazon.com
