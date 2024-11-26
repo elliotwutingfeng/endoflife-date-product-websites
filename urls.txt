@@ -1092,6 +1092,9 @@ https://postmarketos.org/blog/2024/06/16/v24.06-release/
 https://service.oneplus.com/us/search/search-detail?id=2123192&articleIndex=2
 https://struts.apache.org/struts1eol-announcement.html
 https://support.apple.com/109035
+https://support.apple.com/119891
+https://support.apple.com/119893
+https://support.apple.com/121456
 https://support.apple.com/HT207979
 https://support.apple.com/HT208000
 https://support.apple.com/HT208010
