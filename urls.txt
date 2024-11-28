@@ -678,8 +678,10 @@ https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-475-14/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-515-105-01/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-525-147-05/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-535-183-06/
-https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-550-90-12/
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-535-216-03/
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-550-127-08/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-552-74/
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-565-57-01/
 https://docs.omnissa.com/bundle/horizon8-rnV2312.1/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2406/page/Horizon8-ReleaseNotes.html
@@ -1522,6 +1524,7 @@ https://www.raspberrypi.com/products/compute-module-3-plus/
 https://www.raspberrypi.com/products/compute-module-3/
 https://www.raspberrypi.com/products/compute-module-4/
 https://www.raspberrypi.com/products/compute-module-4s/
+https://www.raspberrypi.com/products/compute-module-5
 https://www.raspberrypi.com/products/raspberry-pi-1-model-a-plus/
 https://www.raspberrypi.com/products/raspberry-pi-1-model-b-plus/
 https://www.raspberrypi.com/products/raspberry-pi-2-model-b/
