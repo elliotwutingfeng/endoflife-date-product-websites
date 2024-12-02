@@ -350,6 +350,8 @@ https://doc.samsungmobile.com/SM-A135M/PET/doc.html
 https://doc.samsungmobile.com/SM-A136U/USC/doc.html
 https://doc.samsungmobile.com/SM-A137F/SFR/doc.html
 https://doc.samsungmobile.com/SM-A146B/INS/doc.html
+https://doc.samsungmobile.com/SM-A155F/EUX/doc.html
+https://doc.samsungmobile.com/SM-A156B/EUX/doc.html
 https://doc.samsungmobile.com/SM-A202F/DBT/doc.html
 https://doc.samsungmobile.com/SM-A205F/AFR/doc.html
 https://doc.samsungmobile.com/SM-A207F/XEH/doc.html
@@ -358,6 +360,7 @@ https://doc.samsungmobile.com/SM-A225F/TUR/doc.html
 https://doc.samsungmobile.com/SM-A226B/XEH/doc.html
 https://doc.samsungmobile.com/SM-A235M/PET/doc.html
 https://doc.samsungmobile.com/SM-A236U/DSA/doc.html
+https://doc.samsungmobile.com/SM-A256E/CHT/doc.html
 https://doc.samsungmobile.com/SM-A260F/ECT/doc.html
 https://doc.samsungmobile.com/SM-A305F/AFR/doc.html
 https://doc.samsungmobile.com/SM-A307GN/XXV/doc.html
