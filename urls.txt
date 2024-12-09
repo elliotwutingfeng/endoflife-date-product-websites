@@ -21,10 +21,10 @@ https://alpinelinux.org/posts/Alpine-3.10.9-3.11.11-3.12.7-released.html
 https://alpinelinux.org/posts/Alpine-3.11.13-3.12.9-3.13.7-released.html
 https://alpinelinux.org/posts/Alpine-3.12.12-3.13.10-3.14.6-3.15.4-released.html
 https://alpinelinux.org/posts/Alpine-3.14.10-3.15.8-3.16.5-released.html
-https://alpinelinux.org/posts/Alpine-3.15.10-3.16.7-3.17.5-3.18.3-released.html
+https://alpinelinux.org/posts/Alpine-3.15.11-3.16.8-3.17.6-3.18.5-released.html
 https://alpinelinux.org/posts/Alpine-3.16.9-3.17.7-3.18.6-released.html
-https://alpinelinux.org/posts/Alpine-3.19.1-released.html
-https://alpinelinux.org/posts/Alpine-3.20.0-released.html
+https://alpinelinux.org/posts/Alpine-3.17.10-3.18.9-3.19.4-3.20.3-released.html
+https://alpinelinux.org/posts/Alpine-3.21.0-released.html
 https://alpinelinux.org/posts/Alpine-3.9.6-and-3.10.5-released.html
 https://antixlinux.com/antix-16-3-full-iso-files-available/
 https://antixlinux.com/antix-17-4-1-now-out/
@@ -84,6 +84,8 @@ https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-ruby-3-3/
 https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eks-distro-kubernetes-version-1-30/
 https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-corretto-23-generally-available/
 https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eks-distro-kubernetes-version-1-31/
+https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-support-nodejs-22/
+https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-support-python-313/
 https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/
 https://aws.amazon.com/amazon-linux-ami/2018.03-release-notes/
 https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/
@@ -285,6 +287,7 @@ https://confluence.atlassian.com/jirasoftware/issues-resolved-in-8-9-1-100534933
 https://confluence.atlassian.com/jirasoftware/jira-software-10-0-x-release-notes-1416825224.html
 https://confluence.atlassian.com/jirasoftware/jira-software-10-1-x-release-notes-1431966268.html
 https://confluence.atlassian.com/jirasoftware/jira-software-10-2-x-release-notes-1455425728.html
+https://confluence.atlassian.com/jirasoftware/jira-software-10-3-x-release-notes-1472790887.html
 https://confluence.atlassian.com/jirasoftware/jira-software-7-13-x-release-notes-957981568.html
 https://confluence.atlassian.com/jirasoftware/jira-software-8-13-x-release-notes-1018783360.html
 https://confluence.atlassian.com/jirasoftware/jira-software-8-20-x-release-notes-1086411771.html
