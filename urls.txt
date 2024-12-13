@@ -238,6 +238,7 @@ https://confluence.atlassian.com/doc/confluence-8-8-release-notes-1346045267.htm
 https://confluence.atlassian.com/doc/confluence-8-9-release-notes-1384120473.html
 https://confluence.atlassian.com/doc/confluence-9-0-release-notes-1387867170.html
 https://confluence.atlassian.com/doc/confluence-9-1-release-notes-1431966396.html
+https://confluence.atlassian.com/doc/confluence-9-2-release-notes-1456345480.html
 https://confluence.atlassian.com/jira063/jira-3-0-3-release-notes-683541813.html
 https://confluence.atlassian.com/jira063/jira-3-1-1-release-notes-683541805.html
 https://confluence.atlassian.com/jira063/jira-3-10-2-release-notes-683541819.html
@@ -722,7 +723,7 @@ https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/globalprotect/6-3/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h6-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-12-known-and-addressed-issues/pan-os-10-2-12-h2-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-13-known-and-addressed-issues/pan-os-10-2-13-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-6-known-and-addressed-issues/pan-os-11-1-6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-4-known-and-addressed-issues/pan-os-11-2-4-h2-addressed-issues
@@ -975,6 +976,7 @@ https://hop.apache.org/blog/2023/12/hop-2.7.0/
 https://hop.apache.org/blog/2024/03/hop-2.8.0/
 https://hop.apache.org/blog/2024/05/hop-2.9.0/
 https://hop.apache.org/blog/2024/10/hop-2.10.0/
+https://hop.apache.org/blog/2024/12/hop-2.11.0/
 https://kde.org/announcements/plasma/5/__LATEST__/
 https://knowledge.broadcom.com/external/article/380036
 https://knowledge.broadcom.com/external/article/380063
@@ -1545,6 +1547,7 @@ https://www.raspberrypi.com/products/raspberry-pi-3-model-b/
 https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
 https://www.raspberrypi.com/products/raspberry-pi-400-unit/
 https://www.raspberrypi.com/products/raspberry-pi-5/
+https://www.raspberrypi.com/products/raspberry-pi-500/
 https://www.raspberrypi.com/products/raspberry-pi-pico/
 https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/
 https://www.raspberrypi.com/products/raspberry-pi-zero-w/
