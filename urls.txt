@@ -139,6 +139,7 @@ https://azure.microsoft.com/updates/generally-available-kubernetes-126-support-i
 https://bakery.cakephp.org/2012/02/06/CakePHP-2-0-6-released.html
 https://bakery.cakephp.org/2012/07/14/Security-Release-CakePHP-2-1-5-2-2-1.html
 https://blog.centos.org/2021/12/introducing-centos-stream-9/
+https://blog.centos.org/2024/12/introducing-centos-stream-10/
 https://blog.jquery.com/2016/05/20/jquery-1-12-4-and-2-2-4-released/
 https://blog.jqueryui.com/2010/05/jquery-ui-173/
 https://blog.jqueryui.com/2012/09/jquery-ui-1-8-24/
@@ -1043,6 +1044,7 @@ https://learn.microsoft.com/lifecycle/products/windows-xp
 https://learn.microsoft.com/previous-versions/dotnet/netframework-4.0/ms171868(v=vs.100)
 https://learn.microsoft.com/previous-versions/mt752379(v=vs.140)
 https://learn.microsoft.com/troubleshoot/developer/visualstudio/installation/visual-studio-2012-update-4
+https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2019/cumulativeupdate30
 https://learn.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2015-update4-vs#details-of-whats-new-in-team-foundation-server-2015-update-42-patch-8
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2017-update3#details-of-whats-new-in-team-foundation-server-2017-update-31-patch-15
@@ -1242,9 +1244,9 @@ https://support.microsoft.com/en-us/topic/list-of-changes-and-fixed-issues-in-th
 https://support.microsoft.com/help/2716427
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002650
-https://support.microsoft.com/help/5002651
-https://support.microsoft.com/help/5002654
+https://support.microsoft.com/help/5002657
+https://support.microsoft.com/help/5002658
+https://support.microsoft.com/help/5002659
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
 https://support.microsoft.com/help/5021123
@@ -1252,7 +1254,6 @@ https://support.microsoft.com/help/5024296
 https://support.microsoft.com/help/5029185
 https://support.microsoft.com/help/5046855
 https://support.microsoft.com/help/5046858
-https://support.microsoft.com/help/5046860
 https://support.microsoft.com/help/5049233
 https://support.microsoft.com/help/941203
 https://support.microsoft.com/help/983811
