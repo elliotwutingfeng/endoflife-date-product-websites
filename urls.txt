@@ -1581,6 +1581,7 @@ https://www.raspberrypi.com/products/raspberry-pi-pico/
 https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/
 https://www.raspberrypi.com/products/raspberry-pi-zero-w/
 https://www.raspberrypi.com/products/raspberry-pi-zero/
+https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/8-9-lts/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/9-9-lts/
 https://www.sonarsource.com/products/sonarqube/whats-new/sonarqube-10-0/
