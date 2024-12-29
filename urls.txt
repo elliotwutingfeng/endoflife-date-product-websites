@@ -723,7 +723,7 @@ https://docs.paloaltonetworks.com/globalprotect/6-1/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/6-3/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h6-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h6-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h8-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-13-known-and-addressed-issues/pan-os-10-2-13-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-6-known-and-addressed-issues/pan-os-11-1-6-addressed-issues
@@ -1108,6 +1108,7 @@ https://postmarketos.org/blog/2022/12/18/v22.12-release/
 https://postmarketos.org/blog/2023/06/07/v23.06-release/
 https://postmarketos.org/blog/2023/12/18/v23.12-release/
 https://postmarketos.org/blog/2024/06/16/v24.06-release/
+https://postmarketos.org/blog/2024/12/23/v24.12-release/
 https://service.oneplus.com/us/search/search-detail?id=2123192&articleIndex=2
 https://struts.apache.org/struts1eol-announcement.html
 https://support.apple.com/109035
