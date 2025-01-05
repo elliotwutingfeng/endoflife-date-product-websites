@@ -11,6 +11,7 @@ aws.amazon.com
 azure.microsoft.com
 bakery.cakephp.org
 blog.centos.org
+blog.emberjs.com
 blog.jquery.com
 blog.jqueryui.com
 blog.linuxmint.com
