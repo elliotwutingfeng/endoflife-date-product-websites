@@ -93,6 +93,7 @@ supportline.microfocus.com
 svn.apache.org
 symfony.com
 techcommunity.microsoft.com
+techdocs.broadcom.com
 umbraco.com
 vmware.github.io
 web.archive.org
@@ -108,7 +109,6 @@ www.ibm.com
 www.joomla.org
 www.lineageoslog.com
 www.microfocus.com
-www.mongodb.com
 www.nokia.com
 www.nvidia.com
 www.oneplus.com
