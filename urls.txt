@@ -1436,7 +1436,7 @@ https://www.betaarchive.com/wiki/index.php?title=Microsoft_KB_Archive/152616
 https://www.betaarchive.com/wiki/index.php?title=Microsoft_KB_Archive/238621
 https://www.betaarchive.com/wiki/index.php?title=Microsoft_KB_Archive/937545
 https://www.debian.org/News/2022/20220910
-https://www.debian.org/News/2024/20240629
+https://www.debian.org/News/2025/20250111
 https://www.devuan.org/os/announce/ascii-point-release-announce-112119
 https://www.devuan.org/os/announce/beowulf-point-release-announce-021421
 https://www.devuan.org/os/announce/chimaera-release-announce-2021-10-14
