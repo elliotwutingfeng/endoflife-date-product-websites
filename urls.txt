@@ -739,6 +739,8 @@ https://docs.paloaltonetworks.com/vm-series/9-0/pan-os-xfr-release-notes/pan-os-
 https://docs.plesk.com/release-notes/onyx/change-log/
 https://docs.ros.org/en/rolling/Releases/Release-Ardent-Apalone.html
 https://docs.ros.org/en/rolling/Releases/Release-Bouncy-Bolson.html
+https://docs.saltproject.io/en/latest/topics/releases/3004.2.html
+https://docs.saltproject.io/en/latest/topics/releases/3005.5.html
 https://docs.saltproject.io/en/latest/topics/releases/__LATEST__.html
 https://docs.splunk.com/Documentation/Splunk/7.0.13/ReleaseNotes/MeetSplunk
 https://docs.splunk.com/Documentation/Splunk/7.2.10/ReleaseNotes/MeetSplunk
@@ -764,6 +766,14 @@ https://docs.xcp-ng.org/releases/release-8-2/
 https://docs.xcp-ng.org/releases/release-8-3/
 https://documents.bmc.com/supportu/952/78/79/477879/477879.pdf
 https://downloads.apache.org/httpd/Announcement2.4.html
+https://downloads.haskell.org/~ghc/8.0.2/docs/html/users_guide/8.0.2-notes.html
+https://downloads.haskell.org/~ghc/8.10.7/docs/html/users_guide/8.10.7-notes.html
+https://downloads.haskell.org/~ghc/8.2.2/docs/html/users_guide/8.2.2-notes.html
+https://downloads.haskell.org/~ghc/8.4.4/docs/html/users_guide/8.4.4-notes.html
+https://downloads.haskell.org/~ghc/8.6.5/docs/html/users_guide/8.6.5-notes.html
+https://downloads.haskell.org/~ghc/8.8.4/docs/html/users_guide/8.8.4-notes.html
+https://downloads.haskell.org/~ghc/9.0.2/docs/html/users_guide/9.0.2-notes.html
+https://downloads.haskell.org/~ghc/__LATEST__/docs/html/users_guide/__LATEST__-notes.html
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11166
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11167
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11168
@@ -1078,7 +1088,6 @@ https://lineageos.org/Changelog-25/
 https://lineageos.org/Changelog-26/
 https://lineageos.org/Changelog-27/
 https://lineageos.org/Changelog-28/
-https://listman.redhat.com/archives/rhsa-announce/2010-April/000713.html
 https://lists.debian.org/debian-announce/1996/msg00021.html
 https://lists.debian.org/debian-announce/1996/msg00026.html
 https://lists.debian.org/debian-announce/1997/msg00018.html
@@ -1390,10 +1399,12 @@ https://web.archive.org/web/20230529015218/https://doc.opensuse.org/release-note
 https://web.archive.org/web/20230716101428/https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.3/
 https://web.archive.org/web/20230921152724/https://www.oracle.com/database/technologies/oracle9i.html
 https://web.archive.org/web/20231128204444/https://doc.opensuse.org/release-notes/x86_64/openSUSE/13.2/
+https://web.archive.org/web/20240225123551/https://listman.redhat.com/archives/rhsa-announce/2010-April/000713.html
 https://web.archive.org/web/20240229083418/https://doc.opensuse.org/release-notes/x86_64/openSUSE/13.1/
 https://web.archive.org/web/20240411094103/https://www.mongodb.com/docs/v4.2/release-notes/4.2/
 https://web.archive.org/web/20240519012550/https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.1/
 https://web.archive.org/web/20240519013538/https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.2/
+https://web.archive.org/web/20240814204109/https://www.qt.io/blog/2015/05/26/qt-4-8-7-released
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS5(2e)11.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS6(2e)10.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS7(2e)2009.html
@@ -1566,8 +1577,8 @@ https://www.puppet.com/docs/puppet/5.5/release_notes.html
 https://www.puppet.com/docs/puppet/6/release_notes_puppet.html#release_notes_puppet
 https://www.puppet.com/docs/puppet/7/release_notes_puppet.html#release_notes_puppet_x-7-25-0
 https://www.puppet.com/docs/puppet/8/release_notes_puppet.html#release_notes_puppet_x-8-1-0
-https://www.qt.io/blog/2015/05/26/qt-4-8-7-released
 https://www.qt.io/blog/2017/09/21/qt-5-6-3-released
+https://www.qt.io/blog/commercial-lts-qt-6.5.8-released
 https://www.qt.io/blog/qt-5.14-has-released
 https://www.raspberrypi.com/news/model-a-now-for-sale-in-europe-buy-one-today/
 https://www.raspberrypi.com/news/the-raspberry-pi-launch/

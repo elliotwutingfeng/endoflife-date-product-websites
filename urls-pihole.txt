@@ -52,6 +52,7 @@ docs.vmware.com
 docs.xcp-ng.org
 documents.bmc.com
 downloads.apache.org
+downloads.haskell.org
 en-us.support.motorola.com
 en.opensuse.org
 en.wikipedia.org
@@ -71,7 +72,6 @@ knowledge.broadcom.com
 laravel.com
 learn.microsoft.com
 lineageos.org
-listman.redhat.com
 lists.debian.org
 logging.apache.org
 maven.apache.org
