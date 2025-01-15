@@ -675,7 +675,7 @@ https://docs.centreon.com/docs/__RELEASE_CYCLE__/releases/centreon-core/#{{'__LA
 https://docs.centreon.com/docs/releases/centreon-os/
 https://docs.cfengine.com/docs/__RELEASE_CYCLE__/guide-latest-release-whatsnew-changelog-core.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-10.html
-https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2203-ltsr/whats-new/cumulative-update-5.html
+https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2203-ltsr/whats-new/cumulative-update-6.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2402-ltsr/whats-new/cumulative-update-1.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/whats-new.html
 https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/whats-new/cumulative-update-9.html
@@ -728,7 +728,7 @@ https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/globalprotect/6-3/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h8-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-13-known-and-addressed-issues/pan-os-10-2-13-h1-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-13-known-and-addressed-issues/pan-os-10-2-13-h2-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-6-known-and-addressed-issues/pan-os-11-1-6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-4-known-and-addressed-issues/pan-os-11-2-4-h2-addressed-issues
@@ -1088,6 +1088,7 @@ https://lineageos.org/Changelog-25/
 https://lineageos.org/Changelog-26/
 https://lineageos.org/Changelog-27/
 https://lineageos.org/Changelog-28/
+https://lineageos.org/Changelog-29/
 https://lists.debian.org/debian-announce/1996/msg00021.html
 https://lists.debian.org/debian-announce/1996/msg00026.html
 https://lists.debian.org/debian-announce/1997/msg00018.html
