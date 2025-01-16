@@ -1289,9 +1289,9 @@ https://support.microsoft.com/help/4500180
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/4505221
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002657
-https://support.microsoft.com/help/5002658
-https://support.microsoft.com/help/5002659
+https://support.microsoft.com/help/5002666
+https://support.microsoft.com/help/5002672
+https://support.microsoft.com/help/5002676
 https://support.microsoft.com/help/5014351
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
@@ -1454,6 +1454,13 @@ https://www.devuan.org/os/announce/beowulf-point-release-announce-021421
 https://www.devuan.org/os/announce/chimaera-release-announce-2021-10-14
 https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14
 https://www.devuan.org/os/announce/stable-jessie-announce-052517.html
+https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-10-Release-Notes/td-p/764361
+https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-12-Release-Notes/td-p/776930
+https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-14-Release-Notes/td-p/791617
+https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-16-Release-Notes/td-p/805026
+https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-20-Release-Notes/m-p/831705
+https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-8-Release-Notes/td-p/749331
+https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-25-0-Release-Notes/m-p/860290
 https://www.ibm.com/docs/aix/6.1?topic=aix-older-versions
 https://www.ibm.com/docs/aix/7.3?topic=notes-aix-73-release
 https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-61
