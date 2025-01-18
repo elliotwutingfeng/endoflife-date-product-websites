@@ -171,8 +171,8 @@ https://blog.linuxmint.com/?p=4624
 https://blog.linuxmint.com/?p=4731
 https://blog.pcisecuritystandards.org/just-published-pci-dss-v4-0-1
 https://blog.pcisecuritystandards.org/pci-dss-v4-0-resource-hub
+https://blog.system76.com/post/670564272872488960/popos-2110-has-landed
 https://blog.system76.com/post/popos-2104-a-release-of-cosmic-proportions
-https://blog.system76.com/post/popos-2110-has-landed
 https://blog.system76.com/post/popos-2204-lts-has-landed
 https://blogs.oracle.com/apex/post/announcing-oracle-apex-182
 https://blogs.oracle.com/apex/post/oracle-announces-oracle-application-express-51
@@ -609,6 +609,7 @@ https://doc.samsungmobile.com/SM-X816B/INS/doc.html
 https://doc.samsungmobile.com/SM-X906B/XXV/doc.html
 https://doc.samsungmobile.com/SM-X910/XJP/doc.html
 https://doc.samsungmobile.com/sm-a215u/usc/doc.html
+https://doc.samsungmobile.com/sm-a245f/pak/doc.html
 https://doc.samsungmobile.com/sm-a325f/ins/doc.html
 https://doc.samsungmobile.com/sm-a326u/tmb/doc.html
 https://doc.samsungmobile.com/sm-a336e/ins/doc.html
@@ -1004,7 +1005,7 @@ https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#
 https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions?tabs=azure-cli#aks-kubernetes-release-calendar
 https://learn.microsoft.com/en-us/lifecycle/products/office-ltsc-2024
 https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-core
-https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate16
+https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate17
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1507-cb-cbb-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1511-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1607-end-of-servicing
@@ -1461,6 +1462,7 @@ https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-16-Release-
 https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-20-Release-Notes/m-p/831705
 https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-8-Release-Notes/td-p/749331
 https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-25-0-Release-Notes/m-p/860290
+https://www.hmd.com/en_int/support/nokia-6-user-guide/
 https://www.ibm.com/docs/aix/6.1?topic=aix-older-versions
 https://www.ibm.com/docs/aix/7.3?topic=notes-aix-73-release
 https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-61
@@ -1495,7 +1497,6 @@ https://www.nokia.com/phones/en_int/nokia-5-1
 https://www.nokia.com/phones/en_int/nokia-5-3
 https://www.nokia.com/phones/en_int/nokia-5-4
 https://www.nokia.com/phones/en_int/nokia-5-plus
-https://www.nokia.com/phones/en_int/nokia-6-0
 https://www.nokia.com/phones/en_int/nokia-6-1
 https://www.nokia.com/phones/en_int/nokia-6-2
 https://www.nokia.com/phones/en_int/nokia-6-plus
