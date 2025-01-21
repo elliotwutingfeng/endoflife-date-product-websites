@@ -692,8 +692,7 @@ https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-515-105-01/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-525-147-05/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-535-183-06/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-535-216-03/
-https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-550-127-08/
-https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-552-74/
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-550-144-03/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-565-57-01/
 https://docs.omnissa.com/bundle/horizon8-rnV2312.1/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312/page/Horizon8-ReleaseNotes.html
