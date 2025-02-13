@@ -1269,9 +1269,9 @@ https://support.microsoft.com/help/4500180
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/4505221
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002666
-https://support.microsoft.com/help/5002672
-https://support.microsoft.com/help/5002676
+https://support.microsoft.com/help/5002678
+https://support.microsoft.com/help/5002681
+https://support.microsoft.com/help/5002685
 https://support.microsoft.com/help/5014351
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
@@ -1593,6 +1593,11 @@ https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/
 https://www.raspberrypi.com/products/raspberry-pi-zero-w/
 https://www.raspberrypi.com/products/raspberry-pi-zero/
 https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/
+https://www.sipwise.com/releases/2024/mr10.5
+https://www.sipwise.com/releases/2024/mr11.5
+https://www.sipwise.com/releases/2024/mr12.5
+https://www.sipwise.com/releases/2024/mr13.0
+https://www.sipwise.com/releases/2024/mr13.1
 https://www.sonarsource.com/products/sonarqube/downloads/lts/8-9-lts/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/9-9-lts/
 https://www.sonarsource.com/products/sonarqube/whats-new/sonarqube-10-0/
