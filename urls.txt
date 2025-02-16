@@ -709,7 +709,7 @@ https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/globalprotect/6-3/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h9-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-13-known-and-addressed-issues/pan-os-10-2-13-h3-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-13-known-and-addressed-issues/pan-os-10-2-13-h4-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-6-known-and-addressed-issues/pan-os-11-1-6-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-4-known-and-addressed-issues/pan-os-11-2-4-h4-addressed-issues
@@ -1341,6 +1341,8 @@ https://web.archive.org/web/20150402080108/http://antix.mepis.org/index.php?titl
 https://web.archive.org/web/20160105095436/http://antix.mepis.org/index.php?title=Main_Page
 https://web.archive.org/web/20190719183026/https://access.redhat.com/documentation/en-us/red_hat_satellite/6.0/html/release_notes/index
 https://web.archive.org/web/20190719230423/https://access.redhat.com/documentation/en-us/red_hat_satellite/6.1/html/release_notes/index
+https://web.archive.org/web/20190923124908/http://pubs.vmware.com/Release_Notes/en/vsphere/51/vsphere-vcenter-server-51u3d-release-notes.html
+https://web.archive.org/web/20190923125449/https://pubs.vmware.com/Release_Notes/en/vsphere/50/vsp_vc50_u3g_rel_notes.html
 https://web.archive.org/web/20210415073632/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.3/
 https://web.archive.org/web/20210920170406/https://docs.vmware.com/en/Site-Recovery-Manager/8.2/rn/srm-releasenotes-8-2-1-2.html
 https://web.archive.org/web/20210924031516/https://docs.vmware.com/en/vCenter-Site-Recovery-Manager/6.0/rn/srm-releasenotes-6-0-0.html
@@ -1387,7 +1389,6 @@ https://web.archive.org/web/20240411094103/https://www.mongodb.com/docs/v4.2/rel
 https://web.archive.org/web/20240519012550/https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.1/
 https://web.archive.org/web/20240519013538/https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.2/
 https://web.archive.org/web/20240814204109/https://www.qt.io/blog/2015/05/26/qt-4-8-7-released
-https://web.archive.org/web/20241226081944/https://docs.vmware.com/en/VMware-vSphere/5.5/vsphere-55-guide-archive.zip
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS5(2e)11.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS6(2e)10.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS7(2e)2009.html
@@ -1436,6 +1437,7 @@ https://www.devuan.org/os/announce/beowulf-point-release-announce-021421
 https://www.devuan.org/os/announce/chimaera-release-announce-2021-10-14
 https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14
 https://www.devuan.org/os/announce/stable-jessie-announce-052517.html
+https://www.findbugzero.com/operational-defect-database/vendors/vmware/defects/57478
 https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-10-Release-Notes/td-p/764361
 https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-12-Release-Notes/td-p/776930
 https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-14-Release-Notes/td-p/791617
