@@ -980,7 +980,7 @@ https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020#az
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-14-release-date-november-12-2024
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022#azure-devops-server-2022-update-01-patch-5-release-date-november-14-2023
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-4-release-date-june-11-2024
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-2022-update-2-patch-2-release-date-november-12-2024
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-2022-update-2-patch-3-release-date-february-11-2025
 https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions?tabs=azure-cli#aks-kubernetes-release-calendar
 https://learn.microsoft.com/en-us/lifecycle/products/office-ltsc-2024
 https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-core
@@ -1132,9 +1132,13 @@ https://support.apple.com/HT212597
 https://support.apple.com/HT212788
 https://support.apple.com/HT213268
 https://support.apple.com/HT213407
+https://support.apple.com/en-us/111927
 https://support.apple.com/en-us/111964
+https://support.apple.com/en-us/111965
+https://support.apple.com/en-us/111974
 https://support.apple.com/en-us/112024
 https://support.apple.com/en-us/118202
+https://support.apple.com/en-us/118452
 https://support.apple.com/en-us/118723
 https://support.apple.com/en-us/120283
 https://support.apple.com/en-us/121029
@@ -1557,6 +1561,7 @@ https://www.postfix.org/announcements/postfix-2.7.8.html
 https://www.postfix.org/announcements/postfix-2.9.6.html
 https://www.postfix.org/announcements/postfix-3.0.3.html
 https://www.postfix.org/announcements/postfix-3.1.1.html
+https://www.postfix.org/announcements/postfix-3.10.0.html
 https://www.postfix.org/announcements/postfix-3.2.5.html
 https://www.postfix.org/announcements/postfix-3.3.3.html
 https://www.postfix.org/announcements/postfix-3.4.9.html
@@ -1564,7 +1569,7 @@ https://www.postfix.org/announcements/postfix-3.5.10.html
 https://www.postfix.org/announcements/postfix-3.6.5.html
 https://www.postfix.org/announcements/postfix-3.7.5.html
 https://www.postfix.org/announcements/postfix-3.8.6.html
-https://www.postfix.org/announcements/postfix-3.9.0.html
+https://www.postfix.org/announcements/postfix-3.9.2.html
 https://www.puppet.com/docs/puppet/5.5/release_notes.html
 https://www.puppet.com/docs/puppet/6/release_notes_puppet.html#release_notes_puppet
 https://www.puppet.com/docs/puppet/7/release_notes_puppet.html#release_notes_puppet_x-7-25-0
