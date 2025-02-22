@@ -940,7 +940,7 @@ https://help.akeneo.com/en_US/everything-you-need-to-know-about-our-pim-versions
 https://help.akeneo.com/en_US/everything-you-need-to-know-about-our-pim-versions#v14
 https://help.akeneo.com/en_US/everything-you-need-to-know-about-our-pim-versions#v15
 https://help.claris.com/en/server-release-notes/content/index.html
-https://help.sonatype.com/en/sonatype-nexus-repository-{{'__RELEASE_CYCLE__'|replace:'.','-'}}-0-release-notes.html
+https://help.sonatype.com/en/orientdb-downloads.html
 https://help.sonatype.com/repomanager2/release-notes
 https://help.zerto.com/bundle/RN.95.HTML/page/9.5_Whats_New.htm
 https://help.zerto.com/bundle/RN.HTML.10.0/page/10.0_Whats_New.htm
