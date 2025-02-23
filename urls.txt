@@ -968,6 +968,7 @@ https://hop.apache.org/blog/2024/03/hop-2.8.0/
 https://hop.apache.org/blog/2024/05/hop-2.9.0/
 https://hop.apache.org/blog/2024/10/hop-2.10.0/
 https://hop.apache.org/blog/2024/12/hop-2.11.0/
+https://hop.apache.org/blog/2025/02/hop-2.12.0/
 https://kde.org/announcements/plasma/5/__LATEST__/
 https://knowledge.broadcom.com/external/article/380036
 https://knowledge.broadcom.com/external/article/380063
@@ -1605,6 +1606,7 @@ https://www.sipwise.com/releases/2024/mr11.5
 https://www.sipwise.com/releases/2024/mr12.5
 https://www.sipwise.com/releases/2024/mr13.0
 https://www.sipwise.com/releases/2024/mr13.1
+https://www.sipwise.com/releases/2025/mr13.2
 https://www.sonarsource.com/products/sonarqube/downloads/lts/8-9-lts/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/9-9-lts/
 https://www.sonarsource.com/products/sonarqube/whats-new/sonarqube-10-0/
