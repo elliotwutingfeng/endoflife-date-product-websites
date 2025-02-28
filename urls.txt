@@ -658,7 +658,7 @@ https://docs.centreon.com/docs/releases/centreon-os/
 https://docs.cfengine.com/docs/__RELEASE_CYCLE__/guide-latest-release-whatsnew-changelog-core.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-10.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2203-ltsr/whats-new/cumulative-update-6.html
-https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2402-ltsr/whats-new/cumulative-update-1.html
+https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2402-ltsr/whats-new/cumulative-update-2.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/whats-new.html
 https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/whats-new/cumulative-update-9.html
 https://docs.daocloud.io/en/dce/dce-rn/20240730.html
@@ -1601,7 +1601,6 @@ https://www.raspberrypi.com/products/raspberry-pi-pico/
 https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/
 https://www.raspberrypi.com/products/raspberry-pi-zero-w/
 https://www.raspberrypi.com/products/raspberry-pi-zero/
-https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/
 https://www.sipwise.com/releases/2024/mr10.5
 https://www.sipwise.com/releases/2024/mr11.5
 https://www.sipwise.com/releases/2024/mr12.5
