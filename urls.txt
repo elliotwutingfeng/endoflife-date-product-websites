@@ -673,7 +673,7 @@ https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-525-147-05/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-535-230-02/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-550-144-03/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-565-57-01/
-https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-570-86-15/
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-570-124-06/
 https://docs.omnissa.com/bundle/horizon8-rnV2312.1/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2406/page/Horizon8-ReleaseNotes.html
@@ -1374,8 +1374,8 @@ https://techcommunity.microsoft.com/t5/windows-it-pro-blog/end-of-service-remind
 https://techcommunity.microsoft.com/t5/windows-server-for-developers/windows-server-version-1709-lifecycle-announcement/m-p/379766
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-5/release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-7/release-notes/vcenter-server-update-and-patch-releases.html
-https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-70u3r-release-notes.html
-https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-80d-release-notes.html
+https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-70u3s-release-notes.html
+https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-80u3d-release-notes.html
 https://umbraco.com/products/knowledge-center/long-term-support-and-end-of-life/umbraco-6-end-of-life-eol/
 https://vmware.github.io/photon/assets/files/html/3.0/What-is-New-in-Photon-OS-3.0.html
 https://web.archive.org/web/20070714051039/http://www.apple.com/iphone/specs.html
