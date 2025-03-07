@@ -85,6 +85,7 @@ https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eks-distro-kubernetes-
 https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eks-distro-kubernetes-version-1-31/
 https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-support-nodejs-22/
 https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-support-python-313/
+https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-5-0/
 https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/
 https://aws.amazon.com/amazon-linux-ami/2018.03-release-notes/
 https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/
