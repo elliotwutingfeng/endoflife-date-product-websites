@@ -1059,6 +1059,7 @@ https://learn.microsoft.com/lifecycle/products/windows-server-annual-channel
 https://learn.microsoft.com/lifecycle/products/windows-server-semiannual-channel
 https://learn.microsoft.com/lifecycle/products/windows-vista
 https://learn.microsoft.com/lifecycle/products/windows-xp
+https://learn.microsoft.com/powershell/scripting/install/powershell-support-lifecycle?view=powershell-5.1#windows-powershell-release-history
 https://learn.microsoft.com/previous-versions/dotnet/netframework-4.0/ms171868(v=vs.100)
 https://learn.microsoft.com/previous-versions/mt752379(v=vs.140)
 https://learn.microsoft.com/troubleshoot/developer/visualstudio/installation/visual-studio-2012-update-4
