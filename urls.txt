@@ -1122,6 +1122,7 @@ https://mxlinux.org/blog/mx-18-3-refreshed-isos-now-available/
 https://mxlinux.org/blog/mx-19-4-now-available/
 https://mxlinux.org/blog/mx-21-3-wildflower-released/
 https://mxlinux.org/blog/mx-23-libretto-now-available/
+https://neo4j.com/developer/kb/neo4j-supported-versions/#_neo4j_database_enterprise_edition_2025
 https://neo4j.com/release-notes/database/neo4j-5/
 https://nginx.org/en/CHANGES
 https://nixos.org/manual/nix/stable/release-notes/rl-1.11
