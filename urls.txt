@@ -14,7 +14,6 @@ https://activemq.apache.org/activemq-5012002-release
 https://activemq.apache.org/activemq-5013004-release
 https://activemq.apache.org/activemq-{{'__LATEST__'|replace:'.','0'}}-release
 https://activemq.apache.org/activemq-{{'__LATEST__'|replace:'.','00'}}-release
-https://activemq.apache.org/components/classic/download/classic-06-01-02
 https://almalinux.org/blog/2024-05-28-announcing-810-stable/
 https://almalinux.org/blog/2024-11-18-announcing-95-stable/
 https://alpinelinux.org/posts/Alpine-3.10.9-3.11.11-3.12.7-released.html
@@ -32,6 +31,9 @@ https://antixlinux.com/antix-19-5-point-release-update/
 https://antixlinux.com/antix-22-released/
 https://antixlinux.com/antix-23-released/
 https://antixlinux.com/forum-archive/antix-15-released-t5697.html
+https://archive.apache.org/dist/httpd/CHANGES_1.3.42
+https://archive.apache.org/dist/httpd/CHANGES_2.0.65
+https://archive.apache.org/dist/httpd/CHANGES_2.2.34
 https://archive.apache.org/dist/kafka/__LATEST__/RELEASE_NOTES.html
 https://archive.apache.org/dist/kafka/old_releases/kafka-0.7.2-incubating/RELEASE-NOTES.html
 https://archive.docs.mulesoft.com/release-notes/mule-runtime/mule-3.8.7-release-notes
@@ -637,6 +639,9 @@ https://docs-older.centreon.com/docs/centreon/en/latest/release_notes/centreon-1
 https://docs-older.centreon.com/docs/centreon/en/latest/release_notes/centreon-19.04.html
 https://docs-older.centreon.com/docs/centreon/en/latest/release_notes/centreon-19.10.html
 https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI_DSS_Summary_of_Changes_3-2-1.pdf
+https://docs.aws.amazon.com/eks/latest/userguide/platform-versions.html#platform-versions-1-24
+https://docs.aws.amazon.com/eks/latest/userguide/platform-versions.html#platform-versions-1-25
+https://docs.aws.amazon.com/eks/latest/userguide/platform-versions.html#platform-versions-1-26
 https://docs.aws.amazon.com/glue/latest/dg/glue-version-support-policy.html
 https://docs.azul.com/core/release/august-2022-11.58-17.36-18.32/release-notes/release-notes
 https://docs.azul.com/core/release/january-2023/release-notes/release-notes
@@ -746,7 +751,7 @@ https://docs.xcp-ng.org/releases/release-8-1/
 https://docs.xcp-ng.org/releases/release-8-2/
 https://docs.xcp-ng.org/releases/release-8-3/
 https://documents.bmc.com/supportu/952/78/79/477879/477879.pdf
-https://downloads.apache.org/httpd/Announcement2.4.html
+https://downloads.apache.org/httpd/CHANGES_2.4.63
 https://downloads.haskell.org/~ghc/8.0.2/docs/html/users_guide/8.0.2-notes.html
 https://downloads.haskell.org/~ghc/8.10.7/docs/html/users_guide/8.10.7-notes.html
 https://downloads.haskell.org/~ghc/8.2.2/docs/html/users_guide/8.2.2-notes.html
