@@ -39,6 +39,7 @@ docs.centreon.com
 docs.cfengine.com
 docs.citrix.com
 docs.daocloud.io
+docs.fedoraproject.org
 docs.mulesoft.com
 docs.nvidia.com
 docs.omnissa.com
