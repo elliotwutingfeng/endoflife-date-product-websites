@@ -88,6 +88,7 @@ https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eks-distro-kubernetes-
 https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-support-nodejs-22/
 https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-support-python-313/
 https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-5-0/
+https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-support-ruby-3-4/
 https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/
 https://aws.amazon.com/amazon-linux-ami/2018.03-release-notes/
 https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/
@@ -145,6 +146,7 @@ https://blog.centos.org/2024/12/introducing-centos-stream-10/
 https://blog.emberjs.com/ember-6-0-released/
 https://blog.emberjs.com/ember-released-6-1/
 https://blog.emberjs.com/ember-released-6-2/
+https://blog.emberjs.com/ember-released-6-3/
 https://blog.jquery.com/2016/05/20/jquery-1-12-4-and-2-2-4-released/
 https://blog.jqueryui.com/2010/05/jquery-ui-173/
 https://blog.jqueryui.com/2012/09/jquery-ui-1-8-24/
