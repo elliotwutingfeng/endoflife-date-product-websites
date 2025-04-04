@@ -1172,6 +1172,9 @@ https://neo4j.com/release-notes/database/neo4j-{{'__LATEST__'|replace:'.','-'}}/
 https://nginx.org/en/CHANGES
 https://nixos.org/manual/nix/stable/release-notes/rl-1.11
 https://openjdk.org/projects/jdk9/
+https://openssl-library.org/news/vulnerabilities-0.9.8/
+https://openssl-library.org/news/vulnerabilities-1.0.0/
+https://openssl-library.org/news/vulnerabilities-1.0.1/
 https://openssl-library.org/news/vulnerabilities-1.0.2/
 https://openssl-library.org/news/vulnerabilities-1.1.0/
 https://openssl-library.org/news/vulnerabilities-1.1.1/
