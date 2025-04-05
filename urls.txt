@@ -7,7 +7,6 @@ http://web.archive.org/web/20230417021744/https://wiki.centos.org/Manuals/Releas
 http://www.squid-cache.org/Versions/v4/squid-__LATEST__-RELEASENOTES.html
 http://www.squid-cache.org/Versions/v5/squid-__LATEST__-RELEASENOTES.html
 http://www.squid-cache.org/Versions/v6/squid-__LATEST__-RELEASENOTES.html
-https://access.redhat.com/documentation/en-us/jboss_enterprise_application_platform/5/html/release_notes_5.2.0
 https://access.redhat.com/errata/RHSA-2013:0249
 https://activemq.apache.org/activemq-5011003-release
 https://activemq.apache.org/activemq-5012002-release
@@ -1475,6 +1474,7 @@ https://web.archive.org/web/20230519162206/https://docs.couchbase.com/server/6.0
 https://web.archive.org/web/20230521063245/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.3/
 https://web.archive.org/web/20230529015218/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.2/
 https://web.archive.org/web/20230716101428/https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.3/
+https://web.archive.org/web/20230821184117/https://access.redhat.com/documentation/en-us/jboss_enterprise_application_platform/5/html/release_notes_5.2.0/index
 https://web.archive.org/web/20230921152724/https://www.oracle.com/database/technologies/oracle9i.html
 https://web.archive.org/web/20231128204444/https://doc.opensuse.org/release-notes/x86_64/openSUSE/13.2/
 https://web.archive.org/web/20240225123551/https://listman.redhat.com/archives/rhsa-announce/2010-April/000713.html
