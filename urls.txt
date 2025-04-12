@@ -705,6 +705,9 @@ https://docs.fedoraproject.org/en-US/releases/f8/
 https://docs.fedoraproject.org/en-US/releases/f9/
 https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.5.0-release-notes
 https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.6.0-release-notes
+https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.7.0-release-notes
+https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.8.0-release-notes
+https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.9.0-release-notes
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-418-19702/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-450-248-02/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-460-106-00/
@@ -1040,8 +1043,6 @@ https://hop.apache.org/blog/2024/10/hop-2.10.0/
 https://hop.apache.org/blog/2024/12/hop-2.11.0/
 https://hop.apache.org/blog/2025/02/hop-2.12.0/
 https://kde.org/announcements/plasma/5/__LATEST__/
-https://knowledge.broadcom.com/external/article/380036
-https://knowledge.broadcom.com/external/article/380063
 https://knowledge.broadcom.com/external/article/380603
 https://laravel.com/docs/5.5/releases
 https://laravel.com/docs/5.8/releases
@@ -1350,9 +1351,9 @@ https://support.microsoft.com/help/4500180
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/4505221
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002678
-https://support.microsoft.com/help/5002685
-https://support.microsoft.com/help/5002698
+https://support.microsoft.com/help/5002691
+https://support.microsoft.com/help/5002692
+https://support.microsoft.com/help/5002705
 https://support.microsoft.com/help/5014351
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
@@ -1425,7 +1426,9 @@ https://techcommunity.microsoft.com/t5/windows-server-for-developers/windows-ser
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-5/release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-7/release-notes/vcenter-server-update-and-patch-releases.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-70u3s-release-notes.html
+https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/vcenter-server-update-and-patch-release-notes/vsphere-vcenter-server-70u3u-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-80u3d-release-notes.html
+https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/vcenter-server-update-and-patch-release-notes/vsphere-vcenter-server-80u3e-release-notes.html
 https://umbraco.com/products/knowledge-center/long-term-support-and-end-of-life/umbraco-6-end-of-life-eol/
 https://vmware.github.io/photon/assets/files/html/3.0/What-is-New-in-Photon-OS-3.0.html
 https://web.archive.org/web/20070714051039/http://www.apple.com/iphone/specs.html
