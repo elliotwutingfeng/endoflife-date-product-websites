@@ -1721,6 +1721,7 @@ https://www.veeam.com/kb2970
 https://www.veeam.com/kb3161
 https://www.veeam.com/kb4126
 https://www.veeam.com/kb4420
+https://www.veeam.com/kb4705
 https://www.verizon.com/support/samsung-galaxy-s20-5g-uw-update/
 https://www.zerto.com/press-releases/zerto-announces-general-availability-of-zerto-7-5-raising-the-bar-for-continuous-data-protection/
 https://www.zerto.com/wp-content/uploads/2020/03/whats-new-in-zerto-8-0_DS.pdf
