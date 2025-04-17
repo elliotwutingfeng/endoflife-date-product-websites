@@ -886,6 +886,7 @@ https://en.wikipedia.org/wiki/Pixel_9
 https://en.wikipedia.org/wiki/Pixel_9_Pro
 https://en.wikipedia.org/wiki/Pixel_9_Pro_Fold
 https://en.wikipedia.org/wiki/Pixel_9_Pro_XL
+https://en.wikipedia.org/wiki/Pixel_9a
 https://en.wikipedia.org/wiki/Pixel_Fold
 https://en.wikipedia.org/wiki/Pixel_Tablet
 https://en.wikipedia.org/wiki/Pixel_Watch
@@ -1638,8 +1639,6 @@ https://www.nvidia.com/download/driverResults.aspx/197675/
 https://www.nvidia.com/download/driverResults.aspx/202059/
 https://www.nvidia.com/download/driverResults.aspx/216530/
 https://www.nvidia.com/download/driverResults.aspx/228179/
-https://www.oneplus.com/fr/oneplus-12
-https://www.oneplus.com/fr/oneplus-12r
 https://www.oneplus.in/11r
 https://www.oracle.com/database/technologies/database10g-doc.html
 https://www.oracle.com/java/technologies/javase/23all-relnotes.html
