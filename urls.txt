@@ -715,10 +715,10 @@ https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-470-256-02/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-475-14/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-515-105-01/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-525-147-05/
-https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-535-230-02/
-https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-550-144-03/
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-535-247-01/
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-550-163-01/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-565-57-01/
-https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-570-124-06/
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-570-133-20/
 https://docs.omnissa.com/bundle/horizon8-rnV2312.1/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2406/page/Horizon8-ReleaseNotes.html
@@ -1364,10 +1364,10 @@ https://support.microsoft.com/help/5021112
 https://support.microsoft.com/help/5021123
 https://support.microsoft.com/help/5024296
 https://support.microsoft.com/help/5029185
-https://support.microsoft.com/help/5042461
 https://support.microsoft.com/help/5046855
 https://support.microsoft.com/help/5046858
-https://support.microsoft.com/help/5049233
+https://support.microsoft.com/help/5050672
+https://support.microsoft.com/help/5050674
 https://support.microsoft.com/help/941203
 https://support.microsoft.com/help/967908
 https://support.microsoft.com/help/979064
