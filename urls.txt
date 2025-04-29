@@ -285,6 +285,7 @@ https://confluence.atlassian.com/jirasoftware/jira-software-10-2-x-release-notes
 https://confluence.atlassian.com/jirasoftware/jira-software-10-3-x-release-notes-1472790887.html
 https://confluence.atlassian.com/jirasoftware/jira-software-10-4-x-release-notes-1489804684.html
 https://confluence.atlassian.com/jirasoftware/jira-software-10-5-x-release-notes-1527939755.html
+https://confluence.atlassian.com/jirasoftware/jira-software-10-6-x-release-notes-1541080745.html
 https://confluence.atlassian.com/jirasoftware/jira-software-7-13-x-release-notes-957981568.html
 https://confluence.atlassian.com/jirasoftware/jira-software-8-13-x-release-notes-1018783360.html
 https://confluence.atlassian.com/jirasoftware/jira-software-8-20-x-release-notes-1086411771.html
@@ -1044,6 +1045,7 @@ https://hop.apache.org/blog/2024/05/hop-2.9.0/
 https://hop.apache.org/blog/2024/10/hop-2.10.0/
 https://hop.apache.org/blog/2024/12/hop-2.11.0/
 https://hop.apache.org/blog/2025/02/hop-2.12.0/
+https://hop.apache.org/blog/2025/04/hop-2.13.0/
 https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12311210&version=12355554
 https://kde.org/announcements/plasma/5/__LATEST__/
 https://knowledge.broadcom.com/external/article/380603
@@ -1703,6 +1705,7 @@ https://www.sipwise.com/releases/2024/mr12.5
 https://www.sipwise.com/releases/2024/mr13.0
 https://www.sipwise.com/releases/2024/mr13.1
 https://www.sipwise.com/releases/2025/mr13.2
+https://www.sipwise.com/releases/2025/mr13.3
 https://www.sonarsource.com/products/sonarqube/downloads/lts/8-9-lts/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/9-9-lts/
 https://www.sonarsource.com/products/sonarqube/whats-new/sonarqube-10-0/
