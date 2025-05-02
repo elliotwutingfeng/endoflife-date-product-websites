@@ -2,6 +2,7 @@ access.redhat.com
 activemq.apache.org
 almalinux.org
 alpinelinux.org
+android.fandom.com
 antixlinux.com
 archive.apache.org
 archive.docs.mulesoft.com
@@ -60,7 +61,6 @@ en.wikipedia.org
 forums.unrealircd.org
 git.alpinelinux.org
 github.com
-go2docs.graylog.org
 godotengine.org
 graylog.org
 help.akeneo.com
