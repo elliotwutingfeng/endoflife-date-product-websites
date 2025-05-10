@@ -124,6 +124,7 @@ www.postfix.org
 www.puppet.com
 www.qt.io
 www.raspberrypi.com
+www.samsung.com
 www.sipwise.com
 www.sonarsource.com
 www.squid-cache.org

@@ -562,12 +562,6 @@ https://doc.samsungmobile.com/SM-P900/KOO/doc.html
 https://doc.samsungmobile.com/SM-R600/CHC/doc.html
 https://doc.samsungmobile.com/SM-R720/CHC/doc.html
 https://doc.samsungmobile.com/SM-R770/BRI/doc.html
-https://doc.samsungmobile.com/SM-R810/001398180827/fra.html
-https://doc.samsungmobile.com/SM-R830/XAR/doc.html
-https://doc.samsungmobile.com/SM-R870/XAA/doc.html
-https://doc.samsungmobile.com/SM-R890/XAA/doc.html
-https://doc.samsungmobile.com/SM-R905F/BTU/doc.html
-https://doc.samsungmobile.com/SM-R925F/ITV/doc.html
 https://doc.samsungmobile.com/SM-S711B/INS/doc.html
 https://doc.samsungmobile.com/SM-S901E/XXV/doc.html
 https://doc.samsungmobile.com/SM-S906E/XXV/doc.html
@@ -655,9 +649,6 @@ https://doc.samsungmobile.com/sm-n950f/dbt/doc.html
 https://doc.samsungmobile.com/sm-n960f/dbt/doc.html
 https://doc.samsungmobile.com/sm-n971n/koo/doc.html
 https://doc.samsungmobile.com/sm-p205/xtc/doc.html
-https://doc.samsungmobile.com/sm-r500/xar/doc.html
-https://doc.samsungmobile.com/sm-r825f/dbt/doc.html
-https://doc.samsungmobile.com/sm-r850/btu/doc.html
 https://doc.samsungmobile.com/sm-s721u/tmb/doc.html
 https://doc.samsungmobile.com/sm-t307u/glw/doc.html
 https://doc.samsungmobile.com/sm-t866n/koo/doc.html
@@ -773,7 +764,7 @@ https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-1
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-14-known-and-addressed-issues/pan-os-10-2-14-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-9-known-and-addressed-issues/pan-os-11-1-9-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-5-known-and-addressed-issues/pan-os-11-2-5-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-6-known-and-addressed-issues/pan-os-11-2-6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/8-1/pan-os-release-notes/pan-os-8-1-addressed-issues/pan-os-8-1-24-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-release-notes/pan-os-9-0-addressed-issues/pan-os-9-0-17-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-release-notes/pan-os-9-1-addressed-issues/pan-os-9-1-19-addressed-issues
@@ -1522,6 +1513,14 @@ https://wikipedia.org/wiki/Nexus_9
 https://wikipedia.org/wiki/Nexus_One
 https://wikipedia.org/wiki/Nexus_Player
 https://wikipedia.org/wiki/Nexus_S
+https://wikipedia.org/wiki/Samsung_Galaxy_Watch
+https://wikipedia.org/wiki/Samsung_Galaxy_Watch_3
+https://wikipedia.org/wiki/Samsung_Galaxy_Watch_4
+https://wikipedia.org/wiki/Samsung_Galaxy_Watch_5
+https://wikipedia.org/wiki/Samsung_Galaxy_Watch_6
+https://wikipedia.org/wiki/Samsung_Galaxy_Watch_7
+https://wikipedia.org/wiki/Samsung_Galaxy_Watch_Active
+https://wikipedia.org/wiki/Samsung_Galaxy_Watch_Active_2
 https://www.amazon.com/Kindle10Notes
 https://www.amazon.com/Kindle11Notes
 https://www.amazon.com/Kindle8Notes
@@ -1712,6 +1711,8 @@ https://www.raspberrypi.com/products/raspberry-pi-pico/
 https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/
 https://www.raspberrypi.com/products/raspberry-pi-zero-w/
 https://www.raspberrypi.com/products/raspberry-pi-zero/
+https://www.samsung.com/us/watches/galaxy-watch-fe/
+https://www.samsung.com/us/watches/galaxy-watch-ultra/
 https://www.sipwise.com/releases/2024/mr10.5
 https://www.sipwise.com/releases/2024/mr11.5
 https://www.sipwise.com/releases/2024/mr12.5
