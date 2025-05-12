@@ -611,6 +611,7 @@ https://doc.samsungmobile.com/SM-T830/XAR/doc.html
 https://doc.samsungmobile.com/SM-T860/XAR/doc.html
 https://doc.samsungmobile.com/SM-T875/DBT/doc.html
 https://doc.samsungmobile.com/SM-T970/XAR/doc.html
+https://doc.samsungmobile.com/SM-W2022/CHC/doc.html
 https://doc.samsungmobile.com/SM-W7023/CHC/doc.html
 https://doc.samsungmobile.com/SM-W7024/CHC/doc.html
 https://doc.samsungmobile.com/SM-W7025/CHC/doc.html
