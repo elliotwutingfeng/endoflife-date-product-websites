@@ -80,6 +80,7 @@ maven.apache.org
 mirrors.slackware.com
 mxlinux.org
 neo4j.com
+news.samsung.com
 nginx.org
 nixos.org
 openjdk.org
