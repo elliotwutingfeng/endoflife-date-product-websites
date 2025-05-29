@@ -818,7 +818,6 @@ https://docs.ros.org/en/rolling/Releases/Release-Ardent-Apalone.html
 https://docs.ros.org/en/rolling/Releases/Release-Bouncy-Bolson.html
 https://docs.saltproject.io/en/latest/topics/releases/3004.2.html
 https://docs.saltproject.io/en/latest/topics/releases/3005.5.html
-https://docs.saltproject.io/en/latest/topics/releases/__LATEST__.html
 https://docs.splunk.com/Documentation/Splunk/7.0.13/ReleaseNotes/MeetSplunk
 https://docs.splunk.com/Documentation/Splunk/7.2.10/ReleaseNotes/MeetSplunk
 https://docs.vmware.com/en/Site-Recovery-Manager/8.3/rn/srm-releasenotes-8-3-1-6.html
@@ -1012,6 +1011,7 @@ https://github.com/puppetlabs/docs-archive/blob/main/puppet/4.10/release_notes.m
 https://github.com/quarkusio/quarkus/releases/tag/__LATEST__
 https://github.com/quarkusio/quarkus/releases/tag/__LATEST__.Final
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v{{'__LATEST__'|replace:'.','_'}}
+https://github.com/saltstack/salt/blob/3007.x/CHANGELOG.md
 https://github.com/scala/scala/releases/tag/v__LATEST__
 https://github.com/shopware5/shopware/releases/tag/v__LATEST__
 https://github.com/spring-projects/spring-boot/releases/tag/v__LATEST__.RELEASE
