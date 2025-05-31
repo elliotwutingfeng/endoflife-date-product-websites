@@ -1509,6 +1509,7 @@ https://web.archive.org/web/20210925124006/https://docs.vmware.com/en/vCenter-Si
 https://web.archive.org/web/20210926135719/https://docs.vmware.com/en/Site-Recovery-Manager/6.1/rn/srm-releasenotes-6-1-2.html
 https://web.archive.org/web/20211005130439/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.1/
 https://web.archive.org/web/20211005130439/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.2/
+https://web.archive.org/web/20211229071247/https://dev.mysql.com/doc/relnotes/mysql/5.6/en/news-5-6-51.html
 https://web.archive.org/web/20220210183008/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.1/
 https://web.archive.org/web/20220210191659/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.0/
 https://web.archive.org/web/20220625104036/https://www.mongodb.com/docs/v4.0/release-notes/2.0/
