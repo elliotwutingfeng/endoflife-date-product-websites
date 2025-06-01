@@ -709,7 +709,7 @@ https://docs.aws.amazon.com/eks/latest/userguide/platform-versions.html#platform
 https://docs.aws.amazon.com/eks/latest/userguide/platform-versions.html#platform-versions-1-26
 https://docs.aws.amazon.com/eks/latest/userguide/platform-versions.html#platform-versions-1-27
 https://docs.aws.amazon.com/glue/latest/dg/glue-version-support-policy.html
-https://docs.azul.com/core/release/24-ga/release-notes/release-notes
+https://docs.azul.com/core/release/april-2025/release-notes
 https://docs.azul.com/core/release/august-2022-11.58-17.36-18.32/release-notes/release-notes
 https://docs.azul.com/core/release/january-2023/release-notes/release-notes
 https://docs.azul.com/core/release/january-2025/release-notes
