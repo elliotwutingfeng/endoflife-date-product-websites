@@ -1442,6 +1442,7 @@ https://support.microsoft.com/surface/surface-go-2-specs-and-features-0fc6a657-2
 https://support.microsoft.com/surface/surface-go-3-features-1ef2c926-4de1-46c9-a159-9fcb13992509
 https://support.microsoft.com/surface/surface-go-4-features-522e227b-24d6-41c6-b48e-db7a053989cb
 https://support.microsoft.com/surface/surface-hub-tech-spec-4b57f72c-dc1c-28d7-959f-3d95eda7708f
+https://support.microsoft.com/surface/surface-laptop-13-inch-features-177367f3-4bde-4ba2-8453-88d36a9cb720
 https://support.microsoft.com/surface/surface-laptop-1st-gen-specs-and-features-30b1b484-4587-928f-ea9a-351d411569af
 https://support.microsoft.com/surface/surface-laptop-2-specs-and-features-44924da8-8a48-b0f3-4cb0-f9aa104e7cdd
 https://support.microsoft.com/surface/surface-laptop-3-specs-and-features-75315c06-5d74-07fe-55d5-a8c5cb626849
@@ -1456,6 +1457,7 @@ https://support.microsoft.com/surface/surface-laptop-studio-2-features-70268b43-
 https://support.microsoft.com/surface/surface-laptop-studio-features-2f496a27-a453-4883-9bc0-c32be7fe2f30
 https://support.microsoft.com/surface/surface-pro-10-for-business-features-debb0fd7-4f30-492f-8000-b5deaf71922f
 https://support.microsoft.com/surface/surface-pro-11th-edition-features-36fb8175-189b-4712-b064-d3feefacf349
+https://support.microsoft.com/surface/surface-pro-12-inch-features-f1ec3085-a88a-4c52-abfb-cd75f8c4e736
 https://support.microsoft.com/surface/surface-pro-1st-gen-specifications-f0e31ddb-b03b-e450-bf83-0e23cf6cbdce
 https://support.microsoft.com/surface/surface-pro-2-specs-and-features-f38cf5d3-1b61-0c2a-fd46-4729afebe798
 https://support.microsoft.com/surface/surface-pro-3-specs-and-features-4c142a41-134f-f22b-0142-a5cf073b56ee
@@ -1743,6 +1745,7 @@ https://www.puppet.com/docs/puppet/6/release_notes_puppet.html#release_notes_pup
 https://www.puppet.com/docs/puppet/7/release_notes_puppet.html#release_notes_puppet_x-7-25-0
 https://www.puppet.com/docs/puppet/8/release_notes_puppet.html#release_notes_puppet_x-8-1-0
 https://www.qt.io/blog/2017/09/21/qt-5-6-3-released
+https://www.qt.io/blog/commercial-lts-qt-5.15.17-released
 https://www.qt.io/blog/commercial-lts-qt-6.5.8-released
 https://www.qt.io/blog/qt-5.14-has-released
 https://www.raspberrypi.com/news/model-a-now-for-sale-in-europe-buy-one-today/
