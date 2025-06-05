@@ -1611,6 +1611,7 @@ https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14
 https://www.devuan.org/os/announce/stable-jessie-announce-052517.html
 https://www.elastic.co/docs/release-notes/beats#beats-9.0.1-release-notes
 https://www.elastic.co/docs/release-notes/elasticsearch#elasticsearch-9.0.1-release-notes
+https://www.elastic.co/docs/release-notes/kibana#kibana-__LATEST__-release-notes
 https://www.findbugzero.com/operational-defect-database/vendors/vmware/defects/57478
 https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-10-Release-Notes/td-p/764361
 https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-12-Release-Notes/td-p/776930
