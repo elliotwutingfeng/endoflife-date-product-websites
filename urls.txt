@@ -450,6 +450,7 @@ https://doc.samsungmobile.com/SM-E236B/INS/doc.html
 https://doc.samsungmobile.com/SM-E5260/CHC/doc.html
 https://doc.samsungmobile.com/SM-E546B/INS/doc.html
 https://doc.samsungmobile.com/SM-E556B/INS/doc.html
+https://doc.samsungmobile.com/SM-E566B/INS/doc.html
 https://doc.samsungmobile.com/SM-E625F/INS/doc.html
 https://doc.samsungmobile.com/SM-F127G/INS/doc.html
 https://doc.samsungmobile.com/SM-F415F/INS/doc.html
@@ -479,6 +480,7 @@ https://doc.samsungmobile.com/SM-G610F/XXV/doc.html
 https://doc.samsungmobile.com/SM-G615FU/INS/doc.html
 https://doc.samsungmobile.com/SM-G715FN/XEH/doc.html
 https://doc.samsungmobile.com/SM-G736B/XSA/doc.html
+https://doc.samsungmobile.com/SM-G766B/EUX/doc.html
 https://doc.samsungmobile.com/SM-G780G/BTU/doc.html
 https://doc.samsungmobile.com/SM-G781B/BTU/doc.html
 https://doc.samsungmobile.com/SM-G800F/DBT/doc.html
@@ -649,6 +651,7 @@ https://doc.samsungmobile.com/SM-X115/SKZ/doc.html
 https://doc.samsungmobile.com/SM-X205/INS/doc.html
 https://doc.samsungmobile.com/SM-X210/ZTO/doc.html
 https://doc.samsungmobile.com/SM-X300/EUX/doc.html
+https://doc.samsungmobile.com/SM-X356B/MID/doc.html
 https://doc.samsungmobile.com/SM-X510/ZTO/doc.html
 https://doc.samsungmobile.com/SM-X520/EUX/doc.html
 https://doc.samsungmobile.com/SM-X610/ZTO/doc.html
@@ -772,7 +775,8 @@ https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-525-147-05/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-535-247-01/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-550-163-01/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-565-57-01/
-https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-570-133-20/
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-570-148-08/
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-575-57-08/
 https://docs.omnissa.com/bundle/horizon8-rnV2312.1/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2406/page/Horizon8-ReleaseNotes.html
@@ -1167,7 +1171,7 @@ https://learn.microsoft.com/previous-versions/dotnet/netframework-4.0/ms171868(v
 https://learn.microsoft.com/previous-versions/mt752379(v=vs.140)
 https://learn.microsoft.com/troubleshoot/developer/visualstudio/installation/visual-studio-2012-update-4
 https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2019/cumulativeupdate32
-https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate18
+https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate19
 https://learn.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2015-update4-vs#details-of-whats-new-in-team-foundation-server-2015-update-42-patch-8
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2017-update3#details-of-whats-new-in-team-foundation-server-2017-update-31-patch-15
