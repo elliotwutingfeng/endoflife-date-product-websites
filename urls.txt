@@ -1421,9 +1421,9 @@ https://support.microsoft.com/help/4500180
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/4505221
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002691
-https://support.microsoft.com/help/5002692
-https://support.microsoft.com/help/5002705
+https://support.microsoft.com/help/5002708
+https://support.microsoft.com/help/5002709
+https://support.microsoft.com/help/5002722
 https://support.microsoft.com/help/5014351
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
@@ -1432,8 +1432,8 @@ https://support.microsoft.com/help/5024296
 https://support.microsoft.com/help/5029185
 https://support.microsoft.com/help/5046855
 https://support.microsoft.com/help/5046858
-https://support.microsoft.com/help/5050672
-https://support.microsoft.com/help/5050674
+https://support.microsoft.com/help/5057651
+https://support.microsoft.com/help/5057653
 https://support.microsoft.com/help/941203
 https://support.microsoft.com/help/967908
 https://support.microsoft.com/help/979064
