@@ -812,7 +812,7 @@ https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/globalprotect/6-3/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h15-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-15-known-and-addressed-issues/pan-os-10-2-15-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-16-known-and-addressed-issues/pan-os-10-2-16-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-10-known-and-addressed-issues/pan-os-11-1-10-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-6-known-and-addressed-issues/pan-os-11-2-6-addressed-issues
@@ -1112,12 +1112,12 @@ https://knowledge.broadcom.com/external/article/380603
 https://laravel.com/docs/5.5/releases
 https://laravel.com/docs/5.8/releases
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019#azure-devops-server-201901-patch-16-release-date-november-14-2023
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019u1#azure-devops-server-2019-update-12-patch-10-release-date-march-11-2025
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019u1#azure-devops-server-2019-update-12-patch-11-release-date-april-8-2025
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020#azure-devops-server-2020-update-02-patch-6-release-date-november-14-2023
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-15-release-date-march-11-2025
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-16-release-date-april-8-2025
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022#azure-devops-server-2022-update-01-patch-5-release-date-november-14-2023
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-4-release-date-june-11-2024
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-2022-update-2-patch-4-release-date-march-11-2025
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-2022-update-2-patch-6-release-date-june-10-2025
 https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions?tabs=azure-cli#aks-kubernetes-release-calendar
 https://learn.microsoft.com/en-us/lifecycle/products/office-ltsc-2024
 https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-core
@@ -1177,7 +1177,7 @@ https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2022/cumulativeu
 https://learn.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2015-update4-vs#details-of-whats-new-in-team-foundation-server-2015-update-42-patch-8
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2017-update3#details-of-whats-new-in-team-foundation-server-2017-update-31-patch-15
-https://learn.microsoft.com/visualstudio/releasenotes/tfs2018-update3#team-foundation-server-2018-update-32-patch-19
+https://learn.microsoft.com/visualstudio/releasenotes/tfs2018-update3#team-foundation-server-2018-update-32-patch-20
 https://learn.microsoft.com/visualstudio/releasenotes/vs2010-sp1-vs
 https://learn.microsoft.com/visualstudio/releasenotes/vs2012-update4-vs
 https://learn.microsoft.com/visualstudio/releasenotes/vs2013-update5-vs
@@ -1497,8 +1497,8 @@ https://techcommunity.microsoft.com/t5/windows-it-pro-blog/end-of-service-remind
 https://techcommunity.microsoft.com/t5/windows-server-for-developers/windows-server-version-1709-lifecycle-announcement/m-p/379766
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-5/release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-7/release-notes/vcenter-server-update-and-patch-releases.html
-https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-70u3s-release-notes.html
-https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/vcenter-server-update-and-patch-release-notes/vsphere-vcenter-server-70u3u-release-notes.html
+https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-70u3v-release-notes.html
+https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/vcenter-server-update-and-patch-release-notes/vsphere-vcenter-server-70u3v-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-80u3e-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/vcenter-server-update-and-patch-release-notes/vsphere-vcenter-server-80u3e-release-notes.html
 https://umbraco.com/products/knowledge-center/long-term-support-and-end-of-life/umbraco-6-end-of-life-eol/
