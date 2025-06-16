@@ -53,6 +53,7 @@ https://archive.apache.org/dist/httpd/CHANGES_2.2.34
 https://archive.apache.org/dist/kafka/__LATEST__/RELEASE_NOTES.html
 https://archive.apache.org/dist/kafka/old_releases/kafka-0.7.2-incubating/RELEASE-NOTES.html
 https://archive.docs.mulesoft.com/release-notes/mule-runtime/mule-3.8.7-release-notes
+https://archive.docs.mulesoft.com/release-notes/mule-runtime/mule-3.9.5-release-notes
 https://archive.docs.mulesoft.com/release-notes/mule-runtime/mule-4.1.6-release-notes
 https://archive.docs.mulesoft.com/release-notes/mule-runtime/mule-4.2.2-release-notes
 https://archives-docs.centreon.com/20.04/docs/releases/centreon-core/#200420
@@ -1618,6 +1619,7 @@ https://www.devuan.org/os/announce/stable-jessie-announce-052517.html
 https://www.elastic.co/docs/release-notes/beats#beats-9.0.1-release-notes
 https://www.elastic.co/docs/release-notes/elasticsearch#elasticsearch-9.0.1-release-notes
 https://www.elastic.co/docs/release-notes/kibana#kibana-__LATEST__-release-notes
+https://www.elastic.co/docs/release-notes/logstash#logstash-__LATEST__-release-notes
 https://www.findbugzero.com/operational-defect-database/vendors/vmware/defects/57478
 https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-10-Release-Notes/td-p/764361
 https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-12-Release-Notes/td-p/776930
