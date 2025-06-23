@@ -1163,6 +1163,10 @@ https://lists.debian.org/debian-announce/2015/msg00001.html
 https://lists.debian.org/debian-announce/2017/msg00003.html
 https://lists.debian.org/debian-release/2024/06/msg00700.html
 https://logging.apache.org/log4j/1.2/changes-report.html#a1.2.17
+https://mariadb.com/kb/en/mariadb-10038-release-notes/
+https://mariadb.com/kb/en/mariadb-10148-release-notes/
+https://mariadb.com/kb/en/mariadb-10244-release-notes/
+https://mariadb.com/kb/en/mariadb-5568-release-notes/
 https://maven.apache.org/archives/maven-1.x/start/release-notes-LATEST.html
 https://mirrors.slackware.com/slackware/slackware-8.0/ANNOUNCE.TXT
 https://mirrors.slackware.com/slackware/slackware-8.1/ANNOUNCE.8_1

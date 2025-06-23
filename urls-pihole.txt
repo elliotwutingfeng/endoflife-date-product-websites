@@ -76,6 +76,7 @@ learn.microsoft.com
 lineageos.org
 lists.debian.org
 logging.apache.org
+mariadb.com
 maven.apache.org
 mirrors.slackware.com
 mxlinux.org
