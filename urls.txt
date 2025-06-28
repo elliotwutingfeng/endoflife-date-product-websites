@@ -1197,6 +1197,7 @@ https://postmarketos.org/blog/2023/06/07/v23.06-release/
 https://postmarketos.org/blog/2023/12/18/v23.12-release/
 https://postmarketos.org/blog/2024/06/16/v24.06-release/
 https://postmarketos.org/blog/2024/12/23/v24.12-release/
+https://postmarketos.org/blog/2025/06/22/v25.06-release/
 https://service.oneplus.com/us/search/search-detail?id=2123192&articleIndex=2
 https://struts.apache.org/struts1eol-announcement.html
 https://support.apple.com/109035
