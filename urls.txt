@@ -1446,9 +1446,9 @@ https://techcommunity.microsoft.com/t5/windows-it-pro-blog/end-of-service-remind
 https://techcommunity.microsoft.com/t5/windows-server-for-developers/windows-server-version-1709-lifecycle-announcement/m-p/379766
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-5/release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-7/release-notes/vcenter-server-update-and-patch-releases.html
-https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-70u3v-release-notes.html
+https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-70u3w-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/vcenter-server-update-and-patch-release-notes/vsphere-vcenter-server-70u3v-release-notes.html
-https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-80u3e-release-notes.html
+https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-80u3f-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/vcenter-server-update-and-patch-release-notes/vsphere-vcenter-server-80u3e-release-notes.html
 https://umbraco.com/products/knowledge-center/long-term-support-and-end-of-life/umbraco-6-end-of-life-eol/
 https://vmware.github.io/photon/assets/files/html/3.0/What-is-New-in-Photon-OS-3.0.html
