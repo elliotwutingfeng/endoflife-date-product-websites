@@ -756,7 +756,7 @@ https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-1
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-16-known-and-addressed-issues/pan-os-10-2-16-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-10-known-and-addressed-issues/pan-os-11-1-10-h1-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-7-known-and-addressed-issues/pan-os-11-2-7-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-7-known-and-addressed-issues/pan-os-11-2-7-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/8-1/pan-os-release-notes/pan-os-8-1-addressed-issues/pan-os-8-1-24-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-release-notes/pan-os-9-0-addressed-issues/pan-os-9-0-17-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-release-notes/pan-os-9-1-addressed-issues/pan-os-9-1-19-addressed-issues
@@ -788,7 +788,7 @@ https://docs.xcp-ng.org/releases/release-8-1/
 https://docs.xcp-ng.org/releases/release-8-2/
 https://docs.xcp-ng.org/releases/release-8-3/
 https://documents.bmc.com/supportu/952/78/79/477879/477879.pdf
-https://downloads.apache.org/httpd/CHANGES_2.4.63
+https://downloads.apache.org/httpd/CHANGES_2.4
 https://downloads.haskell.org/~ghc/8.0.2/docs/html/users_guide/8.0.2-notes.html
 https://downloads.haskell.org/~ghc/8.10.7/docs/html/users_guide/8.10.7-notes.html
 https://downloads.haskell.org/~ghc/8.2.2/docs/html/users_guide/8.2.2-notes.html
