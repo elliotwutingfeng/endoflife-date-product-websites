@@ -797,8 +797,6 @@ https://downloads.haskell.org/~ghc/8.6.5/docs/html/users_guide/8.6.5-notes.html
 https://downloads.haskell.org/~ghc/8.8.4/docs/html/users_guide/8.8.4-notes.html
 https://downloads.haskell.org/~ghc/9.0.2/docs/html/users_guide/9.0.2-notes.html
 https://downloads.haskell.org/~ghc/__LATEST__/docs/html/users_guide/__LATEST__-notes.html
-https://en-us.support.motorola.com/app/product_page/faqs/p/10216
-https://en-us.support.motorola.com/app/product_page/faqs/p/10395
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11166
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11167
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11168
@@ -862,6 +860,8 @@ https://en-us.support.motorola.com/app/software-security-update/g_id/7112/produc
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11600
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11601
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11651
+https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12029
+https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12161
 https://en.opensuse.org/Archive:Product_highlights_11.2
 https://en.opensuse.org/Archive:Product_highlights_11.3
 https://en.opensuse.org/Archive:Product_highlights_11.4
