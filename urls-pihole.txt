@@ -53,6 +53,7 @@ docs.splunk.com
 docs.vmware.com
 docs.xcp-ng.org
 documents.bmc.com
+download.nvidia.com
 downloads.apache.org
 downloads.haskell.org
 en-us.support.motorola.com
