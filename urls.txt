@@ -1535,6 +1535,7 @@ https://wikipedia.org/wiki/Samsung_Galaxy_Watch_6
 https://wikipedia.org/wiki/Samsung_Galaxy_Watch_7
 https://wikipedia.org/wiki/Samsung_Galaxy_Watch_Active
 https://wikipedia.org/wiki/Samsung_Galaxy_Watch_Active_2
+https://wordpress.org/news/2025/07/wordpress-6-8-2-maintenance-release/
 https://www.amazon.com/Kindle10Notes
 https://www.amazon.com/Kindle11Notes
 https://www.amazon.com/Kindle8Notes

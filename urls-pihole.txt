@@ -105,6 +105,7 @@ web.archive.org
 wiki.centos.org
 wiki.mageia.org
 wikipedia.org
+wordpress.org
 www.amazon.com
 www.atlassian.com
 www.betaarchive.com
