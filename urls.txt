@@ -790,6 +790,7 @@ https://docs.xcp-ng.org/releases/release-8-1/
 https://docs.xcp-ng.org/releases/release-8-2/
 https://docs.xcp-ng.org/releases/release-8-3/
 https://documents.bmc.com/supportu/952/78/79/477879/477879.pdf
+https://download.nvidia.com/XFree86/Linux-x86_64/465.24.02/README/
 https://download.nvidia.com/XFree86/Linux-x86_64/520.56.06/README/
 https://downloads.apache.org/httpd/CHANGES_2.4
 https://downloads.haskell.org/~ghc/8.0.2/docs/html/users_guide/8.0.2-notes.html
@@ -864,7 +865,9 @@ https://en-us.support.motorola.com/app/software-security-update/g_id/7112/produc
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11601
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/11651
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12029
+https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12121
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12161
+https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12208
 https://en.opensuse.org/Archive:Product_highlights_11.2
 https://en.opensuse.org/Archive:Product_highlights_11.3
 https://en.opensuse.org/Archive:Product_highlights_11.4
