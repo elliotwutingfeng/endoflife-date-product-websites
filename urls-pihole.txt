@@ -60,7 +60,6 @@ en-us.support.motorola.com
 en.opensuse.org
 en.wikipedia.org
 forums.unrealircd.org
-git.alpinelinux.org
 github.com
 godotengine.org
 graylog.org
@@ -109,6 +108,7 @@ wordpress.org
 www.amazon.com
 www.atlassian.com
 www.betaarchive.com
+www.couchbase.com
 www.debian.org
 www.devuan.org
 www.elastic.co
