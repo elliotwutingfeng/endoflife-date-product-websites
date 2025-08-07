@@ -401,6 +401,8 @@ https://doc.samsungmobile.com/SM-F711B/SER/doc.html
 https://doc.samsungmobile.com/SM-F721U1/XAR/doc.html
 https://doc.samsungmobile.com/SM-F731B/ZTO/doc.html
 https://doc.samsungmobile.com/SM-F741U/CCT/doc.html
+https://doc.samsungmobile.com/SM-F7610/CHC/doc.html
+https://doc.samsungmobile.com/SM-F7660/CHC/doc.html
 https://doc.samsungmobile.com/SM-F900F/XEH/doc.html
 https://doc.samsungmobile.com/SM-F907B/AUT/doc.html
 https://doc.samsungmobile.com/SM-F916B/XEH/doc.html
@@ -409,6 +411,7 @@ https://doc.samsungmobile.com/SM-F936U1/TMB/doc.html
 https://doc.samsungmobile.com/SM-F946B/ZTO/doc.html
 https://doc.samsungmobile.com/SM-F956W/ESK/doc.html
 https://doc.samsungmobile.com/SM-F958N/KOO/doc.html
+https://doc.samsungmobile.com/SM-F9660/TGY/doc.html
 https://doc.samsungmobile.com/SM-G160N/KOO/doc.html
 https://doc.samsungmobile.com/SM-G389F/ATO/doc.html
 https://doc.samsungmobile.com/SM-G390F/ATO/doc.html
@@ -507,6 +510,7 @@ https://doc.samsungmobile.com/SM-M305M/XXV/doc.html
 https://doc.samsungmobile.com/SM-M326B/INS/doc.html
 https://doc.samsungmobile.com/SM-M336BU/INS/doc.html
 https://doc.samsungmobile.com/SM-M346B1/XID/doc.html
+https://doc.samsungmobile.com/SM-M356B/INS/doc.html
 https://doc.samsungmobile.com/SM-M356B/NPB/doc.html
 https://doc.samsungmobile.com/SM-M405F/INS/doc.html
 https://doc.samsungmobile.com/SM-M426B/INS/doc.html
@@ -549,6 +553,7 @@ https://doc.samsungmobile.com/SM-S926U1/XAA/doc.html
 https://doc.samsungmobile.com/SM-S928U1/XAA/doc.html
 https://doc.samsungmobile.com/SM-S931B/INS/doc.html
 https://doc.samsungmobile.com/SM-S936B/INS/doc.html
+https://doc.samsungmobile.com/SM-S9370/TGY/doc.html
 https://doc.samsungmobile.com/SM-S938B/INS/doc.html
 https://doc.samsungmobile.com/SM-T220/CHN/doc.html
 https://doc.samsungmobile.com/SM-T280/KOO/doc.html
