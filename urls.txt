@@ -1640,8 +1640,8 @@ https://www.couchbase.com/blog/announcing-couchbase-server-4-1-2/
 https://www.couchbase.com/blog/announcing-couchbase-server-4-5-1/
 https://www.couchbase.com/blog/couchbase-3.1.3-ce-is-now-available/
 https://www.debian.org/News/2022/20220910
-https://www.debian.org/News/2025/20250111
-https://www.debian.org/releases/trixie/release-notes/
+https://www.debian.org/News/2025/20250517
+https://www.debian.org/News/2025/20250809
 https://www.devuan.org/os/announce/ascii-point-release-announce-112119
 https://www.devuan.org/os/announce/beowulf-point-release-announce-021421
 https://www.devuan.org/os/announce/chimaera-release-announce-2021-10-14
