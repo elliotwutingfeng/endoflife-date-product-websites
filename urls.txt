@@ -155,6 +155,7 @@ https://azure.microsoft.com/updates/general-availability-aks-support-for-kuberne
 https://azure.microsoft.com/updates/generally-available-kubernetes-124-support/
 https://azure.microsoft.com/updates/generally-available-kubernetes-125-support-in-aks/
 https://azure.microsoft.com/updates/generally-available-kubernetes-126-support-in-aks/
+https://azure.microsoft.com/updates/generally-available-kubernetes-127-support-in-aks
 https://bakery.cakephp.org/2012/02/06/CakePHP-2-0-6-released.html
 https://bakery.cakephp.org/2012/07/14/Security-Release-CakePHP-2-1-5-2-2-1.html
 https://blog.centos.org/2021/12/introducing-centos-stream-9/
@@ -725,6 +726,7 @@ https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-560-35-03/index.htm
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-565-57-01/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-570-172-08/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-575-57-08/index.html
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-65-06/index.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312.1/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2406/page/Horizon8-ReleaseNotes.html
@@ -953,6 +955,10 @@ https://en.wikipedia.org/wiki/Pixel_Watch_3
 https://forums.unrealircd.org/viewtopic.php?f=1&t=8588
 https://github.com/Azure/AKS/issues/2502#issuecomment-1008549356
 https://github.com/Azure/AKS/issues/2730
+https://github.com/Azure/AKS/releases/tag/2024-08-05
+https://github.com/Azure/AKS/releases/tag/2024-10-25
+https://github.com/Azure/AKS/releases/tag/2025-04-06
+https://github.com/Azure/AKS/releases/tag/2025-06-17
 https://github.com/Exim/exim/releases/tag/exim-4_50
 https://github.com/Exim/exim/releases/tag/exim-4_51
 https://github.com/Exim/exim/releases/tag/exim-4_52
@@ -1116,7 +1122,6 @@ https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022#azure-devops-server-2022-update-01-patch-5-release-date-november-14-2023
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-4-release-date-june-11-2024
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-2022-update-2-patch-6-release-date-june-10-2025
-https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions?tabs=azure-cli#aks-kubernetes-release-calendar
 https://learn.microsoft.com/en-us/lifecycle/products/office-ltsc-2024
 https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-core
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1507-cb-cbb-end-of-servicing
