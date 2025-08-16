@@ -87,6 +87,7 @@ nixos.org
 openjdk.org
 openssl-library.org
 postmarketos.org
+public.dhe.ibm.com
 service.oneplus.com
 struts.apache.org
 support.apple.com
@@ -129,6 +130,7 @@ www.postfix.org
 www.puppet.com
 www.qt.io
 www.raspberrypi.com
+www.rfc-editor.org
 www.samsung.com
 www.sipwise.com
 www.sonarsource.com

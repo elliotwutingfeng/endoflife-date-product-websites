@@ -1278,6 +1278,11 @@ https://postmarketos.org/blog/2023/12/18/v23.12-release/
 https://postmarketos.org/blog/2024/06/16/v24.06-release/
 https://postmarketos.org/blog/2024/12/23/v24.12-release/
 https://postmarketos.org/blog/2025/06/22/v25.06-release/
+https://public.dhe.ibm.com/software/integration/wmq/docs/V5.2/
+https://public.dhe.ibm.com/software/integration/wmq/docs/V5.3/
+https://public.dhe.ibm.com/software/integration/wmq/docs/V6.0/
+https://public.dhe.ibm.com/software/integration/wmq/docs/V7.0/
+https://public.dhe.ibm.com/software/integration/wmq/docs/V7.1/
 https://service.oneplus.com/us/search/search-detail?id=2123192&articleIndex=2
 https://struts.apache.org/struts1eol-announcement.html
 https://support.apple.com/109035
@@ -1667,6 +1672,9 @@ https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-25-0-Release-N
 https://www.hmd.com/en_int/support/nokia-6-user-guide/
 https://www.ibm.com/docs/aix/6.1?topic=aix-older-versions
 https://www.ibm.com/docs/aix/7.3?topic=notes-aix-73-release
+https://www.ibm.com/docs/en/db2/11.5.x
+https://www.ibm.com/docs/en/ibm-mq/7.5.0
+https://www.ibm.com/docs/en/ibm-mq/8.0.0
 https://www.ibm.com/docs/i/7.6.0
 https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-61
 https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-71
@@ -1674,6 +1682,8 @@ https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-72
 https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-73
 https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-74
 https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-75
+https://www.ibm.com/support/pages/db2-version-91-linux-unix-and-windows-manuals
+https://www.ibm.com/support/pages/db2-version-95-linux-unix-and-windows-english-manuals
 https://www.joomla.org/announcements/release-news/5900-joomla-5-0-and-joomla-4-4-are-here
 https://www.lineageoslog.com/13.0
 https://www.lineageoslog.com/14.1
@@ -1810,6 +1820,10 @@ https://www.raspberrypi.com/products/raspberry-pi-pico/
 https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/
 https://www.raspberrypi.com/products/raspberry-pi-zero-w/
 https://www.raspberrypi.com/products/raspberry-pi-zero/
+https://www.rfc-editor.org/rfc/rfc2246
+https://www.rfc-editor.org/rfc/rfc4346
+https://www.rfc-editor.org/rfc/rfc5246
+https://www.rfc-editor.org/rfc/rfc8446
 https://www.samsung.com/us/watches/galaxy-watch-fe/
 https://www.samsung.com/us/watches/galaxy-watch-ultra/
 https://www.sipwise.com/releases/2024/mr10.5
