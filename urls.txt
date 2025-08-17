@@ -1826,14 +1826,6 @@ https://www.rfc-editor.org/rfc/rfc5246
 https://www.rfc-editor.org/rfc/rfc8446
 https://www.samsung.com/us/watches/galaxy-watch-fe/
 https://www.samsung.com/us/watches/galaxy-watch-ultra/
-https://www.sipwise.com/releases/2024/mr10.5
-https://www.sipwise.com/releases/2024/mr11.5
-https://www.sipwise.com/releases/2024/mr12.5
-https://www.sipwise.com/releases/2024/mr13.0
-https://www.sipwise.com/releases/2024/mr13.1
-https://www.sipwise.com/releases/2025/mr13.2
-https://www.sipwise.com/releases/2025/mr13.3
-https://www.sipwise.com/releases/2025/mr13.4
 https://www.sonarsource.com/products/sonarqube/downloads/lts/8-9-lts/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/9-9-lts/
 https://www.sonarsource.com/products/sonarqube/whats-new/sonarqube-10-0/
