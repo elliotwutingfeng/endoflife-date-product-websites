@@ -1110,6 +1110,7 @@ https://hop.apache.org/blog/2024/12/hop-2.11.0/
 https://hop.apache.org/blog/2025/02/hop-2.12.0/
 https://hop.apache.org/blog/2025/04/hop-2.13.0/
 https://hop.apache.org/blog/2025/05/hop-2.14.0/
+https://hop.apache.org/blog/2025/08/hop-2.15.0/
 https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12311210&version=12355554
 https://kde.org/announcements/plasma/5/__LATEST__/
 https://knowledge.broadcom.com/external/article/380603
