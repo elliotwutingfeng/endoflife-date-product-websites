@@ -28,6 +28,7 @@ devblogs.microsoft.com
 devdocs.magento.com
 developer.android.com
 developer.apple.com
+developer.chrome.com
 doc.samsungmobile.com
 docs-cortex.paloaltonetworks.com
 docs-older.centreon.com
@@ -40,6 +41,7 @@ docs.centreon.com
 docs.cfengine.com
 docs.citrix.com
 docs.daocloud.io
+docs.djangoproject.com
 docs.fedoraproject.org
 docs.mulesoft.com
 docs.nvidia.com
