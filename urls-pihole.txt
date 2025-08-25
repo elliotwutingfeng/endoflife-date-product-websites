@@ -140,4 +140,3 @@ www.suse.com
 www.tumblr.com
 www.veeam.com
 www.verizon.com
-www.zerto.com
