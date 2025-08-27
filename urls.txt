@@ -1663,8 +1663,10 @@ https://www.devuan.org/os/announce/beowulf-point-release-announce-021421
 https://www.devuan.org/os/announce/chimaera-release-announce-2021-10-14
 https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14
 https://www.devuan.org/os/announce/stable-jessie-announce-052517.html
-https://www.elastic.co/docs/release-notes/beats#beats-9.0.1-release-notes
-https://www.elastic.co/docs/release-notes/elasticsearch#elasticsearch-9.0.1-release-notes
+https://www.elastic.co/docs/release-notes/beats#beats-9.0.5-release-notes
+https://www.elastic.co/docs/release-notes/beats#beats-9.1.2-release-notes
+https://www.elastic.co/docs/release-notes/elasticsearch#elasticsearch-9.0.5-release-notes
+https://www.elastic.co/docs/release-notes/elasticsearch#elasticsearch-9.1.2-release-notes
 https://www.elastic.co/docs/release-notes/kibana#kibana-__LATEST__-release-notes
 https://www.elastic.co/docs/release-notes/logstash#logstash-__LATEST__-release-notes
 https://www.findbugzero.com/operational-defect-database/vendors/vmware/defects/57478
