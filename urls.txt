@@ -762,6 +762,7 @@ https://docs.paloaltonetworks.com/globalprotect/6-0/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/globalprotect/6-1/globalprotect-app-release-notes//globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/6-3/globalprotect-app-release-notes/globalprotect-addressed-issues
+https://docs.paloaltonetworks.com/ngfw/release-notes/12-1/pan-os-12-1-2-known-and-addressed-issues/pan-os-12-1-2-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h16-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-16-known-and-addressed-issues/pan-os-10-2-16-h1-addressed-issues
@@ -928,6 +929,9 @@ https://en.opensuse.org/Archive:Product_highlights_11.2
 https://en.opensuse.org/Archive:Product_highlights_11.3
 https://en.opensuse.org/Archive:Product_highlights_11.4
 https://en.wikipedia.org/wiki/Pixel_(1st_generation)
+https://en.wikipedia.org/wiki/Pixel_10
+https://en.wikipedia.org/wiki/Pixel_10_Pro
+https://en.wikipedia.org/wiki/Pixel_10_Pro_XL
 https://en.wikipedia.org/wiki/Pixel_2
 https://en.wikipedia.org/wiki/Pixel_3
 https://en.wikipedia.org/wiki/Pixel_3a
@@ -1531,6 +1535,7 @@ https://symfony.com/blog/symfony-2-7-51-released
 https://symfony.com/blog/symfony-4-1-12-released
 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/end-of-service-reminders-for-windows-10-versions-1703-and-1803/ba-p/903715
 https://techcommunity.microsoft.com/t5/windows-server-for-developers/windows-server-version-1709-lifecycle-announcement/m-p/379766
+https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-0/release-notes/maintenance-releases/esx-update-and-patch-release-notes/esx-9-0-0-0100.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-5/release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-7/release-notes/vcenter-server-update-and-patch-releases.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-70u3w-release-notes.html
