@@ -122,6 +122,7 @@ www.ibm.com
 www.joomla.org
 www.lineageoslog.com
 www.microfocus.com
+www.microsoft.com
 www.nokia.com
 www.nvidia.com
 www.oneplus.in
