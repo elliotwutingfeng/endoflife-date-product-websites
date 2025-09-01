@@ -234,6 +234,10 @@ https://cloud.google.com/looker/docs/looker-7-changelog#718
 https://cloud.google.com/looker/docs/looker-7-changelog#720
 https://commerce-docs.github.io/devdocs-archive/2.0/guides/v2.0/release-notes/ReleaseNotes2.0.18CE.html
 https://commerce-docs.github.io/devdocs-archive/2.1/guides/v2.1/release-notes/ReleaseNotes2.1.18CE.html
+https://community.sonarsource.com/t/sonarqube-server-2025-release-1-3-lta/144010
+https://community.sonarsource.com/t/sonarqube-server-2025-release-2-released/137906
+https://community.sonarsource.com/t/sonarqube-server-2025-release-3-1/143131
+https://community.sonarsource.com/t/sonarqube-server-2025-release-4-2/146252
 https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.21+release+notes
 https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+8.10+release+notes
 https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+8.11+release+notes
@@ -1842,6 +1846,7 @@ https://www.samsung.com/us/watches/galaxy-watch-ultra/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/8-9-lts/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/9-9-lts/
 https://www.sonarsource.com/products/sonarqube/whats-new/sonarqube-10-0/
+https://www.sonarsource.com/products/sonarqube/whats-new/sonarqube-server-10-8/
 https://www.suse.com/releasenotes/x86_64/openSUSE/11.0/index.html
 https://www.suse.com/releasenotes/x86_64/openSUSE/11.1/index.html
 https://www.tumblr.com/system76/165833795278/why-system76-is-making-popos
