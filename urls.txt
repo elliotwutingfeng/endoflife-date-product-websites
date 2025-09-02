@@ -295,6 +295,7 @@ https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17
 https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-18-release-notes
 https://developer.apple.com/documentation/ios-ipados-release-notes/ipados-16-release-notes
 https://developer.chrome.com/release-notes/__RELEASE_CYCLE__
+https://discourse.nixos.org/t/nix-2-31-0-released/68465
 https://doc.samsungmobile.com/SM-A013F/SEK/doc.html
 https://doc.samsungmobile.com/SM-A015F/THL/doc.html
 https://doc.samsungmobile.com/SM-A022F/XID/doc.html
