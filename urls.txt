@@ -785,6 +785,7 @@ https://docs.ros.org/en/rolling/Releases/Release-Bouncy-Bolson.html
 https://docs.saltproject.io/en/latest/topics/releases/__LATEST__.html
 https://docs.splunk.com/Documentation/Splunk/7.0.13/ReleaseNotes/MeetSplunk
 https://docs.splunk.com/Documentation/Splunk/7.2.10/ReleaseNotes/MeetSplunk
+https://docs.splunk.com/Documentation/Splunk/__LATEST__/ReleaseNotes/MeetSplunk
 https://docs.vmware.com/en/Site-Recovery-Manager/8.3/rn/srm-releasenotes-8-3-1-6.html
 https://docs.vmware.com/en/Site-Recovery-Manager/8.4/rn/srm-releasenotes-8-4-0-5.html
 https://docs.vmware.com/en/Site-Recovery-Manager/8.5/rn/vmware-site-recovery-manager-8508-release-notes/index.html
@@ -1849,6 +1850,7 @@ https://www.sonarsource.com/products/sonarqube/downloads/lts/8-9-lts/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/9-9-lts/
 https://www.sonarsource.com/products/sonarqube/whats-new/sonarqube-10-0/
 https://www.sonarsource.com/products/sonarqube/whats-new/sonarqube-server-10-8/
+https://www.suse.com/releasenotes/x86_64/multi-linux-manager/__RELEASE_CYCLE__
 https://www.suse.com/releasenotes/x86_64/openSUSE/11.0/index.html
 https://www.suse.com/releasenotes/x86_64/openSUSE/11.1/index.html
 https://www.tumblr.com/system76/165833795278/why-system76-is-making-popos
