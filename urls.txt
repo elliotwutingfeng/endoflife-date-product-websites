@@ -167,6 +167,7 @@ https://blog.emberjs.com/ember-released-6-2/
 https://blog.emberjs.com/ember-released-6-3/
 https://blog.emberjs.com/ember-released-6-4/
 https://blog.emberjs.com/ember-released-6-5/
+https://blog.emberjs.com/ember-released-6-6/
 https://blog.jquery.com/2016/05/20/jquery-1-12-4-and-2-2-4-released/
 https://blog.jqueryui.com/2010/05/jquery-ui-173/
 https://blog.jqueryui.com/2012/09/jquery-ui-1-8-24/
@@ -195,6 +196,7 @@ https://blog.linuxmint.com/?p=4570
 https://blog.linuxmint.com/?p=4624
 https://blog.linuxmint.com/?p=4731
 https://blog.linuxmint.com/?p=4793
+https://blog.linuxmint.com/?p=4881
 https://blog.pcisecuritystandards.org/just-published-pci-dss-v4-0-1
 https://blog.pcisecuritystandards.org/pci-dss-v4-0-resource-hub
 https://blog.system76.com/post/670564272872488960/popos-2110-has-landed
@@ -1871,4 +1873,5 @@ https://www.veeam.com/kb3161
 https://www.veeam.com/kb4126
 https://www.veeam.com/kb4420
 https://www.veeam.com/kb4705
+https://www.veeam.com/kb4738
 https://www.verizon.com/support/samsung-galaxy-s20-5g-uw-update/
