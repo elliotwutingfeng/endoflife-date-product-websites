@@ -1476,13 +1476,13 @@ https://support.microsoft.com/help/5021112
 https://support.microsoft.com/help/5021123
 https://support.microsoft.com/help/5024296
 https://support.microsoft.com/help/5029185
-https://support.microsoft.com/help/5063221
-https://support.microsoft.com/help/5063223
-https://support.microsoft.com/help/5063224
 https://support.microsoft.com/help/5063757
 https://support.microsoft.com/help/5063759
 https://support.microsoft.com/help/5063761
 https://support.microsoft.com/help/5063814
+https://support.microsoft.com/help/5066370
+https://support.microsoft.com/help/5066372
+https://support.microsoft.com/help/5066373
 https://support.microsoft.com/help/941203
 https://support.microsoft.com/help/967908
 https://support.microsoft.com/help/979064
@@ -1852,6 +1852,7 @@ https://www.sonarsource.com/products/sonarqube/downloads/lts/8-9-lts/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/9-9-lts/
 https://www.sonarsource.com/products/sonarqube/whats-new/sonarqube-10-0/
 https://www.sonarsource.com/products/sonarqube/whats-new/sonarqube-server-10-8/
+https://www.suse.com/releasenotes/x86_64/SLE-Micro/__RELEASE_CYCLE__/
 https://www.suse.com/releasenotes/x86_64/multi-linux-manager/__RELEASE_CYCLE__
 https://www.suse.com/releasenotes/x86_64/openSUSE/11.0/index.html
 https://www.suse.com/releasenotes/x86_64/openSUSE/11.1/index.html
