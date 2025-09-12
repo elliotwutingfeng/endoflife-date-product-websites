@@ -168,6 +168,7 @@ https://blog.emberjs.com/ember-released-6-3/
 https://blog.emberjs.com/ember-released-6-4/
 https://blog.emberjs.com/ember-released-6-5/
 https://blog.emberjs.com/ember-released-6-6/
+https://blog.emberjs.com/ember-released-6-7/
 https://blog.jquery.com/2016/05/20/jquery-1-12-4-and-2-2-4-released/
 https://blog.jqueryui.com/2010/05/jquery-ui-173/
 https://blog.jqueryui.com/2012/09/jquery-ui-1-8-24/
@@ -1496,10 +1497,10 @@ https://support.microsoft.com/help/5021112
 https://support.microsoft.com/help/5021123
 https://support.microsoft.com/help/5024296
 https://support.microsoft.com/help/5029185
-https://support.microsoft.com/help/5063757
-https://support.microsoft.com/help/5063759
 https://support.microsoft.com/help/5063761
-https://support.microsoft.com/help/5063814
+https://support.microsoft.com/help/5065220
+https://support.microsoft.com/help/5065222
+https://support.microsoft.com/help/5065225
 https://support.microsoft.com/help/5066370
 https://support.microsoft.com/help/5066372
 https://support.microsoft.com/help/5066373
