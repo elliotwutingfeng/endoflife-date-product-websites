@@ -796,7 +796,7 @@ https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-a
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h16-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-16-known-and-addressed-issues/pan-os-10-2-16-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-10-known-and-addressed-issues/pan-os-11-1-10-h1-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-11-known-and-addressed-issues/pan-os-11-1-11-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-8-known-and-addressed-issues/pan-os-11-2-8-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/8-1/pan-os-release-notes/pan-os-8-1-addressed-issues/pan-os-8-1-24-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-release-notes/pan-os-9-0-addressed-issues/pan-os-9-0-17-h5-addressed-issues
@@ -1488,9 +1488,9 @@ https://support.microsoft.com/help/4500180
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/4505221
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002741
-https://support.microsoft.com/help/5002744
-https://support.microsoft.com/help/5002751
+https://support.microsoft.com/help/5002775
+https://support.microsoft.com/help/5002778
+https://support.microsoft.com/help/5002784
 https://support.microsoft.com/help/5014351
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
