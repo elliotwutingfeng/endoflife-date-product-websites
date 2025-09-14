@@ -953,6 +953,9 @@ https://en-us.support.motorola.com/app/software-security-update/g_id/7112/produc
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12238
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12265
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12266
+https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12386
+https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12387
+https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12388
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12389
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12400
 https://en.opensuse.org/Archive:Product_highlights_11.2
