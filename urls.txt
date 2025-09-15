@@ -1215,6 +1215,7 @@ https://learn.microsoft.com/powershell/scripting/install/powershell-support-life
 https://learn.microsoft.com/previous-versions/dotnet/netframework-4.0/ms171868(v=vs.100)
 https://learn.microsoft.com/previous-versions/mt752379(v=vs.140)
 https://learn.microsoft.com/troubleshoot/developer/visualstudio/installation/visual-studio-2012-update-4
+https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate21
 https://learn.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2015-update4-vs#details-of-whats-new-in-team-foundation-server-2015-update-42-patch-8
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2017-update3#details-of-whats-new-in-team-foundation-server-2017-update-31-patch-15
@@ -1501,7 +1502,6 @@ https://support.microsoft.com/help/5021123
 https://support.microsoft.com/help/5024296
 https://support.microsoft.com/help/5029185
 https://support.microsoft.com/help/5063761
-https://support.microsoft.com/help/5065220
 https://support.microsoft.com/help/5065222
 https://support.microsoft.com/help/5065225
 https://support.microsoft.com/help/5066370
