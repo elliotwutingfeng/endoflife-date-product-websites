@@ -111,6 +111,7 @@ wiki.mageia.org
 wikipedia.org
 wordpress.org
 www.amazon.com
+www.apple.com
 www.atlassian.com
 www.betaarchive.com
 www.couchbase.com
