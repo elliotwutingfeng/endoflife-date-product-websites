@@ -700,7 +700,7 @@ https://docs.aws.amazon.com/eks/latest/userguide/platform-versions.html#platform
 https://docs.aws.amazon.com/eks/latest/userguide/platform-versions.html#platform-versions-1-26
 https://docs.aws.amazon.com/eks/latest/userguide/platform-versions.html#platform-versions-1-27
 https://docs.aws.amazon.com/glue/latest/dg/glue-version-support-policy.html
-https://docs.azul.com/core/release/april-2025/release-notes
+https://docs.azul.com/core/release/25-ga/release-notes/release-notes
 https://docs.azul.com/core/release/august-2022-11.58-17.36-18.32/release-notes/release-notes
 https://docs.azul.com/core/release/january-2023/release-notes/release-notes
 https://docs.azul.com/core/release/january-2025/release-notes
@@ -708,6 +708,7 @@ https://docs.azul.com/core/release/july-2021/release-notes/release-notes
 https://docs.azul.com/core/release/july-2022/release-notes/release-notes
 https://docs.azul.com/core/release/july-2023/release-notes/release-notes
 https://docs.azul.com/core/release/july-2024/release-notes/release-notes
+https://docs.azul.com/core/release/july-2025/release-notes.html
 https://docs.bell-sw.com/liberica-jdk/12.0.2b10/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/15.0.2b8/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/17.0.10b13/general/release-notes/
@@ -1096,6 +1097,7 @@ https://github.com/yarnpkg/yarn/releases/tag/v__LATEST__
 https://godotengine.org/article/godot-engine-reaches-1-0/
 https://godotengine.org/article/maintenance-release-godot-2-0-4
 https://godotengine.org/releases/4.4/
+https://godotengine.org/releases/4.5/
 https://graylog.org/post/announcing-graylog-2-1-3/
 https://graylog.org/post/announcing-graylog-3-0-2/
 https://graylog.org/post/announcing-graylog-3-1-4/
@@ -1824,6 +1826,7 @@ https://www.oneplus.in/11r
 https://www.oracle.com/database/technologies/database10g-doc.html
 https://www.oracle.com/java/technologies/javase/23all-relnotes.html
 https://www.oracle.com/java/technologies/javase/24all-relnotes.html
+https://www.oracle.com/java/technologies/javase/25all-relnotes.html
 https://www.oracle.com/java/technologies/javase/6u211-relnotes.html
 https://www.oracle.com/java/technologies/javase/7-support-relnotes.html#R170_361
 https://www.oracle.com/java/technologies/javase/advanced-v142-support-relnotes.html
