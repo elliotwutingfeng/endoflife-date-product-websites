@@ -1064,6 +1064,8 @@ https://github.com/apache/hbase/blob/rel/__LATEST__/CHANGES.txt
 https://github.com/apache/logging-log4j2/blob/rel/__LATEST__/RELEASE-NOTES.md
 https://github.com/apache/logging-log4j2/blob/rel/__LATEST__/RELEASE-NOTES.txt
 https://github.com/aws/aws-lambda-dotnet/blob/master/CHANGELOG.md#release-2024-12-09
+https://github.com/ckeditor/ckeditor4/releases/tag/__LATEST__-lts
+https://github.com/ckeditor/ckeditor5/releases/tag/v__LATEST__
 https://github.com/corretto/corretto-jdk/blob/216fca10a21d6a26ca2846d4ca2861ea644a7a1e/CHANGELOG.md#january-2021-critical-patch-update-corretto-version-150271
 https://github.com/corretto/corretto-jdk/blob/release-__LATEST__/CHANGELOG.md
 https://github.com/dotnet/core/blob/main/release-notes/2.0/2.0.9.md
@@ -1202,7 +1204,6 @@ https://learn.microsoft.com/lifecycle/announcements/windows-server-1909-end-of-s
 https://learn.microsoft.com/lifecycle/announcements/windows-server-20h2-retiring
 https://learn.microsoft.com/lifecycle/announcements/windows-server-version-2004-end-of-servicing
 https://learn.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge
-https://learn.microsoft.com/lifecycle/faq/office
 https://learn.microsoft.com/lifecycle/products/microsoft-office-2007
 https://learn.microsoft.com/lifecycle/products/microsoft-office-2008-for-mac
 https://learn.microsoft.com/lifecycle/products/microsoft-office-2010
@@ -1348,7 +1349,6 @@ https://service.oneplus.com/us/search/search-detail?id=2123192&articleIndex=2
 https://struts.apache.org/struts1eol-announcement.html
 https://support.apple.com/119891
 https://support.apple.com/119893
-https://support.apple.com/119894
 https://support.apple.com/121456
 https://support.apple.com/122240
 https://support.apple.com/122241
