@@ -306,11 +306,6 @@ https://developer.android.com/about/versions/oreo
 https://developer.android.com/about/versions/oreo/android-8.1
 https://developer.android.com/about/versions/pie
 https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-13_1-release-notes
-https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14-release-notes
-https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15-release-notes
-https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17-release-notes
-https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-18-release-notes
-https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-26-release-notes
 https://developer.apple.com/documentation/ios-ipados-release-notes/ipados-16-release-notes
 https://developer.apple.com/documentation/macos-release-notes/macos-12_0_1-release-notes
 https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_0_1-release-notes
@@ -1381,6 +1376,9 @@ https://support.apple.com/en-us/121032
 https://support.apple.com/en-us/121161
 https://support.apple.com/en-us/121164
 https://support.apple.com/en-us/121202
+https://support.apple.com/en-us/125093
+https://support.apple.com/en-us/125094
+https://support.apple.com/en-us/125095
 https://support.apple.com/en-us/docs/iphone/301076
 https://support.apple.com/kb/DL1894
 https://support.apple.com/kb/SP495
@@ -1743,6 +1741,9 @@ https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-74
 https://www.ibm.com/support/pages/customer-notices-and-information-ibm-i-75
 https://www.ibm.com/support/pages/db2-version-91-linux-unix-and-windows-manuals
 https://www.ibm.com/support/pages/db2-version-95-linux-unix-and-windows-english-manuals
+https://www.intel.com/content/www/us/en/ark/products/codename/213792/products-formerly-lunar-lake.html
+https://www.intel.com/content/www/us/en/ark/products/codename/225837/products-formerly-arrow-lake.html
+https://www.intel.com/content/www/us/en/ark/products/codename/90353/products-formerly-meteor-lake.html
 https://www.joomla.org/announcements/release-news/5900-joomla-5-0-and-joomla-4-4-are-here
 https://www.lineageoslog.com/13.0
 https://www.lineageoslog.com/14.1

@@ -122,6 +122,7 @@ www.findbugzero.com
 www.googlecloudcommunity.com
 www.hmd.com
 www.ibm.com
+www.intel.com
 www.joomla.org
 www.lineageoslog.com
 www.microfocus.com
