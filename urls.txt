@@ -965,6 +965,8 @@ https://en-us.support.motorola.com/app/software-security-update/g_id/7112/produc
 https://en.opensuse.org/Archive:Product_highlights_11.2
 https://en.opensuse.org/Archive:Product_highlights_11.3
 https://en.opensuse.org/Archive:Product_highlights_11.4
+https://en.opensuse.org/openSUSE:Roadmap#Leap_15.6
+https://en.opensuse.org/openSUSE:Roadmap#Leap_16.0
 https://en.wikipedia.org/wiki/MacOS_High_Sierra#Release_history
 https://en.wikipedia.org/wiki/MacOS_Sierra#Release_history
 https://en.wikipedia.org/wiki/Mac_OS_X_Cheetah#Release_history
