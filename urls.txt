@@ -106,6 +106,7 @@ https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-support-nodejs-22/
 https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-support-python-313/
 https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-5-0/
 https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-support-ruby-3-4/
+https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-distro-kubernetes-version-1-34/
 https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/
 https://aws.amazon.com/amazon-linux-ami/2018.03-release-notes/
 https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/
@@ -316,7 +317,6 @@ https://developer.apple.com/documentation/macos-release-notes/macos-catalina-10_
 https://developer.apple.com/documentation/macos-release-notes/macos-mojave-10_14-release-notes
 https://developer.apple.com/documentation/visionos-release-notes/visionos-release-notes
 https://developer.chrome.com/release-notes/__RELEASE_CYCLE__
-https://discourse.nixos.org/t/nix-2-31-0-released/68465
 https://discuss.google.dev/t/looker-24-10-release-notes/157366
 https://discuss.google.dev/t/looker-24-12-release-notes/160239
 https://discuss.google.dev/t/looker-24-14-release-notes/163516
