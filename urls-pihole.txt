@@ -55,6 +55,7 @@ docs.saltproject.io
 docs.splunk.com
 docs.vmware.com
 docs.xcp-ng.org
+documentation.commvault.com
 documents.bmc.com
 download.nvidia.com
 downloads.apache.org
@@ -126,6 +127,7 @@ www.joomla.org
 www.lineageoslog.com
 www.microfocus.com
 www.microsoft.com
+www.mongodb.com
 www.nokia.com
 www.nvidia.com
 www.oneplus.in
