@@ -1016,6 +1016,7 @@ https://en.wikipedia.org/wiki/Pixel_Tablet
 https://en.wikipedia.org/wiki/Pixel_Watch
 https://en.wikipedia.org/wiki/Pixel_Watch_2
 https://en.wikipedia.org/wiki/Pixel_Watch_3
+https://en.wikipedia.org/wiki/Pixel_Watch_4
 https://forums.unrealircd.org/viewtopic.php?f=1&t=8588
 https://github.com/Azure/AKS/issues/2502#issuecomment-1008549356
 https://github.com/Azure/AKS/issues/2730
