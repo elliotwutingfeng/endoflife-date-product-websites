@@ -247,6 +247,7 @@ https://cloud.google.com/looker/docs/release-notes#June_14_2023
 https://cloud.google.com/looker/docs/release-notes#March_13_2024
 https://cloud.google.com/looker/docs/release-notes#May_10_2023
 https://cloud.google.com/looker/docs/release-notes#November_08_2023
+https://cloud.google.com/looker/docs/release-notes#October_06_2025
 https://cloud.google.com/looker/docs/release-notes#October_09_2024
 https://cloud.google.com/looker/docs/release-notes#October_11_2023
 https://cloud.google.com/looker/docs/release-notes#September_10_2025
@@ -1750,6 +1751,7 @@ https://www.intel.com/content/www/us/en/ark/products/codename/213792/products-fo
 https://www.intel.com/content/www/us/en/ark/products/codename/225837/products-formerly-arrow-lake.html
 https://www.intel.com/content/www/us/en/ark/products/codename/90353/products-formerly-meteor-lake.html
 https://www.joomla.org/announcements/release-news/5900-joomla-5-0-and-joomla-4-4-are-here
+https://www.joomla.org/announcements/release-news/5939-joomla-6-0-and-joomla-5-4-are-here.html
 https://www.lineageoslog.com/13.0
 https://www.lineageoslog.com/14.1
 https://www.microfocus.com/documentation/visual-cobol/vc100/DevHub/index.html
