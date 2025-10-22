@@ -797,7 +797,7 @@ https://docs.paloaltonetworks.com/globalprotect/6-0/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/globalprotect/6-1/globalprotect-app-release-notes//globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/6-3/globalprotect-app-release-notes/globalprotect-addressed-issues
-https://docs.paloaltonetworks.com/ngfw/release-notes/12-1/pan-os-12-1-3-known-and-addressed-issues
+https://docs.paloaltonetworks.com/ngfw/release-notes/12-1/pan-os-12-1-3-known-and-addressed-issues/pan-os-12-1-3-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h16-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-17-known-and-addressed-issues/pan-os-10-2-17-addressed-issues
@@ -1509,9 +1509,9 @@ https://support.microsoft.com/help/4500180
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/4505221
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002775
-https://support.microsoft.com/help/5002778
-https://support.microsoft.com/help/5002784
+https://support.microsoft.com/help/5002786
+https://support.microsoft.com/help/5002787
+https://support.microsoft.com/help/5002798
 https://support.microsoft.com/help/5014351
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
@@ -1521,9 +1521,9 @@ https://support.microsoft.com/help/5029185
 https://support.microsoft.com/help/5063761
 https://support.microsoft.com/help/5065222
 https://support.microsoft.com/help/5065225
+https://support.microsoft.com/help/5066366
+https://support.microsoft.com/help/5066367
 https://support.microsoft.com/help/5066370
-https://support.microsoft.com/help/5066372
-https://support.microsoft.com/help/5066373
 https://support.microsoft.com/help/941203
 https://support.microsoft.com/help/967908
 https://support.microsoft.com/help/979064
