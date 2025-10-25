@@ -343,6 +343,7 @@ https://doc.samsungmobile.com/SM-A047F/XXV/doc.html
 https://doc.samsungmobile.com/SM-A055F/FWD/doc.html
 https://doc.samsungmobile.com/SM-A057F/FWD/doc.html
 https://doc.samsungmobile.com/SM-A065M/TCE/doc.html
+https://doc.samsungmobile.com/SM-A075M/TCE/doc.html
 https://doc.samsungmobile.com/SM-A102U/DSH/doc.html
 https://doc.samsungmobile.com/SM-A105F/AFR/doc.html
 https://doc.samsungmobile.com/SM-A107F/SEK/doc.html
@@ -359,6 +360,8 @@ https://doc.samsungmobile.com/SM-A155F/EUX/doc.html
 https://doc.samsungmobile.com/SM-A156B/EUX/doc.html
 https://doc.samsungmobile.com/SM-A165F/XFA/doc.html
 https://doc.samsungmobile.com/SM-A166B/EUX/doc.html
+https://doc.samsungmobile.com/SM-A175F/TCE/doc.html
+https://doc.samsungmobile.com/SM-A176B/XXV/doc.html
 https://doc.samsungmobile.com/SM-A202F/DBT/doc.html
 https://doc.samsungmobile.com/SM-A205F/AFR/doc.html
 https://doc.samsungmobile.com/SM-A207F/XEH/doc.html
@@ -584,6 +587,7 @@ https://doc.samsungmobile.com/SM-R600/CHC/doc.html
 https://doc.samsungmobile.com/SM-R720/CHC/doc.html
 https://doc.samsungmobile.com/SM-R770/BRI/doc.html
 https://doc.samsungmobile.com/SM-S711B/INS/doc.html
+https://doc.samsungmobile.com/SM-S731B/COL/doc.html
 https://doc.samsungmobile.com/SM-S901E/XXV/doc.html
 https://doc.samsungmobile.com/SM-S906E/XXV/doc.html
 https://doc.samsungmobile.com/SM-S908E/VAU/doc.html
@@ -640,16 +644,19 @@ https://doc.samsungmobile.com/SM-X205/INS/doc.html
 https://doc.samsungmobile.com/SM-X210/ZTO/doc.html
 https://doc.samsungmobile.com/SM-X300/EUX/doc.html
 https://doc.samsungmobile.com/SM-X356B/MID/doc.html
+https://doc.samsungmobile.com/SM-X406B/TCE/doc.html
 https://doc.samsungmobile.com/SM-X510/ZTO/doc.html
 https://doc.samsungmobile.com/SM-X520/EUX/doc.html
 https://doc.samsungmobile.com/SM-X610/ZTO/doc.html
 https://doc.samsungmobile.com/SM-X706B/SER/doc.html
+https://doc.samsungmobile.com/SM-X730/EUX/doc.html
 https://doc.samsungmobile.com/SM-X806B/XXV/doc.html
 https://doc.samsungmobile.com/SM-X816B/INS/doc.html
 https://doc.samsungmobile.com/SM-X820/XSP/doc.html
 https://doc.samsungmobile.com/SM-X906B/XXV/doc.html
 https://doc.samsungmobile.com/SM-X910/XJP/doc.html
 https://doc.samsungmobile.com/SM-X920/XAC/doc.html
+https://doc.samsungmobile.com/SM-X930/EUX/doc.html
 https://doc.samsungmobile.com/sm-a215u/usc/doc.html
 https://doc.samsungmobile.com/sm-a245f/pak/doc.html
 https://doc.samsungmobile.com/sm-a325f/ins/doc.html
