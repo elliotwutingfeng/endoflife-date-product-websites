@@ -1362,7 +1362,10 @@ https://public.dhe.ibm.com/software/integration/wmq/docs/V7.0/
 https://public.dhe.ibm.com/software/integration/wmq/docs/V7.1/
 https://service.oneplus.com/us/search/search-detail?id=2123192&articleIndex=2
 https://struts.apache.org/struts1eol-announcement.html
+https://support.apple.com/111842
+https://support.apple.com/111897
 https://support.apple.com/119891
+https://support.apple.com/119892
 https://support.apple.com/119893
 https://support.apple.com/121456
 https://support.apple.com/122240
