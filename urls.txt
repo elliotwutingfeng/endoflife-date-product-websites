@@ -757,6 +757,9 @@ https://docs.fedoraproject.org/en-US/releases/f6/
 https://docs.fedoraproject.org/en-US/releases/f7/
 https://docs.fedoraproject.org/en-US/releases/f8/
 https://docs.fedoraproject.org/en-US/releases/f9/
+https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v340
+https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v350
+https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v360
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-418-19702/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-450-248-02/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-460-106-00/index.html
@@ -1168,6 +1171,7 @@ https://help.zerto.com/bundle/RN.HTML.10.0_U4/page/release_notes_for_zerto_10_0_
 https://help.zerto.com/bundle/RN.HTML.10.0_U5/page/release_notes_for_zerto_10_0_update_5.html
 https://help.zerto.com/bundle/RN.HTML.10.0_U6/page/release_notes_for_zerto_10_0_update_6.html
 https://help.zerto.com/bundle/RN.HTML.10.0_U7/page/release_notes_for_zerto_10_0_update_7.html
+https://help.zerto.com/bundle/RN.HTML.10.8/page/release_notes_for_zerto_10_8.html
 https://help.zerto.com/bundle/RN.HTML.97/page/9.7_Whats_New.htm
 https://help.zerto.com/bundle/Zerto_v8.5_Release_Notes/resource/Zerto_v8.5_Release_Notes.pdf
 https://help.zerto.com/bundle/Zerto_v9.0_Release_Notes/resource/Zerto_v9.0_Release_Notes.pdf
@@ -1191,6 +1195,7 @@ https://hop.apache.org/blog/2025/04/hop-2.13.0/
 https://hop.apache.org/blog/2025/05/hop-2.14.0/
 https://hop.apache.org/blog/2025/08/hop-2.15.0/
 https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12311210&version=12355554
+https://jfrog.com/help/r/jfrog-release-information/artifactory-7.125.4-self-hosted-self-managed
 https://kde.org/announcements/plasma/5/__LATEST__/
 https://knowledge.broadcom.com/external/article/380603
 https://laravel.com/docs/5.5/releases
@@ -1302,6 +1307,7 @@ https://lists.debian.org/debian-announce/2013/msg00002.html
 https://lists.debian.org/debian-announce/2015/msg00001.html
 https://lists.debian.org/debian-announce/2017/msg00003.html
 https://lists.debian.org/debian-release/2024/06/msg00700.html
+https://lists.exim.org/lurker/message/20251028.114149.3bf19800.en.html
 https://logging.apache.org/log4j/1.2/changes-report.html#a1.2.17
 https://mariadb.com/docs/release-notes/community-server/old-releases/mariadb-10-5-series/mariadb-10-5-29-release-notes
 https://mariadb.com/docs/release-notes/community-server/old-releases/mariadb-11-7-rolling-releases/mariadb-11-7-2-release-notes

@@ -45,6 +45,7 @@ docs.citrix.com
 docs.daocloud.io
 docs.djangoproject.com
 docs.fedoraproject.org
+docs.influxdata.com
 docs.nvidia.com
 docs.omnissa.com
 docs.oracle.com
@@ -73,12 +74,14 @@ help.sonatype.com
 help.zerto.com
 hop.apache.org
 issues.apache.org
+jfrog.com
 kde.org
 knowledge.broadcom.com
 laravel.com
 learn.microsoft.com
 lineageos.org
 lists.debian.org
+lists.exim.org
 logging.apache.org
 mariadb.com
 maven.apache.org
