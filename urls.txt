@@ -810,7 +810,7 @@ https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/globalprotect/6-3/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/ngfw/release-notes/12-1/pan-os-12-1-3-known-and-addressed-issues/pan-os-12-1-3-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h6-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h16-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h19-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-17-known-and-addressed-issues/pan-os-10-2-17-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-12-known-and-addressed-issues/pan-os-11-1-12-addressed-issues
@@ -1741,6 +1741,7 @@ https://www.devuan.org/os/announce/ascii-point-release-announce-112119
 https://www.devuan.org/os/announce/beowulf-point-release-announce-021421
 https://www.devuan.org/os/announce/chimaera-release-announce-2021-10-14
 https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14
+https://www.devuan.org/os/announce/excalibur-release-announce-2025-11-02
 https://www.devuan.org/os/announce/stable-jessie-announce-052517.html
 https://www.elastic.co/docs/release-notes/beats#beats-__LATEST__-release-notes
 https://www.elastic.co/docs/release-notes/elasticsearch#elasticsearch-__LATEST__-release-notes
