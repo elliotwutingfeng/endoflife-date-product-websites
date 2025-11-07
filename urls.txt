@@ -774,7 +774,7 @@ https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-560-35-03/index.htm
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-565-57-01/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-570-195-03/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-575-57-08/index.html
-https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-95-05/index.html
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-105-08/index.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312.1/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2406/page/Horizon8-ReleaseNotes.html
@@ -814,7 +814,7 @@ https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-1
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-17-known-and-addressed-issues/pan-os-10-2-17-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-12-known-and-addressed-issues/pan-os-11-1-12-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-9-known-and-addressed-issues/pan-os-11-2-9-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-10-known-and-addressed-issues/pan-os-11-2-10-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/8-1/pan-os-release-notes/pan-os-8-1-addressed-issues/pan-os-8-1-24-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-release-notes/pan-os-9-0-addressed-issues/pan-os-9-0-17-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-release-notes/pan-os-9-1-addressed-issues/pan-os-9-1-19-addressed-issues
