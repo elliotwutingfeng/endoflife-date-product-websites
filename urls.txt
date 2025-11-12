@@ -1344,6 +1344,7 @@ https://mxlinux.org/blog/mx-18-3-refreshed-isos-now-available/
 https://mxlinux.org/blog/mx-19-4-now-available/
 https://mxlinux.org/blog/mx-21-3-wildflower-released/
 https://mxlinux.org/blog/mx-23-libretto-now-available/
+https://mxlinux.org/blog/mx-25-infinity-isos-now-available/
 https://neo4j.com/release-notes/database/neo4j-5/
 https://neo4j.com/release-notes/database/neo4j-{{'__LATEST__'|replace:'.','-'}}/
 https://news.samsung.com/in/samsung-launches-galaxy-m56-5g-segments-slimmest-smartphone-in-india
