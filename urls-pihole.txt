@@ -73,7 +73,6 @@ help.claris.com
 help.sonatype.com
 help.zerto.com
 hop.apache.org
-issues.apache.org
 jfrog.com
 kde.org
 knowledge.broadcom.com
