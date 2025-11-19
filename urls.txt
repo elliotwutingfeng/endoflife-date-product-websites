@@ -3,6 +3,16 @@ http://web.archive.org/web/20211130125819/https://docs.citrix.com/en-us/citrix-v
 http://web.archive.org/web/20220120022043/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2009/whats-new.html
 http://web.archive.org/web/20220625230254/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2012/whats-new.html
 http://web.archive.org/web/20230417021744/https://wiki.centos.org/Manuals/ReleaseNotes/CentOSStream
+http://web.archive.org/web/20240105020947/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2103/whats-new.html
+http://web.archive.org/web/20240105021050/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2209/whats-new.html
+http://web.archive.org/web/20240415050756/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2303/whats-new.html
+http://web.archive.org/web/20240805182525/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2112/whats-new.html
+http://web.archive.org/web/20250325060541/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2212/whats-new
+http://web.archive.org/web/20250418235814/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2106/whats-new
+http://web.archive.org/web/20250521145252/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2206/whats-new
+http://web.archive.org/web/20250719020802/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2305/whats-new
+http://web.archive.org/web/20250804164352/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2109/whats-new
+http://web.archive.org/web/20251002064202/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2308/whats-new
 http://www.squid-cache.org/Versions/v2/2.4/
 http://www.squid-cache.org/Versions/v2/2.5/
 http://www.squid-cache.org/Versions/v2/2.6/
