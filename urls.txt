@@ -792,6 +792,7 @@ https://docs.fedoraproject.org/en-US/releases/f9/
 https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v340
 https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v350
 https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v360
+https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v370
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-418-19702/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-450-248-02/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-460-106-00/index.html
