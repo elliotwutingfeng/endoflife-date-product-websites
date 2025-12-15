@@ -293,6 +293,7 @@ https://community.sonarsource.com/t/sonarqube-server-2025-release-2-released/137
 https://community.sonarsource.com/t/sonarqube-server-2025-release-3-1/143131
 https://community.sonarsource.com/t/sonarqube-server-2025-release-4-2/146252
 https://community.sonarsource.com/t/sonarqube-server-2025-release-4-3/149159
+https://community.sonarsource.com/t/sonarqube-server-2025-release-6/153802
 https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.21+release+notes
 https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+8.10+release+notes
 https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+8.11+release+notes
