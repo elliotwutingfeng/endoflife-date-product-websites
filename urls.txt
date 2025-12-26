@@ -812,6 +812,7 @@ https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-565-57-01/index.htm
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-570-195-03/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-575-57-08/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-105-08/index.html
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-590-48-01/index.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312.1/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2406/page/Horizon8-ReleaseNotes.html
@@ -1977,6 +1978,7 @@ https://www.rfc-editor.org/rfc/rfc2246
 https://www.rfc-editor.org/rfc/rfc4346
 https://www.rfc-editor.org/rfc/rfc5246
 https://www.rfc-editor.org/rfc/rfc8446
+https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/
 https://www.samsung.com/us/watches/galaxy-watch-fe/
 https://www.samsung.com/us/watches/galaxy-watch-ultra/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/8-9-lts/
