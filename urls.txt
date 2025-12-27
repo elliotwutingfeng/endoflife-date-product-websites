@@ -236,6 +236,7 @@ https://blog.linuxmint.com/?p=4924
 https://blog.pcisecuritystandards.org/just-published-pci-dss-v4-0-1
 https://blog.pcisecuritystandards.org/pci-dss-v4-0-resource-hub
 https://blog.system76.com/post/670564272872488960/popos-2110-has-landed
+https://blog.system76.com/post/pop-os-letter-from-our-founder
 https://blog.system76.com/post/popos-2104-a-release-of-cosmic-proportions
 https://blog.system76.com/post/popos-2204-lts-has-landed
 https://blogs.oracle.com/apex/post/announcing-oracle-apex-182
@@ -1711,6 +1712,12 @@ https://web.archive.org/web/20230716101428/https://doc.opensuse.org/release-note
 https://web.archive.org/web/20230821184117/https://access.redhat.com/documentation/en-us/jboss_enterprise_application_platform/5/html/release_notes_5.2.0/index
 https://web.archive.org/web/20230921152724/https://www.oracle.com/database/technologies/oracle9i.html
 https://web.archive.org/web/20231128204444/https://doc.opensuse.org/release-notes/x86_64/openSUSE/13.2/
+https://web.archive.org/web/20231205173501/http://www.mongodb.com/docs/manual/release-notes/6.2/
+https://web.archive.org/web/20240117080159/http://www.mongodb.com/docs/manual/release-notes/6.3/
+https://web.archive.org/web/20240117081126/http://www.mongodb.com/docs/manual/release-notes/5.3/
+https://web.archive.org/web/20240119192416/http://www.mongodb.com/docs/manual/release-notes/5.2/
+https://web.archive.org/web/20240119192418/http://www.mongodb.com/docs/manual/release-notes/6.1/
+https://web.archive.org/web/20240222034545/http://www.mongodb.com/docs/manual/release-notes/5.1/
 https://web.archive.org/web/20240225123551/https://listman.redhat.com/archives/rhsa-announce/2010-April/000713.html
 https://web.archive.org/web/20240229083418/https://doc.opensuse.org/release-notes/x86_64/openSUSE/13.1/
 https://web.archive.org/web/20240411094103/https://www.mongodb.com/docs/v4.2/release-notes/4.2/
