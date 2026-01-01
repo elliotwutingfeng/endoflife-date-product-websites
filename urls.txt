@@ -1144,7 +1144,7 @@ https://github.com/graalvm/mandrel/releases/tag/mandrel-20.2.0.0.Final
 https://github.com/graalvm/mandrel/releases/tag/mandrel-20.3.3.0-Final
 https://github.com/graalvm/mandrel/releases/tag/mandrel-21.0.0.0.Final
 https://github.com/influxdata/telegraf/releases/tag/__LATEST__
-https://github.com/kumahq/kuma/releases/tag/v__LATEST__
+https://github.com/kumahq/kuma/releases/tag/__LATEST__
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_IOJS.md#__LATEST__
 https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-35
 https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-36
