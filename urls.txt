@@ -1323,6 +1323,7 @@ https://learn.microsoft.com/visualstudio/releasenotes/vs2017-relnotes-v15.5#visu
 https://learn.microsoft.com/visualstudio/releasenotes/vs2017-relnotes-v15.6#--visual-studio-2017-version-1567-servicing-update-
 https://learn.microsoft.com/visualstudio/releasenotes/vs2017-relnotes-v15.7#-visual-studio-2017-version-1576
 https://learn.microsoft.com/visualstudio/releasenotes/vs2017-relnotes-v15.8#-visual-studio-2017-version-1589
+https://learn.microsoft.com/visualstudio/releases/__CODENAME__/release-notes#__LATEST__
 https://learn.microsoft.com/windows/release-health/release-information
 https://learn.microsoft.com/windows/release-health/release-information#enterprise-and-iot-enterprise-ltsbltsc-editions
 https://learn.microsoft.com/windows/release-health/status-windows-10-20h2
