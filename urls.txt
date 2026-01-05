@@ -676,6 +676,7 @@ https://doc.samsungmobile.com/SM-W9023/CHC/doc.html
 https://doc.samsungmobile.com/SM-W9024/CHC/doc.html
 https://doc.samsungmobile.com/SM-W9025/CHC/doc.html
 https://doc.samsungmobile.com/SM-X115/SKZ/doc.html
+https://doc.samsungmobile.com/SM-X133/XSP/doc.html
 https://doc.samsungmobile.com/SM-X205/INS/doc.html
 https://doc.samsungmobile.com/SM-X210/ZTO/doc.html
 https://doc.samsungmobile.com/SM-X300/EUX/doc.html
