@@ -127,6 +127,7 @@ www.ibm.com
 www.intel.com
 www.joomla.org
 www.lineageoslog.com
+www.linuxmint.com
 www.microfocus.com
 www.microsoft.com
 www.mongodb.com
