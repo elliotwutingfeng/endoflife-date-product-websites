@@ -768,6 +768,7 @@ https://docs.bmc.com/xwiki/bin/view/Control-M-Orchestration/Control-M/ctm9022/Co
 https://docs.centreon.com/docs/__RELEASE_CYCLE__/releases/centreon-core/#{{'__LATEST__'|replace:'.',''}}
 https://docs.centreon.com/docs/releases/centreon-os/
 https://docs.cfengine.com/docs/__RELEASE_CYCLE__/guide-latest-release-whatsnew-changelog-core.html
+https://docs.cfengine.com/docs/__RELEASE_CYCLE__/release-notes-whatsnew-changelog-core.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-10.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2203-ltsr/whats-new/cumulative-update-7
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2402-ltsr/whats-new/cumulative-update-2.html
@@ -1260,7 +1261,6 @@ https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-2022-update-2-patch-7-release-date-november-11-2025
 https://learn.microsoft.com/en-us/lifecycle/products/office-ltsc-2024
 https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-core
-https://learn.microsoft.com/en-us/sql/sql-server/sql-server-2025-release-notes
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1507-cb-cbb-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1511-end-of-servicing
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1607-end-of-servicing
@@ -1310,7 +1310,6 @@ https://learn.microsoft.com/lifecycle/products/windows-xp
 https://learn.microsoft.com/previous-versions/dotnet/netframework-4.0/ms171868(v=vs.100)
 https://learn.microsoft.com/previous-versions/mt752379(v=vs.140)
 https://learn.microsoft.com/troubleshoot/developer/visualstudio/installation/visual-studio-2012-update-4
-https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate22
 https://learn.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2015-update4-vs#details-of-whats-new-in-team-foundation-server-2015-update-42-patch-8
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2017-update3#details-of-whats-new-in-team-foundation-server-2017-update-31-patch-15
@@ -1581,9 +1580,9 @@ https://support.microsoft.com/help/4500180
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/4505221
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002815
-https://support.microsoft.com/help/5002816
-https://support.microsoft.com/help/5002821
+https://support.microsoft.com/help/5002822
+https://support.microsoft.com/help/5002825
+https://support.microsoft.com/help/5002828
 https://support.microsoft.com/help/5014351
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
@@ -1596,6 +1595,8 @@ https://support.microsoft.com/help/5068404
 https://support.microsoft.com/help/5071873
 https://support.microsoft.com/help/5071875
 https://support.microsoft.com/help/5071876
+https://support.microsoft.com/help/5072936
+https://support.microsoft.com/help/5073177
 https://support.microsoft.com/help/941203
 https://support.microsoft.com/help/967908
 https://support.microsoft.com/help/979064
