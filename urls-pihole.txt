@@ -93,6 +93,7 @@ openjdk.org
 openssl-library.org
 postmarketos.org
 public.dhe.ibm.com
+quarkus.io
 service.oneplus.com
 struts.apache.org
 support.apple.com

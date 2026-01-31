@@ -1423,6 +1423,7 @@ https://public.dhe.ibm.com/software/integration/wmq/docs/V5.3/
 https://public.dhe.ibm.com/software/integration/wmq/docs/V6.0/
 https://public.dhe.ibm.com/software/integration/wmq/docs/V7.0/
 https://public.dhe.ibm.com/software/integration/wmq/docs/V7.1/
+https://quarkus.io/blog/quarkus-3-31-released/
 https://service.oneplus.com/us/search/search-detail?id=2123192&articleIndex=2
 https://struts.apache.org/struts1eol-announcement.html
 https://support.apple.com/111842
