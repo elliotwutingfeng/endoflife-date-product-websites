@@ -821,7 +821,7 @@ https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-570-195-03/index.ht
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-570-211-01/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-575-57-08/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-105-08/index.html
-https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-126-09/index.html
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-126-16/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-590-48-01/index.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312.1/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312/page/Horizon8-ReleaseNotes.html
@@ -1252,6 +1252,7 @@ https://hop.apache.org/blog/2025/04/hop-2.13.0/
 https://hop.apache.org/blog/2025/05/hop-2.14.0/
 https://hop.apache.org/blog/2025/08/hop-2.15.0/
 https://hop.apache.org/blog/2025/11/hop-2.16.0/
+https://hop.apache.org/blog/2026/02/hop-2.17.0/
 https://jfrog.com/help/r/jfrog-release-information/artifactory-7.125.4-self-hosted-self-managed
 https://kde.org/announcements/plasma/5/__LATEST__/
 https://knowledge.broadcom.com/external/article/380603
