@@ -198,6 +198,7 @@ https://blog.centos.org/2021/12/introducing-centos-stream-9/
 https://blog.centos.org/2024/12/introducing-centos-stream-10/
 https://blog.emberjs.com/ember-6-0-released/
 https://blog.emberjs.com/ember-released-6-1/
+https://blog.emberjs.com/ember-released-6-10
 https://blog.emberjs.com/ember-released-6-2/
 https://blog.emberjs.com/ember-released-6-3/
 https://blog.emberjs.com/ember-released-6-4/
@@ -1175,6 +1176,7 @@ https://github.com/unrealircd/unrealircd/blob/unreal52/doc/RELEASE-NOTES.md#unre
 https://github.com/unrealircd/unrealircd/blob/unreal60_dev/doc/RELEASE-NOTES.md#unrealircd-{{'__LATEST__'|replace:'.',''}}
 https://github.com/vuejs/vue/releases/tag/v__LATEST__
 https://github.com/yarnpkg/yarn/releases/tag/v__LATEST__
+https://go.dev/doc/go1.26
 https://godotengine.org/article/godot-engine-reaches-1-0/
 https://godotengine.org/article/maintenance-release-godot-2-0-4
 https://graylog.org/post/announcing-graylog-2-1-3/

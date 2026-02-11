@@ -66,6 +66,7 @@ en.opensuse.org
 en.wikipedia.org
 forums.unrealircd.org
 github.com
+go.dev
 godotengine.org
 graylog.org
 help.akeneo.com
