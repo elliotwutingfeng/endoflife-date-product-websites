@@ -466,11 +466,13 @@ https://doc.samsungmobile.com/SM-C900F/INS/doc.html
 https://doc.samsungmobile.com/SM-E025F/INS/doc.html
 https://doc.samsungmobile.com/SM-E055F/INS/doc.html
 https://doc.samsungmobile.com/SM-E066B/INS/doc.html
+https://doc.samsungmobile.com/SM-E075F/INS/doc.html
 https://doc.samsungmobile.com/SM-E135F/INS/doc.html
 https://doc.samsungmobile.com/SM-E145F/INS/doc.html
 https://doc.samsungmobile.com/SM-E146B/INS/doc.html
 https://doc.samsungmobile.com/SM-E156B/INS/doc.html
 https://doc.samsungmobile.com/SM-E166P/INS/doc.html
+https://doc.samsungmobile.com/SM-E176B/INS/doc.html
 https://doc.samsungmobile.com/SM-E225F/INS/doc.html
 https://doc.samsungmobile.com/SM-E236B/INS/doc.html
 https://doc.samsungmobile.com/SM-E5260/CHC/doc.html
@@ -497,6 +499,7 @@ https://doc.samsungmobile.com/SM-F946B/ZTO/doc.html
 https://doc.samsungmobile.com/SM-F956W/ESK/doc.html
 https://doc.samsungmobile.com/SM-F958N/KOO/doc.html
 https://doc.samsungmobile.com/SM-F9660/TGY/doc.html
+https://doc.samsungmobile.com/SM-F9680/CHC/doc.html
 https://doc.samsungmobile.com/SM-G160N/KOO/doc.html
 https://doc.samsungmobile.com/SM-G389F/ATO/doc.html
 https://doc.samsungmobile.com/SM-G390F/ATO/doc.html
@@ -577,6 +580,7 @@ https://doc.samsungmobile.com/SM-M022F/XTC/doc.html
 https://doc.samsungmobile.com/SM-M025F/SLK/doc.html
 https://doc.samsungmobile.com/SM-M045F/INS/doc.html
 https://doc.samsungmobile.com/SM-M055F/BKD/doc.html
+https://doc.samsungmobile.com/SM-M075F/INS/doc.html
 https://doc.samsungmobile.com/SM-M105F/INS/doc.html
 https://doc.samsungmobile.com/SM-M107F/INS/doc.html
 https://doc.samsungmobile.com/SM-M115F/INS/doc.html
@@ -589,6 +593,7 @@ https://doc.samsungmobile.com/SM-M145F/INS/doc.html
 https://doc.samsungmobile.com/SM-M146B/INS/doc.html
 https://doc.samsungmobile.com/SM-M156B/XID/doc.html
 https://doc.samsungmobile.com/SM-M166P/INS/doc.html
+https://doc.samsungmobile.com/SM-M176B/NPB/doc.html
 https://doc.samsungmobile.com/SM-M205F/INS/doc.html
 https://doc.samsungmobile.com/SM-M236B/XXV/doc.html
 https://doc.samsungmobile.com/SM-M305M/XXV/doc.html
@@ -679,6 +684,7 @@ https://doc.samsungmobile.com/SM-W7025/CHC/doc.html
 https://doc.samsungmobile.com/SM-W9023/CHC/doc.html
 https://doc.samsungmobile.com/SM-W9024/CHC/doc.html
 https://doc.samsungmobile.com/SM-W9025/CHC/doc.html
+https://doc.samsungmobile.com/SM-W9026/CHC/doc.html
 https://doc.samsungmobile.com/SM-X115/SKZ/doc.html
 https://doc.samsungmobile.com/SM-X133/XSP/doc.html
 https://doc.samsungmobile.com/SM-X205/INS/doc.html
@@ -1158,6 +1164,7 @@ https://github.com/graalvm/mandrel/releases/tag/mandrel-21.0.0.0.Final
 https://github.com/influxdata/telegraf/releases/tag/__LATEST__
 https://github.com/kumahq/kuma/releases/tag/__LATEST__
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_IOJS.md#__LATEST__
+https://github.com/opensearch-project/opensearch-build/blob/main/release-notes/opensearch-release-notes-3.5.0.md
 https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-35
 https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-36
 https://github.com/puppetlabs/docs-archive/blob/main/puppet/3.8/release_notes.markdown
@@ -1261,13 +1268,13 @@ https://knowledge.broadcom.com/external/article/380603
 https://laravel.com/docs/5.5/releases
 https://laravel.com/docs/5.8/releases
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019#azure-devops-server-201901-patch-16-release-date-november-14-2023
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019u1#azure-devops-server-2019-update-12-patch-11-release-date-april-8-2025
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019u1#azure-devops-server-2019-update-12-patch-12-release-date-february-10-2026
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020#azure-devops-server-2020-update-02-patch-6-release-date-november-14-2023
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-17-release-date-july-9-2025
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-18-release-date-february-10-2026
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022#azure-devops-server-2022-update-01-patch-5-release-date-november-14-2023
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-4-release-date-june-11-2024
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-2022-update-2-patch-7-release-date-november-11-2025
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevopsserver?view=azure-devops#azure-devops-server-release-date-december-9-2025
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-2022-update-2-patch-8-release-date-february-10-2026
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevopsserver#azure-devops-server-patch-1-release-date-february-10-2026
 https://learn.microsoft.com/en-us/lifecycle/products/office-ltsc-2024
 https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-core
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1507-cb-cbb-end-of-servicing
@@ -1594,9 +1601,9 @@ https://support.microsoft.com/help/4500180
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/4505221
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002822
-https://support.microsoft.com/help/5002825
-https://support.microsoft.com/help/5002828
+https://support.microsoft.com/help/5002833
+https://support.microsoft.com/help/5002836
+https://support.microsoft.com/help/5002841
 https://support.microsoft.com/help/5014351
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
@@ -1606,9 +1613,9 @@ https://support.microsoft.com/help/5029185
 https://support.microsoft.com/help/5068400
 https://support.microsoft.com/help/5068402
 https://support.microsoft.com/help/5068404
-https://support.microsoft.com/help/5071873
-https://support.microsoft.com/help/5071875
-https://support.microsoft.com/help/5071876
+https://support.microsoft.com/help/5074992
+https://support.microsoft.com/help/5074993
+https://support.microsoft.com/help/5074995
 https://support.microsoft.com/help/941203
 https://support.microsoft.com/help/967908
 https://support.microsoft.com/help/979064
