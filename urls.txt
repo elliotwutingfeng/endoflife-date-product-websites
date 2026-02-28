@@ -832,9 +832,11 @@ https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-105-08/index.ht
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-126-20/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-590-48-01/index.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312.1/page/Horizon8-ReleaseNotes.html
-https://docs.omnissa.com/bundle/horizon8-rnV2312/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2406/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2412/page/Horizon8-ReleaseNotes.html
+https://docs.omnissa.com/bundle/horizon8-rnV2503.1/page/Horizon8-ReleaseNotes.html
+https://docs.omnissa.com/bundle/horizon8-rnV2506.1/page/Horizon8-ReleaseNotes.html
+https://docs.omnissa.com/bundle/horizon8-rnV2512/page/Horizon8-ReleaseNotes.html
 https://docs.oracle.com/cd/B19306_01/nav/portal_1.htm
 https://docs.oracle.com/cd/B28359_01/index.htm
 https://docs.oracle.com/cd/E11882_01/index.htm
