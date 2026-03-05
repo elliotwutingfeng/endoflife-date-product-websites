@@ -1075,6 +1075,7 @@ https://en.wikipedia.org/wiki/Pixel_(1st_generation)
 https://en.wikipedia.org/wiki/Pixel_10
 https://en.wikipedia.org/wiki/Pixel_10_Pro
 https://en.wikipedia.org/wiki/Pixel_10_Pro_XL
+https://en.wikipedia.org/wiki/Pixel_10a
 https://en.wikipedia.org/wiki/Pixel_2
 https://en.wikipedia.org/wiki/Pixel_3
 https://en.wikipedia.org/wiki/Pixel_3a
@@ -1171,7 +1172,6 @@ https://github.com/graalvm/mandrel/releases/tag/mandrel-21.0.0.0.Final
 https://github.com/influxdata/telegraf/releases/tag/__LATEST__
 https://github.com/kumahq/kuma/releases/tag/__LATEST__
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_IOJS.md#__LATEST__
-https://github.com/opensearch-project/opensearch-build/blob/main/release-notes/opensearch-release-notes-3.5.0.md
 https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-35
 https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-36
 https://github.com/puppetlabs/docs-archive/blob/main/puppet/3.8/release_notes.markdown
@@ -1424,6 +1424,7 @@ https://news.samsung.com/in/samsung-unveils-galaxy-m55s-5g-with-stunning-camera-
 https://nginx.org/en/CHANGES
 https://nixos.org/manual/nix/stable/release-notes/rl-1.11
 https://openjdk.org/projects/jdk9/
+https://opensearch.org/blog/opensearch-3-5-is-live/
 https://openssl-library.org/news/vulnerabilities-0.9.8/
 https://openssl-library.org/news/vulnerabilities-1.0.0/
 https://openssl-library.org/news/vulnerabilities-1.0.1/
