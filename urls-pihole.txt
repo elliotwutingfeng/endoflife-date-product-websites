@@ -51,6 +51,7 @@ docs.omnissa.com
 docs.oracle.com
 docs.paloaltonetworks.com
 docs.plesk.com
+docs.redhat.com
 docs.ros.org
 docs.saltproject.io
 docs.splunk.com
