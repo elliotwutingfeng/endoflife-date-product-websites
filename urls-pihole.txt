@@ -96,6 +96,7 @@ nixos.org
 openjdk.org
 opensearch.org
 openssl-library.org
+platform.claude.com
 postmarketos.org
 public.dhe.ibm.com
 quarkus.io

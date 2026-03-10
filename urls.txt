@@ -1439,6 +1439,14 @@ https://openssl-library.org/news/vulnerabilities-1.0.1/
 https://openssl-library.org/news/vulnerabilities-1.0.2/
 https://openssl-library.org/news/vulnerabilities-1.1.0/
 https://openssl-library.org/news/vulnerabilities-1.1.1/
+https://platform.claude.com/docs/en/about-claude/model-deprecations
+https://platform.claude.com/docs/en/about-claude/model-deprecations#2024-09-04-claude-1-and-instant-models
+https://platform.claude.com/docs/en/about-claude/model-deprecations#2025-01-21-claude-2-claude-2-1-and-claude-sonnet-3-models
+https://platform.claude.com/docs/en/about-claude/model-deprecations#2025-06-30-claude-opus-3-model
+https://platform.claude.com/docs/en/about-claude/model-deprecations#2025-08-13-claude-sonnet-3-5-models
+https://platform.claude.com/docs/en/about-claude/model-deprecations#2025-10-28-claude-sonnet-3-7-model
+https://platform.claude.com/docs/en/about-claude/model-deprecations#2025-12-19-claude-haiku-3-5-model
+https://platform.claude.com/docs/en/about-claude/model-deprecations#2026-02-19-claude-haiku-3-model
 https://postmarketos.org/blog/2021/07/04/v21.06-release/
 https://postmarketos.org/blog/2021/12/29/v21.12-release/
 https://postmarketos.org/blog/2022/06/12/v22.06-release/
