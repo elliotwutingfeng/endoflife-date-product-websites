@@ -1379,6 +1379,7 @@ https://lineageos.org/Changelog-26/
 https://lineageos.org/Changelog-27/
 https://lineageos.org/Changelog-28/
 https://lineageos.org/Changelog-29/
+https://lineageos.org/Changelog-31/
 https://lists.debian.org/debian-announce/1996/msg00021.html
 https://lists.debian.org/debian-announce/1996/msg00026.html
 https://lists.debian.org/debian-announce/1997/msg00018.html
