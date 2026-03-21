@@ -25,6 +25,7 @@ commerce-docs.github.io
 community.sonarsource.com
 confluence.atlassian.com
 cwiki.apache.org
+dev.mysql.com
 devblogs.microsoft.com
 devdocs.magento.com
 developer.android.com
