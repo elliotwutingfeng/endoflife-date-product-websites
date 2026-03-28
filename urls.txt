@@ -915,10 +915,10 @@ https://docs.vmware.com/en/VMware-vSphere/6.5/rn/vsphere-vcenter-server-65u3w-re
 https://docs.xcp-ng.org/releases/release-8-1/
 https://docs.xcp-ng.org/releases/release-8-2/
 https://docs.xcp-ng.org/releases/release-8-3/
-https://documentation.commvault.com/11.38/software/list_of_innovation_update_releases_in_11_38.html
 https://documentation.commvault.com/11.40/essential/list_of_maintenance_releases_in_11_40.html
 https://documentation.commvault.com/11.42/software/list_of_innovation_update_releases_in_11_42.html
 https://documentation.commvault.com/2024e/essential/list_of_maintenance_releases_for_commvault_platform_release_2024e.html
+https://documentation.commvault.com/v11/software/list_of_innovation_update_releases_in_11_38.html
 https://documentation.commvault.com/v11/software/list_of_maintenance_releases_for_commvault_platform_release_2023e.html
 https://documentation.concretecms.org/9-x/developers/introduction/version-history/5640
 https://documents.bmc.com/supportu/952/78/79/477879/477879.pdf
