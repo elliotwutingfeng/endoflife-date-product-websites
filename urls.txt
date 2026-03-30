@@ -1201,6 +1201,7 @@ https://github.com/knative/serving/releases/tag/v0.24.0
 https://github.com/knative/serving/releases/tag/v0.25.0
 https://github.com/knative/serving/releases/tag/v0.26.1
 https://github.com/kumahq/kuma/releases/tag/__LATEST__
+https://github.com/kumahq/kuma/releases/tag/v__LATEST__
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_IOJS.md#__LATEST__
 https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-35
 https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-36
