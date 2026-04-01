@@ -762,10 +762,11 @@ https://docs.aws.amazon.com/eks/latest/userguide/platform-versions.html#platform
 https://docs.aws.amazon.com/eks/latest/userguide/platform-versions.html#platform-versions-1-26
 https://docs.aws.amazon.com/eks/latest/userguide/platform-versions.html#platform-versions-1-27
 https://docs.aws.amazon.com/glue/latest/dg/glue-version-support-policy.html
-https://docs.azul.com/core/release/25-ga/release-notes/release-notes
+https://docs.azul.com/core/release/26-ga/release-notes/release-notes
 https://docs.azul.com/core/release/august-2022-11.58-17.36-18.32/release-notes/release-notes
 https://docs.azul.com/core/release/january-2023/release-notes/release-notes
 https://docs.azul.com/core/release/january-2025/release-notes
+https://docs.azul.com/core/release/january-2026-respin/release-notes
 https://docs.azul.com/core/release/july-2021/release-notes/release-notes
 https://docs.azul.com/core/release/july-2022/release-notes/release-notes
 https://docs.azul.com/core/release/july-2023/release-notes/release-notes
@@ -776,6 +777,7 @@ https://docs.bell-sw.com/liberica-jdk/15.0.2b8/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/17.0.10b13/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/18.0.2b10/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/21.0.2b14/general/release-notes/
+https://docs.bell-sw.com/liberica-jdk/26b37/general/release-notes/
 https://docs.bmc.com/xwiki/bin/view/Control-M-Orchestration/Control-M/ctm9018/Control-M-Version-9-0-18-200-Release-Notes/
 https://docs.bmc.com/xwiki/bin/view/Control-M-Orchestration/Control-M/ctm9019/Control-M-Version-9-0-19-200-Release-Notes/
 https://docs.bmc.com/xwiki/bin/view/Control-M-Orchestration/Control-M/ctm9020/Control-M-Version-9-0-20-200-Release-Notes/
@@ -1300,7 +1302,6 @@ https://hop.apache.org/blog/2025/05/hop-2.14.0/
 https://hop.apache.org/blog/2025/08/hop-2.15.0/
 https://hop.apache.org/blog/2025/11/hop-2.16.0/
 https://hop.apache.org/blog/2026/02/hop-2.17.0/
-https://jfrog.com/help/r/jfrog-release-information/artifactory-7.125.4-self-hosted-self-managed
 https://kde.org/announcements/plasma/5/__LATEST__/
 https://knowledge.broadcom.com/external/article/380603
 https://laravel.com/docs/5.5/releases
