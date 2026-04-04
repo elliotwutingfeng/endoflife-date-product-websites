@@ -798,6 +798,7 @@ https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/whats-new/cumulati
 https://docs.cloud.google.com/looker/docs/release-notes#February_09_2026
 https://docs.cloud.google.com/looker/docs/release-notes#January_08_2026
 https://docs.cloud.google.com/looker/docs/release-notes#March_05_2026
+https://docs.cloud.google.com/looker/docs/release-notes#March_25_2026
 https://docs.daocloud.io/en/dce/dce-rn/20240730.html
 https://docs.djangoproject.com/en/5.2/releases/__LATEST__/
 https://docs.fedoraproject.org/en-US/releases/f1/
@@ -890,10 +891,10 @@ https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-release-notes/pan-os-9-0-add
 https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-release-notes/pan-os-9-1-addressed-issues/pan-os-9-1-19-addressed-issues
 https://docs.paloaltonetworks.com/vm-series/9-0/pan-os-xfr-release-notes/pan-os-90-xfr/pan-os-9-0-xfr-addressed-issues
 https://docs.plesk.com/release-notes/onyx/change-log/
-https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.3/html/red_hat_ansible_automation_platform_release_notes
-https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.4/html/red_hat_ansible_automation_platform_release_notes/index
-https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html/release_notes
-https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.6/html/release_notes
+https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.3/html/red_hat_ansible_automation_platform_release_notes/platform-introduction#whats-included
+https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.4/html/red_hat_ansible_automation_platform_release_notes/asynchronous_updates
+https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html/release_notes/patch_releases
+https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.6/html/release_notes/patch_releases
 https://docs.ros.org/en/rolling/Releases/Release-Ardent-Apalone.html
 https://docs.ros.org/en/rolling/Releases/Release-Bouncy-Bolson.html
 https://docs.saltproject.io/en/latest/topics/releases/__LATEST__.html
