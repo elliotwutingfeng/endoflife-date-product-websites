@@ -825,6 +825,7 @@ https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v350
 https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v360
 https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v370
 https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v380
+https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v390
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-418-19702/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-450-248-02/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-460-106-00/index.html
@@ -844,6 +845,7 @@ https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-575-57-08/index.htm
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-105-08/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-126-20/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-590-48-01/index.html
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-595-58-03/index.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312.1/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2406/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2412/page/Horizon8-ReleaseNotes.html
@@ -1241,7 +1243,6 @@ https://graylog.org/post/graylog-1-1-6-released/
 https://graylog.org/post/graylog-1-2-2-is-now-available/
 https://graylog.org/post/graylog-1-3-4-is-now-available/
 https://graylog.org/post/graylog-v2-0-3-released/
-https://help.akeneo.com/en_US/everything-you-need-to-know-about-our-pim-versions#v10
 https://help.akeneo.com/en_US/everything-you-need-to-know-about-our-pim-versions#v13
 https://help.akeneo.com/en_US/everything-you-need-to-know-about-our-pim-versions#v14
 https://help.akeneo.com/en_US/everything-you-need-to-know-about-our-pim-versions#v15
