@@ -1185,7 +1185,7 @@ https://github.com/corretto/corretto-jdk/blob/216fca10a21d6a26ca2846d4ca2861ea64
 https://github.com/corretto/corretto-jdk/blob/release-__LATEST__/CHANGELOG.md
 https://github.com/dotnet/core/blob/main/release-notes/2.0/2.0.9.md
 https://github.com/dragonwell-project/dragonwell8/wiki/Alibaba-Dragonwell8-Standard-Edition-Release-Notes
-https://github.com/expressjs/express/releases/tag/v__LATEST__
+https://github.com/expressjs/express/releases/tag/__LATEST__
 https://github.com/fluxcd/flux/releases/tag/1.25.4
 https://github.com/gorilla#gorilla-toolkit
 https://github.com/graalvm/mandrel/releases/tag/mandrel-20.1.0.4.Final
@@ -2015,7 +2015,11 @@ https://www.nvidia.com/download/driverResults.aspx/181267/
 https://www.nvidia.com/download/driverResults.aspx/197675/
 https://www.nvidia.com/download/driverResults.aspx/216530/
 https://www.nvidia.com/download/driverResults.aspx/228179/
+https://www.oneplus.com/us/oneplus-pad
+https://www.oneplus.com/us/oneplus-pad-2
+https://www.oneplus.com/us/oneplus-pad-3
 https://www.oneplus.in/11r
+https://www.opposhop.cn/cn/web/products/39296.html
 https://www.oracle.com/database/technologies/database10g-doc.html
 https://www.oracle.com/java/technologies/javase/23all-relnotes.html
 https://www.oracle.com/java/technologies/javase/24all-relnotes.html
