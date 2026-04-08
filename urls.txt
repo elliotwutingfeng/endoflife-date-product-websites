@@ -1908,7 +1908,11 @@ https://www.devuan.org/os/announce/stable-jessie-announce-052517.html
 https://www.elastic.co/docs/release-notes/beats#beats-__LATEST__-release-notes
 https://www.elastic.co/docs/release-notes/elasticsearch#elasticsearch-__LATEST__-release-notes
 https://www.elastic.co/docs/release-notes/kibana#kibana-__LATEST__-release-notes
-https://www.elastic.co/docs/release-notes/logstash#logstash-__LATEST__-release-notes
+https://www.elastic.co/guide/en/logstash/6.8/logstash-6-8-23.html
+https://www.elastic.co/guide/en/logstash/7.17/logstash-7-17-29.html
+https://www.elastic.co/guide/en/logstash/8.17/logstash-8-17-10.html
+https://www.elastic.co/guide/en/logstash/8.18/logstash-{{'__LATEST__'|replace:'.','-'}}.html
+https://www.elastic.co/guide/en/logstash/8.19/logstash-{{'__LATEST__'|replace:'.','-'}}.html
 https://www.findbugzero.com/operational-defect-database/vendors/vmware/defects/57478
 https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-20-Release-Notes/m-p/831705
 https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-25-0-Release-Notes/m-p/860290
