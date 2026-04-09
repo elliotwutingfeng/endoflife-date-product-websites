@@ -799,7 +799,7 @@ https://docs.cloud.google.com/looker/docs/release-notes#February_09_2026
 https://docs.cloud.google.com/looker/docs/release-notes#January_08_2026
 https://docs.cloud.google.com/looker/docs/release-notes#March_05_2026
 https://docs.cloud.google.com/looker/docs/release-notes#March_25_2026
-https://docs.daocloud.io/en/dce/dce-rn/20240730.html
+https://docs.daocloud.io/en/dce/dce-rn/20260131/
 https://docs.djangoproject.com/en/5.2/releases/__LATEST__/
 https://docs.fedoraproject.org/en-US/releases/f1/
 https://docs.fedoraproject.org/en-US/releases/f10/
