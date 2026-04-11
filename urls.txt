@@ -446,6 +446,7 @@ https://doc.samsungmobile.com/SM-A530F/FTM/doc.html
 https://doc.samsungmobile.com/SM-A536B/EUX/doc.html
 https://doc.samsungmobile.com/SM-A546U/TMB/doc.html
 https://doc.samsungmobile.com/SM-A5660/TGY/doc.html
+https://doc.samsungmobile.com/SM-A576B/ECO/doc.html
 https://doc.samsungmobile.com/SM-A600FN/XEF/doc.html
 https://doc.samsungmobile.com/SM-A600U/XAR/doc.html
 https://doc.samsungmobile.com/SM-A605G/XXV/doc.html
@@ -655,6 +656,9 @@ https://doc.samsungmobile.com/SM-S931B/INS/doc.html
 https://doc.samsungmobile.com/SM-S936B/INS/doc.html
 https://doc.samsungmobile.com/SM-S9370/TGY/doc.html
 https://doc.samsungmobile.com/SM-S938B/INS/doc.html
+https://doc.samsungmobile.com/SM-S942B/ECT/doc.html
+https://doc.samsungmobile.com/SM-S947B/ECT/doc.html
+https://doc.samsungmobile.com/SM-S948B/ECT/doc.html
 https://doc.samsungmobile.com/SM-T220/CHN/doc.html
 https://doc.samsungmobile.com/SM-T280/KOO/doc.html
 https://doc.samsungmobile.com/SM-T290/008916190830/mlt.html
@@ -884,7 +888,7 @@ https://docs.paloaltonetworks.com/globalprotect/6-3/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/ngfw/release-notes/12-1/pan-os-12-1-5-known-and-addressed-issues/pan-os-12-1-5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h20-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-18-known-and-addressed-issues/pan-os-10-2-18-h1-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-18-known-and-addressed-issues/pan-os-10-2-18-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-13-known-and-addressed-issues/pan-os-11-1-13-h3-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-10-known-and-addressed-issues/pan-os-11-2-10-h4-addressed-issues
@@ -1132,6 +1136,8 @@ https://github.com/Azure/AKS/releases/tag/2024-08-05
 https://github.com/Azure/AKS/releases/tag/2024-10-25
 https://github.com/Azure/AKS/releases/tag/2025-04-06
 https://github.com/Azure/AKS/releases/tag/2025-06-17
+https://github.com/Azure/AKS/releases/tag/2026-01-04
+https://github.com/Azure/AKS/releases/tag/2026-03-05
 https://github.com/Exim/exim/releases/tag/exim-4_50
 https://github.com/Exim/exim/releases/tag/exim-4_51
 https://github.com/Exim/exim/releases/tag/exim-4_52
@@ -1247,6 +1253,7 @@ https://help.akeneo.com/en_US/everything-you-need-to-know-about-our-pim-versions
 https://help.akeneo.com/en_US/everything-you-need-to-know-about-our-pim-versions#v14
 https://help.akeneo.com/en_US/everything-you-need-to-know-about-our-pim-versions#v15
 https://help.claris.com/en/server-release-notes/content/index.html
+https://help.puppet.com/core/8/Content/PuppetCore/PuppetReleaseNotes/release_notes_puppet_x-8-18-0.htm
 https://help.sonatype.com/en/nexus-repository-3-29-0---3-29-2-release-notes.html
 https://help.sonatype.com/en/nexus-repository-3-30-0---3-30-1-release-notes.html
 https://help.sonatype.com/en/nexus-repository-3-31-0---3-31-1-release-notes.html
@@ -2053,8 +2060,7 @@ https://www.postfix.org/announcements/postfix-3.8.6.html
 https://www.postfix.org/announcements/postfix-3.9.2.html
 https://www.puppet.com/docs/puppet/5.5/release_notes.html
 https://www.puppet.com/docs/puppet/6/release_notes_puppet.html#release_notes_puppet
-https://www.puppet.com/docs/puppet/7/release_notes_puppet.html#release_notes_puppet_x-7-25-0
-https://www.puppet.com/docs/puppet/8/release_notes_puppet.html#release_notes_puppet_x-8-1-0
+https://www.puppet.com/docs/puppet/7/release_notes_puppet#release_notes_puppet
 https://www.qt.io/blog/2017/09/21/qt-5-6-3-released
 https://www.qt.io/blog/commercial-lts-qt-5.15.17-released
 https://www.qt.io/blog/commercial-lts-qt-6.5.8-released

@@ -74,6 +74,7 @@ godotengine.org
 graylog.org
 help.akeneo.com
 help.claris.com
+help.puppet.com
 help.sonatype.com
 help.zerto.com
 hop.apache.org
