@@ -1218,6 +1218,7 @@ https://github.com/kumahq/kuma/releases/tag/v__LATEST__
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_IOJS.md#__LATEST__
 https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-35
 https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-36
+https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-40
 https://github.com/puppetlabs/docs-archive/blob/main/puppet/3.8/release_notes.markdown
 https://github.com/puppetlabs/docs-archive/blob/main/puppet/4.10/release_notes.markdown
 https://github.com/quarkusio/quarkus/releases/tag/__LATEST__
@@ -1234,6 +1235,7 @@ https://github.com/unrealircd/unrealircd/blob/unreal52/doc/RELEASE-NOTES.md#unre
 https://github.com/unrealircd/unrealircd/blob/unreal60_dev/doc/RELEASE-NOTES.md#unrealircd-{{'__LATEST__'|replace:'.',''}}
 https://github.com/vuejs/vue/releases/tag/v__LATEST__
 https://github.com/yarnpkg/yarn/releases/tag/v__LATEST__
+https://gitlab.com/freedesktop-sdk/freedesktop-sdk/-/merge_requests/28230
 https://go.dev/doc/go1.26
 https://godotengine.org/article/godot-engine-reaches-1-0/
 https://godotengine.org/article/maintenance-release-godot-2-0-4
@@ -1504,6 +1506,7 @@ https://quarkus.io/blog/quarkus-3-32-2-released/
 https://quarkus.io/blog/quarkus-3-33-released/
 https://quarkus.io/blog/quarkus-3-34-released/
 https://service.oneplus.com/us/search/search-detail?id=2123192&articleIndex=2
+https://spark.apache.org/downloads.html
 https://struts.apache.org/struts1eol-announcement.html
 https://support.apple.com/111842
 https://support.apple.com/111897

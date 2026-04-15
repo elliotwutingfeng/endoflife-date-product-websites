@@ -69,6 +69,7 @@ en.opensuse.org
 en.wikipedia.org
 forums.unrealircd.org
 github.com
+gitlab.com
 go.dev
 godotengine.org
 graylog.org
@@ -102,6 +103,7 @@ postmarketos.org
 public.dhe.ibm.com
 quarkus.io
 service.oneplus.com
+spark.apache.org
 struts.apache.org
 support.apple.com
 support.claris.com
