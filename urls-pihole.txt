@@ -31,6 +31,7 @@ devdocs.magento.com
 developer.android.com
 developer.apple.com
 discuss.google.dev
+doc.rust-lang.org
 doc.samsungmobile.com
 docs-cortex.paloaltonetworks.com
 docs-older.centreon.com

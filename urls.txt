@@ -379,6 +379,7 @@ https://discuss.google.dev/t/looker-25-2-release-notes/182687
 https://discuss.google.dev/t/looker-25-4-release-notes/185240
 https://discuss.google.dev/t/looker-25-6-release-notes/186433
 https://discuss.google.dev/t/looker-25-8-release-notes/189625
+https://doc.rust-lang.org/stable/releases.html#version-1950-2026-04-16
 https://doc.samsungmobile.com/SM-A013F/SEK/doc.html
 https://doc.samsungmobile.com/SM-A015F/THL/doc.html
 https://doc.samsungmobile.com/SM-A022F/XID/doc.html
@@ -1326,7 +1327,7 @@ https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022#azure-devops-server-2022-update-01-patch-5-release-date-november-14-2023
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-4-release-date-june-11-2024
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-2022-update-2-patch-8-release-date-february-10-2026
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevopsserver#azure-devops-server-patch-1-release-date-february-10-2026
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevopsserver#azure-devops-server-patch-3-release-date-april-14-2026
 https://learn.microsoft.com/en-us/lifecycle/products/office-ltsc-2024
 https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-core
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1507-cb-cbb-end-of-servicing
