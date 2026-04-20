@@ -1173,6 +1173,16 @@ https://github.com/Exim/exim/releases/tag/exim-4_89
 https://github.com/Exim/exim/releases/tag/exim-4_90_1
 https://github.com/Exim/exim/releases/tag/exim-4_91
 https://github.com/FortAwesome/Font-Awesome/releases/tag/v__LATEST__
+https://github.com/actions/runner-images/blob/686584e14c08fe742cdec8895eac705eb592af2b/images/macos/macos-13-Readme.md
+https://github.com/actions/runner-images/blob/main/images/macos/macos-14-Readme.md
+https://github.com/actions/runner-images/blob/main/images/macos/macos-14-arm64-Readme.md
+https://github.com/actions/runner-images/blob/main/images/macos/macos-15-Readme.md
+https://github.com/actions/runner-images/blob/main/images/macos/macos-26-Readme.md
+https://github.com/actions/runner-images/blob/main/images/macos/macos-26-arm64-Readme.md
+https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2204-Readme.md
+https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2404-Readme.md
+https://github.com/actions/runner-images/blob/main/images/windows/Windows2022-Readme.md
+https://github.com/actions/runner-images/blob/main/images/windows/Windows2025-Readme.md
 https://github.com/adoptium/temurin__RELEASE_CYCLE__-binaries/releases/tag/jdk__LATEST__
 https://github.com/angular/angular/releases/tag/__LATEST__
 https://github.com/angular/protractor/blob/master/CHANGELOG.md#180
