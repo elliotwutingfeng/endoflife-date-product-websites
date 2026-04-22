@@ -136,6 +136,7 @@ https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-support-python-313
 https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-5-0/
 https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-support-ruby-3-4/
 https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-distro-kubernetes-version-1-34/
+https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-5-1/
 https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-nodejs-24/
 https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-python-314/
 https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-eks-distro-kubernetes-version-1-35/
@@ -346,6 +347,7 @@ https://dev.mysql.com/doc/relnotes/mysql/9.6/en/news-9-3-0.html
 https://dev.mysql.com/doc/relnotes/mysql/9.6/en/news-9-4-0.html
 https://dev.mysql.com/doc/relnotes/mysql/9.6/en/news-9-5-0.html
 https://dev.mysql.com/doc/relnotes/mysql/9.6/en/news-9-6-0.html
+https://dev.mysql.com/doc/relnotes/mysql/9.7/en/news-9-7-0.html
 https://devblogs.microsoft.com/bharry/tfs-2005-sql-server-2005-sp2/
 https://devblogs.microsoft.com/bharry/vstfs-2010-sp1-and-tfs-project-server-integration-feature-pack-have-released/
 https://devdocs.magento.com/guides/v2.3/release-notes/open-source-2-3-7.html
@@ -1177,6 +1179,7 @@ https://github.com/actions/runner-images/blob/686584e14c08fe742cdec8895eac705eb5
 https://github.com/actions/runner-images/blob/main/images/macos/macos-14-Readme.md
 https://github.com/actions/runner-images/blob/main/images/macos/macos-14-arm64-Readme.md
 https://github.com/actions/runner-images/blob/main/images/macos/macos-15-Readme.md
+https://github.com/actions/runner-images/blob/main/images/macos/macos-15-arm64-Readme.md
 https://github.com/actions/runner-images/blob/main/images/macos/macos-26-Readme.md
 https://github.com/actions/runner-images/blob/main/images/macos/macos-26-arm64-Readme.md
 https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2204-Readme.md
