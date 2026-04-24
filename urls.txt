@@ -1556,6 +1556,7 @@ https://support.apple.com/en-us/121202
 https://support.apple.com/en-us/125093
 https://support.apple.com/en-us/125094
 https://support.apple.com/en-us/125095
+https://support.apple.com/en-us/126470
 https://support.apple.com/en-us/docs/iphone/301076
 https://support.apple.com/kb/DL1894
 https://support.apple.com/kb/SP495
