@@ -123,6 +123,7 @@ wiki.mageia.org
 wikipedia.org
 wordpress.org
 www.amazon.com
+www.anthropic.com
 www.apple.com
 www.atlassian.com
 www.betaarchive.com
@@ -139,6 +140,7 @@ www.intel.com
 www.joomla.org
 www.lineageoslog.com
 www.linuxmint.com
+www.maginative.com
 www.microfocus.com
 www.microsoft.com
 www.mongodb.com
