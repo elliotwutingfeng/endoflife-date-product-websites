@@ -874,7 +874,7 @@ https://docs.oracle.com/en/database/oracle/oracle-database/12.2/whats-new.html
 https://docs.oracle.com/en/database/oracle/oracle-database/18/whats-new.html
 https://docs.oracle.com/en/database/oracle/oracle-database/19/whats-new.html
 https://docs.oracle.com/en/database/oracle/oracle-database/21/whats-new.html
-https://docs.oracle.com/en/database/oracle/oracle-database/23/nfcoa/release_updates.html
+https://docs.oracle.com/en/database/oracle/oracle-database/26/nfcoa/index.html
 https://docs.oracle.com/en/operating-systems/solaris/oracle-solaris/
 https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/eol/pan-os-60-release-notes.pdf
 https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/eol/pan-os-61-release-notes.pdf
@@ -1485,7 +1485,7 @@ https://news.samsung.com/in/samsung-unveils-galaxy-m55s-5g-with-stunning-camera-
 https://nginx.org/en/CHANGES
 https://nixos.org/manual/nix/stable/release-notes/rl-1.11
 https://openjdk.org/projects/jdk9/
-https://opensearch.org/blog/opensearch-3-5-is-live/
+https://opensearch.org/blog/introducing-opensearch-3-6/
 https://openssl-library.org/news/vulnerabilities-0.9.8/
 https://openssl-library.org/news/vulnerabilities-1.0.0/
 https://openssl-library.org/news/vulnerabilities-1.0.1/
