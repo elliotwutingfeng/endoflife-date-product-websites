@@ -141,6 +141,7 @@ https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-nodejs-24/
 https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-python-314/
 https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-eks-distro-kubernetes-version-1-35/
 https://aws.amazon.com/about-aws/whats-new/2026/01/aws-lambda-dot-net-10/
+https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-adds-ruby/
 https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/
 https://aws.amazon.com/amazon-linux-ami/2018.03-release-notes/
 https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/
@@ -796,9 +797,8 @@ https://docs.centreon.com/docs/__RELEASE_CYCLE__/releases/centreon-core/#{{'__LA
 https://docs.centreon.com/docs/releases/centreon-os/
 https://docs.cfengine.com/docs/__RELEASE_CYCLE__/guide-latest-release-whatsnew-changelog-core.html
 https://docs.cfengine.com/docs/__RELEASE_CYCLE__/release-notes-whatsnew-changelog-core.html
-https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-10.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2203-ltsr/whats-new/cumulative-update-7
-https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2402-ltsr/whats-new/cumulative-update-2.html
+https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2402-ltsr/whats-new/cumulative-update-3.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2507-ltsr/whats-new/cumulative-update-1
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/whats-new
 https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/whats-new/cumulative-update-9.html
@@ -887,13 +887,13 @@ https://docs.paloaltonetworks.com/globalprotect/6-0/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/globalprotect/6-1/globalprotect-app-release-notes//globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/6-3/globalprotect-app-release-notes/globalprotect-addressed-issues
-https://docs.paloaltonetworks.com/ngfw/release-notes/12-1/pan-os-12-1-5-known-and-addressed-issues/pan-os-12-1-5-addressed-issues
+https://docs.paloaltonetworks.com/ngfw/release-notes/12-1/pan-os-12-1-6-known-and-addressed-issues/pan-os-12-1-6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h20-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-18-known-and-addressed-issues/pan-os-10-2-18-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-14-known-and-addressed-issues/pan-os-11-1-14-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-10-known-and-addressed-issues/pan-os-11-2-10-h4-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-11-known-and-addressed-issues/pan-os-11-2-11-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/8-1/pan-os-release-notes/pan-os-8-1-addressed-issues/pan-os-8-1-24-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-release-notes/pan-os-9-0-addressed-issues/pan-os-9-0-17-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-release-notes/pan-os-9-1-addressed-issues/pan-os-9-1-19-addressed-issues
@@ -1833,6 +1833,7 @@ https://web.archive.org/web/20240519013538/https://doc.opensuse.org/release-note
 https://web.archive.org/web/20240814204109/https://www.qt.io/blog/2015/05/26/qt-4-8-7-released
 https://web.archive.org/web/20241012155214/https://www.zerto.com/wp-content/uploads/2020/03/whats-new-in-zerto-8-0_DS.pdf
 https://web.archive.org/web/20250428001025/https://www.zerto.com/press-releases/zerto-announces-general-availability-of-zerto-7-5-raising-the-bar-for-continuous-data-protection/
+https://web.archive.org/web/20251008131431/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-10.html
 https://web.archive.org/web/20260216184820/https://downloads.apache.org/kafka/3.8.1/RELEASE_NOTES.html
 https://web.archive.org/web/20260216184827/https://downloads.apache.org/kafka/3.7.2/RELEASE_NOTES.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS5(2e)11.html
