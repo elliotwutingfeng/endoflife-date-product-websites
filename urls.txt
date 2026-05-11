@@ -1513,6 +1513,7 @@ https://quarkus.io/blog/quarkus-3-31-released/
 https://quarkus.io/blog/quarkus-3-32-2-released/
 https://quarkus.io/blog/quarkus-3-33-released/
 https://quarkus.io/blog/quarkus-3-34-released/
+https://quarkus.io/blog/quarkus-3-35-released/
 https://service.oneplus.com/us/search/search-detail?id=2123192&articleIndex=2
 https://spark.apache.org/downloads.html
 https://struts.apache.org/struts1eol-announcement.html
