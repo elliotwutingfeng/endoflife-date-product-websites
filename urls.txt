@@ -798,7 +798,7 @@ https://docs.centreon.com/docs/releases/centreon-os/
 https://docs.cfengine.com/docs/__RELEASE_CYCLE__/guide-latest-release-whatsnew-changelog-core.html
 https://docs.cfengine.com/docs/__RELEASE_CYCLE__/release-notes-whatsnew-changelog-core.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2203-ltsr/whats-new/cumulative-update-7
-https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2402-ltsr/whats-new/cumulative-update-3.html
+https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2402-ltsr/whats-new/cumulative-update-4.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2507-ltsr/whats-new/cumulative-update-1
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/whats-new
 https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/whats-new/cumulative-update-9.html
