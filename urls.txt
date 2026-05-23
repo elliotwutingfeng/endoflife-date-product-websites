@@ -871,6 +871,7 @@ https://docs.oracle.com/cd/E53394_01/index.html
 https://docs.oracle.com/cd/F24622_01/index.html
 https://docs.oracle.com/database/121/index.htm
 https://docs.oracle.com/database/apex-18.1/HTMRN/toc.htm#HTMRN-GUID-540B73CB-08A7-4422-B6BF-CC785EC47694
+https://docs.oracle.com/en/database/oracle/apex/26.1/htmrn/about-release-notes.html
 https://docs.oracle.com/en/database/oracle/oracle-database/12.2/whats-new.html
 https://docs.oracle.com/en/database/oracle/oracle-database/18/whats-new.html
 https://docs.oracle.com/en/database/oracle/oracle-database/19/whats-new.html
@@ -1133,6 +1134,7 @@ https://en.wikipedia.org/wiki/Pixel_Watch
 https://en.wikipedia.org/wiki/Pixel_Watch_2
 https://en.wikipedia.org/wiki/Pixel_Watch_3
 https://en.wikipedia.org/wiki/Pixel_Watch_4
+https://forum.proxmox.com/threads/proxmox-backup-server-1-1-released.83728/
 https://forums.unrealircd.org/viewtopic.php?f=1&t=8588
 https://github.com/Azure/AKS/issues/2502#issuecomment-1008549356
 https://github.com/Azure/AKS/issues/2730
@@ -1336,13 +1338,13 @@ https://knowledge.broadcom.com/external/article/380603
 https://laravel.com/docs/5.5/releases
 https://laravel.com/docs/5.8/releases
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019#azure-devops-server-201901-patch-16-release-date-november-14-2023
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2019u1#azure-devops-server-2019-update-12-patch-12-release-date-february-10-2026
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020#azure-devops-server-2020-update-02-patch-6-release-date-november-14-2023
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-18-release-date-february-10-2026
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2020u1#azure-devops-server-2020-update-12-patch-19-release-date-may-14-2026
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022#azure-devops-server-2022-update-01-patch-5-release-date-november-14-2023
 https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u1#azure-devops-server-2022-update-1-patch-4-release-date-june-11-2024
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-2022-update-2-patch-8-release-date-february-10-2026
-https://learn.microsoft.com/azure/devops/server/release-notes/azuredevopsserver#azure-devops-server-patch-3-release-date-april-14-2026
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevops2022u2#azure-devops-server-2022-update-2-patch-9-release-date-may-14-2026
+https://learn.microsoft.com/azure/devops/server/release-notes/azuredevopsserver#azure-devops-server-patch-4-release-date-may-14-2026
+https://learn.microsoft.com/en-us/azure/devops/server/release-notes/azuredevops2019u1#azure-devops-server-2019-update-12-patch-13-release-date-may-14-2026
 https://learn.microsoft.com/en-us/lifecycle/products/office-ltsc-2024
 https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-core
 https://learn.microsoft.com/lifecycle/announcements/windows-10-1507-cb-cbb-end-of-servicing
@@ -1680,9 +1682,9 @@ https://support.microsoft.com/help/4500180
 https://support.microsoft.com/help/4504709
 https://support.microsoft.com/help/4505221
 https://support.microsoft.com/help/5002379
-https://support.microsoft.com/help/5002853
-https://support.microsoft.com/help/5002856
-https://support.microsoft.com/help/5002862
+https://support.microsoft.com/help/5002863
+https://support.microsoft.com/help/5002869
+https://support.microsoft.com/help/5002872
 https://support.microsoft.com/help/5014351
 https://support.microsoft.com/help/5020863
 https://support.microsoft.com/help/5021112
@@ -2088,6 +2090,9 @@ https://www.postfix.org/announcements/postfix-3.6.5.html
 https://www.postfix.org/announcements/postfix-3.7.5.html
 https://www.postfix.org/announcements/postfix-3.8.6.html
 https://www.postfix.org/announcements/postfix-3.9.2.html
+https://www.proxmox.com/en/about/company-details/press-releases/proxmox-backup-server-3-4
+https://www.proxmox.com/en/about/company-details/press-releases/proxmox-backup-server-4-2
+https://www.proxmox.com/en/news/press-releases/proxmox-backup-server-2-4
 https://www.puppet.com/docs/puppet/5.5/release_notes.html
 https://www.puppet.com/docs/puppet/6/release_notes_puppet.html#release_notes_puppet
 https://www.puppet.com/docs/puppet/7/release_notes_puppet#release_notes_puppet

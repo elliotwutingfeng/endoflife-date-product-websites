@@ -68,6 +68,7 @@ downloads.haskell.org
 en-us.support.motorola.com
 en.opensuse.org
 en.wikipedia.org
+forum.proxmox.com
 forums.unrealircd.org
 github.com
 gitlab.com
@@ -153,6 +154,7 @@ www.oracle.com
 www.phpbb.com
 www.phpmyadmin.net
 www.postfix.org
+www.proxmox.com
 www.puppet.com
 www.qt.io
 www.raspberrypi.com
