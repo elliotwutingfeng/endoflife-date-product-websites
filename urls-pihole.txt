@@ -82,7 +82,6 @@ help.sonatype.com
 help.zerto.com
 hop.apache.org
 kde.org
-knowledge.broadcom.com
 laravel.com
 learn.microsoft.com
 lineageos.org
