@@ -20,6 +20,7 @@ blog.pcisecuritystandards.org
 blog.system76.com
 blogs.oracle.com
 blogs.vmware.com
+checkmk.com
 cloud.google.com
 commerce-docs.github.io
 community.sonarsource.com
