@@ -385,6 +385,7 @@ https://discuss.google.dev/t/looker-25-4-release-notes/185240
 https://discuss.google.dev/t/looker-25-6-release-notes/186433
 https://discuss.google.dev/t/looker-25-8-release-notes/189625
 https://doc.rust-lang.org/stable/releases.html#version-1950-2026-04-16
+https://doc.rust-lang.org/stable/releases.html#version-1960-2026-05-28
 https://doc.samsungmobile.com/SM-A013F/SEK/doc.html
 https://doc.samsungmobile.com/SM-A015F/THL/doc.html
 https://doc.samsungmobile.com/SM-A022F/XID/doc.html
