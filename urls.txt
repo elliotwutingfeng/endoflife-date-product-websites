@@ -807,8 +807,10 @@ https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/whats-new
 https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/whats-new/cumulative-update-9.html
 https://docs.cloud.google.com/looker/docs/release-notes#February_09_2026
 https://docs.cloud.google.com/looker/docs/release-notes#January_08_2026
+https://docs.cloud.google.com/looker/docs/release-notes#June_04_2026
 https://docs.cloud.google.com/looker/docs/release-notes#March_05_2026
 https://docs.cloud.google.com/looker/docs/release-notes#March_25_2026
+https://docs.cloud.google.com/looker/docs/release-notes#May_07_2026
 https://docs.daocloud.io/en/dce/dce-rn/20260131/
 https://docs.djangoproject.com/en/5.2/releases/__LATEST__/
 https://docs.fedoraproject.org/en-US/releases/f1/
@@ -1512,6 +1514,7 @@ https://quarkus.io/blog/quarkus-3-32-2-released/
 https://quarkus.io/blog/quarkus-3-33-released/
 https://quarkus.io/blog/quarkus-3-34-released/
 https://quarkus.io/blog/quarkus-3-35-released/
+https://quarkus.io/blog/quarkus-3-36-1-released/
 https://service.oneplus.com/us/search/search-detail?id=2123192&articleIndex=2
 https://spark.apache.org/downloads.html
 https://struts.apache.org/struts1eol-announcement.html
