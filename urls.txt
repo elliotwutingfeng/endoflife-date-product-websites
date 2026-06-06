@@ -141,6 +141,7 @@ https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-python-314/
 https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-eks-distro-kubernetes-version-1-35/
 https://aws.amazon.com/about-aws/whats-new/2026/01/aws-lambda-dot-net-10/
 https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-adds-ruby/
+https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-distro-kubernetes-version-1-36/
 https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/
 https://aws.amazon.com/amazon-linux-ami/2018.03-release-notes/
 https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/
