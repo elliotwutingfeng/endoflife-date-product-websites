@@ -202,6 +202,7 @@ https://blog.emberjs.com/ember-6-0-released/
 https://blog.emberjs.com/ember-released-6-1/
 https://blog.emberjs.com/ember-released-6-10/
 https://blog.emberjs.com/ember-released-6-11/
+https://blog.emberjs.com/ember-released-6-12/
 https://blog.emberjs.com/ember-released-6-2/
 https://blog.emberjs.com/ember-released-6-3/
 https://blog.emberjs.com/ember-released-6-4/
@@ -210,6 +211,7 @@ https://blog.emberjs.com/ember-released-6-6/
 https://blog.emberjs.com/ember-released-6-7/
 https://blog.emberjs.com/ember-released-6-8/
 https://blog.emberjs.com/ember-released-6-9/
+https://blog.emberjs.com/ember-released-7-0/
 https://blog.jquery.com/2016/05/20/jquery-1-12-4-and-2-2-4-released/
 https://blog.jqueryui.com/2010/05/jquery-ui-173/
 https://blog.jqueryui.com/2012/09/jquery-ui-1-8-24/
