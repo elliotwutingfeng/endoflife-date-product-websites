@@ -1116,6 +1116,7 @@ https://en.wikipedia.org/wiki/OS_X_Yosemite#Release_history
 https://en.wikipedia.org/wiki/Pixel_(1st_generation)
 https://en.wikipedia.org/wiki/Pixel_10
 https://en.wikipedia.org/wiki/Pixel_10_Pro
+https://en.wikipedia.org/wiki/Pixel_10_Pro_Fold
 https://en.wikipedia.org/wiki/Pixel_10_Pro_XL
 https://en.wikipedia.org/wiki/Pixel_10a
 https://en.wikipedia.org/wiki/Pixel_2
@@ -1155,6 +1156,7 @@ https://github.com/Azure/AKS/releases/tag/2025-04-06
 https://github.com/Azure/AKS/releases/tag/2025-06-17
 https://github.com/Azure/AKS/releases/tag/2026-01-04
 https://github.com/Azure/AKS/releases/tag/2026-03-05
+https://github.com/Azure/AKS/releases/tag/2026-06-19
 https://github.com/Exim/exim/releases/tag/exim-4_50
 https://github.com/Exim/exim/releases/tag/exim-4_51
 https://github.com/Exim/exim/releases/tag/exim-4_52
