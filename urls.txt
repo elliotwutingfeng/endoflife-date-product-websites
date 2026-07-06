@@ -1674,11 +1674,11 @@ https://support.claris.com/s/article/FileMaker-announces-the-end-of-support-for-
 https://support.claris.com/s/article/FileMaker-announces-the-end-of-support-for-FileMaker-13-Platform-1503693097684
 https://support.claris.com/s/article/FileMaker-announces-the-end-of-support-for-FileMaker-14-Platform
 https://support.fairphone.com/hc/articles/18020671537041-Fairphone-5-FAQ
+https://support.fairphone.com/hc/articles/24463093338898-The-Fairphone-Gen-6-FAQ
 https://support.fairphone.com/hc/articles/360019515018
 https://support.fairphone.com/hc/articles/360048139032
-https://support.fairphone.com/hc/articles/4405858220945
 https://support.fairphone.com/hc/articles/6217522827281
-https://support.fairphone.com/hc/en-us/articles/24463093338898-The-Fairphone-Gen-6-FAQ
+https://support.fairphone.com/hc/articles/9979180437393-Fairphone-s-Operating-System#h_01KG29XZ4H590M395710QR626C
 https://support.microsoft.com/en-us/topic/list-of-changes-and-fixed-issues-in-the-net-framework-3-5-service-pack-1-7e580459-9f9a-3f0d-ecb3-ee3ea374044f
 https://support.microsoft.com/help/2258854
 https://support.microsoft.com/help/2582282
