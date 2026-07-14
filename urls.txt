@@ -933,7 +933,8 @@ https://docs.xcp-ng.org/releases/release-8-1/
 https://docs.xcp-ng.org/releases/release-8-2/
 https://docs.xcp-ng.org/releases/release-8-3/
 https://documentation.commvault.com/11.40/essential/list_of_maintenance_releases_in_11_40.html
-https://documentation.commvault.com/11.42/software/list_of_innovation_update_releases_in_11_42.html
+https://documentation.commvault.com/11.42/software/list_of_update_releases_in_11_42.html
+https://documentation.commvault.com/11.44/software/maintenance_release_in_11_44.html
 https://documentation.commvault.com/2024e/essential/list_of_maintenance_releases_for_commvault_platform_release_2024e.html
 https://documentation.commvault.com/v11/software/list_of_innovation_update_releases_in_11_38.html
 https://documentation.commvault.com/v11/software/list_of_maintenance_releases_for_commvault_platform_release_2023e.html
@@ -1078,6 +1079,7 @@ https://en-us.support.motorola.com/app/software-security-update/g_id/7112/produc
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12451
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12452
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12453
+https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12454
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12519
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12520
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12521
@@ -1085,6 +1087,8 @@ https://en-us.support.motorola.com/app/software-security-update/g_id/7112/produc
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12524
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12531
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12535
+https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12536
+https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12537
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12556
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12557
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12558
@@ -1094,6 +1098,9 @@ https://en-us.support.motorola.com/app/software-security-update/g_id/7112/produc
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12562
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12564
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12565
+https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12567
+https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12568
+https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12569
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12570
 https://en.opensuse.org/Archive:Product_highlights_11.2
 https://en.opensuse.org/Archive:Product_highlights_11.3
@@ -1791,7 +1798,8 @@ https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-5-2-and-earlier/5-1/vcf-r
 https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-5-2-and-earlier/5-2/vcf-release-notes/vmware-cloud-foundation-523-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-0/release-notes/vmware-cloud-foundation-9-0-2-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-0/release-notes/vmware-cloud-foundation-9-0-2-release-notes/esx-9-0-2-0000.html
-https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/patch-releases-9-1-0-x/vsphere/esx/esx-9-1-0-0100-release-notes.html
+https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/patch-releases-9-1-0-x/vsphere/esx/esx-9-1-0-0200-release-notes.html
+https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/patch-releases-9-1-0-x/vsphere/vcenter/vcenter-9-1-0-0200-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-5/release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-7/release-notes/vcenter-server-update-and-patch-releases.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-70u3w-release-notes.html
@@ -1799,7 +1807,16 @@ https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-80u3j-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/vcenter-server-update-and-patch-release-notes/vsphere-vcenter-server-80u3i-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/9-0/release-notes/vcenter-server-appliance-photonos-security-patches.html
-https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/9-1/release-notes/vcenter-server-appliance-photonos-security-patches.html
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/product/relnote-bigip-11-6-5.html
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/product/relnote-bigip-13-0-1.html
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/product/relnote-bigip-14-0-1.html
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/product/relnote-bigip-15-0-1.html
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/product/relnote-bigip-ve-13-1-5.html
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/product/relnote-ltm-12-0-0.html
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/relnote-supplement-bigip-12-1-6.html
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/relnote-supplement-bigip-14-1-5.html
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/relnote-supplement-bigip-15-1-10.html
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/relnote-supplement-bigip-16-0-1.html
 https://umbraco.com/products/knowledge-center/long-term-support-and-end-of-life/umbraco-6-end-of-life-eol/
 https://vmware.github.io/photon/assets/files/html/3.0/What-is-New-in-Photon-OS-3.0.html
 https://web.archive.org/web/20070714051039/http://www.apple.com/iphone/specs.html

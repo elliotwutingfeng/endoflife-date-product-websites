@@ -116,6 +116,7 @@ svn.apache.org
 symfony.com
 techcommunity.microsoft.com
 techdocs.broadcom.com
+techdocs.f5.com
 umbraco.com
 vmware.github.io
 web.archive.org
