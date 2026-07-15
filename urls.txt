@@ -935,6 +935,7 @@ https://docs.xcp-ng.org/releases/release-8-3/
 https://documentation.commvault.com/11.40/essential/list_of_maintenance_releases_in_11_40.html
 https://documentation.commvault.com/11.42/software/list_of_update_releases_in_11_42.html
 https://documentation.commvault.com/11.44/software/maintenance_release_in_11_44.html
+https://documentation.commvault.com/11.46/software/innovation_update_release_in_11_46.html
 https://documentation.commvault.com/2024e/essential/list_of_maintenance_releases_for_commvault_platform_release_2024e.html
 https://documentation.commvault.com/v11/software/list_of_innovation_update_releases_in_11_38.html
 https://documentation.commvault.com/v11/software/list_of_maintenance_releases_for_commvault_platform_release_2023e.html
@@ -1262,6 +1263,7 @@ https://github.com/puppetlabs/docs-archive/blob/main/puppet/4.10/release_notes.m
 https://github.com/quarkusio/quarkus/releases/tag/__LATEST__
 https://github.com/quarkusio/quarkus/releases/tag/__LATEST__.Final
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v{{'__LATEST__'|replace:'.','_'}}
+https://github.com/ruby/ruby/releases/tag/v__LATEST__
 https://github.com/saltstack/salt/blob/3007.x/CHANGELOG.md
 https://github.com/scala/scala/releases/tag/v__LATEST__
 https://github.com/shopware5/shopware/releases/tag/v__LATEST__
@@ -2199,7 +2201,6 @@ https://www.rfc-editor.org/rfc/rfc2246
 https://www.rfc-editor.org/rfc/rfc4346
 https://www.rfc-editor.org/rfc/rfc5246
 https://www.rfc-editor.org/rfc/rfc8446
-https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/
 https://www.samsung.com/us/watches/galaxy-watch-fe/
 https://www.samsung.com/us/watches/galaxy-watch-ultra/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/8-9-lts/

@@ -160,7 +160,6 @@ www.puppet.com
 www.qt.io
 www.raspberrypi.com
 www.rfc-editor.org
-www.ruby-lang.org
 www.samsung.com
 www.sonarsource.com
 www.squid-cache.org
