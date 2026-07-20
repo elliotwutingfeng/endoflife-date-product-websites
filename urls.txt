@@ -1909,7 +1909,13 @@ https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS5(2e)11.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS6(2e)10.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS7(2e)2009.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS8(2e)2111.html
-https://wiki.mageia.org/en/Mageia___RELEASE_CYCLE___Release_Notes
+https://wiki.mageia.org/en/Archive:_Mageia_1_Release_Notes
+https://wiki.mageia.org/en/Archive:_Mageia_2_Release_Notes
+https://wiki.mageia.org/en/Archive:_Mageia_3_Release_Notes
+https://wiki.mageia.org/en/Archive:_Mageia_4_Release_Notes
+https://wiki.mageia.org/en/Archive:_Mageia_5_Release_Notes
+https://wiki.mageia.org/en/Archive:_Mageia_6_Release_Notes
+https://wiki.mageia.org/en/Archive:_Mageia_7_Release_Notes
 https://wikipedia.org/wiki/Nexus_10
 https://wikipedia.org/wiki/Nexus_4
 https://wikipedia.org/wiki/Nexus_5X
