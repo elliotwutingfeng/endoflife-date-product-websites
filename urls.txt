@@ -904,7 +904,7 @@ https://docs.paloaltonetworks.com/globalprotect/6-3/globalprotect-app-release-no
 https://docs.paloaltonetworks.com/ngfw/release-notes/12-1/pan-os-12-1-8-known-and-addressed-issues/pan-os-12-1-8-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h20-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-18-known-and-addressed-issues/pan-os-10-2-18-h8-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-18-known-and-addressed-issues/pan-os-10-2-18-h9-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-16-known-and-addressed-issues/pan-os-11-1-16-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-13-known-and-addressed-issues/pan-os-11-2-13-addressed-issues
@@ -2209,6 +2209,10 @@ https://www.rfc-editor.org/rfc/rfc5246
 https://www.rfc-editor.org/rfc/rfc8446
 https://www.samsung.com/us/watches/galaxy-watch-fe/
 https://www.samsung.com/us/watches/galaxy-watch-ultra/
+https://www.samsung.com/us/watches/galaxy-watch8-classic/
+https://www.samsung.com/us/watches/galaxy-watch8/
+https://www.samsung.com/us/watches/galaxy-watch9/
+https://www.samsung.com/watches/galaxy-watch-ultra2/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/8-9-lts/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/9-9-lts/
 https://www.sonarsource.com/products/sonarqube/whats-new/sonarqube-10-0/
