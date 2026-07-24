@@ -838,6 +838,9 @@ https://docs.fedoraproject.org/en-US/releases/f6/
 https://docs.fedoraproject.org/en-US/releases/f7/
 https://docs.fedoraproject.org/en-US/releases/f8/
 https://docs.fedoraproject.org/en-US/releases/f9/
+https://docs.gitlab.com/releases/16/gitlab-16-10-released/
+https://docs.gitlab.com/releases/17/gitlab-17-10-released/
+https://docs.gitlab.com/releases/18/gitlab-18-10-released/
 https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v3100
 https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v340
 https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v350
