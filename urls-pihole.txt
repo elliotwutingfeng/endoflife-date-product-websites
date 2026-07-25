@@ -48,7 +48,6 @@ docs.cloud.google.com
 docs.daocloud.io
 docs.djangoproject.com
 docs.fedoraproject.org
-docs.gitlab.com
 docs.influxdata.com
 docs.nvidia.com
 docs.omnissa.com
