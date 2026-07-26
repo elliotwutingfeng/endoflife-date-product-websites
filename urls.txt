@@ -1103,6 +1103,7 @@ https://en-us.support.motorola.com/app/software-security-update/g_id/7112/produc
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12568
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12569
 https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12570
+https://en-us.support.motorola.com/app/software-security-update/g_id/7112/productid/12897
 https://en.opensuse.org/Archive:Product_highlights_11.2
 https://en.opensuse.org/Archive:Product_highlights_11.3
 https://en.opensuse.org/Archive:Product_highlights_11.4
@@ -1544,6 +1545,14 @@ https://quarkus.io/blog/quarkus-3-34-released/
 https://quarkus.io/blog/quarkus-3-35-released/
 https://quarkus.io/blog/quarkus-3-36-1-released/
 https://quarkus.io/blog/quarkus-3-37-1-released/
+https://releases.umbraco.com/release/umbraco/Umbraco-CMS/10.8.11
+https://releases.umbraco.com/release/umbraco/Umbraco-CMS/11.5.0
+https://releases.umbraco.com/release/umbraco/Umbraco-CMS/12.3.10
+https://releases.umbraco.com/release/umbraco/Umbraco-CMS/14.3.4
+https://releases.umbraco.com/release/umbraco/Umbraco-CMS/15.4.4
+https://releases.umbraco.com/release/umbraco/Umbraco-CMS/7.15.11
+https://releases.umbraco.com/release/umbraco/Umbraco-CMS/8.18.15
+https://releases.umbraco.com/release/umbraco/Umbraco-CMS/9.5.4
 https://service.oneplus.com/us/search/search-detail?id=2123192&articleIndex=2
 https://spark.apache.org/downloads.html
 https://struts.apache.org/struts1eol-announcement.html

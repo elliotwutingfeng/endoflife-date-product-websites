@@ -104,6 +104,7 @@ platform.claude.com
 postmarketos.org
 public.dhe.ibm.com
 quarkus.io
+releases.umbraco.com
 service.oneplus.com
 spark.apache.org
 struts.apache.org
