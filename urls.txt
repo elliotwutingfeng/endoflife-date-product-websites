@@ -141,6 +141,7 @@ https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-eks-distro-kubernetes-
 https://aws.amazon.com/about-aws/whats-new/2026/01/aws-lambda-dot-net-10/
 https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-adds-ruby/
 https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-distro-kubernetes-version-1-36/
+https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux/
 https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/
 https://aws.amazon.com/amazon-linux-ami/2018.03-release-notes/
 https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/
@@ -859,10 +860,9 @@ https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-565-57-01/index.htm
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-570-195-03/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-570-211-01/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-575-57-08/index.html
-https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-173-02/index.html
-https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-582-70/index.html
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-580-178-04/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-590-48-01/index.html
-https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-595-71-05/index.html
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-595-91-07/index.html
 https://docs.omnissa.com/bundle/horizon8-rnV2312.1/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2406/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2412/page/Horizon8-ReleaseNotes.html
@@ -1422,8 +1422,6 @@ https://learn.microsoft.com/lifecycle/products/windows-xp
 https://learn.microsoft.com/previous-versions/dotnet/netframework-4.0/ms171868(v=vs.100)
 https://learn.microsoft.com/previous-versions/mt752379(v=vs.140)
 https://learn.microsoft.com/troubleshoot/developer/visualstudio/installation/visual-studio-2012-update-4
-https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate25
-https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2025/cumulativeupdate6
 https://learn.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2015-update4-vs#details-of-whats-new-in-team-foundation-server-2015-update-42-patch-8
 https://learn.microsoft.com/visualstudio/releasenotes/tfs2017-update3#details-of-whats-new-in-team-foundation-server-2017-update-31-patch-15
@@ -1730,13 +1728,15 @@ https://support.microsoft.com/help/5021112
 https://support.microsoft.com/help/5021123
 https://support.microsoft.com/help/5024296
 https://support.microsoft.com/help/5029185
-https://support.microsoft.com/help/5089270
-https://support.microsoft.com/help/5089271
-https://support.microsoft.com/help/5090354
-https://support.microsoft.com/help/5090407
+https://support.microsoft.com/help/5093420
 https://support.microsoft.com/help/5094139
 https://support.microsoft.com/help/5094140
 https://support.microsoft.com/help/5094144
+https://support.microsoft.com/help/5096981
+https://support.microsoft.com/help/5102335
+https://support.microsoft.com/help/5102337
+https://support.microsoft.com/help/5102339
+https://support.microsoft.com/help/5102340
 https://support.microsoft.com/help/941203
 https://support.microsoft.com/help/967908
 https://support.microsoft.com/help/979064
@@ -1820,6 +1820,7 @@ https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/vcenter-server-update-and-patch-release-notes/vsphere-vcenter-server-70u3w-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-80u3k-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/release-notes/vcenter-server-update-and-patch-release-notes/vsphere-vcenter-server-80u3k-release-notes.html
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/product/relnote-bigip-11-5-10.html
 https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/product/relnote-bigip-11-6-5.html
 https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/product/relnote-bigip-13-0-1.html
 https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/product/relnote-bigip-14-0-1.html
@@ -2054,6 +2055,7 @@ https://www.ibm.com/support/pages/db2-version-91-linux-unix-and-windows-manuals
 https://www.ibm.com/support/pages/db2-version-95-linux-unix-and-windows-english-manuals
 https://www.intel.com/content/www/us/en/ark/products/codename/213792/products-formerly-lunar-lake.html
 https://www.intel.com/content/www/us/en/ark/products/codename/225837/products-formerly-arrow-lake.html
+https://www.intel.com/content/www/us/en/ark/products/codename/237132/products-formerly-panther-lake.html
 https://www.intel.com/content/www/us/en/ark/products/codename/90353/products-formerly-meteor-lake.html
 https://www.joomla.org/announcements/release-news/5900-joomla-5-0-and-joomla-4-4-are-here
 https://www.joomla.org/announcements/release-news/5939-joomla-6-0-and-joomla-5-4-are-here.html
