@@ -1135,6 +1135,10 @@ https://en.wikipedia.org/wiki/Pixel_10_Pro
 https://en.wikipedia.org/wiki/Pixel_10_Pro_Fold
 https://en.wikipedia.org/wiki/Pixel_10_Pro_XL
 https://en.wikipedia.org/wiki/Pixel_10a
+https://en.wikipedia.org/wiki/Pixel_11
+https://en.wikipedia.org/wiki/Pixel_11_Pro
+https://en.wikipedia.org/wiki/Pixel_11_Pro_Fold
+https://en.wikipedia.org/wiki/Pixel_11_Pro_XL
 https://en.wikipedia.org/wiki/Pixel_2
 https://en.wikipedia.org/wiki/Pixel_3
 https://en.wikipedia.org/wiki/Pixel_3a
@@ -1162,6 +1166,7 @@ https://en.wikipedia.org/wiki/Pixel_Watch
 https://en.wikipedia.org/wiki/Pixel_Watch_2
 https://en.wikipedia.org/wiki/Pixel_Watch_3
 https://en.wikipedia.org/wiki/Pixel_Watch_4
+https://en.wikipedia.org/wiki/Pixel_Watch_5
 https://forum.proxmox.com/threads/proxmox-backup-server-1-1-released.83728/
 https://forums.unrealircd.org/viewtopic.php?f=1&t=8588
 https://github.com/Azure/AKS/issues/2502#issuecomment-1008549356
@@ -1285,6 +1290,7 @@ https://github.com/vuejs/vue/releases/tag/v__LATEST__
 https://github.com/yarnpkg/yarn/releases/tag/v__LATEST__
 https://gitlab.com/freedesktop-sdk/freedesktop-sdk/-/merge_requests/28230
 https://go.dev/doc/go1.26
+https://go.dev/doc/go1.27
 https://godotengine.org/article/godot-engine-reaches-1-0/
 https://godotengine.org/article/maintenance-release-godot-2-0-4
 https://graylog.org/post/announcing-graylog-2-1-3/
