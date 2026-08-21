@@ -1926,8 +1926,6 @@ https://web.archive.org/web/20250130102316/https://docs.vmware.com/en/VMware-Clo
 https://web.archive.org/web/20250130132930/https://docs.vmware.com/en/VMware-Cloud-Foundation/3.11/rn/vmware-cloud-foundation-311-release-notes/index.html
 https://web.archive.org/web/20250428001025/https://www.zerto.com/press-releases/zerto-announces-general-availability-of-zerto-7-5-raising-the-bar-for-continuous-data-protection/
 https://web.archive.org/web/20251008131431/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-10.html
-https://web.archive.org/web/20260216184820/https://downloads.apache.org/kafka/3.8.1/RELEASE_NOTES.html
-https://web.archive.org/web/20260216184827/https://downloads.apache.org/kafka/3.7.2/RELEASE_NOTES.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS5(2e)11.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS6(2e)10.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS7(2e)2009.html
