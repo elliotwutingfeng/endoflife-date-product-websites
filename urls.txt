@@ -809,7 +809,7 @@ https://docs.cfengine.com/docs/__RELEASE_CYCLE__/guide-latest-release-whatsnew-c
 https://docs.cfengine.com/docs/__RELEASE_CYCLE__/release-notes-whatsnew-changelog-core.html
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2203-ltsr/whats-new/cumulative-update-7
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2402-ltsr/whats-new/cumulative-update-4.html
-https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2507-ltsr/whats-new/cumulative-update-1
+https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2507-ltsr/whats-new/cumulative-update-2
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/whats-new
 https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/whats-new/cumulative-update-9.html
 https://docs.cloud.google.com/looker/docs/release-notes#August_06_2026
@@ -1426,7 +1426,6 @@ https://learn.microsoft.com/lifecycle/products/windows-server-2008
 https://learn.microsoft.com/lifecycle/products/windows-server-2008-r2
 https://learn.microsoft.com/lifecycle/products/windows-server-2012
 https://learn.microsoft.com/lifecycle/products/windows-server-2012-r2
-https://learn.microsoft.com/lifecycle/products/windows-server-annual-channel
 https://learn.microsoft.com/lifecycle/products/windows-server-semiannual-channel
 https://learn.microsoft.com/lifecycle/products/windows-vista
 https://learn.microsoft.com/lifecycle/products/windows-xp
@@ -1752,6 +1751,7 @@ https://support.microsoft.com/help/941203
 https://support.microsoft.com/help/967908
 https://support.microsoft.com/help/979064
 https://support.microsoft.com/help/983811
+https://support.microsoft.com/servicing/os/windows-server/2026/05/end-of-updates-statement
 https://support.microsoft.com/surface/surface-2-specifications-7a5aaf4f-9641-2c69-3747-ea4e2a161aae
 https://support.microsoft.com/surface/surface-3-specs-and-features-80e52440-0c3a-60e4-b77c-88a5f373ea4d
 https://support.microsoft.com/surface/surface-book-1st-gen-specs-and-features-b2c7cf05-1144-da66-c4c8-dba0be246040
