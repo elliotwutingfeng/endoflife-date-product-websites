@@ -142,6 +142,7 @@ https://aws.amazon.com/about-aws/whats-new/2026/01/aws-lambda-dot-net-10/
 https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-adds-ruby/
 https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-distro-kubernetes-version-1-36/
 https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux/
+https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3/
 https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/
 https://aws.amazon.com/amazon-linux-ami/2018.03-release-notes/
 https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/
@@ -1218,6 +1219,7 @@ https://github.com/actions/runner-images/blob/main/images/macos/macos-15-Readme.
 https://github.com/actions/runner-images/blob/main/images/macos/macos-15-arm64-Readme.md
 https://github.com/actions/runner-images/blob/main/images/macos/macos-26-Readme.md
 https://github.com/actions/runner-images/blob/main/images/macos/macos-26-arm64-Readme.md
+https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2204-Arm64-Readme.md
 https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2204-Readme.md
 https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2404-Readme.md
 https://github.com/actions/runner-images/blob/main/images/windows/Windows2022-Readme.md
@@ -1371,6 +1373,8 @@ https://hop.apache.org/blog/2025/05/hop-2.14.0/
 https://hop.apache.org/blog/2025/08/hop-2.15.0/
 https://hop.apache.org/blog/2025/11/hop-2.16.0/
 https://hop.apache.org/blog/2026/02/hop-2.17.0/
+https://hop.apache.org/blog/2026/06/hop-2.18.1/
+https://hop.apache.org/blog/2026/08/hop-2.19.0/
 https://kde.org/announcements/plasma/5/__LATEST__/
 https://laravel.com/docs/5.5/releases
 https://laravel.com/docs/5.8/releases
@@ -1532,6 +1536,8 @@ https://openssl-library.org/news/vulnerabilities-1.1.0/
 https://openssl-library.org/news/vulnerabilities-1.1.1/
 https://platform.claude.com/docs/en/about-claude/model-deprecations
 https://platform.claude.com/docs/en/about-claude/model-deprecations#2025-01-21-claude-2-claude-2-1-and-claude-sonnet-3-models
+https://postmarketos.org/blog/2020/05/31/three-years/#stable-release-channel
+https://postmarketos.org/blog/2021/03/31/v21.03-release/
 https://postmarketos.org/blog/2021/07/04/v21.06-release/
 https://postmarketos.org/blog/2021/12/29/v21.12-release/
 https://postmarketos.org/blog/2022/06/12/v22.06-release/
@@ -1542,6 +1548,7 @@ https://postmarketos.org/blog/2024/06/16/v24.06-release/
 https://postmarketos.org/blog/2024/12/23/v24.12-release/
 https://postmarketos.org/blog/2025/06/22/v25.06-release/
 https://postmarketos.org/blog/2025/12/23/v25.12-release/
+https://postmarketos.org/blog/2026/06/21/v26.06-release/
 https://public.dhe.ibm.com/software/integration/wmq/docs/V5.2/
 https://public.dhe.ibm.com/software/integration/wmq/docs/V5.3/
 https://public.dhe.ibm.com/software/integration/wmq/docs/V6.0/
@@ -2244,6 +2251,11 @@ https://www.suse.com/releasenotes/x86_64/SLE-Micro/__RELEASE_CYCLE__/
 https://www.suse.com/releasenotes/x86_64/multi-linux-manager/__RELEASE_CYCLE__
 https://www.suse.com/releasenotes/x86_64/openSUSE/11.0/index.html
 https://www.suse.com/releasenotes/x86_64/openSUSE/11.1/index.html
+https://www.truenas.com/docs/scale/23.10/gettingstarted/scalereleasenotes/
+https://www.truenas.com/docs/scale/24.04/gettingstarted/scalereleasenotes/
+https://www.truenas.com/docs/scale/24.10/gettingstarted/scalereleasenotes/
+https://www.truenas.com/docs/scale/25.04/gettingstarted/scalereleasenotes/
+https://www.truenas.com/docs/scale/25.10/gettingstarted/versionnotes/
 https://www.tumblr.com/system76/165833795278/why-system76-is-making-popos
 https://www.tumblr.com/system76/171934557903/popos-1804-testing-iso-coming-soon-updates-on
 https://www.tumblr.com/system76/179217201328/see-what-changes-have-been-orbiting-popos
