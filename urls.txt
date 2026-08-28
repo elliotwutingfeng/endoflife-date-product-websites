@@ -1550,7 +1550,8 @@ https://quarkus.io/blog/quarkus-3-34-released/
 https://quarkus.io/blog/quarkus-3-35-released/
 https://quarkus.io/blog/quarkus-3-36-1-released/
 https://quarkus.io/blog/quarkus-3-37-1-released/
-https://quarkus.io/blog/quarkus-3-38-released/
+https://quarkus.io/blog/quarkus-3-38-3-released/
+https://quarkus.io/blog/quarkus-3-39-released/
 https://releases.umbraco.com/release/umbraco/Umbraco-CMS/10.8.11
 https://releases.umbraco.com/release/umbraco/Umbraco-CMS/11.5.0
 https://releases.umbraco.com/release/umbraco/Umbraco-CMS/12.3.10
