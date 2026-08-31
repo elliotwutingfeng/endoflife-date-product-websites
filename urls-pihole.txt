@@ -4,6 +4,7 @@ almalinux.org
 alpinelinux.org
 android.fandom.com
 antixlinux.com
+apple.github.io
 archive.apache.org
 archive.docs.mulesoft.com
 archives-docs.centreon.com
@@ -28,6 +29,7 @@ confluence.atlassian.com
 cwiki.apache.org
 dev.mysql.com
 devblogs.microsoft.com
+devcenter.heroku.com
 devdocs.magento.com
 developer.android.com
 developer.apple.com
@@ -137,6 +139,7 @@ www.devuan.org
 www.elastic.co
 www.findbugzero.com
 www.googlecloudcommunity.com
+www.heroku.com
 www.hmd.com
 www.ibm.com
 www.intel.com
@@ -145,9 +148,9 @@ www.lineageoslog.com
 www.linuxmint.com
 www.maginative.com
 www.microfocus.com
-www.microsoft.com
 www.mongodb.com
 www.nokia.com
+www.nv5geospatialsoftware.com
 www.nvidia.com
 www.oneplus.com
 www.oneplus.in

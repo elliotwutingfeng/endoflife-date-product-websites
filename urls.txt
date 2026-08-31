@@ -74,6 +74,9 @@ https://antixlinux.com/antix-19-5-point-release-update/
 https://antixlinux.com/antix-22-released/
 https://antixlinux.com/antix-23-released/
 https://antixlinux.com/forum-archive/antix-15-released-t5697.html
+https://apple.github.io/foundationdb/release-notes/release-notes-630.html
+https://apple.github.io/foundationdb/release-notes/release-notes-710.html
+https://apple.github.io/foundationdb/release-notes/release-notes-730.html
 https://archive.apache.org/dist/httpd/CHANGES_1.3.42
 https://archive.apache.org/dist/httpd/CHANGES_2.0.65
 https://archive.apache.org/dist/httpd/CHANGES_2.2.34
@@ -360,6 +363,12 @@ https://dev.mysql.com/doc/relnotes/mysql/9.6/en/news-9-6-0.html
 https://dev.mysql.com/doc/relnotes/mysql/9.7/en/news-9-7-0.html
 https://devblogs.microsoft.com/bharry/tfs-2005-sql-server-2005-sp2/
 https://devblogs.microsoft.com/bharry/vstfs-2010-sp1-and-tfs-project-server-integration-feature-pack-have-released/
+https://devcenter.heroku.com/changelog-items/2022
+https://devcenter.heroku.com/changelog-items/2372
+https://devcenter.heroku.com/changelog-items/2551
+https://devcenter.heroku.com/changelog-items/2777
+https://devcenter.heroku.com/changelog-items/3236
+https://devcenter.heroku.com/changelog-items/3751
 https://devdocs.magento.com/guides/v2.3/release-notes/open-source-2-3-7.html
 https://devdocs.magento.com/guides/v2.4/release-notes/release-notes-2-4-0-open-source.html
 https://developer.android.com/about/versions/12/12L
@@ -436,6 +445,7 @@ https://doc.samsungmobile.com/SM-A236U/DSA/doc.html
 https://doc.samsungmobile.com/SM-A256E/CHT/doc.html
 https://doc.samsungmobile.com/SM-A260F/ECT/doc.html
 https://doc.samsungmobile.com/SM-A266B/NPB/doc.html
+https://doc.samsungmobile.com/SM-A276B/EUX/doc.html
 https://doc.samsungmobile.com/SM-A305F/AFR/doc.html
 https://doc.samsungmobile.com/SM-A307GN/XXV/doc.html
 https://doc.samsungmobile.com/SM-A310F/BTU/doc.html
@@ -500,6 +510,7 @@ https://doc.samsungmobile.com/SM-E166P/INS/doc.html
 https://doc.samsungmobile.com/SM-E176B/INS/doc.html
 https://doc.samsungmobile.com/SM-E225F/INS/doc.html
 https://doc.samsungmobile.com/SM-E236B/INS/doc.html
+https://doc.samsungmobile.com/SM-E366B/INS/doc.html
 https://doc.samsungmobile.com/SM-E5260/CHC/doc.html
 https://doc.samsungmobile.com/SM-E546B/INS/doc.html
 https://doc.samsungmobile.com/SM-E556B/INS/doc.html
@@ -515,6 +526,7 @@ https://doc.samsungmobile.com/SM-F731B/ZTO/doc.html
 https://doc.samsungmobile.com/SM-F741U/CCT/doc.html
 https://doc.samsungmobile.com/SM-F7610/CHC/doc.html
 https://doc.samsungmobile.com/SM-F7660/CHC/doc.html
+https://doc.samsungmobile.com/SM-F7760/039222260801/eng.html
 https://doc.samsungmobile.com/SM-F900F/XEH/doc.html
 https://doc.samsungmobile.com/SM-F907B/AUT/doc.html
 https://doc.samsungmobile.com/SM-F916B/XEH/doc.html
@@ -525,6 +537,8 @@ https://doc.samsungmobile.com/SM-F956W/ESK/doc.html
 https://doc.samsungmobile.com/SM-F958N/KOO/doc.html
 https://doc.samsungmobile.com/SM-F9660/TGY/doc.html
 https://doc.samsungmobile.com/SM-F9680/CHC/doc.html
+https://doc.samsungmobile.com/SM-F971B/EUX/doc.html
+https://doc.samsungmobile.com/SM-F976B/EUX/doc.html
 https://doc.samsungmobile.com/SM-G160N/KOO/doc.html
 https://doc.samsungmobile.com/SM-G389F/ATO/doc.html
 https://doc.samsungmobile.com/SM-G390F/ATO/doc.html
@@ -629,6 +643,7 @@ https://doc.samsungmobile.com/SM-M356B/INS/doc.html
 https://doc.samsungmobile.com/SM-M356B/NPB/doc.html
 https://doc.samsungmobile.com/SM-M405F/INS/doc.html
 https://doc.samsungmobile.com/SM-M426B/INS/doc.html
+https://doc.samsungmobile.com/SM-M476B/INS/doc.html
 https://doc.samsungmobile.com/SM-M515F/DBT/doc.html
 https://doc.samsungmobile.com/SM-M526BR/ITV/doc.html
 https://doc.samsungmobile.com/SM-M536B/SER/doc.html
@@ -1168,6 +1183,7 @@ https://github.com/Azure/AKS/releases/tag/2025-06-17
 https://github.com/Azure/AKS/releases/tag/2026-01-04
 https://github.com/Azure/AKS/releases/tag/2026-03-05
 https://github.com/Azure/AKS/releases/tag/2026-06-19
+https://github.com/DependencyTrack/dependency-track/releases/tag/__LATEST__
 https://github.com/Exim/exim/releases/tag/exim-4_50
 https://github.com/Exim/exim/releases/tag/exim-4_51
 https://github.com/Exim/exim/releases/tag/exim-4_52
@@ -1210,9 +1226,13 @@ https://github.com/actions/runner-images/blob/main/images/macos/macos-26-Readme.
 https://github.com/actions/runner-images/blob/main/images/macos/macos-26-arm64-Readme.md
 https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2204-Arm64-Readme.md
 https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2204-Readme.md
+https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2404-Arm64-Readme.md
 https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2404-Readme.md
+https://github.com/actions/runner-images/blob/main/images/windows/Windows11-Arm64-Readme.md
+https://github.com/actions/runner-images/blob/main/images/windows/Windows11-VS2026-Arm64-Readme.md
 https://github.com/actions/runner-images/blob/main/images/windows/Windows2022-Readme.md
 https://github.com/actions/runner-images/blob/main/images/windows/Windows2025-Readme.md
+https://github.com/actions/runner-images/blob/main/images/windows/Windows2025-VS2026-Readme.md
 https://github.com/adoptium/temurin__RELEASE_CYCLE__-binaries/releases/tag/jdk__LATEST__
 https://github.com/angular/angular/releases/tag/__LATEST__
 https://github.com/angular/protractor/blob/master/CHANGELOG.md#180
@@ -1706,6 +1726,9 @@ https://support.fairphone.com/hc/articles/360019515018
 https://support.fairphone.com/hc/articles/360048139032
 https://support.fairphone.com/hc/articles/6217522827281
 https://support.fairphone.com/hc/articles/9979180437393-Fairphone-s-Operating-System#h_01KG29XZ4H590M395710QR626C
+https://support.microsoft.com/en-US/surface/models/surface-laptop-business-8th-edition-intel
+https://support.microsoft.com/en-US/surface/models/surface-pro-12th-edition-intel-features
+https://support.microsoft.com/en-us/surface/models/surface-laptop-business-8th-edition-intel
 https://support.microsoft.com/en-us/topic/list-of-changes-and-fixed-issues-in-the-net-framework-3-5-service-pack-1-7e580459-9f9a-3f0d-ecb3-ee3ea374044f
 https://support.microsoft.com/help/2258854
 https://support.microsoft.com/help/2582282
@@ -1765,6 +1788,7 @@ https://support.microsoft.com/surface/surface-laptop-2-specs-and-features-44924d
 https://support.microsoft.com/surface/surface-laptop-3-specs-and-features-75315c06-5d74-07fe-55d5-a8c5cb626849
 https://support.microsoft.com/surface/surface-laptop-4-features-e4fbd527-8ded-424c-9ccb-f2dd76b0f4dd
 https://support.microsoft.com/surface/surface-laptop-5-specs-and-features-0816e45e-6a4c-4c9e-8365-ef755a2e34d2
+https://support.microsoft.com/surface/surface-laptop-5g-for-business-features-f79d01ce-84eb-4f69-a51f-afe38267fb7e
 https://support.microsoft.com/surface/surface-laptop-6-for-business-features-3d09dbcd-fc74-4fae-88b8-071307d92c6c
 https://support.microsoft.com/surface/surface-laptop-7th-edition-features-9fba07be-d48d-4f2f-b508-70b7b5a60143
 https://support.microsoft.com/surface/surface-laptop-go-2-features-2eff8979-464a-442a-8848-856b2e237c11
@@ -2044,6 +2068,8 @@ https://www.elastic.co/guide/en/logstash/8.19/logstash-{{'__LATEST__'|replace:'.
 https://www.findbugzero.com/operational-defect-database/vendors/vmware/defects/57478
 https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-24-20-Release-Notes/m-p/831705
 https://www.googlecloudcommunity.com/gc/News-Announcements/Looker-25-0-Release-Notes/m-p/860290
+https://www.heroku.com/blog/posgtresql-12/
+https://www.heroku.com/blog/postgresql-11-general-availability/
 https://www.hmd.com/en_int/support/nokia-6-user-guide/
 https://www.ibm.com/docs/aix/6.1?topic=aix-older-versions
 https://www.ibm.com/docs/aix/7.3?topic=notes-aix-73-release
@@ -2070,7 +2096,6 @@ https://www.linuxmint.com/rel_zena.php
 https://www.maginative.com/article/anthropic-releases-safer-improved-version-of-ai-assistant-claude/
 https://www.microfocus.com/documentation/visual-cobol/vc100/DevHub/index.html
 https://www.microfocus.com/documentation/visual-cobol/vc70/VS2019/GUID-7ECA1D86-EC87-454D-B666-1047527FD9BF.html
-https://www.microsoft.com/en-us/surface/business/surface-laptop-intel-7th-edition
 https://www.mongodb.com/docs/manual/release-notes/8.3/
 https://www.nokia.com/phones/en_in/nokia-c-20-plus
 https://www.nokia.com/phones/en_int/nokia-1-0
@@ -2137,6 +2162,7 @@ https://www.nokia.com/phones/en_us/nokia-c-210
 https://www.nokia.com/phones/en_us/nokia-c-300
 https://www.nokia.com/phones/en_us/nokia-g-310
 https://www.nokia.com/phones/zh_tw/nokia-x71
+https://www.nv5geospatialsoftware.com/docs/WhatsNew.html
 https://www.nvidia.com/Download/driverResults.aspx/184248/
 https://www.nvidia.com/Download/driverResults.aspx/184717/
 https://www.nvidia.com/Download/driverResults.aspx/196214/
