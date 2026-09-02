@@ -2,14 +2,14 @@
 and write them to a .txt allowlist
 """
 
+import asyncio
 import datetime
 import ipaddress
 import logging
 import re
 import socket
-import time
 
-import requests
+import httpx
 import tldextract
 
 logger = logging.getLogger()
@@ -45,44 +45,42 @@ def clean_url(url: str) -> str:
     return removed_http
 
 
-def extract_urls() -> set[str]:
+async def extract_urls() -> set[str]:
     """Extract product websites from the endoflife.date API
 
     Returns:
         set[str]: Unique product URLs.
     """
-    try:
-        res: requests.Response = requests.get(
-            "https://endoflife.date/api/all.json", timeout=30
+    async with httpx.AsyncClient() as client:
+        res: httpx.Response = await client.get(
+            "https://endoflife.date/api/v1/products/full", timeout=30
         )
         res.raise_for_status()
-        products = res.json()
-        if not isinstance(products, list) or not all(
-            map(lambda product: isinstance(product, str), products)
-        ):
-            raise ValueError("Expected all.json to be of type list[str]")
-
+        products_data = res.json()
+        if not isinstance(products_data, dict):
+            raise TypeError("Expected products_full endpoint to return dict")
+        result = products_data.get("result")
+        if not isinstance(result, list):
+            raise TypeError("Expected 'result' to be a list")
         urls: set[str] = set()
-
-        for product in products:
-            time.sleep(0.25)  # Rate limit
-            res = requests.get(f"https://endoflife.date/api/{product}.json", timeout=30)
-            if res.status_code != 200:
-                logger.warning("%s | HTTP Status: %d", product, res.status_code)
+        for product in result:
+            if not isinstance(product, dict):
                 continue
-            cycles: list[dict] = res.json()
-            for cycle in cycles:
-                url = cycle.get("link", None)
-                if isinstance(url, str):
-                    urls.add(url)
+            product_releases = product.get("releases")
+            if not isinstance(product_releases, list):
+                continue
+            for release in product_releases:
+                if (
+                    isinstance(release, dict)
+                    and isinstance(release.get("latest"), dict)
+                    and isinstance(release["latest"].get("link"), str)
+                ):
+                    urls.add(release["latest"]["link"])
         return urls
-    except Exception as error:
-        logger.error(error)
-        return set()
 
 
 if __name__ == "__main__":
-    urls: set[str] = extract_urls()
+    urls: set[str] = asyncio.run(extract_urls())
     ips: set[str] = set()
     non_ips: set[str] = set()
     fqdns: set[str] = set()
@@ -97,7 +95,7 @@ if __name__ == "__main__":
             try:
                 socket.inet_pton(socket.AF_INET, domain)
                 ips.add(domain)
-            except socket.error:
+            except OSError:
                 # Is invalid URL and invalid IP -> skip
                 pass
         elif fqdn:
