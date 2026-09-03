@@ -764,7 +764,7 @@ https://docs.chef.io/release_notes_inspec/#3.9.3
 https://docs.chef.io/release_notes_inspec/#4.56.58
 https://docs.chef.io/release_notes_inspec/#5.24.24
 https://docs.chef.io/release_notes_inspec/#6.8.24
-https://docs.chef.io/release_notes_inspec/#7.1.7
+https://docs.chef.io/release_notes_inspec/#7.2.1
 https://docs.chef.io/release_notes_server/#11.1.7
 https://docs.chef.io/release_notes_server/#12.19.31
 https://docs.chef.io/release_notes_server/#13.2.0
@@ -823,7 +823,7 @@ https://docs.djangoproject.com/en/5.2/releases/1.8.19/
 https://docs.djangoproject.com/en/5.2/releases/1.9.13/
 https://docs.djangoproject.com/en/5.2/releases/5.2.17/
 https://docs.djangoproject.com/en/6.0/releases/6.0.8/
-https://docs.djangoproject.com/en/6.1/releases/6.1/
+https://docs.djangoproject.com/en/6.1/releases/6.1.1/
 https://docs.docker.com/engine/release-notes/17.03/#17032
 https://docs.docker.com/engine/release-notes/17.04/#17040
 https://docs.docker.com/engine/release-notes/17.05/#17050
@@ -1540,6 +1540,7 @@ https://github.com/RocketChat/Rocket.Chat/releases/tag/8.4.6
 https://github.com/RocketChat/Rocket.Chat/releases/tag/8.5.3
 https://github.com/RocketChat/Rocket.Chat/releases/tag/8.6.2
 https://github.com/RocketChat/Rocket.Chat/releases/tag/8.7.1
+https://github.com/RocketChat/Rocket.Chat/releases/tag/8.8.0
 https://github.com/RotherOSS/otobo/blob/rel-10_0/CHANGES.md
 https://github.com/RotherOSS/otobo/blob/rel-10_1/CHANGES.md
 https://github.com/RotherOSS/otobo/blob/rel-11_0/CHANGES.md
@@ -1553,6 +1554,7 @@ https://github.com/SonarSource/sonarqube/releases/tag/26.5.0.122743
 https://github.com/SonarSource/sonarqube/releases/tag/26.6.0.123539
 https://github.com/SonarSource/sonarqube/releases/tag/26.7.0.124771
 https://github.com/SonarSource/sonarqube/releases/tag/26.8.0.126808
+https://github.com/SonarSource/sonarqube/releases/tag/26.9.0.129388
 https://github.com/adonisjs/core/releases/tag/v5.9.0
 https://github.com/adonisjs/core/releases/tag/v6.20.0
 https://github.com/adonisjs/core/releases/tag/v7.5.0
@@ -1603,7 +1605,7 @@ https://github.com/angular/angular/releases/tag/9.1.13
 https://github.com/angular/angular/releases/tag/v19.2.25
 https://github.com/angular/angular/releases/tag/v20.3.30
 https://github.com/angular/angular/releases/tag/v21.2.22
-https://github.com/angular/angular/releases/tag/v22.1.4
+https://github.com/angular/angular/releases/tag/v22.1.5
 https://github.com/angular/protractor/blob/master/CHANGELOG.md#180
 https://github.com/angular/protractor/blob/master/CHANGELOG.md#251
 https://github.com/angular/protractor/blob/master/CHANGELOG.md#330
@@ -1637,7 +1639,7 @@ https://github.com/ansible/ansible/blob/stable-2.19/changelogs/CHANGELOG-v2.19.r
 https://github.com/ansible/ansible/blob/stable-2.20/changelogs/CHANGELOG-v2.20.rst
 https://github.com/ansible/ansible/blob/stable-2.21/changelogs/CHANGELOG-v2.21.rst
 https://github.com/ansible/ansible/blob/stable-2.9/changelogs/CHANGELOG-v2.9.rst
-https://github.com/apache/activemq/releases/tag/activemq-5.19.10
+https://github.com/apache/activemq/releases/tag/activemq-5.19.11
 https://github.com/apache/activemq/releases/tag/activemq-6.2.9
 https://github.com/apache/activemq/releases/tag/activemq-6.3.2
 https://github.com/apache/apisix/releases/tag/2.10.5
@@ -1744,7 +1746,7 @@ https://github.com/argoproj/argo-workflows/releases/tag/v3.6.19
 https://github.com/argoproj/argo-workflows/releases/tag/v3.7.18
 https://github.com/argoproj/argo-workflows/releases/tag/v4.0.10
 https://github.com/argoproj/argo-workflows/releases/tag/v4.1.2
-https://github.com/aws/aws-cdk/releases/tag/v2.267.0
+https://github.com/aws/aws-cdk/releases/tag/v2.268.0
 https://github.com/aws/eks-distro/releases/tag/v1-18-eks-13
 https://github.com/aws/eks-distro/releases/tag/v1-19-eks-11
 https://github.com/aws/eks-distro/releases/tag/v1-20-eks-14
@@ -1910,7 +1912,7 @@ https://github.com/containers/podman/releases/tag/v5.6.2
 https://github.com/containers/podman/releases/tag/v5.7.1
 https://github.com/containers/podman/releases/tag/v5.8.6
 https://github.com/containers/podman/releases/tag/v6.0.2
-https://github.com/containers/podman/releases/tag/v6.1.0
+https://github.com/containers/podman/releases/tag/v6.1.1
 https://github.com/contao/contao/blob/4.10.7/CHANGELOG.md
 https://github.com/contao/contao/blob/4.11.9/CHANGELOG.md
 https://github.com/contao/contao/blob/4.12.7/CHANGELOG.md
@@ -2420,7 +2422,7 @@ https://github.com/hashicorp/terraform/blob/v1.12.2/CHANGELOG.md
 https://github.com/hashicorp/terraform/blob/v1.13.5/CHANGELOG.md
 https://github.com/hashicorp/terraform/blob/v1.14.9/CHANGELOG.md
 https://github.com/hashicorp/terraform/blob/v1.15.9/CHANGELOG.md
-https://github.com/hashicorp/terraform/blob/v1.16.0/CHANGELOG.md
+https://github.com/hashicorp/terraform/blob/v1.16.1/CHANGELOG.md
 https://github.com/hashicorp/terraform/blob/v1.2.9/CHANGELOG.md
 https://github.com/hashicorp/terraform/blob/v1.3.10/CHANGELOG.md
 https://github.com/hashicorp/terraform/blob/v1.4.7/CHANGELOG.md
@@ -2513,7 +2515,7 @@ https://github.com/ionic-team/ionic-framework/releases/tag/v5.9.4
 https://github.com/ionic-team/ionic-framework/releases/tag/v6.7.5
 https://github.com/ionic-team/ionic-framework/releases/tag/v7.8.6
 https://github.com/ionic-team/ionic-framework/releases/tag/v8.8.19
-https://github.com/ionic-team/ionic-framework/releases/tag/v9.0.1
+https://github.com/ionic-team/ionic-framework/releases/tag/v9.0.2
 https://github.com/jaegertracing/jaeger/releases/tag/v1.76.0
 https://github.com/jaegertracing/jaeger/releases/tag/v2.20.0
 https://github.com/jcmoraisjr/haproxy-ingress/releases/tag/v0.12.22
@@ -2543,8 +2545,8 @@ https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.516.3
 https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.528.3
 https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.541.3
 https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.555.3
-https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.568.2
-https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.579
+https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.568.3
+https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.580
 https://github.com/jetty/jetty.project/releases/tag/jetty-10.0.26
 https://github.com/jetty/jetty.project/releases/tag/jetty-11.0.26
 https://github.com/jetty/jetty.project/releases/tag/jetty-12.0.38
@@ -2722,7 +2724,7 @@ https://github.com/kumahq/kuma/releases/tag/v2.10.11
 https://github.com/kumahq/kuma/releases/tag/v2.11.18
 https://github.com/kumahq/kuma/releases/tag/v2.12.14
 https://github.com/kumahq/kuma/releases/tag/v2.13.10
-https://github.com/kumahq/kuma/releases/tag/v2.14.3
+https://github.com/kumahq/kuma/releases/tag/v2.14.4
 https://github.com/kumahq/kuma/releases/tag/v2.7.29
 https://github.com/kyverno/kyverno/releases/tag/v1.10.7
 https://github.com/kyverno/kyverno/releases/tag/v1.11.5
@@ -3023,7 +3025,7 @@ https://github.com/phpro/grumphp/releases/tag/v1.16.0
 https://github.com/phpro/grumphp/releases/tag/v2.23.0
 https://github.com/pnpm/pnpm/releases/tag/v10.34.5
 https://github.com/pnpm/pnpm/releases/tag/v11.25.0
-https://github.com/pnpm/pnpm/releases/tag/v12.2.1
+https://github.com/pnpm/pnpm/releases/tag/v12.3.1
 https://github.com/pnpm/pnpm/releases/tag/v4.14.4
 https://github.com/pnpm/pnpm/releases/tag/v5.18.11
 https://github.com/pnpm/pnpm/releases/tag/v6.35.1
@@ -3141,7 +3143,7 @@ https://github.com/quarkusio/quarkus/releases/tag/3.7.4
 https://github.com/quarkusio/quarkus/releases/tag/3.8.6.1
 https://github.com/quarkusio/quarkus/releases/tag/3.9.5
 https://github.com/quasarframework/quasar/releases/tag/quasar-v1.22.10
-https://github.com/quasarframework/quasar/releases/tag/quasar-v2.28.0
+https://github.com/quasarframework/quasar/releases/tag/quasar-v2.29.0
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v3_0_4
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v3_1_5
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v3_2_4
@@ -3192,7 +3194,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.56.3
+https://github.com/renovatebot/renovate/releases/tag/44.59.3
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -3372,7 +3374,7 @@ https://github.com/statamic/cms/blob/v5.74.4/CHANGELOG.md
 https://github.com/statamic/cms/blob/v6.31.0/CHANGELOG.md
 https://github.com/strapi/strapi/releases/tag/v3.6.11
 https://github.com/strapi/strapi/releases/tag/v4.26.2
-https://github.com/strapi/strapi/releases/tag/v5.52.2
+https://github.com/strapi/strapi/releases/tag/v5.52.3
 https://github.com/sveltejs/svelte/releases/tag/svelte%404.2.20
 https://github.com/sveltejs/svelte/releases/tag/svelte%405.57.0
 https://github.com/sveltejs/svelte/releases/tag/v1.64.1
@@ -3584,8 +3586,8 @@ https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog6014
 https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog6116
 https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog6214
 https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog6315
-https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog7012
-https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog718
+https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog7013
+https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog719
 https://goaccess.io/release-notes#release-1.11
 https://godotengine.org/article/godot-engine-reaches-1-0/
 https://godotengine.org/article/maintenance-release-godot-2-0-4
@@ -3768,6 +3770,7 @@ https://istio.io/latest/news/releases/1.27.x/announcing-1.27.9/
 https://istio.io/latest/news/releases/1.28.x/announcing-1.28.10/
 https://istio.io/latest/news/releases/1.29.x/announcing-1.29.7/
 https://istio.io/latest/news/releases/1.30.x/announcing-1.30.4/
+https://istio.io/latest/news/releases/1.31.x/announcing-1.31/
 https://istio.io/latest/news/releases/1.7.x/announcing-1.7.8/
 https://istio.io/latest/news/releases/1.8.x/announcing-1.8.6/
 https://istio.io/latest/news/releases/1.9.x/announcing-1.9.9/
@@ -4673,12 +4676,13 @@ https://unity.com/releases/editor/whats-new/2022.2.23#release-notes
 https://unity.com/releases/editor/whats-new/2022.3.62#release-notes
 https://unity.com/releases/editor/whats-new/2023.1.22#release-notes
 https://unity.com/releases/editor/whats-new/2023.2.22#release-notes
-https://unity.com/releases/editor/whats-new/6000.0.82#release-notes
+https://unity.com/releases/editor/whats-new/6000.0.83#release-notes
 https://unity.com/releases/editor/whats-new/6000.1.17#release-notes
 https://unity.com/releases/editor/whats-new/6000.2.15#release-notes
 https://unity.com/releases/editor/whats-new/6000.3.23#release-notes
 https://unity.com/releases/editor/whats-new/6000.4.12#release-notes
-https://unity.com/releases/editor/whats-new/6000.5.10#release-notes
+https://unity.com/releases/editor/whats-new/6000.5.11#release-notes
+https://unity.com/releases/editor/whats-new/6000.6.0#release-notes
 https://vinyl-cache.org/releases/rel6.0.18.html
 https://vinyl-cache.org/releases/rel7.0.3.html
 https://vinyl-cache.org/releases/rel7.1.2.html
