@@ -849,7 +849,7 @@ https://docs.docker.com/engine/release-notes/26.0/#2602
 https://docs.docker.com/engine/release-notes/26.1/#2615
 https://docs.docker.com/engine/release-notes/27/#2751
 https://docs.docker.com/engine/release-notes/28/#2852
-https://docs.docker.com/engine/release-notes/29/#2972
+https://docs.docker.com/engine/release-notes/29/#2980
 https://docs.gitlab.com/releases/16/gitlab-16-1-released/
 https://docs.gitlab.com/releases/16/gitlab-16-10-released/
 https://docs.gitlab.com/releases/16/gitlab-16-11-released/
@@ -1708,7 +1708,7 @@ https://github.com/api-platform/core/releases/tag/v3.4.17
 https://github.com/api-platform/core/releases/tag/v4.0.22
 https://github.com/api-platform/core/releases/tag/v4.1.30
 https://github.com/api-platform/core/releases/tag/v4.2.26
-https://github.com/api-platform/core/releases/tag/v4.3.17
+https://github.com/api-platform/core/releases/tag/v4.3.18
 https://github.com/argoproj/argo-cd/releases/tag/v1.0.2
 https://github.com/argoproj/argo-cd/releases/tag/v1.1.2
 https://github.com/argoproj/argo-cd/releases/tag/v1.2.5
@@ -1755,8 +1755,8 @@ https://github.com/aws/eks-distro/releases/tag/v1-22-eks-14
 https://github.com/aws/eks-distro/releases/tag/v1-23-eks-30
 https://github.com/aws/eks-distro/releases/tag/v1-28-eks-63
 https://github.com/aws/eks-distro/releases/tag/v1-29-eks-66
-https://github.com/aws/eks-distro/releases/tag/v1-32-eks-48
-https://github.com/aws/eks-distro/releases/tag/v1-33-eks-41
+https://github.com/aws/eks-distro/releases/tag/v1-32-eks-52
+https://github.com/aws/eks-distro/releases/tag/v1-33-eks-45
 https://github.com/backdrop/backdrop/releases/tag/1.27.3
 https://github.com/backdrop/backdrop/releases/tag/1.28.5
 https://github.com/backdrop/backdrop/releases/tag/1.29.5
@@ -1866,7 +1866,7 @@ https://github.com/coder/coder/releases/tag/v2.30.9
 https://github.com/coder/coder/releases/tag/v2.31.14
 https://github.com/coder/coder/releases/tag/v2.32.10
 https://github.com/coder/coder/releases/tag/v2.33.11
-https://github.com/coder/coder/releases/tag/v2.34.9
+https://github.com/coder/coder/releases/tag/v2.34.10
 https://github.com/coder/coder/releases/tag/v2.35.7
 https://github.com/coder/coder/releases/tag/v2.36.4
 https://github.com/coder/coder/releases/tag/v2.7.3
@@ -1882,11 +1882,11 @@ https://github.com/containerd/containerd/releases/tag/v1.3.10
 https://github.com/containerd/containerd/releases/tag/v1.4.13
 https://github.com/containerd/containerd/releases/tag/v1.5.18
 https://github.com/containerd/containerd/releases/tag/v1.6.39
-https://github.com/containerd/containerd/releases/tag/v1.7.34
-https://github.com/containerd/containerd/releases/tag/v2.0.11
+https://github.com/containerd/containerd/releases/tag/v1.7.35
+https://github.com/containerd/containerd/releases/tag/v2.0.12
 https://github.com/containerd/containerd/releases/tag/v2.1.9
-https://github.com/containerd/containerd/releases/tag/v2.2.7
-https://github.com/containerd/containerd/releases/tag/v2.3.4
+https://github.com/containerd/containerd/releases/tag/v2.2.8
+https://github.com/containerd/containerd/releases/tag/v2.3.5
 https://github.com/containers/podman/releases/tag/v3.0.2
 https://github.com/containers/podman/releases/tag/v3.1.2
 https://github.com/containers/podman/releases/tag/v3.2.3
@@ -2118,7 +2118,7 @@ https://github.com/erlang/otp/releases/tag/OTP-27.3.4.17
 https://github.com/erlang/otp/releases/tag/OTP-28.5.0.6
 https://github.com/erlang/otp/releases/tag/OTP-29.0.6
 https://github.com/eslint/eslint/releases/tag/v1.10.3
-https://github.com/eslint/eslint/releases/tag/v10.9.1
+https://github.com/eslint/eslint/releases/tag/v10.10.0
 https://github.com/eslint/eslint/releases/tag/v2.13.1
 https://github.com/eslint/eslint/releases/tag/v3.19.0
 https://github.com/eslint/eslint/releases/tag/v4.19.1
@@ -2197,8 +2197,8 @@ https://github.com/fluent/fluent-bit/releases/tag/v3.2.10
 https://github.com/fluent/fluent-bit/releases/tag/v4.0.14
 https://github.com/fluent/fluent-bit/releases/tag/v4.1.2
 https://github.com/fluent/fluent-bit/releases/tag/v4.2.8
-https://github.com/fluent/fluent-bit/releases/tag/v5.0.9
-https://github.com/fluent/fluent-bit/releases/tag/v5.1.1
+https://github.com/fluent/fluent-bit/releases/tag/v5.0.10
+https://github.com/fluent/fluent-bit/releases/tag/v5.1.2
 https://github.com/fluxcd/flux/releases/tag/1.25.4
 https://github.com/fluxcd/flux2/releases/tag/v2.0.1
 https://github.com/fluxcd/flux2/releases/tag/v2.1.2
@@ -2799,6 +2799,7 @@ https://github.com/mautic/mautic/releases/tag/5.2.11
 https://github.com/mautic/mautic/releases/tag/6.0.9
 https://github.com/mautic/mautic/releases/tag/7.0.2
 https://github.com/mautic/mautic/releases/tag/7.1.3
+https://github.com/mautic/mautic/releases/tag/7.2.0
 https://github.com/meilisearch/meilisearch/releases/tag/v1.0.2
 https://github.com/meilisearch/meilisearch/releases/tag/v1.1.1
 https://github.com/meilisearch/meilisearch/releases/tag/v1.10.3
@@ -3003,7 +3004,7 @@ https://github.com/openzfs/zfs/releases/tag/zfs-2.1.16
 https://github.com/openzfs/zfs/releases/tag/zfs-2.2.11
 https://github.com/openzfs/zfs/releases/tag/zfs-2.3.9
 https://github.com/openzfs/zfs/releases/tag/zfs-2.4.4
-https://github.com/oven-sh/bun/releases/tag/bun-v1.4.0
+https://github.com/oven-sh/bun/releases/tag/bun-v1.4.1
 https://github.com/phoenixframework/phoenix/releases/tag/v1.0.6
 https://github.com/phoenixframework/phoenix/releases/tag/v1.1.9
 https://github.com/phoenixframework/phoenix/releases/tag/v1.2.5
@@ -3025,7 +3026,7 @@ https://github.com/phpro/grumphp/releases/tag/v1.16.0
 https://github.com/phpro/grumphp/releases/tag/v2.23.0
 https://github.com/pnpm/pnpm/releases/tag/v10.34.5
 https://github.com/pnpm/pnpm/releases/tag/v11.25.0
-https://github.com/pnpm/pnpm/releases/tag/v12.3.1
+https://github.com/pnpm/pnpm/releases/tag/v12.3.4
 https://github.com/pnpm/pnpm/releases/tag/v4.14.4
 https://github.com/pnpm/pnpm/releases/tag/v5.18.11
 https://github.com/pnpm/pnpm/releases/tag/v6.35.1
@@ -3131,7 +3132,7 @@ https://github.com/quarkusio/quarkus/releases/tag/3.23.4
 https://github.com/quarkusio/quarkus/releases/tag/3.24.5
 https://github.com/quarkusio/quarkus/releases/tag/3.25.4
 https://github.com/quarkusio/quarkus/releases/tag/3.26.4
-https://github.com/quarkusio/quarkus/releases/tag/3.27.5.1
+https://github.com/quarkusio/quarkus/releases/tag/3.27.5.2
 https://github.com/quarkusio/quarkus/releases/tag/3.28.5
 https://github.com/quarkusio/quarkus/releases/tag/3.29.4
 https://github.com/quarkusio/quarkus/releases/tag/3.3.3
@@ -3143,7 +3144,7 @@ https://github.com/quarkusio/quarkus/releases/tag/3.7.4
 https://github.com/quarkusio/quarkus/releases/tag/3.8.6.1
 https://github.com/quarkusio/quarkus/releases/tag/3.9.5
 https://github.com/quasarframework/quasar/releases/tag/quasar-v1.22.10
-https://github.com/quasarframework/quasar/releases/tag/quasar-v2.29.0
+https://github.com/quasarframework/quasar/releases/tag/quasar-v2.30.0
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v3_0_4
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v3_1_5
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v3_2_4
@@ -3194,7 +3195,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.61.4
+https://github.com/renovatebot/renovate/releases/tag/44.65.2
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -3420,7 +3421,7 @@ https://github.com/tarantool/tarantool/releases/tag/3.4.2
 https://github.com/tarantool/tarantool/releases/tag/3.5.2
 https://github.com/tarantool/tarantool/releases/tag/3.6.4
 https://github.com/tarantool/tarantool/releases/tag/3.7.1
-https://github.com/tarantool/tarantool/releases/tag/3.8.0
+https://github.com/tarantool/tarantool/releases/tag/3.8.1
 https://github.com/thumbor/thumbor/releases/tag/7.0.12
 https://github.com/thumbor/thumbor/releases/tag/7.1.2
 https://github.com/thumbor/thumbor/releases/tag/7.2.1
@@ -3434,7 +3435,7 @@ https://github.com/traefik/traefik/releases/tag/v1.7.34
 https://github.com/traefik/traefik/releases/tag/v2.0.7
 https://github.com/traefik/traefik/releases/tag/v2.1.9
 https://github.com/traefik/traefik/releases/tag/v2.10.7
-https://github.com/traefik/traefik/releases/tag/v2.11.56
+https://github.com/traefik/traefik/releases/tag/v2.11.57
 https://github.com/traefik/traefik/releases/tag/v2.2.11
 https://github.com/traefik/traefik/releases/tag/v2.3.7
 https://github.com/traefik/traefik/releases/tag/v2.4.14
@@ -3450,7 +3451,7 @@ https://github.com/traefik/traefik/releases/tag/v3.3.7
 https://github.com/traefik/traefik/releases/tag/v3.4.5
 https://github.com/traefik/traefik/releases/tag/v3.5.6
 https://github.com/traefik/traefik/releases/tag/v3.6.25
-https://github.com/traefik/traefik/releases/tag/v3.7.12
+https://github.com/traefik/traefik/releases/tag/v3.7.13
 https://github.com/twbs/bootstrap/releases/tag/v2.3.2
 https://github.com/twbs/bootstrap/releases/tag/v3.4.1
 https://github.com/twbs/bootstrap/releases/tag/v4.6.2
@@ -3608,7 +3609,7 @@ https://groovy-lang.org/changelogs/changelog-2.5.23.html
 https://groovy-lang.org/changelogs/changelog-3.0.25.html
 https://groovy-lang.org/changelogs/changelog-4.0.33.html
 https://groovy-lang.org/changelogs/changelog-5.0.8.html
-https://groovy-lang.org/changelogs/changelog-5.1.1.html
+https://groovy-lang.org/changelogs/changelog-5.1.2.html
 https://gstreamer.freedesktop.org/releases/1.10/
 https://gstreamer.freedesktop.org/releases/1.12/
 https://gstreamer.freedesktop.org/releases/1.14/
@@ -3710,6 +3711,7 @@ https://help.sonatype.com/en/sonatype-nexus-repository-3-92-0-release-notes.html
 https://help.sonatype.com/en/sonatype-nexus-repository-3-93-0-release-notes.html
 https://help.sonatype.com/en/sonatype-nexus-repository-3-94-0-release-notes.html
 https://help.sonatype.com/en/sonatype-nexus-repository-3-95-0-release-notes.html
+https://help.sonatype.com/en/sonatype-nexus-repository-3-96-0-release-notes.html
 https://help.sonatype.com/repomanager2/release-notes
 https://help.splunk.com/en/splunk-enterprise/release-notes-and-updates/release-notes/10.0/
 https://help.splunk.com/en/splunk-enterprise/release-notes-and-updates/release-notes/10.2/
@@ -4080,8 +4082,8 @@ https://mikrotik.com/download/changelogs?versionFilter=7.2.3&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.20.8&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.21.5&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.22.3&channelFilter=
-https://mikrotik.com/download/changelogs?versionFilter=7.23.4&channelFilter=
-https://mikrotik.com/download/changelogs?versionFilter=7.24.1&channelFilter=
+https://mikrotik.com/download/changelogs?versionFilter=7.23.5&channelFilter=
+https://mikrotik.com/download/changelogs?versionFilter=7.24.2&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.3.1&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.4.1&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.5&channelFilter=
@@ -4398,9 +4400,9 @@ https://releases.electronjs.org/release/v39.8.10
 https://releases.electronjs.org/release/v4.2.12
 https://releases.electronjs.org/release/v40.10.6
 https://releases.electronjs.org/release/v41.10.7
-https://releases.electronjs.org/release/v42.11.1
-https://releases.electronjs.org/release/v43.5.1
-https://releases.electronjs.org/release/v44.1.1
+https://releases.electronjs.org/release/v42.11.2
+https://releases.electronjs.org/release/v43.6.0
+https://releases.electronjs.org/release/v44.2.0
 https://releases.electronjs.org/release/v5.0.13
 https://releases.electronjs.org/release/v6.1.12
 https://releases.electronjs.org/release/v7.3.3
@@ -4566,9 +4568,9 @@ https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-5-2-and-earlier/5-2/vcf-r
 https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-0/release-notes/patch-releases-9-0-0-x/vsphere/esx/esx-9-0-2-0100-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-0/release-notes/patch-releases-9-0-0-x/vsphere/vcenter/vcenter-9-0-2-0100-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-0/release-notes/vmware-cloud-foundation-9-0-2-release-notes.html
-https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/patch-releases-9-1-0-x/vsphere/esx/esx-9-1-0-0200-release-notes.html
-https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/patch-releases-9-1-0-x/vsphere/vcenter/vcenter-9-1-0-0300-release-notes.html
-https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/vmware-cloud-foundation-9-1-0-0-release-notes.html
+https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/vmware-cloud-foundation-9-1-1-0-release-notes.html
+https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/vmware-cloud-foundation-9-1-1-0-release-notes/esx-9-1-1-0-release-notes.html
+https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/vmware-cloud-foundation-9-1-1-0-release-notes/vcenter-9-1-1-0-release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-5/release-notes.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-7/release-notes/vcenter-server-update-and-patch-releases.html
 https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/7-0/release-notes/esxi-update-and-patch-release-notes/vsphere-esxi-70u3w-release-notes.html
@@ -5216,7 +5218,7 @@ https://www.mozilla.org/firefox/151.0.4/releasenotes/
 https://www.mozilla.org/firefox/152.0.6/releasenotes/
 https://www.mozilla.org/firefox/153.2.0/releasenotes/
 https://www.mozilla.org/firefox/154.0.1/releasenotes/
-https://www.mozilla.org/firefox/155.0/releasenotes/
+https://www.mozilla.org/firefox/155.0.1/releasenotes/
 https://www.mozilla.org/firefox/78.15.0/releasenotes/
 https://www.mozilla.org/firefox/91.13.0/releasenotes/
 https://www.netbsd.org/releases/formal-10/NetBSD-10.1.html
@@ -5251,7 +5253,7 @@ https://www.nvidia.com/download/driverResults.aspx/197675/
 https://www.nvidia.com/download/driverResults.aspx/216530/
 https://www.nvidia.com/download/driverResults.aspx/228179/
 https://www.oracle.com/java/technologies/javase/10-0-2-relnotes.html
-https://www.oracle.com/java/technologies/javase/11-0-32-relnotes.html
+https://www.oracle.com/java/technologies/javase/11-0-32-1-relnotes.html
 https://www.oracle.com/java/technologies/javase/12-0-2-relnotes.html
 https://www.oracle.com/java/technologies/javase/13-0-2-relnotes.html
 https://www.oracle.com/java/technologies/javase/14-0-2-relnotes.html
