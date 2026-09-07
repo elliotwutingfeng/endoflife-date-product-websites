@@ -137,6 +137,10 @@ https://archive.apache.org/dist/kafka/4.1.2/RELEASE_NOTES.html
 https://archive.apache.org/dist/kafka/4.2.1/RELEASE_NOTES.html
 https://archive.apache.org/dist/kafka/4.3.1/RELEASE_NOTES.html
 https://archive.apache.org/dist/kafka/old_releases/kafka-0.7.2-incubating/RELEASE-NOTES.html
+https://archive.docs.mulesoft.com/mule-runtime/4.10/
+https://archive.docs.mulesoft.com/mule-runtime/4.5/
+https://archive.docs.mulesoft.com/mule-runtime/4.7/
+https://archive.docs.mulesoft.com/mule-runtime/4.8/
 https://archive.docs.mulesoft.com/release-notes/mule-runtime/mule-3.8.7-release-notes
 https://archive.docs.mulesoft.com/release-notes/mule-runtime/mule-3.9.5-release-notes
 https://archive.docs.mulesoft.com/release-notes/mule-runtime/mule-4.1.6-release-notes
@@ -915,15 +919,11 @@ https://docs.joomla.org/Special:MyLanguage/Joomla_3.10_version_history#Joomla_3.
 https://docs.joomla.org/Special:MyLanguage/Joomla_4.4_version_history#Joomla_4.4.14
 https://docs.joomla.org/Special:MyLanguage/Joomla_5.4_version_history#Joomla_5.4.8
 https://docs.mattermost.com/upgrade/version-archive.html
-https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.10.0-release-notes
 https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.11.0-release-notes
 https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.12.0-release-notes
 https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.3.0-release-notes
 https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.4.0-release-notes
-https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.5.0-release-notes
 https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.6.0-release-notes
-https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.7.0-release-notes
-https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.8.0-release-notes
 https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.9.0-release-notes
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-418-19702/
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-450-248-02/index.html
@@ -1005,8 +1005,6 @@ https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/eol/pan-os-61-r
 https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/eol/pan-os-70-release-notes.pdf
 https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/pan-os/7-1/pan-os-release-notes/pan-os-release-notes.pdf
 https://docs.paloaltonetworks.com/content/dam/techdocs/en_US/pdf/pan-os/8-0/pan-os-release-notes/pan-os-release-notes.pdf
-https://docs.paloaltonetworks.com/globalprotect/5-1/globalprotect-app-release-notes
-https://docs.paloaltonetworks.com/globalprotect/5-2/globalprotect-app-release-notes/globalprotect-known-and-addressed-issues/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/6-0/globalprotect-app-release-notes/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/6-1/globalprotect-app-release-notes//globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-notes/globalprotect-addressed-issues
@@ -1691,7 +1689,7 @@ https://github.com/apache/hbase/blob/rel/2.3.7/RELEASENOTES.md
 https://github.com/apache/hbase/blob/rel/2.4.18/RELEASENOTES.md
 https://github.com/apache/hbase/blob/rel/2.5.15/RELEASENOTES.md
 https://github.com/apache/hbase/blob/rel/2.6.6/RELEASENOTES.md
-https://github.com/apache/hbase/blob/rel/3.0.0/RELEASENOTES.md
+https://github.com/apache/hbase/releases/tag/rel%2F3.0.0
 https://github.com/apache/logging-log4j2/blob/rel/2.12.4/RELEASE-NOTES.md
 https://github.com/apache/logging-log4j2/blob/rel/2.3.2/RELEASE-NOTES.txt
 https://github.com/apache/maven/releases/tag/maven-2.2.1
@@ -2019,7 +2017,7 @@ https://github.com/dropwizard/dropwizard/releases/tag/v5.0.2
 https://github.com/drush-ops/drush/releases/tag/10.6.2
 https://github.com/drush-ops/drush/releases/tag/11.6.0
 https://github.com/drush-ops/drush/releases/tag/12.5.3
-https://github.com/drush-ops/drush/releases/tag/13.7.6
+https://github.com/drush-ops/drush/releases/tag/13.7.7
 https://github.com/drush-ops/drush/releases/tag/5.11.0
 https://github.com/drush-ops/drush/releases/tag/6.7.0
 https://github.com/drush-ops/drush/releases/tag/7.4.2
@@ -2562,8 +2560,8 @@ https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.568.3
 https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.580
 https://github.com/jetty/jetty.project/releases/tag/jetty-10.0.26
 https://github.com/jetty/jetty.project/releases/tag/jetty-11.0.26
-https://github.com/jetty/jetty.project/releases/tag/jetty-12.0.38
-https://github.com/jetty/jetty.project/releases/tag/jetty-12.1.12
+https://github.com/jetty/jetty.project/releases/tag/jetty-12.0.39
+https://github.com/jetty/jetty.project/releases/tag/jetty-12.1.13
 https://github.com/jetty/jetty.project/releases/tag/jetty-7.6.21.v20160908
 https://github.com/jetty/jetty.project/releases/tag/jetty-8.2.0.v20160908
 https://github.com/jetty/jetty.project/releases/tag/jetty-9.0.7.v20131107
@@ -2985,7 +2983,7 @@ https://github.com/numpy/numpy/releases/tag/v2.1.3
 https://github.com/numpy/numpy/releases/tag/v2.2.6
 https://github.com/numpy/numpy/releases/tag/v2.3.5
 https://github.com/numpy/numpy/releases/tag/v2.4.6
-https://github.com/numpy/numpy/releases/tag/v2.5.2
+https://github.com/numpy/numpy/releases/tag/v2.5.3
 https://github.com/nuxt/nuxt/releases/tag/v1.4.5
 https://github.com/nuxt/nuxt/releases/tag/v2.18.1
 https://github.com/nuxt/nuxt/releases/tag/v3.21.11
@@ -3096,7 +3094,7 @@ https://github.com/phpro/grumphp/releases/tag/v0.22.0
 https://github.com/phpro/grumphp/releases/tag/v1.16.0
 https://github.com/phpro/grumphp/releases/tag/v2.23.0
 https://github.com/pnpm/pnpm/releases/tag/v10.34.5
-https://github.com/pnpm/pnpm/releases/tag/v11.25.0
+https://github.com/pnpm/pnpm/releases/tag/v11.26.0
 https://github.com/pnpm/pnpm/releases/tag/v12.3.4
 https://github.com/pnpm/pnpm/releases/tag/v4.14.4
 https://github.com/pnpm/pnpm/releases/tag/v5.18.11
@@ -4622,7 +4620,7 @@ https://tails.net/news/version_3.16/
 https://tails.net/news/version_4.29/
 https://tails.net/news/version_5.22/
 https://tails.net/news/version_6.19/
-https://tails.net/news/version_7.11/
+https://tails.net/news/version_7.12/
 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/end-of-service-reminders-for-windows-10-versions-1703-and-1803/ba-p/903715
 https://techcommunity.microsoft.com/t5/windows-server-for-developers/windows-server-version-1709-lifecycle-announcement/m-p/379766
 https://techdocs.broadcom.com/content/dam/broadcom/techdocs/us/en/pdf/vmware/vsphere/vsphere/vSphere-6-5-Release-Notes/vsphere-vcenter-server-65u3w-release-notes.pdf
@@ -4816,6 +4814,7 @@ https://web.archive.org/web/20230423021051/https://docs.vmware.com/en/Site-Recov
 https://web.archive.org/web/20230429044053/https://docs.vmware.com/en/VMware-Cloud-Foundation/2.3/vcf-23x-doc.zip
 https://web.archive.org/web/20230519160357/https://docs.couchbase.com/server/6.5/release-notes/relnotes.html
 https://web.archive.org/web/20230519162206/https://docs.couchbase.com/server/6.0/release-notes/relnotes.html
+https://web.archive.org/web/20230605234121/https://docs.paloaltonetworks.com/globalprotect/5-1/globalprotect-app-release-notes
 https://web.archive.org/web/20230821184117/https://access.redhat.com/documentation/en-us/jboss_enterprise_application_platform/5/html/release_notes_5.2.0/index
 https://web.archive.org/web/20231205173501/http://www.mongodb.com/docs/manual/release-notes/6.2/
 https://web.archive.org/web/20231208122710/https://docs.vmware.com/en/VMware-Cloud-Foundation/4.3/rn/vmware-cloud-foundation-43-release-notes/index.html
@@ -4831,6 +4830,7 @@ https://web.archive.org/web/20241225104101/https://docs.vmware.com/en/VMware-Clo
 https://web.archive.org/web/20250130102316/https://docs.vmware.com/en/VMware-Cloud-Foundation/3.10/rn/vmware-cloud-foundation-310-release-notes/index.html
 https://web.archive.org/web/20250130132930/https://docs.vmware.com/en/VMware-Cloud-Foundation/3.11/rn/vmware-cloud-foundation-311-release-notes/index.html
 https://web.archive.org/web/20251008131431/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-10.html
+https://web.archive.org/web/20260413143114/https://docs.paloaltonetworks.com/globalprotect/5-2/globalprotect-app-release-notes/globalprotect-known-and-addressed-issues/globalprotect-addressed-issues
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS5(2e)11.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS6(2e)10.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS7(2e)2009.html
@@ -5301,7 +5301,7 @@ https://www.netbsd.org/releases/formal-5/NetBSD-5.2.3.html
 https://www.netbsd.org/releases/formal-6/NetBSD-6.1.5.html
 https://www.netbsd.org/releases/formal-7/NetBSD-7.2.html
 https://www.netbsd.org/releases/formal-8/NetBSD-8.3.html
-https://www.netbsd.org/releases/formal-9/NetBSD-9.4.html
+https://www.netbsd.org/releases/formal-9/NetBSD-9.5.html
 https://www.nv5geospatialsoftware.com/docs/WhatsNew.html
 https://www.nv5geospatialsoftware.com/docs/whatsnew_8_3.html
 https://www.nv5geospatialsoftware.com/docs/whatsnew_8_4.html
@@ -5331,11 +5331,11 @@ https://www.oracle.com/java/technologies/javase/13-0-2-relnotes.html
 https://www.oracle.com/java/technologies/javase/14-0-2-relnotes.html
 https://www.oracle.com/java/technologies/javase/15-0-2-relnotes.html
 https://www.oracle.com/java/technologies/javase/16-0-2-relnotes.html
-https://www.oracle.com/java/technologies/javase/17-0-20-relnotes.html
+https://www.oracle.com/java/technologies/javase/17-0-20-1-relnotes.html
 https://www.oracle.com/java/technologies/javase/18-0-2-1-relnotes.html
 https://www.oracle.com/java/technologies/javase/19-0-2-relnotes.html
 https://www.oracle.com/java/technologies/javase/20-0-2-relnotes.html
-https://www.oracle.com/java/technologies/javase/21-0-12-relnotes.html
+https://www.oracle.com/java/technologies/javase/21-0-12-1-relnotes.html
 https://www.oracle.com/java/technologies/javase/22-0-2-relnotes.html
 https://www.oracle.com/java/technologies/javase/23all-relnotes.html
 https://www.oracle.com/java/technologies/javase/24all-relnotes.html
@@ -5343,7 +5343,7 @@ https://www.oracle.com/java/technologies/javase/25all-relnotes.html
 https://www.oracle.com/java/technologies/javase/26all-relnotes.html
 https://www.oracle.com/java/technologies/javase/6u211-relnotes.html
 https://www.oracle.com/java/technologies/javase/7-support-relnotes.html#R170_351
-https://www.oracle.com/java/technologies/javase/8u501-relnotes.html
+https://www.oracle.com/java/technologies/javase/8u503-relnotes.html
 https://www.oracle.com/java/technologies/javase/9-0-4-relnotes.html
 https://www.oracle.com/java/technologies/javase/advanced-v142-support-relnotes.html
 https://www.oracle.com/java/technologies/javase/advancedv5-support-relnotes.html
