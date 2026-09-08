@@ -1289,7 +1289,7 @@ https://gitbox.apache.org/repos/asf?p=cassandra.git;a=blob_plain;f=NEWS.txt;hb=r
 https://gitbox.apache.org/repos/asf?p=cassandra.git;a=blob_plain;f=NEWS.txt;hb=refs/tags/cassandra-5.0.9
 https://github.com/AmauriC/tarteaucitron.js/releases/tag/v1.34.0
 https://github.com/Behat/Behat/releases/tag/v2.5.5
-https://github.com/Behat/Behat/releases/tag/v3.32.0
+https://github.com/Behat/Behat/releases/tag/v3.33.0
 https://github.com/Cisco-Talos/clamav/releases/tag/clamav-0.100.3
 https://github.com/Cisco-Talos/clamav/releases/tag/clamav-0.101.5
 https://github.com/Cisco-Talos/clamav/releases/tag/clamav-0.102.4
@@ -1397,7 +1397,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v2.0.21
 https://github.com/JetBrains/kotlin/releases/tag/v2.1.21
 https://github.com/JetBrains/kotlin/releases/tag/v2.2.21
 https://github.com/JetBrains/kotlin/releases/tag/v2.3.21
-https://github.com/JetBrains/kotlin/releases/tag/v2.4.10
+https://github.com/JetBrains/kotlin/releases/tag/v2.4.20
 https://github.com/JuliaLang/julia/blob/v1.0.5/NEWS.md
 https://github.com/JuliaLang/julia/blob/v1.10.12/NEWS.md
 https://github.com/JuliaLang/julia/blob/v1.11.9/NEWS.md
@@ -2863,7 +2863,7 @@ https://github.com/meilisearch/meilisearch/releases/tag/v1.5.1
 https://github.com/meilisearch/meilisearch/releases/tag/v1.50.0
 https://github.com/meilisearch/meilisearch/releases/tag/v1.51.0
 https://github.com/meilisearch/meilisearch/releases/tag/v1.52.3
-https://github.com/meilisearch/meilisearch/releases/tag/v1.53.1
+https://github.com/meilisearch/meilisearch/releases/tag/v1.53.2
 https://github.com/meilisearch/meilisearch/releases/tag/v1.6.2
 https://github.com/meilisearch/meilisearch/releases/tag/v1.7.6
 https://github.com/meilisearch/meilisearch/releases/tag/v1.8.4
@@ -2924,7 +2924,7 @@ https://github.com/metabase/metabase/releases/tag/v0.59.31
 https://github.com/metabase/metabase/releases/tag/v0.60.27
 https://github.com/metabase/metabase/releases/tag/v0.61.21
 https://github.com/metabase/metabase/releases/tag/v0.62.19.3
-https://github.com/metabase/metabase/releases/tag/v0.63.16.6
+https://github.com/metabase/metabase/releases/tag/v0.63.16.7
 https://github.com/metabase/metabase/releases/tag/v0.9.3
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v1.3.7
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v2.5.13
@@ -3124,7 +3124,7 @@ https://github.com/projectcontour/contour/releases/tag/v1.29.5
 https://github.com/projectcontour/contour/releases/tag/v1.30.5
 https://github.com/projectcontour/contour/releases/tag/v1.31.6
 https://github.com/projectcontour/contour/releases/tag/v1.32.5
-https://github.com/projectcontour/contour/releases/tag/v1.33.6
+https://github.com/projectcontour/contour/releases/tag/v1.33.7
 https://github.com/prometheus/prometheus/releases/tag/v2.36.2
 https://github.com/prometheus/prometheus/releases/tag/v2.37.9
 https://github.com/prometheus/prometheus/releases/tag/v2.38.0
@@ -3150,7 +3150,7 @@ https://github.com/prometheus/prometheus/releases/tag/v3.1.0
 https://github.com/prometheus/prometheus/releases/tag/v3.10.0
 https://github.com/prometheus/prometheus/releases/tag/v3.11.3
 https://github.com/prometheus/prometheus/releases/tag/v3.12.0
-https://github.com/prometheus/prometheus/releases/tag/v3.13.2
+https://github.com/prometheus/prometheus/releases/tag/v3.13.3
 https://github.com/prometheus/prometheus/releases/tag/v3.14.0
 https://github.com/prometheus/prometheus/releases/tag/v3.2.1
 https://github.com/prometheus/prometheus/releases/tag/v3.3.1
@@ -3213,7 +3213,7 @@ https://github.com/quarkusio/quarkus/releases/tag/3.7.4
 https://github.com/quarkusio/quarkus/releases/tag/3.8.6.1
 https://github.com/quarkusio/quarkus/releases/tag/3.9.5
 https://github.com/quasarframework/quasar/releases/tag/quasar-v1.22.10
-https://github.com/quasarframework/quasar/releases/tag/quasar-v2.30.0
+https://github.com/quasarframework/quasar/releases/tag/quasar-v2.30.1
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v3_0_4
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v3_1_5
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v3_2_4
@@ -3264,7 +3264,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.65.5
+https://github.com/renovatebot/renovate/releases/tag/44.69.5
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
