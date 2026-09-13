@@ -1403,6 +1403,7 @@ https://github.com/JuliaLang/julia/blob/v1.0.5/NEWS.md
 https://github.com/JuliaLang/julia/blob/v1.10.12/NEWS.md
 https://github.com/JuliaLang/julia/blob/v1.11.9/NEWS.md
 https://github.com/JuliaLang/julia/blob/v1.12.7/NEWS.md
+https://github.com/JuliaLang/julia/blob/v1.13.0/NEWS.md
 https://github.com/JuliaLang/julia/blob/v1.6.7/NEWS.md
 https://github.com/Kong/kong/releases/tag/2.8.5
 https://github.com/Kong/kong/releases/tag/3.0.2
@@ -1718,7 +1719,7 @@ https://github.com/api-platform/core/releases/tag/v3.4.17
 https://github.com/api-platform/core/releases/tag/v4.0.22
 https://github.com/api-platform/core/releases/tag/v4.1.30
 https://github.com/api-platform/core/releases/tag/v4.2.26
-https://github.com/api-platform/core/releases/tag/v4.3.18
+https://github.com/api-platform/core/releases/tag/v4.3.19
 https://github.com/argoproj/argo-cd/releases/tag/v1.0.2
 https://github.com/argoproj/argo-cd/releases/tag/v1.1.2
 https://github.com/argoproj/argo-cd/releases/tag/v1.2.5
@@ -2467,12 +2468,12 @@ https://github.com/hibernate/hibernate-orm/releases/tag/6.2.52
 https://github.com/hibernate/hibernate-orm/releases/tag/6.3.2
 https://github.com/hibernate/hibernate-orm/releases/tag/6.4.10
 https://github.com/hibernate/hibernate-orm/releases/tag/6.5.3
-https://github.com/hibernate/hibernate-orm/releases/tag/6.6.56
+https://github.com/hibernate/hibernate-orm/releases/tag/6.6.57
 https://github.com/hibernate/hibernate-orm/releases/tag/7.0.10
 https://github.com/hibernate/hibernate-orm/releases/tag/7.1.35
 https://github.com/hibernate/hibernate-orm/releases/tag/7.2.24
 https://github.com/hibernate/hibernate-orm/releases/tag/7.3.13
-https://github.com/hibernate/hibernate-orm/releases/tag/7.4.7
+https://github.com/hibernate/hibernate-orm/releases/tag/7.4.8
 https://github.com/influxdata/influxdb/releases/tag/v1.13.1
 https://github.com/influxdata/influxdb/releases/tag/v2.9.1
 https://github.com/influxdata/influxdb/releases/tag/v3.0.3
@@ -2926,7 +2927,7 @@ https://github.com/metabase/metabase/releases/tag/v0.59.31
 https://github.com/metabase/metabase/releases/tag/v0.60.27
 https://github.com/metabase/metabase/releases/tag/v0.61.21
 https://github.com/metabase/metabase/releases/tag/v0.62.19.4
-https://github.com/metabase/metabase/releases/tag/v0.63.17.1
+https://github.com/metabase/metabase/releases/tag/v0.63.17.2
 https://github.com/metabase/metabase/releases/tag/v0.9.3
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v1.3.7
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v2.5.13
@@ -3096,7 +3097,7 @@ https://github.com/phpro/grumphp/releases/tag/v0.22.0
 https://github.com/phpro/grumphp/releases/tag/v1.16.0
 https://github.com/phpro/grumphp/releases/tag/v2.23.0
 https://github.com/pnpm/pnpm/releases/tag/v10.34.5
-https://github.com/pnpm/pnpm/releases/tag/v11.26.0
+https://github.com/pnpm/pnpm/releases/tag/v11.27.0
 https://github.com/pnpm/pnpm/releases/tag/v12.4.1
 https://github.com/pnpm/pnpm/releases/tag/v4.14.4
 https://github.com/pnpm/pnpm/releases/tag/v5.18.11
@@ -3266,7 +3267,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.82.0
+https://github.com/renovatebot/renovate/releases/tag/44.82.5
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -3536,7 +3537,7 @@ https://github.com/umbraco/Umbraco-CMS/releases/tag/release-17.6.2
 https://github.com/umbraco/Umbraco-CMS/releases/tag/release-18.1.1
 https://github.com/unrealircd/unrealircd/blob/unreal42/doc/RELEASE-NOTES
 https://github.com/unrealircd/unrealircd/blob/unreal52/doc/RELEASE-NOTES.md#unrealircd-524
-https://github.com/unrealircd/unrealircd/blob/unreal60_dev/doc/RELEASE-NOTES.md#unrealircd-626
+https://github.com/unrealircd/unrealircd/blob/unreal60_dev/doc/RELEASE-NOTES.md#unrealircd-627
 https://github.com/valkey-io/valkey/releases/tag/7.2.14
 https://github.com/valkey-io/valkey/releases/tag/8.0.11
 https://github.com/valkey-io/valkey/releases/tag/8.1.10
@@ -4172,10 +4173,10 @@ https://moodledev.io/general/releases/4.1/4.1.22
 https://moodledev.io/general/releases/4.2/4.2.11
 https://moodledev.io/general/releases/4.3/4.3.12
 https://moodledev.io/general/releases/4.4/4.4.12
-https://moodledev.io/general/releases/4.5/4.5.13
-https://moodledev.io/general/releases/5.0/5.0.9
-https://moodledev.io/general/releases/5.1/5.1.6
-https://moodledev.io/general/releases/5.2/5.2.2
+https://moodledev.io/general/releases/4.5/4.5.14
+https://moodledev.io/general/releases/5.0/5.0.10
+https://moodledev.io/general/releases/5.1/5.1.7
+https://moodledev.io/general/releases/5.2/5.2.3
 https://mxlinux.org/blog/mx-16-1-now-available/
 https://mxlinux.org/blog/mx-17-1-released/
 https://mxlinux.org/blog/mx-18-3-refreshed-isos-now-available/
@@ -4208,6 +4209,7 @@ https://neo4j.com/release-notes/database/neo4j-2026-04/
 https://neo4j.com/release-notes/database/neo4j-2026-05/
 https://neo4j.com/release-notes/database/neo4j-2026-06/
 https://neo4j.com/release-notes/database/neo4j-2026-07/
+https://neo4j.com/release-notes/database/neo4j-2026-08/
 https://neo4j.com/release-notes/database/neo4j-3-0-12/
 https://neo4j.com/release-notes/database/neo4j-3-1-9/
 https://neo4j.com/release-notes/database/neo4j-3-2-14/
@@ -4226,8 +4228,8 @@ https://neos.readthedocs.io/en/8.1/Appendixes/ChangeLogs/8114.html
 https://neos.readthedocs.io/en/8.2/Appendixes/ChangeLogs/8214.html
 https://neos.readthedocs.io/en/8.3/Appendixes/ChangeLogs/8335.html
 https://neos.readthedocs.io/en/8.4/Appendixes/ChangeLogs/847.html
-https://neos.readthedocs.io/en/9.0/Appendixes/ChangeLogs/9015.html
-https://neos.readthedocs.io/en/9.1/Appendixes/ChangeLogs/918.html
+https://neos.readthedocs.io/en/9.0/Appendixes/ChangeLogs/9016.html
+https://neos.readthedocs.io/en/9.1/Appendixes/ChangeLogs/919.html
 https://nextcloud.com/changelog/#latest10
 https://nextcloud.com/changelog/#latest11
 https://nextcloud.com/changelog/#latest12
@@ -4728,6 +4730,7 @@ https://theforeman.org/manuals/3.6/index.html#Releasenotesfor3.6
 https://theforeman.org/manuals/3.7/index.html#Releasenotesfor3.7
 https://theforeman.org/manuals/3.8/index.html#Releasenotesfor3.8
 https://theforeman.org/manuals/3.9/index.html#Releasenotesfor3.9
+https://theforeman.org/manuals/5.0/index.html#Releasenotesfor5.0
 https://tomcat.apache.org/tomcat-10.0-doc/changelog.html
 https://tomcat.apache.org/tomcat-10.1-doc/changelog.html
 https://tomcat.apache.org/tomcat-11.0-doc/changelog.html
