@@ -100,6 +100,7 @@ https://antixlinux.com/antix-17-4-1-now-out/
 https://antixlinux.com/antix-19-5-point-release-update/
 https://antixlinux.com/antix-22-released/
 https://antixlinux.com/antix-23-released/
+https://antixlinux.com/antix-26-released/
 https://antixlinux.com/forum-archive/antix-15-released-t5697.html
 https://apple.github.io/foundationdb/release-notes/release-notes-630.html
 https://apple.github.io/foundationdb/release-notes/release-notes-710.html
@@ -313,7 +314,7 @@ https://camel.apache.org/releases/release-4.19.0/
 https://camel.apache.org/releases/release-4.2.0/
 https://camel.apache.org/releases/release-4.20.0/
 https://camel.apache.org/releases/release-4.21.0/
-https://camel.apache.org/releases/release-4.22.0/
+https://camel.apache.org/releases/release-4.22.1/
 https://camel.apache.org/releases/release-4.3.0/
 https://camel.apache.org/releases/release-4.4.5/
 https://camel.apache.org/releases/release-4.5.0/
@@ -796,9 +797,6 @@ https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2511/whats-new
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/2607-ltsr/whats-new/whats-new-node
 https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/whats-new.html
 https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/whats-new/cumulative-update-9.html
-https://docs.couchbase.com/server/6.6/release-notes/relnotes.html
-https://docs.couchbase.com/server/7.0/release-notes/relnotes.html
-https://docs.couchbase.com/server/7.1/release-notes/relnotes.html
 https://docs.couchbase.com/server/7.2/release-notes/relnotes.html
 https://docs.couchbase.com/server/7.6/release-notes/relnotes.html
 https://docs.couchdb.org/en/stable/whatsnew/3.2.html
@@ -3267,7 +3265,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.82.5
+https://github.com/renovatebot/renovate/releases/tag/44.83.2
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -4135,7 +4133,7 @@ https://mikrotik.com/download/changelogs?versionFilter=6.45.9&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=6.46.8&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=6.47.10&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=6.48.7&channelFilter=
-https://mikrotik.com/download/changelogs?versionFilter=6.49.20&channelFilter=
+https://mikrotik.com/download/changelogs?versionFilter=6.49.21&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=6.5&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=6.6&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=6.7&channelFilter=
@@ -4818,6 +4816,7 @@ https://web.archive.org/web/20230423021029/https://docs.vmware.com/en/Site-Recov
 https://web.archive.org/web/20230423021044/https://docs.vmware.com/en/Site-Recovery-Manager/8.1/rn/srm-releasenotes-8-1-2-4.html
 https://web.archive.org/web/20230423021051/https://docs.vmware.com/en/Site-Recovery-Manager/6.5/rn/srm-releasenotes-6-5-1.html
 https://web.archive.org/web/20230429044053/https://docs.vmware.com/en/VMware-Cloud-Foundation/2.3/vcf-23x-doc.zip
+https://web.archive.org/web/20230519153917/https://docs.couchbase.com/server/6.6/release-notes/relnotes.html
 https://web.archive.org/web/20230519160357/https://docs.couchbase.com/server/6.5/release-notes/relnotes.html
 https://web.archive.org/web/20230519162206/https://docs.couchbase.com/server/6.0/release-notes/relnotes.html
 https://web.archive.org/web/20230605234121/https://docs.paloaltonetworks.com/globalprotect/5-1/globalprotect-app-release-notes
@@ -4835,7 +4834,12 @@ https://web.archive.org/web/20240814204109/https://www.qt.io/blog/2015/05/26/qt-
 https://web.archive.org/web/20241225104101/https://docs.vmware.com/en/VMware-Cloud-Foundation/4.4/rn/vmware-cloud-foundation-44-release-notes/index.html
 https://web.archive.org/web/20250130102316/https://docs.vmware.com/en/VMware-Cloud-Foundation/3.10/rn/vmware-cloud-foundation-310-release-notes/index.html
 https://web.archive.org/web/20250130132930/https://docs.vmware.com/en/VMware-Cloud-Foundation/3.11/rn/vmware-cloud-foundation-311-release-notes/index.html
+https://web.archive.org/web/20250803112322/https://www.couchbase.com/blog/announcing-couchbase-server-4-5-1/
+https://web.archive.org/web/20250807032054/https://www.couchbase.com/blog/announcing-couchbase-server-4-1-2/
+https://web.archive.org/web/20250816123113/https://www.couchbase.com/blog/couchbase-3.1.3-ce-is-now-available/
+https://web.archive.org/web/20250916172610/https://docs.couchbase.com/server/7.0/release-notes/relnotes.html
 https://web.archive.org/web/20251008131431/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-10.html
+https://web.archive.org/web/20251008201114/https://docs.couchbase.com/server/7.1/release-notes/relnotes.html
 https://web.archive.org/web/20260413143114/https://docs.paloaltonetworks.com/globalprotect/5-2/globalprotect-app-release-notes/globalprotect-known-and-addressed-issues/globalprotect-addressed-issues
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS5(2e)11.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS6(2e)10.html
@@ -4996,13 +5000,10 @@ https://www.cockroachlabs.com/docs/releases/v26.1
 https://www.cockroachlabs.com/docs/releases/v26.2
 https://www.cockroachlabs.com/docs/releases/v26.3
 https://www.couchbase.com/blog/announcing-couchbase-server-3.0.3/
-https://www.couchbase.com/blog/announcing-couchbase-server-4-1-2/
-https://www.couchbase.com/blog/announcing-couchbase-server-4-5-1/
-https://www.couchbase.com/blog/couchbase-3.1.3-ce-is-now-available/
 https://www.couchbase.com/blog/couchbase-8-hyperscale-ai/
 https://www.debian.org/News/2022/20220910
-https://www.debian.org/News/2025/20250809
 https://www.debian.org/News/2026/2026051602
+https://www.debian.org/News/2026/20260912
 https://www.devuan.org/os/announce/ascii-point-release-announce-112119
 https://www.devuan.org/os/announce/beowulf-point-release-announce-021421
 https://www.devuan.org/os/announce/chimaera-release-announce-2021-10-14
