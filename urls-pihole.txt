@@ -12,6 +12,7 @@ archives-docs.centreon.com
 artemis.apache.org
 aws.amazon.com
 bakery.cakephp.org
+bind9.readthedocs.io
 bitcoincore.org
 blog.emberjs.com
 blog.jquery.com
