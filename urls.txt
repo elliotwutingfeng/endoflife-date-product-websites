@@ -557,6 +557,7 @@ https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Vers
 https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version2.1.0
 https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version2.10.0
 https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version2.11.0
+https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version2.12.0
 https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version2.2.0
 https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version2.3.0
 https://cwiki.apache.org/confluence/display/NIFI/Release+Notes#ReleaseNotes-Version2.4.0
@@ -1063,6 +1064,7 @@ https://docs.plesk.com/release-notes/obsidian/change-log/#plesk-18077
 https://docs.plesk.com/release-notes/obsidian/change-log/#plesk-18078
 https://docs.plesk.com/release-notes/obsidian/change-log/#plesk-18079
 https://docs.plesk.com/release-notes/obsidian/change-log/#plesk-18080
+https://docs.plesk.com/release-notes/obsidian/change-log/#plesk-18081
 https://docs.plesk.com/release-notes/onyx/change-log/
 https://docs.redhat.com/en/documentation/openshift_container_platform/4.1/html/release_notes/ocp-4-1-release-notes
 https://docs.redhat.com/en/documentation/openshift_container_platform/4.10/html/release_notes/ocp-4-10-release-notes
@@ -1625,7 +1627,7 @@ https://github.com/angular/angular/releases/tag/9.1.13
 https://github.com/angular/angular/releases/tag/v19.2.25
 https://github.com/angular/angular/releases/tag/v20.3.31
 https://github.com/angular/angular/releases/tag/v21.2.23
-https://github.com/angular/angular/releases/tag/v22.1.6
+https://github.com/angular/angular/releases/tag/v22.1.7
 https://github.com/angular/protractor/blob/master/CHANGELOG.md#180
 https://github.com/angular/protractor/blob/master/CHANGELOG.md#251
 https://github.com/angular/protractor/blob/master/CHANGELOG.md#330
@@ -1850,7 +1852,7 @@ https://github.com/cert-manager/cert-manager/releases/tag/v1.16.5
 https://github.com/cert-manager/cert-manager/releases/tag/v1.17.4
 https://github.com/cert-manager/cert-manager/releases/tag/v1.18.6
 https://github.com/cert-manager/cert-manager/releases/tag/v1.19.6
-https://github.com/cert-manager/cert-manager/releases/tag/v1.20.3
+https://github.com/cert-manager/cert-manager/releases/tag/v1.20.4
 https://github.com/cert-manager/cert-manager/releases/tag/v1.21.2
 https://github.com/cilium/cilium/releases/tag/v1.13.18
 https://github.com/cilium/cilium/releases/tag/v1.14.19
@@ -1886,7 +1888,7 @@ https://github.com/coder/coder/releases/tag/v2.30.9
 https://github.com/coder/coder/releases/tag/v2.31.14
 https://github.com/coder/coder/releases/tag/v2.32.10
 https://github.com/coder/coder/releases/tag/v2.33.11
-https://github.com/coder/coder/releases/tag/v2.34.10
+https://github.com/coder/coder/releases/tag/v2.34.11
 https://github.com/coder/coder/releases/tag/v2.35.7
 https://github.com/coder/coder/releases/tag/v2.36.5
 https://github.com/coder/coder/releases/tag/v2.37.1
@@ -1908,6 +1910,7 @@ https://github.com/containerd/containerd/releases/tag/v2.0.12
 https://github.com/containerd/containerd/releases/tag/v2.1.9
 https://github.com/containerd/containerd/releases/tag/v2.2.8
 https://github.com/containerd/containerd/releases/tag/v2.3.5
+https://github.com/containerd/containerd/releases/tag/v2.4.0
 https://github.com/containers/podman/releases/tag/v3.0.2
 https://github.com/containers/podman/releases/tag/v3.1.2
 https://github.com/containers/podman/releases/tag/v3.2.3
@@ -1931,7 +1934,7 @@ https://github.com/containers/podman/releases/tag/v5.4.2
 https://github.com/containers/podman/releases/tag/v5.5.2
 https://github.com/containers/podman/releases/tag/v5.6.2
 https://github.com/containers/podman/releases/tag/v5.7.1
-https://github.com/containers/podman/releases/tag/v5.8.6
+https://github.com/containers/podman/releases/tag/v5.8.7
 https://github.com/containers/podman/releases/tag/v6.0.2
 https://github.com/containers/podman/releases/tag/v6.1.2
 https://github.com/contao/contao/blob/4.10.7/CHANGELOG.md
@@ -1986,7 +1989,7 @@ https://github.com/denoland/deno/releases/tag/v2.5.7
 https://github.com/denoland/deno/releases/tag/v2.6.10
 https://github.com/denoland/deno/releases/tag/v2.7.14
 https://github.com/denoland/deno/releases/tag/v2.8.3
-https://github.com/denoland/deno/releases/tag/v2.9.6
+https://github.com/denoland/deno/releases/tag/v2.9.7
 https://github.com/dotnet/core/blob/main/release-notes/1.0/1.0.16/1.0.16.md
 https://github.com/dotnet/core/blob/main/release-notes/1.1/1.1.13/1.1.13.md
 https://github.com/dotnet/core/blob/main/release-notes/10.0/10.0.12/10.0.12.md
@@ -2137,7 +2140,7 @@ https://github.com/erlang/otp/releases/tag/OTP-25.3.2.21
 https://github.com/erlang/otp/releases/tag/OTP-26.2.5.21
 https://github.com/erlang/otp/releases/tag/OTP-27.3.4.17
 https://github.com/erlang/otp/releases/tag/OTP-28.5.0.6
-https://github.com/erlang/otp/releases/tag/OTP-29.0.6
+https://github.com/erlang/otp/releases/tag/OTP-29.1
 https://github.com/eslint/eslint/releases/tag/v1.10.3
 https://github.com/eslint/eslint/releases/tag/v10.10.0
 https://github.com/eslint/eslint/releases/tag/v2.13.1
@@ -2242,8 +2245,8 @@ https://github.com/getkirby/kirby/releases/tag/3.6.6.6
 https://github.com/getkirby/kirby/releases/tag/3.7.5.5
 https://github.com/getkirby/kirby/releases/tag/3.8.4.4
 https://github.com/getkirby/kirby/releases/tag/3.9.8.3
-https://github.com/getkirby/kirby/releases/tag/4.9.5
-https://github.com/getkirby/kirby/releases/tag/5.5.3
+https://github.com/getkirby/kirby/releases/tag/4.9.6
+https://github.com/getkirby/kirby/releases/tag/5.6.0
 https://github.com/gleam-lang/gleam/releases/tag/v1.0.0
 https://github.com/gleam-lang/gleam/releases/tag/v1.1.1
 https://github.com/gleam-lang/gleam/releases/tag/v1.10.0
@@ -2380,7 +2383,7 @@ https://github.com/grafana/loki/releases/tag/v3.6.16
 https://github.com/grafana/loki/releases/tag/v3.7.7
 https://github.com/gravitational/teleport/releases/tag/v16.5.18
 https://github.com/gravitational/teleport/releases/tag/v17.7.29
-https://github.com/gravitational/teleport/releases/tag/v18.11.0
+https://github.com/gravitational/teleport/releases/tag/v18.11.1
 https://github.com/gruntjs/grunt/releases/tag/v1.0.4
 https://github.com/gruntjs/grunt/releases/tag/v1.1.0
 https://github.com/gruntjs/grunt/releases/tag/v1.2.1
@@ -2443,7 +2446,7 @@ https://github.com/hashicorp/terraform/blob/v1.12.2/CHANGELOG.md
 https://github.com/hashicorp/terraform/blob/v1.13.5/CHANGELOG.md
 https://github.com/hashicorp/terraform/blob/v1.14.9/CHANGELOG.md
 https://github.com/hashicorp/terraform/blob/v1.15.9/CHANGELOG.md
-https://github.com/hashicorp/terraform/blob/v1.16.2/CHANGELOG.md
+https://github.com/hashicorp/terraform/blob/v1.16.3/CHANGELOG.md
 https://github.com/hashicorp/terraform/blob/v1.2.9/CHANGELOG.md
 https://github.com/hashicorp/terraform/blob/v1.3.10/CHANGELOG.md
 https://github.com/hashicorp/terraform/blob/v1.4.7/CHANGELOG.md
@@ -2466,7 +2469,7 @@ https://github.com/hashicorp/vault/releases/tag/v1.20.4
 https://github.com/hashicorp/vault/releases/tag/v1.21.4
 https://github.com/hashicorp/vault/releases/tag/v1.9.10
 https://github.com/hashicorp/vault/releases/tag/v2.0.4
-https://github.com/hashicorp/vault/releases/tag/v2.1.0
+https://github.com/hashicorp/vault/releases/tag/v2.1.1
 https://github.com/hibernate/hibernate-orm/releases/tag/5.3.39
 https://github.com/hibernate/hibernate-orm/releases/tag/5.4.33
 https://github.com/hibernate/hibernate-orm/releases/tag/5.5.9
@@ -2538,7 +2541,7 @@ https://github.com/ionic-team/ionic-framework/releases/tag/v5.9.4
 https://github.com/ionic-team/ionic-framework/releases/tag/v6.7.5
 https://github.com/ionic-team/ionic-framework/releases/tag/v7.8.6
 https://github.com/ionic-team/ionic-framework/releases/tag/v8.8.19
-https://github.com/ionic-team/ionic-framework/releases/tag/v9.0.3
+https://github.com/ionic-team/ionic-framework/releases/tag/v9.0.4
 https://github.com/jaegertracing/jaeger/releases/tag/v1.76.0
 https://github.com/jaegertracing/jaeger/releases/tag/v2.21.0
 https://github.com/jcmoraisjr/haproxy-ingress/releases/tag/v0.12.22
@@ -3004,7 +3007,7 @@ https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V22.md#22.23.2
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V23.md#23.11.1
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V24.md#24.21.0
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V25.md#25.9.0
-https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V26.md#26.8.2
+https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V26.md#26.9.0
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V4.md#4.9.1
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V5.md#5.12.0
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V6.md#6.17.1
@@ -3310,7 +3313,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.93.5
+https://github.com/renovatebot/renovate/releases/tag/44.95.0
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -3410,8 +3413,8 @@ https://github.com/shopware/shopware/releases/tag/v6.2.3
 https://github.com/shopware/shopware/releases/tag/v6.3.5.4
 https://github.com/shopware/shopware/releases/tag/v6.4.20.2
 https://github.com/shopware/shopware/releases/tag/v6.5.8.19
-https://github.com/shopware/shopware/releases/tag/v6.6.10.24
-https://github.com/shopware/shopware/releases/tag/v6.7.14.0
+https://github.com/shopware/shopware/releases/tag/v6.6.10.25
+https://github.com/shopware/shopware/releases/tag/v6.7.14.1
 https://github.com/shopware5/shopware/releases/tag/v5.0.4
 https://github.com/shopware5/shopware/releases/tag/v5.1.6
 https://github.com/shopware5/shopware/releases/tag/v5.2.27
@@ -3487,10 +3490,10 @@ https://github.com/statamic/cms/blob/v3.3.68/CHANGELOG.md
 https://github.com/statamic/cms/blob/v3.4.17/CHANGELOG.md
 https://github.com/statamic/cms/blob/v4.58.3/CHANGELOG.md
 https://github.com/statamic/cms/blob/v5.74.4/CHANGELOG.md
-https://github.com/statamic/cms/blob/v6.32.0/CHANGELOG.md
+https://github.com/statamic/cms/blob/v6.33.0/CHANGELOG.md
 https://github.com/strapi/strapi/releases/tag/v3.6.11
 https://github.com/strapi/strapi/releases/tag/v4.26.2
-https://github.com/strapi/strapi/releases/tag/v5.53.0
+https://github.com/strapi/strapi/releases/tag/v5.54.0
 https://github.com/sveltejs/svelte/releases/tag/svelte%404.2.20
 https://github.com/sveltejs/svelte/releases/tag/svelte%405.57.0
 https://github.com/sveltejs/svelte/releases/tag/v1.64.1
@@ -4199,7 +4202,7 @@ https://mikrotik.com/download/changelogs?versionFilter=7.2.3&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.20.8&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.21.5&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.22.3&channelFilter=
-https://mikrotik.com/download/changelogs?versionFilter=7.23.6&channelFilter=
+https://mikrotik.com/download/changelogs?versionFilter=7.23.7&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.24.2&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.3.1&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.4.1&channelFilter=
@@ -4621,9 +4624,9 @@ https://support.microsoft.com/help/5066367
 https://support.microsoft.com/help/5066369
 https://support.microsoft.com/help/5102339
 https://support.microsoft.com/help/5102340
+https://support.microsoft.com/help/5104824
 https://support.microsoft.com/help/5121608
-https://support.microsoft.com/help/5122768
-https://support.microsoft.com/help/5122769
+https://support.microsoft.com/help/5122048
 https://support.microsoft.com/help/5122772
 https://support.microsoft.com/help/5122774
 https://support.microsoft.com/help/941203
@@ -4669,7 +4672,7 @@ https://tails.net/news/version_3.16/
 https://tails.net/news/version_4.29/
 https://tails.net/news/version_5.22/
 https://tails.net/news/version_6.19/
-https://tails.net/news/version_7.12/
+https://tails.net/news/version_7.13/
 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/end-of-service-reminders-for-windows-10-versions-1703-and-1803/ba-p/903715
 https://techcommunity.microsoft.com/t5/windows-server-for-developers/windows-server-version-1709-lifecycle-announcement/m-p/379766
 https://techdocs.broadcom.com/content/dam/broadcom/techdocs/us/en/pdf/vmware/vsphere/vsphere/vSphere-6-5-Release-Notes/vsphere-vcenter-server-65u3w-release-notes.pdf
@@ -4797,13 +4800,13 @@ https://unity.com/releases/editor/whats-new/2022.2.23#release-notes
 https://unity.com/releases/editor/whats-new/2022.3.62#release-notes
 https://unity.com/releases/editor/whats-new/2023.1.22#release-notes
 https://unity.com/releases/editor/whats-new/2023.2.22#release-notes
-https://unity.com/releases/editor/whats-new/6000.0.83#release-notes
+https://unity.com/releases/editor/whats-new/6000.0.84#release-notes
 https://unity.com/releases/editor/whats-new/6000.1.17#release-notes
 https://unity.com/releases/editor/whats-new/6000.2.15#release-notes
 https://unity.com/releases/editor/whats-new/6000.3.24#release-notes
 https://unity.com/releases/editor/whats-new/6000.4.12#release-notes
 https://unity.com/releases/editor/whats-new/6000.5.11#release-notes
-https://unity.com/releases/editor/whats-new/6000.6.0#release-notes
+https://unity.com/releases/editor/whats-new/6000.6.1#release-notes
 https://vinyl-cache.org/releases/rel6.0.18.html
 https://vinyl-cache.org/releases/rel7.0.3.html
 https://vinyl-cache.org/releases/rel7.1.2.html
@@ -4814,7 +4817,7 @@ https://vinyl-cache.org/releases/rel7.5.0.html
 https://vinyl-cache.org/releases/rel7.6.5.html
 https://vinyl-cache.org/releases/rel7.7.3.html
 https://vinyl-cache.org/releases/rel8.0.2.html
-https://vinyl-cache.org/releases/rel9.0.1.html
+https://vinyl-cache.org/releases/rel9.0.2.html
 https://web.archive.org/web/20080410071627/http://java.sun.com/products/archive/eol.policy.html
 https://web.archive.org/web/20150402080108/http://antix.mepis.org/index.php?title=Main_Page
 https://web.archive.org/web/20160105095436/http://antix.mepis.org/index.php?title=Main_Page
@@ -5062,12 +5065,12 @@ https://www.drupal.org/project/drupal/releases/10.2.12
 https://www.drupal.org/project/drupal/releases/10.3.14
 https://www.drupal.org/project/drupal/releases/10.4.10
 https://www.drupal.org/project/drupal/releases/10.5.12
-https://www.drupal.org/project/drupal/releases/10.6.16
+https://www.drupal.org/project/drupal/releases/10.6.17
 https://www.drupal.org/project/drupal/releases/11.0.13
 https://www.drupal.org/project/drupal/releases/11.1.10
 https://www.drupal.org/project/drupal/releases/11.2.14
-https://www.drupal.org/project/drupal/releases/11.3.16
-https://www.drupal.org/project/drupal/releases/11.4.6
+https://www.drupal.org/project/drupal/releases/11.3.17
+https://www.drupal.org/project/drupal/releases/11.4.7
 https://www.drupal.org/project/drupal/releases/7.103
 https://www.drupal.org/project/drupal/releases/8.8.12
 https://www.drupal.org/project/drupal/releases/8.9.20
@@ -5248,7 +5251,7 @@ https://www.keycloak.org/docs/latest/release_notes/index.html#keycloak-26-3-5
 https://www.keycloak.org/docs/latest/release_notes/index.html#keycloak-26-4-7
 https://www.keycloak.org/docs/latest/release_notes/index.html#keycloak-26-5-7
 https://www.keycloak.org/docs/latest/release_notes/index.html#keycloak-26-6-4
-https://www.keycloak.org/docs/latest/release_notes/index.html#keycloak-26-7-3
+https://www.keycloak.org/docs/latest/release_notes/index.html#keycloak-26-7-4
 https://www.lua.org/versions.html#1.1/
 https://www.lua.org/versions.html#2.1/
 https://www.lua.org/versions.html#2.2/
