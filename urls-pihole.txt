@@ -138,6 +138,7 @@ releases.electronjs.org
 releases.umbraco.com
 rockylinux.org
 solr.apache.org
+sourcegraph.com
 spark.apache.org
 struts.apache.org
 subversion.apache.org
