@@ -1320,7 +1320,7 @@ https://github.com/Cisco-Talos/clamav/releases/tag/clamav-1.4.6
 https://github.com/Cisco-Talos/clamav/releases/tag/clamav-1.5.4
 https://github.com/ClickHouse/ClickHouse/blob/master/CHANGELOG.md
 https://github.com/DependencyTrack/dependency-track/releases/tag/5.0.5
-https://github.com/DependencyTrack/dependency-track/releases/tag/5.1.0
+https://github.com/DependencyTrack/dependency-track/releases/tag/5.1.1
 https://github.com/Exim/exim/releases/tag/exim-4.92.3
 https://github.com/Exim/exim/releases/tag/exim-4.93.0.4
 https://github.com/Exim/exim/releases/tag/exim-4.94.2
@@ -3091,7 +3091,7 @@ https://github.com/nvm-sh/nvm/releases/tag/v0.37.2
 https://github.com/nvm-sh/nvm/releases/tag/v0.38.0
 https://github.com/nvm-sh/nvm/releases/tag/v0.39.7
 https://github.com/nvm-sh/nvm/releases/tag/v0.4.0
-https://github.com/nvm-sh/nvm/releases/tag/v0.40.7
+https://github.com/nvm-sh/nvm/releases/tag/v0.40.8
 https://github.com/nvm-sh/nvm/releases/tag/v0.5.1
 https://github.com/nvm-sh/nvm/releases/tag/v0.6.1
 https://github.com/nvm-sh/nvm/releases/tag/v0.7.0
@@ -3163,7 +3163,7 @@ https://github.com/phpro/grumphp/releases/tag/v0.22.0
 https://github.com/phpro/grumphp/releases/tag/v1.16.0
 https://github.com/phpro/grumphp/releases/tag/v2.23.0
 https://github.com/pnpm/pnpm/releases/tag/v10.34.5
-https://github.com/pnpm/pnpm/releases/tag/v11.27.0
+https://github.com/pnpm/pnpm/releases/tag/v11.27.1
 https://github.com/pnpm/pnpm/releases/tag/v12.5.1
 https://github.com/pnpm/pnpm/releases/tag/v4.14.4
 https://github.com/pnpm/pnpm/releases/tag/v5.18.11
@@ -3333,7 +3333,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.103.6
+https://github.com/renovatebot/renovate/releases/tag/44.104.2
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
