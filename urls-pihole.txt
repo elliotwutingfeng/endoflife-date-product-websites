@@ -1,7 +1,6 @@
 access.redhat.com
 activemq.apache.org
 airflow.apache.org
-almalinux.org
 alpinelinux.org
 ant.apache.org
 antixlinux.com
@@ -156,6 +155,7 @@ umbraco.com
 unity.com
 vinyl-cache.org
 web.archive.org
+wiki.almalinux.org
 wiki.centos.org
 wiki.documentfoundation.org
 wiki.ubuntu.com

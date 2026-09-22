@@ -80,8 +80,6 @@ https://airflow.apache.org/docs/apache-airflow/stable/release_notes.html#airflow
 https://airflow.apache.org/docs/apache-airflow/stable/release_notes.html#airflow-3-1-8-2026-03-11
 https://airflow.apache.org/docs/apache-airflow/stable/release_notes.html#airflow-3-2-2-2026-05-29
 https://airflow.apache.org/docs/apache-airflow/stable/release_notes.html#airflow-3-3-2-2026-09-17
-https://almalinux.org/blog/2024-05-28-announcing-810-stable/
-https://almalinux.org/blog/2026-05-26-almalinux_98_and_102_stable/
 https://alpinelinux.org/posts/Alpine-3.10.9-3.11.11-3.12.7-released.html
 https://alpinelinux.org/posts/Alpine-3.11.13-3.12.9-3.13.7-released.html
 https://alpinelinux.org/posts/Alpine-3.12.12-3.13.10-3.14.6-3.15.4-released.html
@@ -2552,7 +2550,7 @@ https://github.com/influxdata/telegraf/releases/tag/v1.36.4
 https://github.com/influxdata/telegraf/releases/tag/v1.37.3
 https://github.com/influxdata/telegraf/releases/tag/v1.38.4
 https://github.com/influxdata/telegraf/releases/tag/v1.39.3
-https://github.com/influxdata/telegraf/releases/tag/v1.40.0
+https://github.com/influxdata/telegraf/releases/tag/v1.40.1
 https://github.com/ionic-team/ionic-framework/releases/tag/v1.3.2
 https://github.com/ionic-team/ionic-framework/releases/tag/v2.3.0
 https://github.com/ionic-team/ionic-framework/releases/tag/v3.9.3
@@ -2619,7 +2617,7 @@ https://github.com/jquery/jquery/releases/tag/4.0.0
 https://github.com/jreleaser/jreleaser/releases/tag/v0.10.0
 https://github.com/jreleaser/jreleaser/releases/tag/v1.26.0
 https://github.com/jruby/jruby/releases/tag/10.0.6.0
-https://github.com/jruby/jruby/releases/tag/10.1.1.0
+https://github.com/jruby/jruby/releases/tag/10.1.2.0
 https://github.com/jruby/jruby/releases/tag/9.0.5.0
 https://github.com/jruby/jruby/releases/tag/9.1.17.0
 https://github.com/jruby/jruby/releases/tag/9.2.21.0
@@ -2999,7 +2997,7 @@ https://github.com/micronaut-projects/micronaut-core/releases/tag/v1.3.7
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v2.5.13
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v3.10.12
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v4.10.28
-https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.2
+https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.3
 https://github.com/mondoohq/cnspec/releases/tag/v10.12.2
 https://github.com/mondoohq/cnspec/releases/tag/v11.69.1
 https://github.com/mondoohq/cnspec/releases/tag/v12.23.1
@@ -3333,7 +3331,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.104.2
+https://github.com/renovatebot/renovate/releases/tag/44.106.0
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -3543,7 +3541,7 @@ https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.2.4
 https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.3.3
 https://github.com/tarantool/tarantool/releases/tag/1.10.15
 https://github.com/tarantool/tarantool/releases/tag/2.10.8
-https://github.com/tarantool/tarantool/releases/tag/2.11.9
+https://github.com/tarantool/tarantool/releases/tag/2.11.10
 https://github.com/tarantool/tarantool/releases/tag/2.2.3
 https://github.com/tarantool/tarantool/releases/tag/2.3.3
 https://github.com/tarantool/tarantool/releases/tag/2.4.3
@@ -3909,9 +3907,9 @@ https://istio.io/latest/news/releases/1.25.x/announcing-1.25.5/
 https://istio.io/latest/news/releases/1.26.x/announcing-1.26.8/
 https://istio.io/latest/news/releases/1.27.x/announcing-1.27.9/
 https://istio.io/latest/news/releases/1.28.x/announcing-1.28.10/
-https://istio.io/latest/news/releases/1.29.x/announcing-1.29.7/
-https://istio.io/latest/news/releases/1.30.x/announcing-1.30.4/
-https://istio.io/latest/news/releases/1.31.x/announcing-1.31/
+https://istio.io/latest/news/releases/1.29.x/announcing-1.29.8/
+https://istio.io/latest/news/releases/1.30.x/announcing-1.30.5/
+https://istio.io/latest/news/releases/1.31.x/announcing-1.31.1/
 https://istio.io/latest/news/releases/1.7.x/announcing-1.7.8/
 https://istio.io/latest/news/releases/1.8.x/announcing-1.8.6/
 https://istio.io/latest/news/releases/1.9.x/announcing-1.9.9/
@@ -4203,7 +4201,7 @@ https://mikrotik.com/download/changelogs?versionFilter=6.45.9&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=6.46.8&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=6.47.10&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=6.48.7&channelFilter=
-https://mikrotik.com/download/changelogs?versionFilter=6.49.21&channelFilter=
+https://mikrotik.com/download/changelogs?versionFilter=6.49.22&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=6.5&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=6.6&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=6.7&channelFilter=
@@ -4918,6 +4916,9 @@ https://web.archive.org/web/20250916172610/https://docs.couchbase.com/server/7.0
 https://web.archive.org/web/20251008131431/https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/1912-ltsr/whats-new/cumulative-update-10.html
 https://web.archive.org/web/20251008201114/https://docs.couchbase.com/server/7.1/release-notes/relnotes.html
 https://web.archive.org/web/20260413143114/https://docs.paloaltonetworks.com/globalprotect/5-2/globalprotect-app-release-notes/globalprotect-known-and-addressed-issues/globalprotect-addressed-issues
+https://wiki.almalinux.org/release-notes/10.2.html
+https://wiki.almalinux.org/release-notes/8.10.html
+https://wiki.almalinux.org/release-notes/9.8.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS5(2e)11.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS6(2e)10.html
 https://wiki.centos.org/Manuals(2f)ReleaseNotes(2f)CentOS7(2e)2009.html
@@ -5512,7 +5513,7 @@ https://www.proxmox.com/en/about/company-details/press-releases/proxmox-mail-gat
 https://www.proxmox.com/en/about/company-details/press-releases/proxmox-mail-gateway-6-4
 https://www.proxmox.com/en/about/company-details/press-releases/proxmox-mail-gateway-7-0
 https://www.proxmox.com/en/about/company-details/press-releases/proxmox-mail-gateway-8-2
-https://www.proxmox.com/en/about/company-details/press-releases/proxmox-mail-gateway-9-0
+https://www.proxmox.com/en/about/company-details/press-releases/proxmox-mail-gateway-9-1
 https://www.proxmox.com/en/news/press-releases/proxmox-backup-server-2-4
 https://www.puppet.com/docs/puppet/5.5/release_notes.html
 https://www.puppet.com/docs/puppet/6/release_notes_puppet.html#release_notes_puppet
