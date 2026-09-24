@@ -32,7 +32,7 @@ devdocs.magento.com
 developer.apple.com
 doc.rust-lang.org
 docs-older.centreon.com
-docs.arangodb.com
+docs.arango.ai
 docs.aws.amazon.com
 docs.azul.com
 docs.bell-sw.com
@@ -41,6 +41,8 @@ docs.centreon.com
 docs.cfengine.com
 docs.chef.io
 docs.citrix.com
+docs.cloud.google.com
+docs.cockroachlabs.com
 docs.couchbase.com
 docs.couchdb.org
 docs.daocloud.io
@@ -164,13 +166,13 @@ www.amazon.com
 www.atlassian.com
 www.betaarchive.com
 www.blender.org
-www.cockroachlabs.com
 www.couchbase.com
 www.debian.org
 www.devuan.org
 www.drupal.org
 www.elastic.co
 www.findbugzero.com
+www.firefox.com
 www.gerritcodereview.com
 www.graalvm.org
 www.haproxy.org
@@ -181,7 +183,6 @@ www.keycloak.org
 www.lua.org
 www.mediawiki.org
 www.mongodb.com
-www.mozilla.org
 www.netbsd.org
 www.nv5geospatialsoftware.com
 www.nvidia.com
