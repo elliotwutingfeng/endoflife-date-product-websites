@@ -1819,7 +1819,7 @@ https://github.com/bazelbuild/bazel/releases/tag/4.2.4
 https://github.com/bazelbuild/bazel/releases/tag/5.4.1
 https://github.com/bazelbuild/bazel/releases/tag/6.6.0
 https://github.com/bazelbuild/bazel/releases/tag/7.7.1
-https://github.com/bazelbuild/bazel/releases/tag/8.8.0
+https://github.com/bazelbuild/bazel/releases/tag/8.8.1
 https://github.com/bazelbuild/bazel/releases/tag/9.2.0
 https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.20
 https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.18
@@ -1965,7 +1965,7 @@ https://github.com/contao/contao/blob/5.4.14/CHANGELOG.md
 https://github.com/contao/contao/blob/5.5.16/CHANGELOG.md
 https://github.com/contao/contao/blob/5.6.11/CHANGELOG.md
 https://github.com/contao/contao/blob/5.7.13/CHANGELOG.md
-https://github.com/contao/contao/blob/6.0.0/CHANGELOG.md
+https://github.com/contao/contao/blob/6.0.1/CHANGELOG.md
 https://github.com/corretto/corretto-11/releases/tag/11.0.32.10.1
 https://github.com/corretto/corretto-17/releases/tag/17.0.20.10.1
 https://github.com/corretto/corretto-18/releases/tag/18.0.2.9.1
@@ -2309,7 +2309,7 @@ https://github.com/gradle/gradle/releases/tag/v5.6.4
 https://github.com/gradle/gradle/releases/tag/v6.9.4
 https://github.com/gradle/gradle/releases/tag/v7.6.6
 https://github.com/gradle/gradle/releases/tag/v8.14.5
-https://github.com/gradle/gradle/releases/tag/v9.7.1
+https://github.com/gradle/gradle/releases/tag/v9.8.0
 https://github.com/grafana/grafana/releases/tag/v10.0.13
 https://github.com/grafana/grafana/releases/tag/v10.1.10
 https://github.com/grafana/grafana/releases/tag/v10.2.9
@@ -2943,18 +2943,18 @@ https://github.com/metabase/metabase/releases/tag/v0.59.31
 https://github.com/metabase/metabase/releases/tag/v0.60.27
 https://github.com/metabase/metabase/releases/tag/v0.61.21
 https://github.com/metabase/metabase/releases/tag/v0.62.19.5
-https://github.com/metabase/metabase/releases/tag/v0.63.18.1
+https://github.com/metabase/metabase/releases/tag/v0.63.18.2
 https://github.com/metabase/metabase/releases/tag/v0.9.3
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v1.3.7
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v2.5.13
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v3.10.12
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v4.10.29
-https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.5
+https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.7
 https://github.com/mondoohq/cnspec/releases/tag/v10.12.2
 https://github.com/mondoohq/cnspec/releases/tag/v11.69.1
 https://github.com/mondoohq/cnspec/releases/tag/v12.23.1
 https://github.com/mondoohq/cnspec/releases/tag/v13.39.0
-https://github.com/mondoohq/cnspec/releases/tag/v14.0.0
+https://github.com/mondoohq/cnspec/releases/tag/v14.0.1
 https://github.com/mondoohq/cnspec/releases/tag/v6.19.0
 https://github.com/mondoohq/cnspec/releases/tag/v7.19.2
 https://github.com/mondoohq/cnspec/releases/tag/v8.28.4
@@ -3080,6 +3080,7 @@ https://github.com/openbao/openbao/releases/tag/v2.3.2
 https://github.com/openbao/openbao/releases/tag/v2.4.4
 https://github.com/openbao/openbao/releases/tag/v2.5.5
 https://github.com/openbao/openbao/releases/tag/v2.6.3
+https://github.com/openbao/openbao/releases/tag/v2.7.0
 https://github.com/opensearch-project/opensearch-build/blob/main/release-notes/opensearch-release-notes-1.3.20.md
 https://github.com/opensearch-project/opensearch-build/blob/main/release-notes/opensearch-release-notes-2.19.6.md
 https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-35
@@ -3291,9 +3292,9 @@ https://github.com/rails/rails/releases/tag/v6.0.6.1
 https://github.com/rails/rails/releases/tag/v6.1.7.10
 https://github.com/rails/rails/releases/tag/v7.0.10
 https://github.com/rails/rails/releases/tag/v7.1.6
-https://github.com/rails/rails/releases/tag/v7.2.3.2
+https://github.com/rails/rails/releases/tag/v7.2.4
 https://github.com/rails/rails/releases/tag/v8.0.5.1
-https://github.com/rails/rails/releases/tag/v8.1.3.1
+https://github.com/rails/rails/releases/tag/v8.1.4
 https://github.com/rancher/rancher/releases/tag/v1.6.30
 https://github.com/rancher/rancher/releases/tag/v2.0.16
 https://github.com/rancher/rancher/releases/tag/v2.1.14
@@ -3348,7 +3349,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.111.4
+https://github.com/renovatebot/renovate/releases/tag/44.115.0
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -3458,7 +3459,7 @@ https://github.com/shopware/shopware/releases/tag/v6.2.3
 https://github.com/shopware/shopware/releases/tag/v6.3.5.4
 https://github.com/shopware/shopware/releases/tag/v6.4.20.2
 https://github.com/shopware/shopware/releases/tag/v6.5.8.19
-https://github.com/shopware/shopware/releases/tag/v6.6.10.26
+https://github.com/shopware/shopware/releases/tag/v6.6.10.27
 https://github.com/shopware/shopware/releases/tag/v6.7.14.2
 https://github.com/shopware5/shopware/releases/tag/v5.0.4
 https://github.com/shopware5/shopware/releases/tag/v5.1.6
@@ -3538,7 +3539,7 @@ https://github.com/statamic/cms/blob/v5.74.4/CHANGELOG.md
 https://github.com/statamic/cms/blob/v6.34.1/CHANGELOG.md
 https://github.com/strapi/strapi/releases/tag/v3.6.11
 https://github.com/strapi/strapi/releases/tag/v4.26.2
-https://github.com/strapi/strapi/releases/tag/v5.55.0
+https://github.com/strapi/strapi/releases/tag/v5.55.1
 https://github.com/sveltejs/svelte/releases/tag/svelte%404.2.20
 https://github.com/sveltejs/svelte/releases/tag/svelte%405.57.1
 https://github.com/sveltejs/svelte/releases/tag/v1.64.1
@@ -3696,7 +3697,7 @@ https://github.com/weechat/weechat/releases/tag/v4.8.2
 https://github.com/weechat/weechat/releases/tag/v4.9.5
 https://github.com/yarnpkg/berry/releases/tag/%40yarnpkg%2Fcli%2F2.4.3
 https://github.com/yarnpkg/berry/releases/tag/%40yarnpkg%2Fcli%2F3.8.7
-https://github.com/yarnpkg/berry/releases/tag/%40yarnpkg%2Fcli%2F4.18.0
+https://github.com/yarnpkg/berry/releases/tag/%40yarnpkg%2Fcli%2F4.18.1
 https://github.com/yarnpkg/yarn/releases/tag/v1.22.22
 https://gitlab.com/freedesktop-sdk/freedesktop-sdk/-/merge_requests/28230
 https://gitlab.com/freedesktop-sdk/freedesktop-sdk/-/releases/freedesktop-sdk-21.08.22
@@ -4423,7 +4424,7 @@ https://notepad-plus-plus.org/downloads/v8.5.8/
 https://notepad-plus-plus.org/downloads/v8.6.9/
 https://notepad-plus-plus.org/downloads/v8.7.9/
 https://notepad-plus-plus.org/downloads/v8.8.9/
-https://notepad-plus-plus.org/downloads/v8.9.8/
+https://notepad-plus-plus.org/downloads/v8.9.8.1/
 https://openjdk.org/projects/jdk/10/
 https://openjdk.org/projects/jdk/11/
 https://openjdk.org/projects/jdk/12/
@@ -4858,10 +4859,10 @@ https://unity.com/releases/editor/whats-new/2023.2.22#release-notes
 https://unity.com/releases/editor/whats-new/6000.0.84#release-notes
 https://unity.com/releases/editor/whats-new/6000.1.17#release-notes
 https://unity.com/releases/editor/whats-new/6000.2.15#release-notes
-https://unity.com/releases/editor/whats-new/6000.3.24#release-notes
+https://unity.com/releases/editor/whats-new/6000.3.25#release-notes
 https://unity.com/releases/editor/whats-new/6000.4.12#release-notes
 https://unity.com/releases/editor/whats-new/6000.5.11#release-notes
-https://unity.com/releases/editor/whats-new/6000.6.2#release-notes
+https://unity.com/releases/editor/whats-new/6000.6.3#release-notes
 https://vinyl-cache.org/releases/rel6.0.18.html
 https://vinyl-cache.org/releases/rel7.0.3.html
 https://vinyl-cache.org/releases/rel7.1.2.html
