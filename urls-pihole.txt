@@ -197,6 +197,7 @@ www.puppet.com
 www.python.org
 www.qt.io
 www.redmine.org
+www.samba.org
 www.sipwise.com
 www.sonarsource.com
 www.sqlite.org
