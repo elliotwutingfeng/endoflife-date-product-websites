@@ -3583,7 +3583,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.132.5
+https://github.com/renovatebot/renovate/releases/tag/44.133.0
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -4364,7 +4364,7 @@ https://lists.debian.org/debian-release/2024/06/msg00700.html
 https://lists.exim.org/lurker/message/20251028.114149.3bf19800.en.html
 https://logging.apache.org/log4j/1.x/changes-report.html#a1.2.17
 https://logging.apache.org/log4j/2.0/release-notes.html#release-notes-2-26-1
-https://lucene.apache.org/core/10_5_1/changes/Changes.html
+https://lucene.apache.org/core/10_5_2/changes/Changes.html
 https://lucene.apache.org/core/7_7_3/changes/Changes.html
 https://lucene.apache.org/core/8_11_4/changes/Changes.html
 https://lucene.apache.org/core/9_12_3/changes/Changes.html
@@ -4835,7 +4835,7 @@ https://solr.apache.org/docs/5_5_5/changes/Changes.html
 https://solr.apache.org/docs/6_6_6/changes/Changes.html
 https://solr.apache.org/docs/7_7_3/changes/Changes.html
 https://solr.apache.org/docs/8_11_4/changes/Changes.html
-https://solr.apache.org/docs/9_10_1/changes/Changes.html
+https://solr.apache.org/docs/9_11_0/changes/Changes.html
 https://sourcegraph.com/changelog/releases/5.11.6271
 https://sourcegraph.com/changelog/releases/6.12.5040
 https://sourcegraph.com/changelog/releases/7.7.359
