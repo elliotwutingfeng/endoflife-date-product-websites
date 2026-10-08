@@ -1554,7 +1554,7 @@ https://gitbox.apache.org/repos/asf?p=cassandra.git;a=blob_plain;f=NEWS.txt;hb=r
 https://gitbox.apache.org/repos/asf?p=cassandra.git;a=blob_plain;f=NEWS.txt;hb=refs/tags/cassandra-4.0.21
 https://gitbox.apache.org/repos/asf?p=cassandra.git;a=blob_plain;f=NEWS.txt;hb=refs/tags/cassandra-4.1.12
 https://gitbox.apache.org/repos/asf?p=cassandra.git;a=blob_plain;f=NEWS.txt;hb=refs/tags/cassandra-5.0.9
-https://github.com/AmauriC/tarteaucitron.js/releases/tag/v1.35.0
+https://github.com/AmauriC/tarteaucitron.js/releases/tag/v1.36.0
 https://github.com/Behat/Behat/releases/tag/v2.5.5
 https://github.com/Behat/Behat/releases/tag/v3.34.0
 https://github.com/Behat/Behat/releases/tag/v4.0.0
@@ -1850,7 +1850,7 @@ https://github.com/adoptium/temurin23-binaries/releases/tag/jdk-23.0.2+7
 https://github.com/adoptium/temurin24-binaries/releases/tag/jdk-24.0.2+12
 https://github.com/adoptium/temurin25-binaries/releases/tag/jdk-25.0.4.1+1
 https://github.com/adoptium/temurin26-binaries/releases/tag/jdk-26.0.2.1+1
-https://github.com/adoptium/temurin27-binaries/releases/tag/jdk-jdk-27+35
+https://github.com/adoptium/temurin27-binaries/releases/tag/jdk-27+35
 https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u504-b01
 https://github.com/akeneo/pim-community-dev/blob/1.6/CHANGELOG-1.6.md
 https://github.com/akeneo/pim-community-dev/blob/1.7/CHANGELOG-1.7.md
@@ -1956,6 +1956,7 @@ https://github.com/apache/grails-core/releases/tag/v4.1.4
 https://github.com/apache/grails-core/releases/tag/v5.3.6
 https://github.com/apache/grails-core/releases/tag/v6.2.3
 https://github.com/apache/grails-core/releases/tag/v7.2.4
+https://github.com/apache/grails-core/releases/tag/v8.0.0
 https://github.com/apache/hbase/blob/rel/1.7.2/CHANGES.txt
 https://github.com/apache/hbase/blob/rel/2.2.7/RELEASENOTES.md
 https://github.com/apache/hbase/blob/rel/2.3.7/RELEASENOTES.md
@@ -2021,9 +2022,9 @@ https://github.com/argoproj/argo-cd/releases/tag/v2.9.22
 https://github.com/argoproj/argo-cd/releases/tag/v3.0.23
 https://github.com/argoproj/argo-cd/releases/tag/v3.1.16
 https://github.com/argoproj/argo-cd/releases/tag/v3.2.12
-https://github.com/argoproj/argo-cd/releases/tag/v3.3.14
-https://github.com/argoproj/argo-cd/releases/tag/v3.4.9
-https://github.com/argoproj/argo-cd/releases/tag/v3.5.3
+https://github.com/argoproj/argo-cd/releases/tag/v3.3.15
+https://github.com/argoproj/argo-cd/releases/tag/v3.4.10
+https://github.com/argoproj/argo-cd/releases/tag/v3.5.4
 https://github.com/argoproj/argo-workflows/releases/tag/v3.3.10
 https://github.com/argoproj/argo-workflows/releases/tag/v3.4.18
 https://github.com/argoproj/argo-workflows/releases/tag/v3.5.15
@@ -2057,7 +2058,7 @@ https://github.com/bazelbuild/bazel/releases/tag/5.4.1
 https://github.com/bazelbuild/bazel/releases/tag/6.6.0
 https://github.com/bazelbuild/bazel/releases/tag/7.7.1
 https://github.com/bazelbuild/bazel/releases/tag/8.8.1
-https://github.com/bazelbuild/bazel/releases/tag/9.2.0
+https://github.com/bazelbuild/bazel/releases/tag/9.3.0
 https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.20
 https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.18
 https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.7.16
@@ -2174,7 +2175,7 @@ https://github.com/coder/coder/releases/tag/v2.8.5
 https://github.com/coder/coder/releases/tag/v2.9.4
 https://github.com/concretecms/concretecms/releases/tag/5.7.5.13
 https://github.com/concretecms/concretecms/releases/tag/8.5.21
-https://github.com/concretecms/concretecms/releases/tag/9.5.4
+https://github.com/concretecms/concretecms/releases/tag/9.5.5
 https://github.com/containerd/containerd/releases/tag/v1.0.3
 https://github.com/containerd/containerd/releases/tag/v1.1.8
 https://github.com/containerd/containerd/releases/tag/v1.2.14
@@ -2478,7 +2479,7 @@ https://github.com/getkirby/kirby/releases/tag/3.8.4.4
 https://github.com/getkirby/kirby/releases/tag/3.9.8.3
 https://github.com/getkirby/kirby/releases/tag/4.9.6
 https://github.com/getkirby/kirby/releases/tag/5.6.1
-https://github.com/gleam-lang/gleam/releases/tag/v1.19.0
+https://github.com/gleam-lang/gleam/releases/tag/v1.19.1
 https://github.com/godotengine/godot/releases/tag/2.1.6-stable
 https://github.com/godotengine/godot/releases/tag/3.0.6-stable
 https://github.com/godotengine/godot/releases/tag/3.1.2-stable
@@ -2539,7 +2540,7 @@ https://github.com/gradle/gradle/releases/tag/v5.6.4
 https://github.com/gradle/gradle/releases/tag/v6.9.4
 https://github.com/gradle/gradle/releases/tag/v7.6.6
 https://github.com/gradle/gradle/releases/tag/v8.14.5
-https://github.com/gradle/gradle/releases/tag/v9.8.0
+https://github.com/gradle/gradle/releases/tag/v9.8.1
 https://github.com/grafana/grafana/releases/tag/v10.0.13
 https://github.com/grafana/grafana/releases/tag/v10.1.10
 https://github.com/grafana/grafana/releases/tag/v10.2.9
@@ -2682,7 +2683,7 @@ https://github.com/hashicorp/vault/releases/tag/v1.20.4
 https://github.com/hashicorp/vault/releases/tag/v1.21.4
 https://github.com/hashicorp/vault/releases/tag/v1.9.10
 https://github.com/hashicorp/vault/releases/tag/v2.0.4
-https://github.com/hashicorp/vault/releases/tag/v2.1.1
+https://github.com/hashicorp/vault/releases/tag/v2.1.2
 https://github.com/hibernate/hibernate-orm/releases/tag/5.3.39
 https://github.com/hibernate/hibernate-orm/releases/tag/5.4.33
 https://github.com/hibernate/hibernate-orm/releases/tag/5.5.9
@@ -2754,7 +2755,7 @@ https://github.com/ionic-team/ionic-framework/releases/tag/v5.9.4
 https://github.com/ionic-team/ionic-framework/releases/tag/v6.7.5
 https://github.com/ionic-team/ionic-framework/releases/tag/v7.8.6
 https://github.com/ionic-team/ionic-framework/releases/tag/v8.8.19
-https://github.com/ionic-team/ionic-framework/releases/tag/v9.0.6
+https://github.com/ionic-team/ionic-framework/releases/tag/v9.0.7
 https://github.com/jaegertracing/jaeger/releases/tag/v1.76.0
 https://github.com/jaegertracing/jaeger/releases/tag/v2.22.0
 https://github.com/jekyll/jekyll/releases/tag/v0.9.0
@@ -3171,17 +3172,17 @@ https://github.com/metabase/metabase/releases/tag/v0.55.24.1
 https://github.com/metabase/metabase/releases/tag/v0.56.25.1
 https://github.com/metabase/metabase/releases/tag/v0.57.20
 https://github.com/metabase/metabase/releases/tag/v0.58.35
-https://github.com/metabase/metabase/releases/tag/v0.59.31
+https://github.com/metabase/metabase/releases/tag/v0.59.31.1
 https://github.com/metabase/metabase/releases/tag/v0.60.27
 https://github.com/metabase/metabase/releases/tag/v0.61.21
 https://github.com/metabase/metabase/releases/tag/v0.62.19.5
-https://github.com/metabase/metabase/releases/tag/v0.63.19.2
+https://github.com/metabase/metabase/releases/tag/v0.63.19.4
 https://github.com/metabase/metabase/releases/tag/v0.9.3
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v1.3.7
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v2.5.13
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v3.10.14
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v4.10.30
-https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.14
+https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.15
 https://github.com/mondoohq/cnspec/releases/tag/v10.12.2
 https://github.com/mondoohq/cnspec/releases/tag/v11.69.1
 https://github.com/mondoohq/cnspec/releases/tag/v12.23.1
@@ -3215,7 +3216,7 @@ https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V22.md#22.23.3
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V23.md#23.11.1
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V24.md#24.21.0
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V25.md#25.9.0
-https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V26.md#26.10.0
+https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V26.md#26.11.1
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V4.md#4.9.1
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V5.md#5.12.0
 https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V6.md#6.17.1
@@ -3500,7 +3501,7 @@ https://github.com/quarkusio/quarkus/releases/tag/3.7.4
 https://github.com/quarkusio/quarkus/releases/tag/3.8.6.1
 https://github.com/quarkusio/quarkus/releases/tag/3.9.5
 https://github.com/quasarframework/quasar/releases/tag/quasar-v1.22.10
-https://github.com/quasarframework/quasar/releases/tag/quasar-v2.34.0
+https://github.com/quasarframework/quasar/releases/tag/quasar-v2.35.0
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v3_0_4
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v3_1_5
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/rabbitmq_v3_2_4
@@ -3584,7 +3585,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.141.0
+https://github.com/renovatebot/renovate/releases/tag/44.145.1
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -3695,8 +3696,8 @@ https://github.com/shopware/shopware/releases/tag/v6.2.3
 https://github.com/shopware/shopware/releases/tag/v6.3.5.4
 https://github.com/shopware/shopware/releases/tag/v6.4.20.2
 https://github.com/shopware/shopware/releases/tag/v6.5.8.19
-https://github.com/shopware/shopware/releases/tag/v6.6.10.28
-https://github.com/shopware/shopware/releases/tag/v6.7.15.0
+https://github.com/shopware/shopware/releases/tag/v6.6.10.29
+https://github.com/shopware/shopware/releases/tag/v6.7.15.1
 https://github.com/shopware5/shopware/releases/tag/v5.0.4
 https://github.com/shopware5/shopware/releases/tag/v5.1.6
 https://github.com/shopware5/shopware/releases/tag/v5.2.27
@@ -3775,7 +3776,7 @@ https://github.com/statamic/cms/blob/v5.74.5/CHANGELOG.md
 https://github.com/statamic/cms/blob/v6.35.1/CHANGELOG.md
 https://github.com/strapi/strapi/releases/tag/v3.6.11
 https://github.com/strapi/strapi/releases/tag/v4.26.2
-https://github.com/strapi/strapi/releases/tag/v5.56.0
+https://github.com/strapi/strapi/releases/tag/v5.57.0
 https://github.com/sveltejs/svelte/releases/tag/svelte%404.2.20
 https://github.com/sveltejs/svelte/releases/tag/svelte%405.57.2
 https://github.com/sveltejs/svelte/releases/tag/v1.64.1
@@ -3877,7 +3878,7 @@ https://github.com/vercel/next.js/releases/tag/v12.3.7
 https://github.com/vercel/next.js/releases/tag/v13.5.11
 https://github.com/vercel/next.js/releases/tag/v14.2.35
 https://github.com/vercel/next.js/releases/tag/v15.5.27
-https://github.com/vercel/next.js/releases/tag/v16.3.8
+https://github.com/vercel/next.js/releases/tag/v16.4.0
 https://github.com/vercel/next.js/releases/tag/v9.5.5
 https://github.com/vitessio/vitess/releases/tag/v13.0.3
 https://github.com/vitessio/vitess/releases/tag/v14.0.5
@@ -3988,8 +3989,8 @@ https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog6014
 https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog6116
 https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog6214
 https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog6315
-https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog7013
-https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog719
+https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog7014
+https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog7110
 https://goaccess.io/release-notes#release-1.12
 https://godotengine.org/article/godot-engine-reaches-1-0/
 https://godotengine.org/article/maintenance-release-godot-2-0-4
@@ -4733,6 +4734,7 @@ https://pulsar.apache.org/release-notes/versioned/pulsar-3.3.9/
 https://pulsar.apache.org/release-notes/versioned/pulsar-4.0.14/
 https://pulsar.apache.org/release-notes/versioned/pulsar-4.1.3/
 https://pulsar.apache.org/release-notes/versioned/pulsar-4.2.5/
+https://pulsar.apache.org/release-notes/versioned/pulsar-5.0.0/
 https://pve.proxmox.com/wiki/Roadmap#Proxmox_VE_1.9
 https://pve.proxmox.com/wiki/Roadmap#Proxmox_VE_2.3
 https://pve.proxmox.com/wiki/Roadmap#Proxmox_VE_3.4
@@ -4812,9 +4814,9 @@ https://releases.electronjs.org/release/v39.8.10
 https://releases.electronjs.org/release/v4.2.12
 https://releases.electronjs.org/release/v40.10.6
 https://releases.electronjs.org/release/v41.10.7
-https://releases.electronjs.org/release/v42.11.11
-https://releases.electronjs.org/release/v43.7.8
-https://releases.electronjs.org/release/v44.5.1
+https://releases.electronjs.org/release/v42.11.12
+https://releases.electronjs.org/release/v43.7.9
+https://releases.electronjs.org/release/v44.7.0
 https://releases.electronjs.org/release/v5.0.13
 https://releases.electronjs.org/release/v6.1.12
 https://releases.electronjs.org/release/v7.3.3
@@ -5803,6 +5805,8 @@ https://www.qt.io/blog/qt-6.6.3-released
 https://www.qt.io/blog/qt-6.7.3-released
 https://www.qt.io/blog/qt-6.8.3-released
 https://www.qt.io/blog/qt-6.9.3-released
+https://www.redmine.org/projects/redmine/wiki/Changelog_3_3
+https://www.redmine.org/projects/redmine/wiki/Changelog_3_4
 https://www.redmine.org/projects/redmine/wiki/Changelog_4_0
 https://www.redmine.org/projects/redmine/wiki/Changelog_4_1
 https://www.redmine.org/projects/redmine/wiki/Changelog_4_2
