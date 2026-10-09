@@ -1105,7 +1105,7 @@ https://docs.docker.com/engine/release-notes/26.0/#2602
 https://docs.docker.com/engine/release-notes/26.1/#2615
 https://docs.docker.com/engine/release-notes/27/#2751
 https://docs.docker.com/engine/release-notes/28/#2852
-https://docs.docker.com/engine/release-notes/29/#2982
+https://docs.docker.com/engine/release-notes/29/#2990
 https://docs.gitlab.com/releases/16/gitlab-16-1-released/
 https://docs.gitlab.com/releases/16/gitlab-16-10-released/
 https://docs.gitlab.com/releases/16/gitlab-16-11-released/
@@ -1160,6 +1160,7 @@ https://docs.goauthentik.io/releases/2026.5/#fixed-in-202657
 https://docs.goauthentik.io/releases/2026.8/#fixed-in-202683
 https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v3100
 https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v3110
+https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v3120
 https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v340
 https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v350
 https://docs.influxdata.com/influxdb3/enterprise/release-notes/#v360
@@ -1620,7 +1621,7 @@ https://github.com/FortAwesome/Font-Awesome/releases/tag/7.3.1
 https://github.com/FortAwesome/Font-Awesome/releases/tag/v1.0.0
 https://github.com/FortAwesome/Font-Awesome/releases/tag/v3.2.1
 https://github.com/FortAwesome/Font-Awesome/releases/tag/v4.7.0
-https://github.com/GoogleCloudPlatform/cloud-sql-proxy/releases/tag/v1.38.3
+https://github.com/GoogleCloudPlatform/cloud-sql-proxy/releases/tag/v1.38.4
 https://github.com/GoogleCloudPlatform/cloud-sql-proxy/releases/tag/v2.26.0
 https://github.com/Icinga/icinga2/releases/tag/v2.0.2/
 https://github.com/Icinga/icinga2/releases/tag/v2.1.1/
@@ -1665,7 +1666,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v2.0.21
 https://github.com/JetBrains/kotlin/releases/tag/v2.1.21
 https://github.com/JetBrains/kotlin/releases/tag/v2.2.21
 https://github.com/JetBrains/kotlin/releases/tag/v2.3.21
-https://github.com/JetBrains/kotlin/releases/tag/v2.4.20
+https://github.com/JetBrains/kotlin/releases/tag/v2.4.21
 https://github.com/JuliaLang/julia/blob/v1.0.5/NEWS.md
 https://github.com/JuliaLang/julia/blob/v1.10.12/NEWS.md
 https://github.com/JuliaLang/julia/blob/v1.11.9/NEWS.md
@@ -1886,7 +1887,7 @@ https://github.com/angular/angular/releases/tag/9.1.13
 https://github.com/angular/angular/releases/tag/v19.2.25
 https://github.com/angular/angular/releases/tag/v20.3.33
 https://github.com/angular/angular/releases/tag/v21.2.25
-https://github.com/angular/angular/releases/tag/v22.2.1
+https://github.com/angular/angular/releases/tag/v22.2.2
 https://github.com/angular/protractor/blob/master/CHANGELOG.md#180
 https://github.com/angular/protractor/blob/master/CHANGELOG.md#251
 https://github.com/angular/protractor/blob/master/CHANGELOG.md#330
@@ -2032,7 +2033,7 @@ https://github.com/argoproj/argo-workflows/releases/tag/v3.6.19
 https://github.com/argoproj/argo-workflows/releases/tag/v3.7.18
 https://github.com/argoproj/argo-workflows/releases/tag/v4.0.12
 https://github.com/argoproj/argo-workflows/releases/tag/v4.1.4
-https://github.com/aws/aws-cdk/releases/tag/v2.272.0
+https://github.com/aws/aws-cdk/releases/tag/v2.273.0
 https://github.com/aws/eks-distro/releases/tag/v1-18-eks-13
 https://github.com/aws/eks-distro/releases/tag/v1-19-eks-11
 https://github.com/aws/eks-distro/releases/tag/v1-20-eks-14
@@ -2117,7 +2118,7 @@ https://github.com/ceph/ceph/releases/tag/v15.2.17
 https://github.com/ceph/ceph/releases/tag/v16.2.15
 https://github.com/ceph/ceph/releases/tag/v17.2.9
 https://github.com/ceph/ceph/releases/tag/v18.2.8
-https://github.com/ceph/ceph/releases/tag/v19.2.6
+https://github.com/ceph/ceph/releases/tag/v19.2.7
 https://github.com/ceph/ceph/releases/tag/v20.2.4
 https://github.com/ceph/ceph/releases/tag/v9.2.1
 https://github.com/cert-manager/cert-manager/releases/tag/v1.10.2
@@ -2226,8 +2227,8 @@ https://github.com/dapr/dapr/releases/tag/v1.13.6
 https://github.com/dapr/dapr/releases/tag/v1.14.5
 https://github.com/dapr/dapr/releases/tag/v1.15.14
 https://github.com/dapr/dapr/releases/tag/v1.16.20
-https://github.com/dapr/dapr/releases/tag/v1.17.14
-https://github.com/dapr/dapr/releases/tag/v1.18.4
+https://github.com/dapr/dapr/releases/tag/v1.17.15
+https://github.com/dapr/dapr/releases/tag/v1.18.5
 https://github.com/dapr/dapr/releases/tag/v1.8.7
 https://github.com/dapr/dapr/releases/tag/v1.9.6
 https://github.com/dbt-labs/dbt/releases/tag/v1.0.9
@@ -2539,7 +2540,7 @@ https://github.com/gradle/gradle/releases/tag/v4.10.3
 https://github.com/gradle/gradle/releases/tag/v5.6.4
 https://github.com/gradle/gradle/releases/tag/v6.9.4
 https://github.com/gradle/gradle/releases/tag/v7.6.6
-https://github.com/gradle/gradle/releases/tag/v8.14.5
+https://github.com/gradle/gradle/releases/tag/v8.14.6
 https://github.com/gradle/gradle/releases/tag/v9.8.1
 https://github.com/grafana/grafana/releases/tag/v10.0.13
 https://github.com/grafana/grafana/releases/tag/v10.1.10
@@ -3176,18 +3177,18 @@ https://github.com/metabase/metabase/releases/tag/v0.59.31.1
 https://github.com/metabase/metabase/releases/tag/v0.60.27
 https://github.com/metabase/metabase/releases/tag/v0.61.21
 https://github.com/metabase/metabase/releases/tag/v0.62.19.5
-https://github.com/metabase/metabase/releases/tag/v0.63.19.4
+https://github.com/metabase/metabase/releases/tag/v0.63.19.5
 https://github.com/metabase/metabase/releases/tag/v0.9.3
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v1.3.7
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v2.5.13
-https://github.com/micronaut-projects/micronaut-core/releases/tag/v3.10.14
-https://github.com/micronaut-projects/micronaut-core/releases/tag/v4.10.30
+https://github.com/micronaut-projects/micronaut-core/releases/tag/v3.10.15
+https://github.com/micronaut-projects/micronaut-core/releases/tag/v4.10.31
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v5.2.15
 https://github.com/mondoohq/cnspec/releases/tag/v10.12.2
 https://github.com/mondoohq/cnspec/releases/tag/v11.69.1
 https://github.com/mondoohq/cnspec/releases/tag/v12.23.1
 https://github.com/mondoohq/cnspec/releases/tag/v13.39.0
-https://github.com/mondoohq/cnspec/releases/tag/v14.3.1
+https://github.com/mondoohq/cnspec/releases/tag/v14.4.0
 https://github.com/mondoohq/cnspec/releases/tag/v6.19.0
 https://github.com/mondoohq/cnspec/releases/tag/v7.19.2
 https://github.com/mondoohq/cnspec/releases/tag/v8.28.4
@@ -3585,7 +3586,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.145.1
+https://github.com/renovatebot/renovate/releases/tag/44.148.3
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -3772,7 +3773,7 @@ https://github.com/squid-cache/squid/releases/tag/SQUID_7_7
 https://github.com/statamic/cms/blob/v3.3.68/CHANGELOG.md
 https://github.com/statamic/cms/blob/v3.4.17/CHANGELOG.md
 https://github.com/statamic/cms/blob/v4.58.3/CHANGELOG.md
-https://github.com/statamic/cms/blob/v5.74.5/CHANGELOG.md
+https://github.com/statamic/cms/blob/v5.74.6/CHANGELOG.md
 https://github.com/statamic/cms/blob/v6.35.1/CHANGELOG.md
 https://github.com/strapi/strapi/releases/tag/v3.6.11
 https://github.com/strapi/strapi/releases/tag/v4.26.2
@@ -5100,10 +5101,10 @@ https://unity.com/releases/editor/whats-new/2023.2.22#release-notes
 https://unity.com/releases/editor/whats-new/6000.0.84#release-notes
 https://unity.com/releases/editor/whats-new/6000.1.17#release-notes
 https://unity.com/releases/editor/whats-new/6000.2.15#release-notes
-https://unity.com/releases/editor/whats-new/6000.3.25#release-notes
+https://unity.com/releases/editor/whats-new/6000.3.26#release-notes
 https://unity.com/releases/editor/whats-new/6000.4.12#release-notes
 https://unity.com/releases/editor/whats-new/6000.5.11#release-notes
-https://unity.com/releases/editor/whats-new/6000.6.4#release-notes
+https://unity.com/releases/editor/whats-new/6000.6.5#release-notes
 https://vinyl-cache.org/releases/rel6.0.18.html
 https://vinyl-cache.org/releases/rel7.0.3.html
 https://vinyl-cache.org/releases/rel7.1.2.html
