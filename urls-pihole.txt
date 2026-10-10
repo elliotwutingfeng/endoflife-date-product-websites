@@ -20,6 +20,7 @@ camel.apache.org
 celeborn.apache.org
 checkmk.com
 cloud.google.com
+code.exim.org
 codeberg.org
 commerce-docs.github.io
 community.sonarsource.com
@@ -108,7 +109,6 @@ kernelnewbies.org
 laravel.com
 learn.microsoft.com
 lists.debian.org
-lists.exim.org
 logging.apache.org
 lucene.apache.org
 mariadb.com
