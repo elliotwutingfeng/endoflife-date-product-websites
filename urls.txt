@@ -617,6 +617,7 @@ https://confluence.atlassian.com/display/DOC/Confluence+1.4+Release+Notes
 https://confluence.atlassian.com/display/DOC/Confluence+10.0+Release+Notes
 https://confluence.atlassian.com/display/DOC/Confluence+10.1+Release+Notes
 https://confluence.atlassian.com/display/DOC/Confluence+10.2+Release+Notes
+https://confluence.atlassian.com/display/DOC/Confluence+11.0+Release+Notes
 https://confluence.atlassian.com/display/DOC/Confluence+2.0+Release+Notes
 https://confluence.atlassian.com/display/DOC/Confluence+2.1+Release+Notes
 https://confluence.atlassian.com/display/DOC/Confluence+2.10+Release+Notes
@@ -2704,7 +2705,7 @@ https://github.com/hibernate/hibernate-orm/releases/tag/7.0.10
 https://github.com/hibernate/hibernate-orm/releases/tag/7.1.36
 https://github.com/hibernate/hibernate-orm/releases/tag/7.2.25
 https://github.com/hibernate/hibernate-orm/releases/tag/7.3.13
-https://github.com/hibernate/hibernate-orm/releases/tag/7.4.12
+https://github.com/hibernate/hibernate-orm/releases/tag/7.4.13
 https://github.com/influxdata/influxdb/releases/tag/v1.13.1
 https://github.com/influxdata/influxdb/releases/tag/v2.9.1
 https://github.com/influxdata/influxdb/releases/tag/v3.0.3
@@ -2944,6 +2945,7 @@ https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.11.2
 https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.12.1
 https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.13.0
 https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.14.1
+https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.15.0
 https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.2.5
 https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.3.5
 https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.4.2
@@ -3359,9 +3361,9 @@ https://github.com/phpmyadmin/phpmyadmin/blob/QA_5_2/ChangeLog
 https://github.com/phpro/grumphp/releases/tag/v0.22.0
 https://github.com/phpro/grumphp/releases/tag/v1.16.0
 https://github.com/phpro/grumphp/releases/tag/v2.25.0
-https://github.com/pnpm/pnpm/releases/tag/v10.34.6
+https://github.com/pnpm/pnpm/releases/tag/v10.34.7
 https://github.com/pnpm/pnpm/releases/tag/v11.28.5
-https://github.com/pnpm/pnpm/releases/tag/v12.12.0
+https://github.com/pnpm/pnpm/releases/tag/v12.12.1
 https://github.com/pnpm/pnpm/releases/tag/v4.14.4
 https://github.com/pnpm/pnpm/releases/tag/v5.18.11
 https://github.com/pnpm/pnpm/releases/tag/v6.35.1
@@ -3591,7 +3593,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.149.2
+https://github.com/renovatebot/renovate/releases/tag/44.151.2
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -5691,6 +5693,15 @@ https://www.oracle.com/java/technologies/javase/9-0-4-relnotes.html
 https://www.oracle.com/java/technologies/javase/advanced-v142-support-relnotes.html
 https://www.oracle.com/java/technologies/javase/advancedv5-support-relnotes.html
 https://www.oracle.com/java/technologies/javase/releasenote-v131.html
+https://www.pgadmin.org/docs/pgadmin4/latest/release_notes_1_6.html
+https://www.pgadmin.org/docs/pgadmin4/latest/release_notes_2_1.html
+https://www.pgadmin.org/docs/pgadmin4/latest/release_notes_3_6.html
+https://www.pgadmin.org/docs/pgadmin4/latest/release_notes_4_30.html
+https://www.pgadmin.org/docs/pgadmin4/latest/release_notes_5_7.html
+https://www.pgadmin.org/docs/pgadmin4/latest/release_notes_6_21.html
+https://www.pgadmin.org/docs/pgadmin4/latest/release_notes_7_8.html
+https://www.pgadmin.org/docs/pgadmin4/latest/release_notes_8_14.html
+https://www.pgadmin.org/docs/pgadmin4/latest/release_notes_9_18.html
 https://www.php.net/ChangeLog-5.php#5.0.5
 https://www.php.net/ChangeLog-5.php#5.1.6
 https://www.php.net/ChangeLog-5.php#5.2.17
