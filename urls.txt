@@ -318,7 +318,7 @@ https://camel.apache.org/releases/release-4.19.0/
 https://camel.apache.org/releases/release-4.2.0/
 https://camel.apache.org/releases/release-4.20.0/
 https://camel.apache.org/releases/release-4.21.0/
-https://camel.apache.org/releases/release-4.22.1/
+https://camel.apache.org/releases/release-4.22.2/
 https://camel.apache.org/releases/release-4.3.0/
 https://camel.apache.org/releases/release-4.4.5/
 https://camel.apache.org/releases/release-4.5.0/
@@ -2948,7 +2948,7 @@ https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.10.1
 https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.11.2
 https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.12.1
 https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.13.0
-https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.14.1
+https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.14.2
 https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.15.0
 https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.2.5
 https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.3.5
@@ -3188,7 +3188,7 @@ https://github.com/metabase/metabase/releases/tag/v0.60.27
 https://github.com/metabase/metabase/releases/tag/v0.61.21.1
 https://github.com/metabase/metabase/releases/tag/v0.62.19.5
 https://github.com/metabase/metabase/releases/tag/v0.63.20.2
-https://github.com/metabase/metabase/releases/tag/v0.64.2.7
+https://github.com/metabase/metabase/releases/tag/v0.64.2.8
 https://github.com/metabase/metabase/releases/tag/v0.9.3
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v1.3.7
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v2.5.13
@@ -3597,7 +3597,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.165.1
+https://github.com/renovatebot/renovate/releases/tag/44.166.0
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -4831,7 +4831,7 @@ https://releases.electronjs.org/release/v40.10.6
 https://releases.electronjs.org/release/v41.10.7
 https://releases.electronjs.org/release/v42.11.15
 https://releases.electronjs.org/release/v43.8.0
-https://releases.electronjs.org/release/v44.8.0
+https://releases.electronjs.org/release/v44.9.0
 https://releases.electronjs.org/release/v5.0.13
 https://releases.electronjs.org/release/v6.1.12
 https://releases.electronjs.org/release/v7.3.3
