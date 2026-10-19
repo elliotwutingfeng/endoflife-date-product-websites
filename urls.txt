@@ -1817,6 +1817,7 @@ https://github.com/RocketChat/Rocket.Chat/releases/tag/8.5.4
 https://github.com/RocketChat/Rocket.Chat/releases/tag/8.6.3
 https://github.com/RocketChat/Rocket.Chat/releases/tag/8.7.1
 https://github.com/RocketChat/Rocket.Chat/releases/tag/8.8.1
+https://github.com/RocketChat/Rocket.Chat/releases/tag/8.9.0
 https://github.com/RotherOSS/otobo/blob/rel-10_0/CHANGES.md
 https://github.com/RotherOSS/otobo/blob/rel-10_1/CHANGES.md
 https://github.com/RotherOSS/otobo/blob/rel-11_0/CHANGES.md
@@ -2704,7 +2705,7 @@ https://github.com/hibernate/hibernate-orm/releases/tag/6.2.52
 https://github.com/hibernate/hibernate-orm/releases/tag/6.3.2
 https://github.com/hibernate/hibernate-orm/releases/tag/6.4.10
 https://github.com/hibernate/hibernate-orm/releases/tag/6.5.3
-https://github.com/hibernate/hibernate-orm/releases/tag/6.6.58
+https://github.com/hibernate/hibernate-orm/releases/tag/6.6.59
 https://github.com/hibernate/hibernate-orm/releases/tag/7.0.10
 https://github.com/hibernate/hibernate-orm/releases/tag/7.1.36
 https://github.com/hibernate/hibernate-orm/releases/tag/7.2.25
@@ -3010,6 +3011,7 @@ https://github.com/kumahq/kuma/releases/tag/v2.12.15
 https://github.com/kumahq/kuma/releases/tag/v2.13.11
 https://github.com/kumahq/kuma/releases/tag/v2.14.6
 https://github.com/kumahq/kuma/releases/tag/v2.7.30
+https://github.com/kumahq/kuma/releases/tag/v3.0.0
 https://github.com/kyverno/kyverno/releases/tag/v1.10.7
 https://github.com/kyverno/kyverno/releases/tag/v1.11.5
 https://github.com/kyverno/kyverno/releases/tag/v1.12.7
@@ -3597,7 +3599,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.166.0
+https://github.com/renovatebot/renovate/releases/tag/44.167.5
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -4128,6 +4130,7 @@ https://help.sonatype.com/en/sonatype-nexus-repository-3-93-0-release-notes.html
 https://help.sonatype.com/en/sonatype-nexus-repository-3-94-0-release-notes.html
 https://help.sonatype.com/en/sonatype-nexus-repository-3-95-0-release-notes.html
 https://help.sonatype.com/en/sonatype-nexus-repository-3-96-0-release-notes.html
+https://help.sonatype.com/en/sonatype-nexus-repository-3-97-0-release-notes.html
 https://help.sonatype.com/repomanager2/release-notes
 https://help.splunk.com/en/splunk-enterprise/release-notes-and-updates/release-notes/10.0/
 https://help.splunk.com/en/splunk-enterprise/release-notes-and-updates/release-notes/10.2/
@@ -5252,6 +5255,7 @@ https://wiki.ubuntu.com/QuestingQuokka/ReleaseNotes/
 https://wiki.ubuntu.com/RaringRingtail/ReleaseNotes/
 https://wiki.ubuntu.com/ResoluteRaccoon/ReleaseNotes/
 https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/
+https://wiki.ubuntu.com/StonkingStingray/ReleaseNotes/
 https://wiki.ubuntu.com/TrustyTahr/ReleaseNotes/
 https://wiki.ubuntu.com/UtopicUnicorn/ReleaseNotes/
 https://wiki.ubuntu.com/VividVervet/ReleaseNotes/
