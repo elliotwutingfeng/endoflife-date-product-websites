@@ -1380,8 +1380,8 @@ https://docs.redhat.com/en/documentation/openshift_container_platform/4.6/html/r
 https://docs.redhat.com/en/documentation/openshift_container_platform/4.7/html/release_notes/ocp-4-7-release-notes
 https://docs.redhat.com/en/documentation/openshift_container_platform/4.8/html/release_notes/ocp-4-8-release-notes
 https://docs.redhat.com/en/documentation/openshift_container_platform/4.9/html/release_notes/ocp-4-9-release-notes
-https://docs.saltproject.io/en/3006/topics/releases/3006.28.html
-https://docs.saltproject.io/en/3008/topics/releases/3008.3.html
+https://docs.saltproject.io/en/3006/topics/releases/3006.29.html
+https://docs.saltproject.io/en/3008/topics/releases/3008.4.html
 https://docs.saltproject.io/en/latest/topics/releases/2014.7.9.html
 https://docs.saltproject.io/en/latest/topics/releases/2015.5.11.html
 https://docs.saltproject.io/en/latest/topics/releases/2015.8.13.html
@@ -1863,7 +1863,7 @@ https://github.com/adoptium/temurin23-binaries/releases/tag/jdk-23.0.2+7
 https://github.com/adoptium/temurin24-binaries/releases/tag/jdk-24.0.2+12
 https://github.com/adoptium/temurin25-binaries/releases/tag/jdk-25.0.5+8
 https://github.com/adoptium/temurin26-binaries/releases/tag/jdk-26.0.2.1+1
-https://github.com/adoptium/temurin27-binaries/releases/tag/jdk-27+35
+https://github.com/adoptium/temurin27-binaries/releases/tag/jdk-27.0.1.0.2+1
 https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u504-b01
 https://github.com/akeneo/pim-community-dev/blob/1.6/CHANGELOG-1.6.md
 https://github.com/akeneo/pim-community-dev/blob/1.7/CHANGELOG-1.7.md
@@ -3605,7 +3605,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.181.0
+https://github.com/renovatebot/renovate/releases/tag/44.181.4
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -3794,7 +3794,7 @@ https://github.com/statamic/cms/blob/v3.3.68/CHANGELOG.md
 https://github.com/statamic/cms/blob/v3.4.17/CHANGELOG.md
 https://github.com/statamic/cms/blob/v4.58.3/CHANGELOG.md
 https://github.com/statamic/cms/blob/v5.74.7/CHANGELOG.md
-https://github.com/statamic/cms/blob/v6.37.0/CHANGELOG.md
+https://github.com/statamic/cms/blob/v6.38.0/CHANGELOG.md
 https://github.com/strapi/strapi/releases/tag/v3.6.11
 https://github.com/strapi/strapi/releases/tag/v4.26.2
 https://github.com/strapi/strapi/releases/tag/v5.59.0
