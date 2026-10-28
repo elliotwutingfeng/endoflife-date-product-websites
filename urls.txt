@@ -984,7 +984,7 @@ https://docs.azul.com/core/release/july-2023/release-notes/release-notes
 https://docs.azul.com/core/release/july-2024/release-notes/release-notes
 https://docs.azul.com/core/release/july-2025/release-notes.html
 https://docs.bell-sw.com/liberica-jdk/10.0.2/general/release-notes/
-https://docs.bell-sw.com/liberica-jdk/11.0.33.0.2b5/general/release-notes/
+https://docs.bell-sw.com/liberica-jdk/11.0.33.0.3b7/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/12.0.2b10/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/13.0.2b9/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/14.0.2b13/general/release-notes/
@@ -1001,7 +1001,7 @@ https://docs.bell-sw.com/liberica-jdk/24.0.2b12/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/25.0.5.0.3b5/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/26.0.2.1b1/general/release-notes/
 https://docs.bell-sw.com/liberica-jdk/27.0.1.0.3b5/general/release-notes/
-https://docs.bell-sw.com/liberica-jdk/8u513b5/general/release-notes/
+https://docs.bell-sw.com/liberica-jdk/8u513b9/general/release-notes/
 https://docs.bmc.com/xwiki/bin/view/Control-M-Orchestration/Control-M/ctm9018/Control-M-Version-9-0-18-200-Release-Notes/
 https://docs.bmc.com/xwiki/bin/view/Control-M-Orchestration/Control-M/ctm9019/Control-M-Version-9-0-19-200-Release-Notes/
 https://docs.bmc.com/xwiki/bin/view/Control-M-Orchestration/Control-M/ctm9020/Control-M-Version-9-0-20-200-Release-Notes/
@@ -1488,6 +1488,7 @@ https://docs.yoctoproject.org/migration-guides/migration-5.1.html
 https://docs.yoctoproject.org/migration-guides/migration-5.2.html
 https://docs.yoctoproject.org/migration-guides/migration-5.3.html
 https://docs.yoctoproject.org/migration-guides/migration-6.0.html
+https://docs.yoctoproject.org/migration-guides/migration-6.1.html
 https://documentation.commvault.com/11.40/essential/list_of_maintenance_releases_in_11_40.html
 https://documentation.commvault.com/11.40/software/changes_in_commvault_platform_release_2023e.html
 https://documentation.commvault.com/11.40/software/changes_in_innovation_release_11_38.html
@@ -1744,6 +1745,7 @@ https://github.com/PrivateBin/PrivateBin/releases/tag/1.5.2
 https://github.com/PrivateBin/PrivateBin/releases/tag/1.6.2
 https://github.com/PrivateBin/PrivateBin/releases/tag/1.7.9
 https://github.com/PrivateBin/PrivateBin/releases/tag/2.0.6
+https://github.com/PrivateBin/PrivateBin/releases/tag/2.1.0
 https://github.com/RocketChat/Rocket.Chat/releases/tag/1.0.5
 https://github.com/RocketChat/Rocket.Chat/releases/tag/1.1.5
 https://github.com/RocketChat/Rocket.Chat/releases/tag/1.2.4
@@ -2476,6 +2478,7 @@ https://github.com/fluent/fluent-bit/releases/tag/v5.1.5
 https://github.com/fluxcd/flux/releases/tag/1.25.4
 https://github.com/fluxcd/flux2/releases/tag/v2.0.1
 https://github.com/fluxcd/flux2/releases/tag/v2.1.2
+https://github.com/fluxcd/flux2/releases/tag/v2.10.0
 https://github.com/fluxcd/flux2/releases/tag/v2.2.3
 https://github.com/fluxcd/flux2/releases/tag/v2.3.0
 https://github.com/fluxcd/flux2/releases/tag/v2.4.0
@@ -2575,10 +2578,10 @@ https://github.com/grafana/grafana/releases/tag/v12.0.10
 https://github.com/grafana/grafana/releases/tag/v12.1.10+security-01
 https://github.com/grafana/grafana/releases/tag/v12.2.10
 https://github.com/grafana/grafana/releases/tag/v12.3.11
-https://github.com/grafana/grafana/releases/tag/v12.4.13
-https://github.com/grafana/grafana/releases/tag/v13.0.11
-https://github.com/grafana/grafana/releases/tag/v13.1.8
-https://github.com/grafana/grafana/releases/tag/v13.2.4
+https://github.com/grafana/grafana/releases/tag/v12.4.14
+https://github.com/grafana/grafana/releases/tag/v13.0.12
+https://github.com/grafana/grafana/releases/tag/v13.1.9
+https://github.com/grafana/grafana/releases/tag/v13.2.5
 https://github.com/grafana/grafana/releases/tag/v6.7.6
 https://github.com/grafana/grafana/releases/tag/v7.5.17
 https://github.com/grafana/grafana/releases/tag/v8.5.27
@@ -3141,6 +3144,7 @@ https://github.com/meilisearch/meilisearch/releases/tag/v1.52.4
 https://github.com/meilisearch/meilisearch/releases/tag/v1.53.3
 https://github.com/meilisearch/meilisearch/releases/tag/v1.54.3
 https://github.com/meilisearch/meilisearch/releases/tag/v1.55.0
+https://github.com/meilisearch/meilisearch/releases/tag/v1.56.0
 https://github.com/meilisearch/meilisearch/releases/tag/v1.6.2
 https://github.com/meilisearch/meilisearch/releases/tag/v1.7.6
 https://github.com/meilisearch/meilisearch/releases/tag/v1.8.4
@@ -3196,13 +3200,13 @@ https://github.com/metabase/metabase/releases/tag/v0.54.24
 https://github.com/metabase/metabase/releases/tag/v0.55.24.1
 https://github.com/metabase/metabase/releases/tag/v0.56.25.1
 https://github.com/metabase/metabase/releases/tag/v0.57.20
-https://github.com/metabase/metabase/releases/tag/v0.58.37.1
+https://github.com/metabase/metabase/releases/tag/v0.58.38
 https://github.com/metabase/metabase/releases/tag/v0.59.31.1
 https://github.com/metabase/metabase/releases/tag/v0.60.27
 https://github.com/metabase/metabase/releases/tag/v0.61.21.1
 https://github.com/metabase/metabase/releases/tag/v0.62.19.5
-https://github.com/metabase/metabase/releases/tag/v0.63.21.1
-https://github.com/metabase/metabase/releases/tag/v0.64.3.5
+https://github.com/metabase/metabase/releases/tag/v0.63.22
+https://github.com/metabase/metabase/releases/tag/v0.64.3.6
 https://github.com/metabase/metabase/releases/tag/v0.9.3
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v1.3.7
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v2.5.13
@@ -3213,7 +3217,7 @@ https://github.com/mondoohq/cnspec/releases/tag/v10.12.2
 https://github.com/mondoohq/cnspec/releases/tag/v11.69.1
 https://github.com/mondoohq/cnspec/releases/tag/v12.23.1
 https://github.com/mondoohq/cnspec/releases/tag/v13.39.0
-https://github.com/mondoohq/cnspec/releases/tag/v14.8.0
+https://github.com/mondoohq/cnspec/releases/tag/v14.9.0
 https://github.com/mondoohq/cnspec/releases/tag/v6.19.0
 https://github.com/mondoohq/cnspec/releases/tag/v7.19.2
 https://github.com/mondoohq/cnspec/releases/tag/v8.28.4
@@ -3382,7 +3386,7 @@ https://github.com/phpro/grumphp/releases/tag/v1.16.0
 https://github.com/phpro/grumphp/releases/tag/v2.26.0
 https://github.com/pnpm/pnpm/releases/tag/v10.34.9
 https://github.com/pnpm/pnpm/releases/tag/v11.28.9
-https://github.com/pnpm/pnpm/releases/tag/v12.16.0
+https://github.com/pnpm/pnpm/releases/tag/v12.16.1
 https://github.com/pnpm/pnpm/releases/tag/v4.14.4
 https://github.com/pnpm/pnpm/releases/tag/v5.18.11
 https://github.com/pnpm/pnpm/releases/tag/v6.35.1
@@ -3547,6 +3551,7 @@ https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.0.9
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.1.8
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.9
 https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.3.7
+https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.4.0
 https://github.com/rails/rails/releases/tag/v4.2.11.3
 https://github.com/rails/rails/releases/tag/v5.0.7.2
 https://github.com/rails/rails/releases/tag/v5.1.7
@@ -3603,6 +3608,7 @@ https://github.com/react/react-native/releases/tag/v0.84.1
 https://github.com/react/react-native/releases/tag/v0.85.3
 https://github.com/react/react-native/releases/tag/v0.86.3
 https://github.com/react/react-native/releases/tag/v0.87.1
+https://github.com/react/react-native/releases/tag/v0.88.1
 https://github.com/react/react/releases/tag/v15.7.0
 https://github.com/react/react/releases/tag/v16.14.0
 https://github.com/react/react/releases/tag/v17.0.2
@@ -3612,7 +3618,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.186.6
+https://github.com/renovatebot/renovate/releases/tag/44.190.0
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -3888,10 +3894,10 @@ https://github.com/twbs/bootstrap/releases/tag/v5.3.8
 https://github.com/twigphp/Twig/blob/1.x/CHANGELOG
 https://github.com/twigphp/Twig/blob/2.x/CHANGELOG
 https://github.com/twigphp/Twig/blob/3.x/CHANGELOG
-https://github.com/umbraco/Umbraco-CMS/releases/tag/release-13.16.2
+https://github.com/umbraco/Umbraco-CMS/releases/tag/release-13.16.3
 https://github.com/umbraco/Umbraco-CMS/releases/tag/release-16.5.1
-https://github.com/umbraco/Umbraco-CMS/releases/tag/release-17.7.1
-https://github.com/umbraco/Umbraco-CMS/releases/tag/release-18.2.1
+https://github.com/umbraco/Umbraco-CMS/releases/tag/release-17.7.2
+https://github.com/umbraco/Umbraco-CMS/releases/tag/release-18.2.2
 https://github.com/unrealircd/unrealircd/blob/unreal42/doc/RELEASE-NOTES
 https://github.com/unrealircd/unrealircd/blob/unreal52/doc/RELEASE-NOTES.md#unrealircd-524
 https://github.com/unrealircd/unrealircd/blob/unreal60_dev/doc/RELEASE-NOTES.md#unrealircd-627
@@ -4223,7 +4229,7 @@ https://kde.org/announcements/plasma/6/6.4.6/
 https://kde.org/announcements/plasma/6/6.5.6/
 https://kde.org/announcements/plasma/6/6.6.7/
 https://kde.org/announcements/plasma/6/6.7.5/
-https://kde.org/announcements/plasma/6/6.8.1/
+https://kde.org/announcements/plasma/6/6.8.2/
 https://kernelnewbies.org/Linux_4.14
 https://kernelnewbies.org/Linux_4.19
 https://kernelnewbies.org/Linux_4.9
@@ -4848,9 +4854,9 @@ https://releases.electronjs.org/release/v4.2.12
 https://releases.electronjs.org/release/v40.10.6
 https://releases.electronjs.org/release/v41.10.7
 https://releases.electronjs.org/release/v42.11.18
-https://releases.electronjs.org/release/v43.8.3
-https://releases.electronjs.org/release/v44.9.3
-https://releases.electronjs.org/release/v45.0.0
+https://releases.electronjs.org/release/v43.8.4
+https://releases.electronjs.org/release/v44.10.0
+https://releases.electronjs.org/release/v45.1.0
 https://releases.electronjs.org/release/v5.0.13
 https://releases.electronjs.org/release/v6.1.12
 https://releases.electronjs.org/release/v7.3.3
@@ -4867,7 +4873,7 @@ https://releases.umbraco.com/release/umbraco/Umbraco-CMS/9.5.4
 https://rockylinux.org/news/rocky-linux-10-2-ga-release/
 https://rockylinux.org/news/rocky-linux-8-10-ga-release/
 https://rockylinux.org/news/rocky-linux-9-8-ga-release/
-https://solr.apache.org/docs/10_0_0/changes/Changes.html
+https://solr.apache.org/docs/10_1_0/changes/Changes.html
 https://solr.apache.org/docs/4_10_4/changes/Changes.html
 https://solr.apache.org/docs/5_5_5/changes/Changes.html
 https://solr.apache.org/docs/6_6_6/changes/Changes.html
@@ -4897,8 +4903,8 @@ https://spark.apache.org/releases/spark-release-3-2-4.html
 https://spark.apache.org/releases/spark-release-3-3-4.html
 https://spark.apache.org/releases/spark-release-3-4-4.html
 https://spark.apache.org/releases/spark-release-3-5-9.html
-https://spark.apache.org/releases/spark-release-4-0-4.html
-https://spark.apache.org/releases/spark-release-4-2-0.html
+https://spark.apache.org/releases/spark-release-4-0-5.html
+https://spark.apache.org/releases/spark-release-4-2-1.html
 https://struts.apache.org/struts1eol-announcement.html
 https://subversion.apache.org/docs/release-notes/1.1.html
 https://subversion.apache.org/docs/release-notes/1.10.html
@@ -5517,12 +5523,13 @@ https://www.firefox.com/firefox/149.0.2/releasenotes/
 https://www.firefox.com/firefox/150.0.3/releasenotes/
 https://www.firefox.com/firefox/151.0.4/releasenotes/
 https://www.firefox.com/firefox/152.0.6/releasenotes/
-https://www.firefox.com/firefox/153.5.1/releasenotes/
+https://www.firefox.com/firefox/153.6.0/releasenotes/
 https://www.firefox.com/firefox/154.0.1/releasenotes/
 https://www.firefox.com/firefox/155.0.1/releasenotes/
 https://www.firefox.com/firefox/156.0.1/releasenotes/
 https://www.firefox.com/firefox/157.0.1/releasenotes/
 https://www.firefox.com/firefox/158.0.1/releasenotes/
+https://www.firefox.com/firefox/159.0/releasenotes/
 https://www.firefox.com/firefox/78.15.0/releasenotes/
 https://www.firefox.com/firefox/91.13.0/releasenotes/
 https://www.gerritcodereview.com/2.13.html#21314
