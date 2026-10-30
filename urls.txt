@@ -135,6 +135,7 @@ https://archive.apache.org/dist/kafka/4.0.2/RELEASE_NOTES.html
 https://archive.apache.org/dist/kafka/4.1.2/RELEASE_NOTES.html
 https://archive.apache.org/dist/kafka/4.2.2/RELEASE_NOTES.html
 https://archive.apache.org/dist/kafka/4.3.2/RELEASE_NOTES.html
+https://archive.apache.org/dist/kafka/4.4.0/RELEASE_NOTES.html
 https://archive.apache.org/dist/kafka/old_releases/kafka-0.7.2-incubating/RELEASE-NOTES.html
 https://archive.docs.mulesoft.com/mule-runtime/4.10/
 https://archive.docs.mulesoft.com/mule-runtime/4.5/
@@ -1314,14 +1315,14 @@ https://docs.paloaltonetworks.com/globalprotect/release-notes/6-0/globalprotect-
 https://docs.paloaltonetworks.com/globalprotect/release-notes/6-1/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/release-notes/6-2/globalprotect-addressed-issues
 https://docs.paloaltonetworks.com/globalprotect/release-notes/6-3/globalprotect-addressed-issues
-https://docs.paloaltonetworks.com/ngfw/release-notes/12-1/pan-os-12-1-10-known-and-addressed-issues/pan-os-12-1-10-h2-addressed-issues
+https://docs.paloaltonetworks.com/ngfw/release-notes/12-1/pan-os-12-1-10-known-and-addressed-issues/pan-os-12-1-10-h3-addressed-issues
 https://docs.paloaltonetworks.com/ngfw/release-notes/12-2/pan-os-12-2-4-known-and-addressed-issues/pan-os-12-2-4-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h6-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h20-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-18-known-and-addressed-issues/pan-os-10-2-18-h13-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-16-known-and-addressed-issues/pan-os-11-1-16-h4-addressed-issues
-https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-16-known-and-addressed-issues/pan-os-11-2-16-addressed-issues
+https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-16-known-and-addressed-issues/pan-os-11-2-16-h1-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/8-1/pan-os-release-notes/pan-os-8-1-addressed-issues/pan-os-8-1-24-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-0/pan-os-release-notes/pan-os-9-0-addressed-issues/pan-os-9-0-17-h5-addressed-issues
 https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-release-notes/pan-os-9-1-addressed-issues/pan-os-9-1-19-addressed-issues
@@ -1594,7 +1595,7 @@ https://getcomposer.org/changelog/1.10.28
 https://getcomposer.org/changelog/2.0.14
 https://getcomposer.org/changelog/2.1.14
 https://getcomposer.org/changelog/2.10.3
-https://getcomposer.org/changelog/2.2.30
+https://getcomposer.org/changelog/2.2.31
 https://getcomposer.org/changelog/2.3.10
 https://getcomposer.org/changelog/2.4.4
 https://getcomposer.org/changelog/2.5.8
@@ -1635,7 +1636,7 @@ https://github.com/FortAwesome/Font-Awesome/releases/tag/v1.0.0
 https://github.com/FortAwesome/Font-Awesome/releases/tag/v3.2.1
 https://github.com/FortAwesome/Font-Awesome/releases/tag/v4.7.0
 https://github.com/GoogleCloudPlatform/cloud-sql-proxy/releases/tag/v1.38.4
-https://github.com/GoogleCloudPlatform/cloud-sql-proxy/releases/tag/v2.26.3
+https://github.com/GoogleCloudPlatform/cloud-sql-proxy/releases/tag/v2.27.0
 https://github.com/Icinga/icinga2/releases/tag/v2.0.2/
 https://github.com/Icinga/icinga2/releases/tag/v2.1.1/
 https://github.com/Icinga/icinga2/releases/tag/v2.11.12/
@@ -1681,7 +1682,7 @@ https://github.com/JetBrains/kotlin/releases/tag/v2.2.21
 https://github.com/JetBrains/kotlin/releases/tag/v2.3.21
 https://github.com/JetBrains/kotlin/releases/tag/v2.4.21
 https://github.com/JuliaLang/julia/blob/v1.0.5/NEWS.md
-https://github.com/JuliaLang/julia/blob/v1.10.12/NEWS.md
+https://github.com/JuliaLang/julia/blob/v1.10.13/NEWS.md
 https://github.com/JuliaLang/julia/blob/v1.11.9/NEWS.md
 https://github.com/JuliaLang/julia/blob/v1.12.7/NEWS.md
 https://github.com/JuliaLang/julia/blob/v1.13.3/NEWS.md
@@ -1903,7 +1904,7 @@ https://github.com/angular/angular/releases/tag/9.1.13
 https://github.com/angular/angular/releases/tag/v19.2.25
 https://github.com/angular/angular/releases/tag/v20.3.34
 https://github.com/angular/angular/releases/tag/v21.2.25
-https://github.com/angular/angular/releases/tag/v22.2.3
+https://github.com/angular/angular/releases/tag/v22.2.4
 https://github.com/angular/protractor/blob/master/CHANGELOG.md#180
 https://github.com/angular/protractor/blob/master/CHANGELOG.md#251
 https://github.com/angular/protractor/blob/master/CHANGELOG.md#330
@@ -1940,6 +1941,7 @@ https://github.com/ansible/ansible/blob/stable-2.9/changelogs/CHANGELOG-v2.9.rst
 https://github.com/apache/activemq/releases/tag/activemq-5.19.12
 https://github.com/apache/activemq/releases/tag/activemq-6.2.10
 https://github.com/apache/activemq/releases/tag/activemq-6.3.3
+https://github.com/apache/activemq/releases/tag/activemq-6.4.0
 https://github.com/apache/apisix/releases/tag/2.10.5
 https://github.com/apache/apisix/releases/tag/2.11.0
 https://github.com/apache/apisix/releases/tag/2.12.1
@@ -2651,6 +2653,7 @@ https://github.com/hashicorp/consul/blob/v1.7.14/CHANGELOG.md
 https://github.com/hashicorp/consul/blob/v1.8.19/CHANGELOG.md
 https://github.com/hashicorp/consul/blob/v1.9.17/CHANGELOG.md
 https://github.com/hashicorp/consul/blob/v2.0.4/CHANGELOG.md
+https://github.com/hashicorp/consul/blob/v2.1.0/CHANGELOG.md
 https://github.com/hashicorp/nomad/blob/v0.12.12/CHANGELOG.md
 https://github.com/hashicorp/nomad/blob/v1.0.18/CHANGELOG.md
 https://github.com/hashicorp/nomad/blob/v1.1.18/CHANGELOG.md
@@ -2707,6 +2710,7 @@ https://github.com/hashicorp/vault/releases/tag/v1.21.4
 https://github.com/hashicorp/vault/releases/tag/v1.9.10
 https://github.com/hashicorp/vault/releases/tag/v2.0.4
 https://github.com/hashicorp/vault/releases/tag/v2.1.2
+https://github.com/hashicorp/vault/releases/tag/v2.2.1
 https://github.com/hibernate/hibernate-orm/releases/tag/5.3.39
 https://github.com/hibernate/hibernate-orm/releases/tag/5.4.33
 https://github.com/hibernate/hibernate-orm/releases/tag/5.5.9
@@ -3018,12 +3022,12 @@ https://github.com/kumahq/kuma/releases/tag/2.6.15
 https://github.com/kumahq/kuma/releases/tag/2.8.8
 https://github.com/kumahq/kuma/releases/tag/2.9.20
 https://github.com/kumahq/kuma/releases/tag/v2.10.11
-https://github.com/kumahq/kuma/releases/tag/v2.11.19
+https://github.com/kumahq/kuma/releases/tag/v2.11.20
 https://github.com/kumahq/kuma/releases/tag/v2.12.15
-https://github.com/kumahq/kuma/releases/tag/v2.13.11
-https://github.com/kumahq/kuma/releases/tag/v2.14.6
+https://github.com/kumahq/kuma/releases/tag/v2.13.12
+https://github.com/kumahq/kuma/releases/tag/v2.14.7
 https://github.com/kumahq/kuma/releases/tag/v2.7.30
-https://github.com/kumahq/kuma/releases/tag/v3.0.0
+https://github.com/kumahq/kuma/releases/tag/v3.0.1
 https://github.com/kyverno/kyverno/releases/tag/v1.10.7
 https://github.com/kyverno/kyverno/releases/tag/v1.11.5
 https://github.com/kyverno/kyverno/releases/tag/v1.12.7
@@ -3067,10 +3071,10 @@ https://github.com/mastodon/mastodon/releases/tag/v4.0.15
 https://github.com/mastodon/mastodon/releases/tag/v4.1.25
 https://github.com/mastodon/mastodon/releases/tag/v4.2.29
 https://github.com/mastodon/mastodon/releases/tag/v4.3.23
-https://github.com/mastodon/mastodon/releases/tag/v4.4.26
-https://github.com/mastodon/mastodon/releases/tag/v4.5.19
-https://github.com/mastodon/mastodon/releases/tag/v4.6.9
-https://github.com/mastodon/mastodon/releases/tag/v4.7.3
+https://github.com/mastodon/mastodon/releases/tag/v4.4.27
+https://github.com/mastodon/mastodon/releases/tag/v4.5.20
+https://github.com/mastodon/mastodon/releases/tag/v4.6.10
+https://github.com/mastodon/mastodon/releases/tag/v4.7.4
 https://github.com/matomo-org/matomo/releases/tag/1.12
 https://github.com/matomo-org/matomo/releases/tag/2.18.1
 https://github.com/matomo-org/matomo/releases/tag/3.14.1
@@ -3208,7 +3212,7 @@ https://github.com/metabase/metabase/releases/tag/v0.60.27
 https://github.com/metabase/metabase/releases/tag/v0.61.21.1
 https://github.com/metabase/metabase/releases/tag/v0.62.19.5
 https://github.com/metabase/metabase/releases/tag/v0.63.22
-https://github.com/metabase/metabase/releases/tag/v0.64.4.1
+https://github.com/metabase/metabase/releases/tag/v0.64.4.2
 https://github.com/metabase/metabase/releases/tag/v0.9.3
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v1.3.7
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v2.5.13
@@ -3354,8 +3358,8 @@ https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-40
 https://github.com/openssl/openssl/blob/master/CHANGES.md#openssl-41
 https://github.com/opentofu/opentofu/blob/v1.10.10/CHANGELOG.md
 https://github.com/opentofu/opentofu/blob/v1.11.14/CHANGELOG.md
-https://github.com/opentofu/opentofu/blob/v1.12.9/CHANGELOG.md
-https://github.com/opentofu/opentofu/blob/v1.13.2/CHANGELOG.md
+https://github.com/opentofu/opentofu/blob/v1.12.11/CHANGELOG.md
+https://github.com/opentofu/opentofu/blob/v1.13.5/CHANGELOG.md
 https://github.com/opentofu/opentofu/blob/v1.6.3/CHANGELOG.md
 https://github.com/opentofu/opentofu/blob/v1.7.10/CHANGELOG.md
 https://github.com/opentofu/opentofu/blob/v1.8.11/CHANGELOG.md
@@ -3569,11 +3573,11 @@ https://github.com/rancher/rancher/releases/tag/v1.6.30
 https://github.com/rancher/rancher/releases/tag/v2.0.16
 https://github.com/rancher/rancher/releases/tag/v2.1.14
 https://github.com/rancher/rancher/releases/tag/v2.10.12
-https://github.com/rancher/rancher/releases/tag/v2.11.18
-https://github.com/rancher/rancher/releases/tag/v2.12.14
-https://github.com/rancher/rancher/releases/tag/v2.13.10
-https://github.com/rancher/rancher/releases/tag/v2.14.6
-https://github.com/rancher/rancher/releases/tag/v2.15.2
+https://github.com/rancher/rancher/releases/tag/v2.11.19
+https://github.com/rancher/rancher/releases/tag/v2.12.15
+https://github.com/rancher/rancher/releases/tag/v2.13.11
+https://github.com/rancher/rancher/releases/tag/v2.14.7
+https://github.com/rancher/rancher/releases/tag/v2.15.3
 https://github.com/rancher/rancher/releases/tag/v2.2.13
 https://github.com/rancher/rancher/releases/tag/v2.3.11
 https://github.com/rancher/rancher/releases/tag/v2.4.18
@@ -3620,7 +3624,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.192.2
+https://github.com/renovatebot/renovate/releases/tag/44.198.0
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -3809,7 +3813,7 @@ https://github.com/statamic/cms/blob/v3.3.68/CHANGELOG.md
 https://github.com/statamic/cms/blob/v3.4.17/CHANGELOG.md
 https://github.com/statamic/cms/blob/v4.58.3/CHANGELOG.md
 https://github.com/statamic/cms/blob/v5.74.7/CHANGELOG.md
-https://github.com/statamic/cms/blob/v6.38.0/CHANGELOG.md
+https://github.com/statamic/cms/blob/v6.39.0/CHANGELOG.md
 https://github.com/strapi/strapi/releases/tag/v3.6.11
 https://github.com/strapi/strapi/releases/tag/v4.26.2
 https://github.com/strapi/strapi/releases/tag/v5.60.0
@@ -3898,8 +3902,8 @@ https://github.com/twigphp/Twig/blob/2.x/CHANGELOG
 https://github.com/twigphp/Twig/blob/3.x/CHANGELOG
 https://github.com/umbraco/Umbraco-CMS/releases/tag/release-13.16.4
 https://github.com/umbraco/Umbraco-CMS/releases/tag/release-16.5.1
-https://github.com/umbraco/Umbraco-CMS/releases/tag/release-17.7.2
-https://github.com/umbraco/Umbraco-CMS/releases/tag/release-18.2.2
+https://github.com/umbraco/Umbraco-CMS/releases/tag/release-17.8.0
+https://github.com/umbraco/Umbraco-CMS/releases/tag/release-18.3.0
 https://github.com/unrealircd/unrealircd/blob/unreal42/doc/RELEASE-NOTES
 https://github.com/unrealircd/unrealircd/blob/unreal52/doc/RELEASE-NOTES.md#unrealircd-524
 https://github.com/unrealircd/unrealircd/blob/unreal60_dev/doc/RELEASE-NOTES.md#unrealircd-627
@@ -4028,6 +4032,7 @@ https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog6214
 https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog6315
 https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog7015
 https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog7111
+https://go2docs.graylog.org/current/changelogs/changelog.html#Graylog721
 https://goaccess.io/release-notes#release-1.12
 https://godotengine.org/article/godot-engine-reaches-1-0/
 https://godotengine.org/article/maintenance-release-godot-2-0-4
@@ -4345,7 +4350,7 @@ https://learn.microsoft.com/visualstudio/releases/2017/vs2017-relnotes#15.9.58
 https://learn.microsoft.com/visualstudio/releases/2019/release-notes-v16.0#16.0.22
 https://learn.microsoft.com/visualstudio/releases/2019/release-notes-v16.1#16.1.6
 https://learn.microsoft.com/visualstudio/releases/2019/release-notes-v16.10#16.10.4
-https://learn.microsoft.com/visualstudio/releases/2019/release-notes-v16.11#16.11.61
+https://learn.microsoft.com/visualstudio/releases/2019/release-notes-v16.11#16.11.62
 https://learn.microsoft.com/visualstudio/releases/2019/release-notes-v16.2#16.2.5
 https://learn.microsoft.com/visualstudio/releases/2019/release-notes-v16.3#16.3.10
 https://learn.microsoft.com/visualstudio/releases/2019/release-notes-v16.4#16.4.27
@@ -4360,7 +4365,7 @@ https://learn.microsoft.com/visualstudio/releases/2022/release-notes-v17.10#17.1
 https://learn.microsoft.com/visualstudio/releases/2022/release-notes-v17.11#17.11.6
 https://learn.microsoft.com/visualstudio/releases/2022/release-notes-v17.12#17.12.22
 https://learn.microsoft.com/visualstudio/releases/2022/release-notes-v17.13#17.13.7
-https://learn.microsoft.com/visualstudio/releases/2022/release-notes-v17.14#17.14.43
+https://learn.microsoft.com/visualstudio/releases/2022/release-notes-v17.14#17.14.44
 https://learn.microsoft.com/visualstudio/releases/2022/release-notes-v17.2#17.2.23
 https://learn.microsoft.com/visualstudio/releases/2022/release-notes-v17.3#17.3.7
 https://learn.microsoft.com/visualstudio/releases/2022/release-notes-v17.4#17.4.21
@@ -4372,7 +4377,7 @@ https://learn.microsoft.com/visualstudio/releases/2022/release-notes-v17.9#17.9.
 https://learn.microsoft.com/visualstudio/releases/2026/release-notes#18.0.2
 https://learn.microsoft.com/visualstudio/releases/2026/release-notes#18.1.1
 https://learn.microsoft.com/visualstudio/releases/2026/release-notes#18.10.4
-https://learn.microsoft.com/visualstudio/releases/2026/release-notes#18.11.2
+https://learn.microsoft.com/visualstudio/releases/2026/release-notes#18.11.3
 https://learn.microsoft.com/visualstudio/releases/2026/release-notes#18.2.2
 https://learn.microsoft.com/visualstudio/releases/2026/release-notes#18.3.3
 https://learn.microsoft.com/visualstudio/releases/2026/release-notes#18.4.4
@@ -4530,6 +4535,7 @@ https://mikrotik.com/download/changelogs?versionFilter=7.21.5&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.22.3&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.23.8&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.24.5&channelFilter=
+https://mikrotik.com/download/changelogs?versionFilter=7.25&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.3.1&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.4.1&channelFilter=
 https://mikrotik.com/download/changelogs?versionFilter=7.5&channelFilter=
@@ -4824,6 +4830,7 @@ https://raw.githubusercontent.com/redis/redis/8.8/00-RELEASENOTES
 https://releases.discourse.org/changelog/v2025.11.2
 https://releases.discourse.org/changelog/v2025.12.2
 https://releases.discourse.org/changelog/v2026.1.9
+https://releases.discourse.org/changelog/v2026.10.0
 https://releases.discourse.org/changelog/v2026.2.2
 https://releases.discourse.org/changelog/v2026.3.1
 https://releases.discourse.org/changelog/v2026.4.2
@@ -4899,7 +4906,7 @@ https://solr.apache.org/docs/9_11_0/changes/Changes.html
 https://sourcegraph.com/changelog/releases/5.11.6271
 https://sourcegraph.com/changelog/releases/6.12.5040
 https://sourcegraph.com/changelog/releases/7.7.359
-https://sourcegraph.com/changelog/releases/8.1.1335
+https://sourcegraph.com/changelog/releases/8.1.2687
 https://spark.apache.org/downloads.html
 https://spark.apache.org/releases/spark-release-1-0-2.html
 https://spark.apache.org/releases/spark-release-1-1-1.html
@@ -5963,6 +5970,7 @@ https://www.sipwise.com/releases/2026/mr14.1
 https://www.sipwise.com/releases/2026/mr26.0
 https://www.sipwise.com/releases/2026/mr26.1
 https://www.sipwise.com/releases/2026/mr26.2
+https://www.sipwise.com/releases/2026/mr26.3
 https://www.sonarsource.com/products/sonarqube/downloads/lts/8-9-lts/
 https://www.sonarsource.com/products/sonarqube/downloads/lts/9-9-lts/
 https://www.sonarsource.com/products/sonarqube/whats-new/sonarqube-10-0/
