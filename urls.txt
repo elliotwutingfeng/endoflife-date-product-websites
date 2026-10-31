@@ -1270,6 +1270,7 @@ https://docs.omnissa.com/bundle/horizon8-rnV2506.1/page/Horizon8-ReleaseNotes.ht
 https://docs.omnissa.com/bundle/horizon8-rnV2512.x/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2603/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2606/page/Horizon8-ReleaseNotes.html
+https://docs.omnissa.com/bundle/horizon8-rnV2609/page/Horizon8-ReleaseNotes.html
 https://docs.opnsense.org/releases/CE_15.1.html
 https://docs.opnsense.org/releases/CE_15.7.html
 https://docs.opnsense.org/releases/CE_16.1.html
@@ -2185,11 +2186,11 @@ https://github.com/coder/coder/releases/tag/v2.30.9
 https://github.com/coder/coder/releases/tag/v2.31.14
 https://github.com/coder/coder/releases/tag/v2.32.10
 https://github.com/coder/coder/releases/tag/v2.33.11
-https://github.com/coder/coder/releases/tag/v2.34.16
+https://github.com/coder/coder/releases/tag/v2.34.17
 https://github.com/coder/coder/releases/tag/v2.35.12
-https://github.com/coder/coder/releases/tag/v2.36.11
-https://github.com/coder/coder/releases/tag/v2.37.8
-https://github.com/coder/coder/releases/tag/v2.38.4
+https://github.com/coder/coder/releases/tag/v2.36.12
+https://github.com/coder/coder/releases/tag/v2.37.9
+https://github.com/coder/coder/releases/tag/v2.38.5
 https://github.com/coder/coder/releases/tag/v2.7.3
 https://github.com/coder/coder/releases/tag/v2.8.5
 https://github.com/coder/coder/releases/tag/v2.9.4
@@ -2429,7 +2430,7 @@ https://github.com/erlang/otp/releases/tag/OTP-27.3.4.19
 https://github.com/erlang/otp/releases/tag/OTP-28.5.0.8
 https://github.com/erlang/otp/releases/tag/OTP-29.1.2
 https://github.com/eslint/eslint/releases/tag/v1.10.3
-https://github.com/eslint/eslint/releases/tag/v10.13.0
+https://github.com/eslint/eslint/releases/tag/v10.14.0
 https://github.com/eslint/eslint/releases/tag/v2.13.1
 https://github.com/eslint/eslint/releases/tag/v3.19.0
 https://github.com/eslint/eslint/releases/tag/v4.19.1
@@ -2554,7 +2555,7 @@ https://github.com/graalvm/mandrel/releases/tag/mandrel-23.1.12.1-Final
 https://github.com/graalvm/mandrel/releases/tag/mandrel-24.0.2.0-Final
 https://github.com/graalvm/mandrel/releases/tag/mandrel-24.1.2.0-Final
 https://github.com/graalvm/mandrel/releases/tag/mandrel-24.2.2.0-Final
-https://github.com/graalvm/mandrel/releases/tag/mandrel-25.0.4.1-Final
+https://github.com/graalvm/mandrel/releases/tag/mandrel-25.0.5.0-Final
 https://github.com/gradle/gradle/releases/tag/v1.12.0
 https://github.com/gradle/gradle/releases/tag/v2.14.1
 https://github.com/gradle/gradle/releases/tag/v3.5.1
@@ -2727,7 +2728,7 @@ https://github.com/hibernate/hibernate-orm/releases/tag/7.1.36
 https://github.com/hibernate/hibernate-orm/releases/tag/7.2.25
 https://github.com/hibernate/hibernate-orm/releases/tag/7.3.13
 https://github.com/hibernate/hibernate-orm/releases/tag/7.4.14
-https://github.com/influxdata/influxdb/releases/tag/v1.13.1
+https://github.com/influxdata/influxdb/releases/tag/v1.13.2
 https://github.com/influxdata/influxdb/releases/tag/v2.10.0
 https://github.com/influxdata/influxdb/releases/tag/v3.0.3
 https://github.com/influxdata/influxdb/releases/tag/v3.1.0
@@ -3206,13 +3207,13 @@ https://github.com/metabase/metabase/releases/tag/v0.54.24
 https://github.com/metabase/metabase/releases/tag/v0.55.24.1
 https://github.com/metabase/metabase/releases/tag/v0.56.25.1
 https://github.com/metabase/metabase/releases/tag/v0.57.20
-https://github.com/metabase/metabase/releases/tag/v0.58.38
+https://github.com/metabase/metabase/releases/tag/v0.58.38.1
 https://github.com/metabase/metabase/releases/tag/v0.59.31.1
 https://github.com/metabase/metabase/releases/tag/v0.60.27
 https://github.com/metabase/metabase/releases/tag/v0.61.21.1
 https://github.com/metabase/metabase/releases/tag/v0.62.19.5
-https://github.com/metabase/metabase/releases/tag/v0.63.22
-https://github.com/metabase/metabase/releases/tag/v0.64.4.2
+https://github.com/metabase/metabase/releases/tag/v0.63.22.1
+https://github.com/metabase/metabase/releases/tag/v0.64.4.4
 https://github.com/metabase/metabase/releases/tag/v0.9.3
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v1.3.7
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v2.5.13
@@ -3391,8 +3392,8 @@ https://github.com/phpro/grumphp/releases/tag/v0.22.0
 https://github.com/phpro/grumphp/releases/tag/v1.16.0
 https://github.com/phpro/grumphp/releases/tag/v2.26.0
 https://github.com/pnpm/pnpm/releases/tag/v10.34.9
-https://github.com/pnpm/pnpm/releases/tag/v11.28.9
-https://github.com/pnpm/pnpm/releases/tag/v12.16.1
+https://github.com/pnpm/pnpm/releases/tag/v11.28.10
+https://github.com/pnpm/pnpm/releases/tag/v12.17.0
 https://github.com/pnpm/pnpm/releases/tag/v4.14.4
 https://github.com/pnpm/pnpm/releases/tag/v5.18.11
 https://github.com/pnpm/pnpm/releases/tag/v6.35.1
@@ -3624,7 +3625,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.198.0
+https://github.com/renovatebot/renovate/releases/tag/44.198.3
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -3808,7 +3809,7 @@ https://github.com/squid-cache/squid/releases/tag/SQUID_3_5_28
 https://github.com/squid-cache/squid/releases/tag/SQUID_4_17
 https://github.com/squid-cache/squid/releases/tag/SQUID_5_9
 https://github.com/squid-cache/squid/releases/tag/SQUID_6_14
-https://github.com/squid-cache/squid/releases/tag/SQUID_7_7
+https://github.com/squid-cache/squid/releases/tag/SQUID_7_8
 https://github.com/statamic/cms/blob/v3.3.68/CHANGELOG.md
 https://github.com/statamic/cms/blob/v3.4.17/CHANGELOG.md
 https://github.com/statamic/cms/blob/v4.58.3/CHANGELOG.md
@@ -3876,7 +3877,7 @@ https://github.com/traefik/traefik/releases/tag/v1.7.34
 https://github.com/traefik/traefik/releases/tag/v2.0.7
 https://github.com/traefik/traefik/releases/tag/v2.1.9
 https://github.com/traefik/traefik/releases/tag/v2.10.7
-https://github.com/traefik/traefik/releases/tag/v2.11.60
+https://github.com/traefik/traefik/releases/tag/v2.11.61
 https://github.com/traefik/traefik/releases/tag/v2.2.11
 https://github.com/traefik/traefik/releases/tag/v2.3.7
 https://github.com/traefik/traefik/releases/tag/v2.4.14
@@ -3892,7 +3893,7 @@ https://github.com/traefik/traefik/releases/tag/v3.3.7
 https://github.com/traefik/traefik/releases/tag/v3.4.5
 https://github.com/traefik/traefik/releases/tag/v3.5.6
 https://github.com/traefik/traefik/releases/tag/v3.6.25
-https://github.com/traefik/traefik/releases/tag/v3.7.16
+https://github.com/traefik/traefik/releases/tag/v3.7.17
 https://github.com/twbs/bootstrap/releases/tag/v2.3.2
 https://github.com/twbs/bootstrap/releases/tag/v3.4.1
 https://github.com/twbs/bootstrap/releases/tag/v4.6.2
@@ -4411,7 +4412,7 @@ https://lists.debian.org/debian-announce/2017/msg00003.html
 https://lists.debian.org/debian-release/2024/06/msg00700.html
 https://logging.apache.org/log4j/1.x/changes-report.html#a1.2.17
 https://logging.apache.org/log4j/2.0/release-notes.html#release-notes-2-26-1
-https://lucene.apache.org/core/10_5_2/changes/Changes.html
+https://lucene.apache.org/core/10_6_0/changes/Changes.html
 https://lucene.apache.org/core/7_7_3/changes/Changes.html
 https://lucene.apache.org/core/8_11_4/changes/Changes.html
 https://lucene.apache.org/core/9_12_3/changes/Changes.html
@@ -4877,9 +4878,9 @@ https://releases.electronjs.org/release/v4.2.12
 https://releases.electronjs.org/release/v40.10.6
 https://releases.electronjs.org/release/v41.10.7
 https://releases.electronjs.org/release/v42.11.18
-https://releases.electronjs.org/release/v43.8.4
+https://releases.electronjs.org/release/v43.8.5
 https://releases.electronjs.org/release/v44.10.0
-https://releases.electronjs.org/release/v45.1.0
+https://releases.electronjs.org/release/v45.2.0
 https://releases.electronjs.org/release/v5.0.13
 https://releases.electronjs.org/release/v6.1.12
 https://releases.electronjs.org/release/v7.3.3
@@ -5033,7 +5034,7 @@ https://tails.net/news/version_3.16/
 https://tails.net/news/version_4.29/
 https://tails.net/news/version_5.22/
 https://tails.net/news/version_6.19/
-https://tails.net/news/version_7.15/
+https://tails.net/news/version_7.16/
 https://techcommunity.microsoft.com/blog/windows-itpro-blog/end-of-service-reminders-for-windows-10-versions-1703-and-1803/903715
 https://techcommunity.microsoft.com/discussions/windows-server-for-developers/windows-server-version-1709-lifecycle-announcement/379766
 https://techdocs.broadcom.com/content/dam/broadcom/techdocs/us/en/pdf/vmware/vsphere/vsphere/vSphere-6-5-Release-Notes/vsphere-vcenter-server-65u3w-release-notes.pdf
@@ -6052,5 +6053,5 @@ https://zookeeper.apache.org/doc/r3.4.14/releasenotes.html
 https://zookeeper.apache.org/doc/r3.5.10/releasenotes.html
 https://zookeeper.apache.org/doc/r3.6.4/releasenotes.html
 https://zookeeper.apache.org/doc/r3.7.2/releasenotes.html
-https://zookeeper.apache.org/doc/r3.8.7/releasenotes.html
-https://zookeeper.apache.org/doc/r3.9.6/releasenotes.html
+https://zookeeper.apache.org/doc/r3.8.8/releasenotes.html
+https://zookeeper.apache.org/doc/r3.9.7/releasenotes.html
