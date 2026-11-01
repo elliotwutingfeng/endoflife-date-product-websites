@@ -84,6 +84,7 @@ ffmpeg.org
 forum.proxmox.com
 forums.unrealircd.org
 ftp.isc.org
+geoserver.org
 get.typo3.org
 getcomposer.org
 gitbox.apache.org
