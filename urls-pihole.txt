@@ -13,6 +13,7 @@ aws.amazon.com
 bakery.cakephp.org
 bind9.readthedocs.io
 bitcoincore.org
+blog.argoproj.io
 blog.emberjs.com
 blog.jquery.com
 blog.jqueryui.com
