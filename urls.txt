@@ -80,6 +80,7 @@ https://airflow.apache.org/docs/apache-airflow/stable/release_notes.html#airflow
 https://airflow.apache.org/docs/apache-airflow/stable/release_notes.html#airflow-3-1-8-2026-03-11
 https://airflow.apache.org/docs/apache-airflow/stable/release_notes.html#airflow-3-2-2-2026-05-29
 https://airflow.apache.org/docs/apache-airflow/stable/release_notes.html#airflow-3-3-2-2026-09-17
+https://airflow.apache.org/docs/apache-airflow/stable/release_notes.html#airflow-3-4-0-2026-11-06
 https://alpinelinux.org/posts/Alpine-3.10.9-3.11.11-3.12.7-released.html
 https://alpinelinux.org/posts/Alpine-3.11.13-3.12.9-3.13.7-released.html
 https://alpinelinux.org/posts/Alpine-3.12.12-3.13.10-3.14.6-3.15.4-released.html
@@ -1253,6 +1254,7 @@ https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-595-112-07/index.ht
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-610-57-04/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-615-71-09/index.html
 https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-615-71-10/index.html
+https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-620-70-06/index.html
 https://docs.omnissa.com/bundle/horizon8-rnV2006/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2012/page/Horizon8-ReleaseNotes.html
 https://docs.omnissa.com/bundle/horizon8-rnV2103/page/Horizon8-ReleaseNotes.html
@@ -1850,6 +1852,7 @@ https://github.com/SonarSource/sonarqube/releases/tag/24.12.0.100206
 https://github.com/SonarSource/sonarqube/releases/tag/25.12.0.117093
 https://github.com/SonarSource/sonarqube/releases/tag/26.1.0.118079
 https://github.com/SonarSource/sonarqube/releases/tag/26.10.0.133078
+https://github.com/SonarSource/sonarqube/releases/tag/26.11.0.134175
 https://github.com/SonarSource/sonarqube/releases/tag/26.2.0.119303
 https://github.com/SonarSource/sonarqube/releases/tag/26.3.0.120487
 https://github.com/SonarSource/sonarqube/releases/tag/26.4.0.121862
@@ -2030,8 +2033,8 @@ https://github.com/api-platform/core/releases/tag/v4.0.22
 https://github.com/api-platform/core/releases/tag/v4.1.30
 https://github.com/api-platform/core/releases/tag/v4.2.26
 https://github.com/api-platform/core/releases/tag/v4.3.21
-https://github.com/api-platform/core/releases/tag/v4.4.6
-https://github.com/api-platform/core/releases/tag/v5.0.5
+https://github.com/api-platform/core/releases/tag/v4.4.7
+https://github.com/api-platform/core/releases/tag/v5.0.6
 https://github.com/argoproj/argo-cd/releases/tag/v1.0.2
 https://github.com/argoproj/argo-cd/releases/tag/v1.1.2
 https://github.com/argoproj/argo-cd/releases/tag/v1.2.5
@@ -2238,12 +2241,12 @@ https://github.com/contao/contao/blob/4.9.42/CHANGELOG.md
 https://github.com/contao/contao/blob/5.0.10/CHANGELOG.md
 https://github.com/contao/contao/blob/5.1.11/CHANGELOG.md
 https://github.com/contao/contao/blob/5.2.10/CHANGELOG.md
-https://github.com/contao/contao/blob/5.3.52/CHANGELOG.md
+https://github.com/contao/contao/blob/5.3.53/CHANGELOG.md
 https://github.com/contao/contao/blob/5.4.14/CHANGELOG.md
 https://github.com/contao/contao/blob/5.5.16/CHANGELOG.md
 https://github.com/contao/contao/blob/5.6.11/CHANGELOG.md
-https://github.com/contao/contao/blob/5.7.15/CHANGELOG.md
-https://github.com/contao/contao/blob/6.0.4/CHANGELOG.md
+https://github.com/contao/contao/blob/5.7.16/CHANGELOG.md
+https://github.com/contao/contao/blob/6.0.5/CHANGELOG.md
 https://github.com/corretto/corretto-11/releases/tag/11.0.33.0.10
 https://github.com/corretto/corretto-17/releases/tag/17.0.21.0.11
 https://github.com/corretto/corretto-18/releases/tag/18.0.2.9.1
@@ -2274,7 +2277,7 @@ https://github.com/dapr/dapr/releases/tag/v1.9.6
 https://github.com/dbt-labs/dbt/releases/tag/v1.0.9
 https://github.com/dbt-labs/dbt/releases/tag/v1.1.6
 https://github.com/dbt-labs/dbt/releases/tag/v1.10.23
-https://github.com/dbt-labs/dbt/releases/tag/v1.11.16
+https://github.com/dbt-labs/dbt/releases/tag/v1.11.17
 https://github.com/dbt-labs/dbt/releases/tag/v1.12.6
 https://github.com/dbt-labs/dbt/releases/tag/v1.2.7
 https://github.com/dbt-labs/dbt/releases/tag/v1.3.8
@@ -2584,7 +2587,7 @@ https://github.com/gradle/gradle/releases/tag/v5.6.4
 https://github.com/gradle/gradle/releases/tag/v6.9.4
 https://github.com/gradle/gradle/releases/tag/v7.6.6
 https://github.com/gradle/gradle/releases/tag/v8.14.6
-https://github.com/gradle/gradle/releases/tag/v9.8.2
+https://github.com/gradle/gradle/releases/tag/v9.9.0
 https://github.com/grafana/grafana/releases/tag/v10.0.13
 https://github.com/grafana/grafana/releases/tag/v10.1.10
 https://github.com/grafana/grafana/releases/tag/v10.2.9
@@ -2638,7 +2641,7 @@ https://github.com/grafana/loki/releases/tag/v3.2.2
 https://github.com/grafana/loki/releases/tag/v3.3.4
 https://github.com/grafana/loki/releases/tag/v3.4.6
 https://github.com/grafana/loki/releases/tag/v3.5.12
-https://github.com/grafana/loki/releases/tag/v3.6.19
+https://github.com/grafana/loki/releases/tag/v3.6.20
 https://github.com/grafana/loki/releases/tag/v3.7.9
 https://github.com/gravitational/teleport/releases/tag/v16.5.18
 https://github.com/gravitational/teleport/releases/tag/v17.7.29
@@ -3236,7 +3239,7 @@ https://github.com/metabase/metabase/releases/tag/v0.60.27
 https://github.com/metabase/metabase/releases/tag/v0.61.21.1
 https://github.com/metabase/metabase/releases/tag/v0.62.19.5
 https://github.com/metabase/metabase/releases/tag/v0.63.22.3
-https://github.com/metabase/metabase/releases/tag/v0.64.5.2
+https://github.com/metabase/metabase/releases/tag/v0.64.5.4
 https://github.com/metabase/metabase/releases/tag/v0.65.3.4
 https://github.com/metabase/metabase/releases/tag/v0.9.3
 https://github.com/micronaut-projects/micronaut-core/releases/tag/v1.3.7
@@ -3248,7 +3251,7 @@ https://github.com/mondoohq/cnspec/releases/tag/v10.12.2
 https://github.com/mondoohq/cnspec/releases/tag/v11.69.1
 https://github.com/mondoohq/cnspec/releases/tag/v12.23.1
 https://github.com/mondoohq/cnspec/releases/tag/v13.39.0
-https://github.com/mondoohq/cnspec/releases/tag/v14.10.0
+https://github.com/mondoohq/cnspec/releases/tag/v14.10.1
 https://github.com/mondoohq/cnspec/releases/tag/v6.19.0
 https://github.com/mondoohq/cnspec/releases/tag/v7.19.2
 https://github.com/mondoohq/cnspec/releases/tag/v8.28.4
@@ -3260,7 +3263,7 @@ https://github.com/n42-gateway/n42-gateway/releases/tag/v0.15.6
 https://github.com/n42-gateway/n42-gateway/releases/tag/v0.16.3
 https://github.com/nestjs/nest/releases/tag/v10.4.22
 https://github.com/nestjs/nest/releases/tag/v11.2.8
-https://github.com/nestjs/nest/releases/tag/v12.3.3
+https://github.com/nestjs/nest/releases/tag/v12.4.0
 https://github.com/nestjs/nest/releases/tag/v7.6.18
 https://github.com/nestjs/nest/releases/tag/v8.4.7
 https://github.com/nestjs/nest/releases/tag/v9.4.3
@@ -3655,7 +3658,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.221.4
+https://github.com/renovatebot/renovate/releases/tag/44.221.6
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
@@ -3874,7 +3877,7 @@ https://github.com/tailwindlabs/tailwindcss/releases/tag/v3.4.19
 https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.0.17
 https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.1.18
 https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.2.4
-https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.3.4
+https://github.com/tailwindlabs/tailwindcss/releases/tag/v4.3.5
 https://github.com/tarantool/tarantool/releases/tag/1.10.15
 https://github.com/tarantool/tarantool/releases/tag/2.10.8
 https://github.com/tarantool/tarantool/releases/tag/2.11.10
@@ -4250,8 +4253,8 @@ https://istio.io/latest/news/releases/1.26.x/announcing-1.26.8/
 https://istio.io/latest/news/releases/1.27.x/announcing-1.27.9/
 https://istio.io/latest/news/releases/1.28.x/announcing-1.28.10/
 https://istio.io/latest/news/releases/1.29.x/announcing-1.29.10/
-https://istio.io/latest/news/releases/1.30.x/announcing-1.30.7/
-https://istio.io/latest/news/releases/1.31.x/announcing-1.31.3/
+https://istio.io/latest/news/releases/1.30.x/announcing-1.30.8/
+https://istio.io/latest/news/releases/1.31.x/announcing-1.31.4/
 https://istio.io/latest/news/releases/1.7.x/announcing-1.7.8/
 https://istio.io/latest/news/releases/1.8.x/announcing-1.8.6/
 https://istio.io/latest/news/releases/1.9.x/announcing-1.9.9/
@@ -4774,7 +4777,7 @@ https://notepad-plus-plus.org/downloads/v8.5.8/
 https://notepad-plus-plus.org/downloads/v8.6.9/
 https://notepad-plus-plus.org/downloads/v8.7.9/
 https://notepad-plus-plus.org/downloads/v8.8.9/
-https://notepad-plus-plus.org/downloads/v8.9.8.1/
+https://notepad-plus-plus.org/downloads/v8.9.9/
 https://openjdk.org/projects/jdk/10/
 https://openjdk.org/projects/jdk/11/
 https://openjdk.org/projects/jdk/12/
@@ -6143,6 +6146,7 @@ https://www.zabbix.com/rn/rn6.4.21
 https://www.zabbix.com/rn/rn7.0.32
 https://www.zabbix.com/rn/rn7.2.15
 https://www.zabbix.com/rn/rn7.4.16
+https://www.zabbix.com/rn/rn8.0.0
 https://zookeeper.apache.org/doc/r3.4.14/releasenotes.html
 https://zookeeper.apache.org/doc/r3.5.10/releasenotes.html
 https://zookeeper.apache.org/doc/r3.6.4/releasenotes.html
