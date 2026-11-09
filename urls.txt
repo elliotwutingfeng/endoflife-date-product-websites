@@ -832,8 +832,8 @@ https://cwiki.apache.org/confluence/display/WW/Version+Notes+2.1.8.1
 https://cwiki.apache.org/confluence/display/WW/Version+Notes+2.2.3.1
 https://cwiki.apache.org/confluence/display/WW/Version+Notes+2.3.37
 https://cwiki.apache.org/confluence/display/WW/Version+Notes+2.5.33
-https://cwiki.apache.org/confluence/display/WW/Version+Notes+6.12.0
-https://cwiki.apache.org/confluence/display/WW/Version+Notes+7.4.0
+https://cwiki.apache.org/confluence/display/WW/Version+Notes+6.13.0
+https://cwiki.apache.org/confluence/display/WW/Version+Notes+7.5.0
 https://cwiki.apache.org/confluence/display/solr/ReleaseNote362
 https://dev.mysql.com/doc/relnotes/mysql/26.10/en/news-26-10-0.html
 https://dev.mysql.com/doc/relnotes/mysql/26.7/en/news-26-7-0.html
@@ -3511,6 +3511,7 @@ https://github.com/prometheus/prometheus/releases/tag/v3.12.0
 https://github.com/prometheus/prometheus/releases/tag/v3.13.5
 https://github.com/prometheus/prometheus/releases/tag/v3.14.0
 https://github.com/prometheus/prometheus/releases/tag/v3.15.1
+https://github.com/prometheus/prometheus/releases/tag/v3.16.0
 https://github.com/prometheus/prometheus/releases/tag/v3.2.1
 https://github.com/prometheus/prometheus/releases/tag/v3.3.1
 https://github.com/prometheus/prometheus/releases/tag/v3.4.2
@@ -3658,7 +3659,7 @@ https://github.com/renovatebot/renovate/releases/tag/40.62.1
 https://github.com/renovatebot/renovate/releases/tag/41.173.1
 https://github.com/renovatebot/renovate/releases/tag/42.99.0
 https://github.com/renovatebot/renovate/releases/tag/43.288.0
-https://github.com/renovatebot/renovate/releases/tag/44.222.2
+https://github.com/renovatebot/renovate/releases/tag/44.222.4
 https://github.com/roundcube/roundcubemail/releases/tag/1.0.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.1.12
 https://github.com/roundcube/roundcubemail/releases/tag/1.2.13
