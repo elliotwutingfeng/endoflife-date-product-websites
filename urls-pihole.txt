@@ -69,7 +69,6 @@ docs.redhat.com
 docs.saltproject.io
 docs.silverstripe.org
 docs.splunk.com
-docs.vmware.com
 docs.wagtail.org
 docs.xcp-ng.org
 docs.yoctoproject.org
